@@ -9,6 +9,7 @@ const NAV = [
   { to: '/rosenkranz', label: 'Rosenkranz' },
   { to: '/novene', label: 'Novene' },
   { to: '/meditation', label: 'Meditation' },
+  { to: '/kalender', label: 'Kirchenjahr' },
 ]
 
 /** Rahmen der App: Kopf mit Titel, Navigation und Inhaltsbereich. */

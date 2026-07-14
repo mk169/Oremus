@@ -43,15 +43,12 @@ export function RosaryPage() {
                   <div className="rosary-mystery__body">
                     <span className="rosary-mystery__name">
                       <BilingualText value={m.name} block={false} />
-                      <span className="rosary-mystery__ref">
-                        <BilingualText value={m.scripture} block={false} />
-                      </span>
                     </span>
                     <span className="rosary-mystery__clause">
                       <BilingualText value={m.clause} />
                     </span>
                     <span className="rosary-mystery__verse">
-                      <BilingualText value={m.verse} />
+                      <BilingualText value={m.passage} />
                     </span>
                   </div>
                 </li>

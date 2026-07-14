@@ -1,5 +1,6 @@
 import type { LiturgicalSection } from '../data/types'
 import { useSettings } from '../context/SettingsContext'
+import { gabcFor } from '../data/gabc'
 import { BilingualText } from './BilingualText'
 import { ChantBlock } from './ChantBlock'
 import './SectionRenderer.css'
@@ -17,6 +18,10 @@ export function SectionRenderer({ section }: Props) {
   const { isSung } = useSettings()
   const chantable = section.chant?.chantable ?? false
   const sung = chantable && isSung(section.id)
+  // GregoBase-Melodie bevorzugen, sonst das eingebettete Incipit.
+  const chant = section.chant
+    ? { ...section.chant, gabc: gabcFor(section.id, section.chant.gabc) }
+    : undefined
 
   return (
     <section className="lit-section" id={section.id}>
@@ -45,7 +50,7 @@ export function SectionRenderer({ section }: Props) {
         </p>
       )}
 
-      {sung && section.chant && <ChantBlock chant={section.chant} />}
+      {sung && chant && <ChantBlock chant={chant} />}
     </section>
   )
 }

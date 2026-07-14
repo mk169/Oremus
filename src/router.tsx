@@ -8,6 +8,7 @@ import { HourView } from './features/breviary/HourView'
 import { RosaryPage } from './features/rosary/RosaryPage'
 import { NovenaPage } from './features/novena/NovenaPage'
 import { MeditationPage } from './features/meditation/MeditationPage'
+import { CalendarPage } from './features/calendar/CalendarPage'
 
 export const router = createBrowserRouter([
   {
@@ -22,6 +23,7 @@ export const router = createBrowserRouter([
       { path: 'rosenkranz', element: <RosaryPage /> },
       { path: 'novene', element: <NovenaPage /> },
       { path: 'meditation', element: <MeditationPage /> },
+      { path: 'kalender', element: <CalendarPage /> },
       { path: '*', element: <Dashboard /> },
     ],
   },

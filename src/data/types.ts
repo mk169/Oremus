@@ -103,10 +103,9 @@ export interface RosaryMystery {
   clause: BilingualText
   /** Name des Geheimnisses, z.B. „Annuntiatio" / „Verkündigung des Herrn". */
   name: BilingualText
-  /** Schriftstelle (Angabe), z.B. { la: 'Lc 1,26-38', de: 'Lk 1,26-38' }. */
-  scripture: BilingualText
-  /** Kurzer Bibeltext-Ausschnitt (Vulgata / gemeinfreie dt. Übersetzung). */
-  verse: BilingualText
+  /** Vollständiger Text der Bibelstelle (Vulgata / gemeinfreie Allioli-Übersetzung),
+   *  ohne Buch-/Kapitelangabe. */
+  passage: BilingualText
 }
 
 export interface RosarySet {

@@ -1,0 +1,21 @@
+{
+  "_readme": "Abschnitts-ID (section.id aus src/data/**) -> GregoBase chant-ID (Zahl). Trage die IDs von gregobase.selapa.net ein (Suche nach dem Incipit; die ID steht in der URL, z.B. /chant/1234). Danach `npm run gabc:fetch`. Einträge mit null werden übersprungen.",
+  "map": {
+    "kyrie": null,
+    "gloria": null,
+    "credo": null,
+    "sanctus": null,
+    "agnus-dei": null,
+    "pater-noster": null,
+    "ite-missa-est": null,
+    "introitus": null,
+    "graduale": null,
+    "offertorium": null,
+    "communio": null,
+    "k62-antiphon": null,
+    "k62-psalm": null,
+    "k62-nunc": null,
+    "l62-psalmus": null,
+    "l62-benedictus": null
+  }
+}
