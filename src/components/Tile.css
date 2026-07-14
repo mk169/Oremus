@@ -1,0 +1,73 @@
+.tile {
+  display: block;
+  color: inherit;
+  transition: transform 0.15s ease;
+}
+
+.tile:hover {
+  transform: translateY(-2px);
+}
+
+.tile__frame {
+  position: relative;
+  height: 100%;
+  display: flex;
+  gap: 0.9rem;
+  align-items: center;
+  padding: 1.1rem 1.2rem;
+  background: var(--surface-raised);
+  border: 1px solid var(--surface-line);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-raised);
+  overflow: hidden;
+}
+
+/* feine Goldkante innen */
+.tile__frame::after {
+  content: '';
+  position: absolute;
+  inset: 5px;
+  border: 1px solid rgba(196, 162, 76, 0.35);
+  border-radius: calc(var(--radius-lg) - 4px);
+  pointer-events: none;
+}
+
+.tile:hover .tile__frame {
+  border-color: var(--gold);
+  box-shadow: var(--shadow-soft);
+}
+
+.tile__icon {
+  flex: 0 0 auto;
+  display: grid;
+  place-items: center;
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+  color: var(--gold);
+  background: var(--oxblood);
+}
+
+.tile__body {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.tile__latin {
+  color: var(--gold);
+  font-size: 0.78rem;
+}
+
+.tile__title {
+  font-family: var(--font-display);
+  font-size: 1.4rem;
+  color: var(--accent);
+  line-height: 1.15;
+}
+
+.tile__desc {
+  color: var(--text-muted);
+  font-size: 0.95rem;
+  margin-top: 0.15rem;
+}

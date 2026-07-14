@@ -1,0 +1,33 @@
+.chant-block {
+  margin: 0.6rem 0 0.9rem;
+  padding: 0.7rem 0.9rem;
+  border: 1px solid var(--surface-line);
+  border-radius: var(--radius);
+  background: linear-gradient(180deg, rgba(196, 162, 76, 0.08), transparent);
+}
+
+.chant-block__head {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: var(--gold);
+  font-size: 0.85rem;
+}
+
+.chant-block__gabc {
+  margin: 0.5rem 0 0;
+  padding: 0.5rem;
+  overflow-x: auto;
+  font-family: 'SFMono-Regular', ui-monospace, Menlo, Consolas, monospace;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  background: var(--surface);
+  border-radius: 6px;
+}
+
+.chant-block__hint {
+  margin: 0.4rem 0 0;
+  font-style: italic;
+  font-size: 0.95rem;
+  color: var(--text-muted);
+}

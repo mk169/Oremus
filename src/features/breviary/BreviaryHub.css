@@ -1,0 +1,57 @@
+.brev-form {
+  margin-bottom: 1.6rem;
+}
+
+.brev-form__title {
+  font-size: 1.4rem;
+  border-bottom: 1px solid var(--surface-line);
+  padding-bottom: 0.3rem;
+}
+
+.brev-form__la {
+  color: var(--gold);
+  font-size: 0.85rem;
+  font-weight: 400;
+}
+
+.brev-hours {
+  list-style: none;
+  margin: 0.8rem 0 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 0.7rem;
+}
+
+.brev-hours__link {
+  display: flex;
+  flex-direction: column;
+  padding: 0.8rem 1rem;
+  background: var(--surface-raised);
+  border: 1px solid var(--surface-line);
+  border-radius: var(--radius);
+  transition: border-color 0.15s ease;
+}
+
+.brev-hours__link:hover {
+  border-color: var(--gold);
+}
+
+.brev-hours__name {
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  color: var(--accent);
+}
+
+.brev-hours__la {
+  color: var(--text-muted);
+  font-style: italic;
+  font-size: 0.9rem;
+}
+
+.brev-note {
+  margin-top: 1.5rem;
+  color: var(--text-muted);
+  font-style: italic;
+  font-size: 0.9rem;
+}

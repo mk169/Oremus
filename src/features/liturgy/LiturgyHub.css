@@ -1,0 +1,59 @@
+.form-choice {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.form-choice__card {
+  display: flex;
+  flex-direction: column;
+  padding: 1.2rem 1.3rem;
+  background: var(--surface-raised);
+  border: 1px solid var(--surface-line);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-raised);
+  transition: border-color 0.15s ease, transform 0.15s ease;
+}
+
+.form-choice__card:hover {
+  border-color: var(--gold);
+  transform: translateY(-2px);
+}
+
+.form-choice__la {
+  color: var(--gold);
+  font-size: 0.8rem;
+}
+
+.form-choice__title {
+  font-family: var(--font-display);
+  font-size: 1.55rem;
+  color: var(--accent);
+}
+
+.form-choice__desc {
+  color: var(--text-muted);
+  font-size: 0.95rem;
+  margin-top: 0.2rem;
+}
+
+.liturgy-hub__prayers-title {
+  border-top: 1px solid var(--surface-line);
+  padding-top: 1.2rem;
+}
+
+.liturgy-hub__prayers-note {
+  color: var(--text-muted);
+  font-style: italic;
+  margin-top: -0.4rem;
+}
+
+.lit-note {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--surface-line);
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  font-style: italic;
+}

@@ -1,0 +1,20 @@
+.page-header {
+  margin: 1.5rem 0 1.2rem;
+  text-align: center;
+}
+
+.page-header__latin {
+  color: var(--gold);
+  font-size: 0.9rem;
+  margin: 0 0 0.2rem;
+}
+
+.page-header__title {
+  margin: 0;
+}
+
+.page-header__subtitle {
+  color: var(--text-muted);
+  font-style: italic;
+  margin: 0.3rem 0 0;
+}

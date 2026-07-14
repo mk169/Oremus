@@ -1,0 +1,45 @@
+.novena-intro {
+  font-style: italic;
+  color: var(--text-muted);
+}
+
+.novena-days {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 1rem 0 1.4rem;
+}
+
+.novena-days button {
+  width: 2.4rem;
+  height: 2.4rem;
+  border-radius: 50%;
+  border: 1px solid var(--surface-line);
+  background: var(--surface-raised);
+  color: var(--text-muted);
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+}
+
+.novena-days button.is-active {
+  background: var(--oxblood);
+  color: var(--gold);
+  border-color: var(--oxblood);
+}
+
+.novena-day {
+  padding: 1rem 1.1rem;
+  background: var(--surface-raised);
+  border: 1px solid var(--surface-line);
+  border-radius: var(--radius);
+}
+
+.novena-day__meditation {
+  font-style: italic;
+}
+
+.novena-daily {
+  margin-top: 1.4rem;
+  border-top: 1px solid var(--surface-line);
+  padding-top: 1rem;
+}

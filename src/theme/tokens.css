@@ -1,0 +1,56 @@
+/* Oremus – Design-Tokens: klassisch, edel, klerikal */
+:root {
+  /* Grundfarben */
+  --parchment: #f4ecd8;
+  --parchment-deep: #ece0c4;
+  --oxblood: #6b1f2a;
+  --oxblood-deep: #521620;
+  --gold: #c4a24c;
+  --gold-soft: #d8bd76;
+  --ink: #1e1a17;
+  --ink-soft: #4a423a;
+  --rubric: #9d2a2a; /* rote Rubriken wie im Missale */
+
+  /* liturgische Saison-Farben */
+  --season-green: #3f6b3a;
+  --season-violet: #5c3a72;
+  --season-red: #9d2a2a;
+  --season-white: #b89b5a;
+  --season-rose: #b46a7a;
+  --season-black: #2a2622;
+
+  /* Flächen */
+  --surface: var(--parchment);
+  --surface-raised: #fbf6e9;
+  --surface-line: rgba(107, 31, 42, 0.18);
+  --text: var(--ink);
+  --text-muted: var(--ink-soft);
+  --accent: var(--oxblood);
+  --accent-contrast: var(--gold);
+
+  /* Typografie */
+  --font-display: 'Cormorant Garamond', 'EB Garamond', Georgia, serif;
+  --font-body: 'EB Garamond', Georgia, 'Times New Roman', serif;
+
+  /* Maße */
+  --radius: 10px;
+  --radius-lg: 16px;
+  --shadow-soft: 0 6px 24px rgba(30, 26, 23, 0.12);
+  --shadow-raised: 0 2px 10px rgba(30, 26, 23, 0.1);
+  --maxw: 860px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --parchment: #17130f;
+    --parchment-deep: #120f0c;
+    --surface: #17130f;
+    --surface-raised: #201a14;
+    --surface-line: rgba(196, 162, 76, 0.22);
+    --text: #ece2cc;
+    --text-muted: #b6a887;
+    --oxblood: #8a2b38;
+    --rubric: #cf6b5c;
+    --accent: #8a2b38;
+  }
+}

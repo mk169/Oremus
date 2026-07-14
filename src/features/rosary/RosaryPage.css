@@ -1,0 +1,50 @@
+.rosary-prayer {
+  margin-bottom: 1.1rem;
+}
+
+.rosary-prayer h3 {
+  font-size: 1.1rem;
+  color: var(--accent);
+  margin-bottom: 0.2rem;
+}
+
+.rosary-sets h2 {
+  border-top: 1px solid var(--surface-line);
+  padding-top: 1.2rem;
+  margin-top: 1.5rem;
+}
+
+.rosary-set {
+  margin-bottom: 1.4rem;
+}
+
+.rosary-set__title {
+  font-size: 1.35rem;
+}
+
+.rosary-set__days {
+  color: var(--gold);
+  font-size: 0.85rem;
+  font-variant: small-caps;
+}
+
+.rosary-set__list {
+  margin: 0.5rem 0 0;
+  padding-left: 1.4rem;
+}
+
+.rosary-set__list li {
+  margin-bottom: 0.55rem;
+}
+
+.rosary-set__mystery {
+  display: block;
+  color: var(--text);
+}
+
+.rosary-set__fruit {
+  display: block;
+  color: var(--text-muted);
+  font-size: 0.88rem;
+  font-style: italic;
+}

@@ -1,0 +1,85 @@
+.settings-panel {
+  margin: 0 0 1.4rem;
+  border: 1px solid var(--surface-line);
+  border-radius: var(--radius);
+  background: var(--surface-raised);
+  overflow: hidden;
+}
+
+.settings-panel__toggle {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.7rem 1rem;
+  background: transparent;
+  border: none;
+  color: var(--accent);
+  font-size: 1rem;
+}
+
+.settings-panel__chevron {
+  color: var(--gold);
+  font-size: 0.75rem;
+}
+
+.settings-panel__body {
+  padding: 0.4rem 1rem 1rem;
+  border-top: 1px solid var(--surface-line);
+}
+
+.settings-panel__group {
+  border: none;
+  padding: 0.6rem 0 0;
+  margin: 0;
+}
+
+.settings-panel__group legend {
+  font-variant: small-caps;
+  letter-spacing: 0.05em;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  padding: 0;
+}
+
+.settings-panel__segment {
+  display: inline-flex;
+  margin-top: 0.4rem;
+  border: 1px solid var(--surface-line);
+  border-radius: 999px;
+  overflow: hidden;
+}
+
+.settings-panel__segment button {
+  padding: 0.35rem 1rem;
+  background: transparent;
+  border: none;
+  color: var(--text-muted);
+  font-size: 0.95rem;
+}
+
+.settings-panel__segment button.is-active {
+  background: var(--oxblood);
+  color: var(--gold);
+}
+
+.settings-panel__chants {
+  list-style: none;
+  margin: 0.5rem 0 0;
+  padding: 0;
+  display: grid;
+  gap: 0.35rem;
+}
+
+.settings-panel__chants label {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+  cursor: pointer;
+}
+
+.settings-panel__chants input {
+  accent-color: var(--oxblood);
+  width: 1.05rem;
+  height: 1.05rem;
+}

@@ -1,0 +1,89 @@
+.app-shell {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.app-shell__masthead {
+  text-align: center;
+  padding: 1.4rem 1rem 0.8rem;
+  background: linear-gradient(180deg, var(--oxblood), var(--oxblood-deep));
+  color: var(--parchment);
+  border-bottom: 3px solid var(--gold);
+}
+
+.app-shell__brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: var(--gold);
+}
+
+.app-shell__brand-icon {
+  color: var(--gold);
+}
+
+.app-shell__brand-name {
+  font-family: var(--font-display);
+  font-size: 2rem;
+  letter-spacing: 0.08em;
+  color: #f6ecd2;
+}
+
+.app-shell__tagline {
+  margin: 0.15rem 0 0.6rem;
+  color: var(--gold-soft);
+  font-size: 0.82rem;
+  letter-spacing: 0.14em;
+}
+
+.app-shell__nav {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: var(--oxblood-deep);
+  border-bottom: 1px solid rgba(196, 162, 76, 0.4);
+}
+
+.app-shell__nav ul {
+  display: flex;
+  gap: 0.2rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0 auto;
+  padding: 0.35rem 0.5rem;
+  max-width: var(--maxw);
+}
+
+.app-shell__nav a {
+  display: block;
+  padding: 0.35rem 0.85rem;
+  border-radius: 999px;
+  color: var(--gold-soft);
+  font-size: 0.95rem;
+  font-variant: small-caps;
+  letter-spacing: 0.05em;
+}
+
+.app-shell__nav a:hover {
+  color: #f6ecd2;
+}
+
+.app-shell__nav a.active {
+  background: var(--gold);
+  color: var(--oxblood-deep);
+}
+
+.app-shell__main {
+  flex: 1;
+  padding-bottom: 2.5rem;
+}
+
+.app-shell__footer {
+  text-align: center;
+  padding: 1rem;
+  color: var(--text-muted);
+  font-size: 0.82rem;
+  border-top: 1px solid var(--surface-line);
+}

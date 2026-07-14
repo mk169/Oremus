@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Oremus">
+  <rect width="512" height="512" rx="96" fill="#6B1F2A" />
+  <g fill="none" stroke="#C4A24C" stroke-width="24" stroke-linecap="round">
+    <path d="M256 104 V408" />
+    <path d="M168 192 H344" />
+  </g>
+</svg>

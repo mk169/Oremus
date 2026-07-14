@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Oremus">
+  <rect width="512" height="512" rx="96" fill="#6B1F2A" />
+  <g fill="none" stroke="#C4A24C" stroke-width="18" stroke-linecap="round">
+    <!-- Latin cross -->
+    <path d="M256 96 V416" />
+    <path d="M176 184 H336" />
+    <!-- subtle rays -->
+    <path d="M256 96 L232 140 M256 96 L280 140" stroke-width="10" opacity="0.7" />
+  </g>
+  <circle cx="256" cy="184" r="26" fill="#F4ECD8" stroke="#C4A24C" stroke-width="10" />
+</svg>

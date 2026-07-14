@@ -1,0 +1,33 @@
+.bilingual--block {
+  display: block;
+}
+
+.bilingual__la {
+  display: inline;
+  font-style: italic;
+  color: var(--text);
+}
+
+.bilingual--block .bilingual__la {
+  display: block;
+  font-style: italic;
+  color: var(--text);
+}
+
+.bilingual__de {
+  display: inline;
+  color: var(--text-muted);
+}
+
+.bilingual--block .bilingual__de {
+  display: block;
+  color: var(--text-muted);
+  margin-top: 0.15em;
+}
+
+/* Bei zweisprachiger Blockdarstellung: Deutsch dezent eingerückt */
+.bilingual--block .bilingual__la + .bilingual__de {
+  padding-left: 0.9rem;
+  border-left: 2px solid var(--surface-line);
+  margin-top: 0.3em;
+}

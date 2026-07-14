@@ -1,0 +1,83 @@
+import { useState } from 'react'
+import { useSettings } from '../context/SettingsContext'
+import type { LanguageMode, LiturgicalSection } from '../data/types'
+import './SettingsPanel.css'
+
+interface Props {
+  /** Abschnitte, aus denen die gesangs-fähigen für die Auswahl gezogen werden. */
+  sections?: LiturgicalSection[]
+}
+
+const LANG_OPTIONS: { value: LanguageMode; label: string }[] = [
+  { value: 'la', label: 'Latein' },
+  { value: 'de', label: 'Deutsch' },
+  { value: 'both', label: 'Beide' },
+]
+
+/**
+ * Einstellungen für eine Feier: Sprachanzeige und – je gesangs-fähigem
+ * Abschnitt – ob dieser gesungen oder gesprochen wird. So entsteht ein
+ * nahtloser, individuell zusammengestellter Ablauf.
+ */
+export function SettingsPanel({ sections = [] }: Props) {
+  const { language, setLanguage, isSung, toggleSung } = useSettings()
+  const [open, setOpen] = useState(false)
+  const chantable = sections.filter((s) => s.chant?.chantable)
+
+  return (
+    <div className={`settings-panel ${open ? 'is-open' : ''}`}>
+      <button
+        type="button"
+        className="settings-panel__toggle"
+        aria-expanded={open}
+        onClick={() => setOpen((o) => !o)}
+      >
+        <span className="smallcaps">Darstellung &amp; Gesang</span>
+        <span className="settings-panel__chevron" aria-hidden>
+          {open ? '▲' : '▼'}
+        </span>
+      </button>
+
+      {open && (
+        <div className="settings-panel__body">
+          <fieldset className="settings-panel__group">
+            <legend>Sprache</legend>
+            <div className="settings-panel__segment" role="group" aria-label="Sprache">
+              {LANG_OPTIONS.map((opt) => (
+                <button
+                  key={opt.value}
+                  type="button"
+                  className={language === opt.value ? 'is-active' : ''}
+                  aria-pressed={language === opt.value}
+                  onClick={() => setLanguage(opt.value)}
+                >
+                  {opt.label}
+                </button>
+              ))}
+            </div>
+          </fieldset>
+
+          {chantable.length > 0 && (
+            <fieldset className="settings-panel__group">
+              <legend>Welche Gesänge werden gesungen?</legend>
+              <ul className="settings-panel__chants">
+                {chantable.map((s) => (
+                  <li key={s.id}>
+                    <label>
+                      <input
+                        type="checkbox"
+                        checked={isSung(s.id)}
+                        onChange={(e) => toggleSung(s.id, e.target.checked)}
+                      />
+                      <span>{s.title.la ?? s.title.de}</span>
+                    </label>
+                  </li>
+                ))}
+              </ul>
+            </fieldset>
+          )}
+        </div>
+      )}
+    </div>
+  )
+}
