@@ -1,0 +1,82 @@
+{
+  "id": "do-Adv4-0",
+  "form": "1962",
+  "note": "Stundengebet – Proprium des Tages aus Divinum Officium (gemeinfrei), Latein/Deutsch.",
+  "day": {
+    "title": {
+      "la": "Dominica IV Adventus",
+      "de": "Vierter Sonntag im Advent"
+    },
+    "color": "violet"
+  },
+  "sections": [
+    {
+      "id": "ant-laudes",
+      "kind": "proprium",
+      "title": {
+        "la": "Ad Laudes",
+        "de": "Antiphonen zu den Laudes"
+      },
+      "text": {
+        "la": "Cánite tuba * in Sion, quia prope est dies Dómini: ecce véniet ad salvándum nos, allelúja, allelúja. · Ecce véniet * desiderátus cunctis géntibus: et replébitur glória domus Dómini, allelúja. · Erunt prava * in dirécta, et áspera in vias planas: veni, Dómine, et noli tardáre, allelúja. · Dóminus véniet, * occúrrite illi, dicéntes: Magnum princípium, et regni ejus non erit finis: Deus, Fortis, Dominátor, Princeps pacis, allelúja, allelúja. · Omnípotens Sermo tuus, * Dómine, a regálibus sédibus véniet, allelúja.",
+        "de": "Blaset mit der Trompete * in Sion, denn in der Nähe ist der Tag des Herrn: seht, er kommt, um uns zu retten, alleluja, alleluja. · Seht, es wird kommen * der von den Völkern Ersehnte: und es wird mit Herrlichkeit erfüllt werden das Haus des Herrn, alleluja. · Es soll das Verkrümmte werden * gerader Weg und das Unebene eben: komm, o Herr, und säume doch nicht, alleluja. · Es kommt der Herr, * eilt ihm entgegen und ruft: O du einer großen Herrschaft Träger, dessen Reich kein Ende hat: Gott, Mächtiger, Beherrscher, Friedenskönig, alleluja, alleluja. · Dein allmächtiges Wort, * o Herr, kommt vom Königsthron, alleluja."
+      }
+    },
+    {
+      "id": "capitulum-laudes",
+      "kind": "proprium",
+      "title": {
+        "la": "Capitulum",
+        "de": "Kurzlesung (Laudes)"
+      },
+      "text": {
+        "la": "Fratres: Sic nos exístimet homo ut minístros Christi, et dispensatóres mysteriórum Dei. Hic jam quǽritur inter dispensatóres, ut fidélis quis inveniátur.",
+        "de": "Brüder, uns muss jedermann anerkennen als Beamte bei Christus und Verwalter der erhabenen Güter Gottes. Daraus folgt also: Es wird unter den Beamten nur gefordert, dass man sich als treu bewähre."
+      },
+      "reference": {
+        "la": "1 Cor 4:1-2",
+        "de": "1 Cor 4:1-2"
+      }
+    },
+    {
+      "id": "oratio",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Excita, quǽsumus, Dómine, poténtiam tuam, et veni: et magna nobis virtúte succúrre; ut per auxílium grátiæ tuæ, quod nostra peccáta præpédiunt, indulgéntia tuæ propitiatiónis accéleret:",
+        "de": "Laß, wir bitten dich, o Herr, wirksam werden deine Macht und komm; und werde uns mit deiner großen Kraft ein Helfer, auf daß unter dem Beistand deiner Huld das, was unsere Sünden aufhalten, die in deiner Milde erwiesene Nachsicht schneller gewähre."
+      }
+    },
+    {
+      "id": "lectio1",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio I",
+        "de": "1. Lesung (Matutin)"
+      },
+      "text": {
+        "la": "De Isaía Prophéta 1 Lætábitur desérta et ínvia, et exsultábit solitúdo, et florébit quasi lílium. 2 Gérminans germinábit, et exsultábit lætabúnda et laudans: glória Líbani data est ei: decor Carméli et Saron, ipsi vidébunt glóriam Dómini, et decórem Dei nostri. 3 Confortáte manus dissolútas, et génua debília roboráte. 4 Dícite pusillánimis: Confortámini, et nolíte timére: ecce Deus vester ultiónem addúcet retributiónis: Deus ipse véniet, et salvábit vos. 5 Tunc aperiéntur óculi cæcórum, et aures surdórum patébunt. 6 Tunc sáliet sicut cervus claudus, et apérta erit lingua mutórum: quia scissæ sunt in desérto aquæ, et torréntes in solitúdine. 7 Et quæ erat árida, erit in stagnum, et sítiens in fontes aquárum.",
+        "de": "Aus dem Propheten Isaias. 1 Es ist voll Freude das wüste und weglose Land, und es jubelt auf das dürre Feld und wird blühend wie eine Lilie. 2 Üppig treibt es Keime und jubelt in Freude und Lob: Die Herrlichkeit des Libanon ist ihm gegeben, der Schmuck des Karmel und Saron; man sieht die Herrlichkeit des Herrn, und den Schmuck unseres Gottes. 3 Haltet stramm die schlaffen Hände, und lasst Kraft hinein in die schwachen Knie. 4 Sagt den Ängstlichen: Seid mutig und lasset die Furcht: seht, euer Gott wird rächende Vergeltung kommen lassen; Gott selbst wird kommen und euch beseligen. 5 Dann werden sehend werden die Augen der Blinden, und die Ohren der Tauben hörend; 6 dann wird wie ein Hirsch aufhüpfen der Gelähmte, und sprachfähig wird die Zunge der Stummen: dann wird aus den Erdenrissen in der Wüste Wasser kommen, und Bäche werden fließen im dürren Land. 7 Und was trockener Boden war, wird wasserreich, und was kein Wasser hatte, zu Wasserquellen."
+      },
+      "reference": {
+        "la": "Isa 35:1-7",
+        "de": "Isa 35:1-7"
+      }
+    },
+    {
+      "id": "resp1",
+      "kind": "proprium",
+      "title": {
+        "la": "Responsorium I",
+        "de": "Responsorium I"
+      },
+      "text": {
+        "la": "Cánite tuba in Sion, vocáte gentes, annuntiáte pópulis, et dícite: * Ecce Deus Salvátor noster advéniet. Annuntiáte, et audítum fácite: loquímini, et clamáte. Ecce Deus Salvátor noster advéniet.",
+        "de": "Blaset die Trompete in Sion, rufet die Völker, kündet es den Scharen und meldet: * Seht, Gott, unser Retter, kommt. Verkündet es und macht es bekannt: Mit lauter Stimme rufet: Seht, Gott, unser Retter, kommt."
+      }
+    }
+  ]
+}

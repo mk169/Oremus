@@ -1,0 +1,82 @@
+{
+  "id": "do-Quadp3-0",
+  "form": "1962",
+  "note": "Stundengebet – Proprium des Tages aus Divinum Officium (gemeinfrei), Latein/Deutsch.",
+  "day": {
+    "title": {
+      "la": "Dominica in Quinquagesima",
+      "de": "Sonntag Quinquagesima"
+    },
+    "color": "violet"
+  },
+  "sections": [
+    {
+      "id": "ant-laudes",
+      "kind": "proprium",
+      "title": {
+        "la": "Ad Laudes",
+        "de": "Antiphonen zu den Laudes"
+      },
+      "text": {
+        "la": "Secúndum multitúdinem * miseratiónum tuárum, Dómine, dele iniquitátem meam. · Deus meus es tu, * et confitébor tibi: Deus meus es tu, et exaltábo te. · Ad te de luce * vígilo, Deus, ut vídeam virtútem tuam. · Hymnum dícite, * et superexaltáte eum in sǽcula. · Omnes Angeli * ejus laudáte Dóminum de cælis.",
+        "de": "Da du so groß bist * an Erbarmen, tilge doch, o Herr, in mir die Sünde. · Du bist mein Gott, * und dir will ich lobsingen: mein Gott bist du, und dich will ich preisen. · Nach dir späh ich beim frühsten Morgenschimmer, * o Gott, um dein Wirken zu erfahren. · Singt ein Loblied * und preiset ihn in alle Ewigkeit. · Ihr alle seine Engel, * lobt den Herrn vom Himmel."
+      }
+    },
+    {
+      "id": "capitulum-laudes",
+      "kind": "proprium",
+      "title": {
+        "la": "Capitulum",
+        "de": "Kurzlesung (Laudes)"
+      },
+      "text": {
+        "la": "Fratres: Si linguis hóminum loquar, et Angelórum, caritátem autem non hábeam, factus sum velut æs sonans, aut cýmbalum tínniens.",
+        "de": "Brüder! Wenn ich in den Sprachen der Menschen und Engel redete, die Liebe aber nicht habe, bin ich wie eine dumpfschallende Scherbe oder eine verstimmte Laute."
+      },
+      "reference": {
+        "la": "1 Cor 13:1",
+        "de": "1 Cor 13:1"
+      }
+    },
+    {
+      "id": "oratio",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Preces nostras, quǽsumus, Dómine, cleménter exáudi: atque, a peccatórum vínculis absolútos, ab omni nos adversitáte custódi.",
+        "de": "Wir bitten dich, o Herr, erhöre gnädig unsere Bitten: und wenn du uns von den Banden der Sünde freigemacht hast, schirme uns vor allem, was uns stört."
+      }
+    },
+    {
+      "id": "lectio1",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio I",
+        "de": "1. Lesung (Matutin)"
+      },
+      "text": {
+        "la": "De libro Génesis 1 Dixit autem Dóminus ad Abram: Egrédere de terra tua, et de cognatióne tua, et de domo patris tui, et veni in terram quam monstrábo tibi. 2 Faciámque te in gentem magnam, et benedícam tibi, et magnificábo nomen tuum, erísque benedíctus. 3 Benedícam benedicéntibus tibi, et maledícam maledicéntibus tibi, atque in te benedicéntur univérsæ cognatiónes terræ. 4 Egréssus est ítaque Abram sicut præcéperat ei Dóminus, et ivit cum eo Lot: septuagínta quinque annórum erat Abram cum egrederétur de Haran. 5 Tulítque Sárai uxórem suam, et Lot fílium fratris sui, universámque substántiam quam posséderant, et ánimas quas fécerant in Haran: et egréssi sunt ut irent in terram Chánaan. Cumque veníssent in eam, 6 pertransívit Abram terram usque ad locum Sichem, usque ad convállem illústrem: Chananǽus autem tunc erat in terra.",
+        "de": "Aus dem Buche Genesis. 1 Dixit autem Dominus ad Abram: Egredere de terra tua, et de cognatione tua, et de domo patris tui, et veni in terram quam monstrabo tibi. 2 Faciamque te in gentem magnam, et benedicam tibi, et magnificabo nomen tuum, erisque benedictus. 3 Benedicam benedicentibus tibi, et maledicam maledicentibus tibi, atque in te benedicentur universae cognationes terrae. 4 Egressus est itaque Abram sicut praeceperat ei Dominus, et ivit cum eo Lot: septuaginta quinque annorum erat Abram cum egrederetur de Haran. 5 Tulitque Sarai uxorem suam, et Lot filium fratris sui, universamque substantiam quam possederant, et animas quas fecerant in Haran: et egressi sunt ut irent in terram Chanaan. Cumque venissent in eam, 6 pertransivit Abram terram usque ad locum Sichem, usque ad convallem illustrem: Chananaeus autem tunc erat in terra."
+      },
+      "reference": {
+        "la": "Gen 12:1-6",
+        "de": "Gen 12:1-6"
+      }
+    },
+    {
+      "id": "resp1",
+      "kind": "proprium",
+      "title": {
+        "la": "Responsorium I",
+        "de": "Responsorium I"
+      },
+      "text": {
+        "la": "Locútus est Dóminus ad Abram, dicens: Egrédere de terra tua, et de cognatióne tua, et veni in terram quam monstrávero tibi: * Et fáciam te in gentem magnam. Benedícens benedícam tibi, et magnificábo nomen tuum, erísque benedíctus. Et fáciam te in gentem magnam.",
+        "de": "Der Herr sprach zu Abram also: Verlass das Land, wo du wohnst und deine Verwandtschaft und komm in das Land, das ich dir zeigen werde: * Und ich will aus dir ein großes Volk machen. Großen Segen will ich dir gewähren und ich will dich verherrlichen, und du sollst gesegnet sein. Und ich will aus dir ein großes Volk machen."
+      }
+    }
+  ]
+}

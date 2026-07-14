@@ -1,0 +1,77 @@
+{
+  "id": "do-Quad6-0",
+  "form": "1962",
+  "note": "Stundengebet – Proprium des Tages aus Divinum Officium (gemeinfrei), Latein/Deutsch.",
+  "day": {
+    "title": {
+      "la": "Dominica in Palmis",
+      "de": "Palmsonntag"
+    },
+    "color": "violet"
+  },
+  "sections": [
+    {
+      "id": "ant-laudes",
+      "kind": "proprium",
+      "title": {
+        "la": "Ad Laudes",
+        "de": "Antiphonen zu den Laudes"
+      },
+      "text": {
+        "la": "Dóminus Deus * auxiliátor meus: et ídeo non sum confúsus. · Circumdántes * circumdedérunt me: et in nómine Dómini vindicábor in eis. · Júdica causam meam: * defénde, quia potens es, Dómine. · Cum Angelis * et púeris fidéles inveniámur, triumphatóri mortis clamántes: Hosánna in excélsis. · Confundántur * qui me persequúntur, et non confúndar ego, Dómine, Deus meus."
+      }
+    },
+    {
+      "id": "capitulum-laudes",
+      "kind": "proprium",
+      "title": {
+        "la": "Capitulum",
+        "de": "Kurzlesung (Laudes)"
+      },
+      "text": {
+        "la": "Fratres: Hoc enim sentíte in vobis, quod et in Christo Jesu: qui, cum in forma Dei esset, non rapínam arbitrátus est esse se æquálem Deo: sed semetípsum exinanívit, formam servi accípiens, in similitúdinem hóminum factus, et hábitu invéntus ut homo."
+      },
+      "reference": {
+        "la": "Phil 2:5-7",
+        "de": "Phil 2:5-7"
+      }
+    },
+    {
+      "id": "oratio",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Omnípotens sempitérne Deus, qui humáno géneri, ad imitándum humilitátis exémplum, Salvatórem nostrum carnem súmere, et crucem subíre fecísti: concéde propítius; ut et patiéntiæ ipsíus habére documénta, et resurrectiónis consórtia mereámur."
+      }
+    },
+    {
+      "id": "lectio1",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio I",
+        "de": "1. Lesung (Matutin)"
+      },
+      "text": {
+        "la": "De Jeremía Prophéta 12 Obstupéscite, cæli, super hoc, et, portæ ejus, desolámini veheménter, dicit Dóminus. 13 Duo enim mala fecit pópulus meus: Me dereliquérunt fontem aquæ vivæ, et fodérunt sibi cistérnas, cistérnas dissipátas, quæ continére non valent aquas. 14 Numquid servus est Israël, aut vernáculus? Quare ergo factus est in prædam? 15 Super eum rugiérunt leónes, et dedérunt vocem suam, posuérunt terram ejus in solitúdinem: civitátes ejus exústæ sunt, et non est qui hábitet in eis. 16 Fílii quoque Mémpheos et Taphnes constupravérunt te usque ad vérticem. 17 Numquid non istud factum est tibi, quia dereliquísti Dóminum Deum tuum eo témpore, quo ducébat te per viam?"
+      },
+      "reference": {
+        "la": "Jer 2:12-17",
+        "de": "Jer 2:12-17"
+      }
+    },
+    {
+      "id": "resp1",
+      "kind": "proprium",
+      "title": {
+        "la": "Responsorium I",
+        "de": "Responsorium I"
+      },
+      "text": {
+        "la": "In die qua invocávi te, Dómine, dixísti: Noli timére: * Judicásti causam meam, et liberásti me, Dómine, Deus meus. In die tribulatiónis meæ clamávi ad te, quia exaudísti me. Judicásti causam meam, et liberásti me, Dómine, Deus meus."
+      }
+    }
+  ]
+}

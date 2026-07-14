@@ -1,0 +1,55 @@
+{
+  "id": "do-Pasc2-0",
+  "form": "1962",
+  "note": "Stundengebet – Proprium des Tages aus Divinum Officium (gemeinfrei), Latein/Deutsch.",
+  "day": {
+    "title": {
+      "la": "Dominica II Post Pascha",
+      "de": "Zweiter Sonntag nach Ostern"
+    },
+    "color": "white"
+  },
+  "sections": [
+    {
+      "id": "capitulum-laudes",
+      "kind": "proprium",
+      "title": {
+        "la": "Capitulum",
+        "de": "Kurzlesung (Laudes)"
+      },
+      "text": {
+        "la": "Caríssimi: Christus passus est pro nobis, vobis relínquens exémplum ut sequámini vestígia ejus. Qui peccátum non fecit, nec invéntus est dolus in ore ejus."
+      },
+      "reference": {
+        "la": "1 Pet 2:21-22",
+        "de": "1 Pet 2:21-22"
+      }
+    },
+    {
+      "id": "oratio",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui in Fílii tui humilitáte jacéntem mundum erexísti: fidélibus tuis perpétuam concéde lætítiam; ut, quos perpétuæ mortis eripuísti cásibus, gáudiis fácias pérfrui sempitérnis."
+      }
+    },
+    {
+      "id": "lectio1",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio I",
+        "de": "1. Lesung (Matutin)"
+      },
+      "text": {
+        "la": "De Actibus Apostolórum 13 Cum a Papho navigássent Paulus et qui cum eo erant, venérunt Pergen Pamphýliæ. Joánnes autem discédens ab eis, revérsus est Jerosólymam. 14 Illi vero pertranseúntes Pergen, venérunt Antiochíam Pisídiæ: et ingréssi synagógam die sabbatórum, sedérunt. 15 Post lectiónem autem legis et prophetárum, misérunt príncipes synagógæ ad eos, dicéntes: Viri fratres, si quis est in vobis sermo exhortatiónis ad plebem, dícite. 16 Surgens autem Paulus, et manu siléntium indícens, ait: Viri Israëlítæ, et qui timétis Deum, audíte: 17 Deus plebis Israël elégit patres nostros, et plebem exaltávit cum essent íncolæ in terra Ægýpti, et in brácchio excélso edúxit eos ex ea, 18 et per quadragínta annórum tempus mores eórum sustínuit in desérto. 19 Et déstruens gentes septem in terra Chánaan, sorte distríbuit eis terram eórum, 20 quasi post quadringéntos et quinquagínta annos: et post hæc dedit júdices, usque ad Sámuel prophétam."
+      },
+      "reference": {
+        "la": "Act. 13:13-20",
+        "de": "Act. 13:13-20"
+      }
+    }
+  ]
+}

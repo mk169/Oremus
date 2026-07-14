@@ -1,0 +1,25 @@
+{
+  "id": "do-Pent18-0",
+  "form": "1962",
+  "note": "Stundengebet – Proprium des Tages aus Divinum Officium (gemeinfrei), Latein/Deutsch.",
+  "day": {
+    "title": {
+      "la": "Dominica XVIII Post Pentecosten",
+      "de": "18. Sonntag nach Pfingsten"
+    },
+    "color": "green"
+  },
+  "sections": [
+    {
+      "id": "oratio",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Dírigat corda nostra, quǽsumus, Dómine, tuæ miseratiónis operátio: quia tibi sine te placére non póssumus."
+      }
+    }
+  ]
+}

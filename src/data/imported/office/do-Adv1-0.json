@@ -1,0 +1,93 @@
+{
+  "id": "do-Adv1-0",
+  "form": "1962",
+  "note": "Stundengebet – Proprium des Tages aus Divinum Officium (gemeinfrei), Latein/Deutsch.",
+  "day": {
+    "title": {
+      "la": "Dominica I Adventus",
+      "de": "Erster Adventssonntag"
+    },
+    "color": "violet"
+  },
+  "sections": [
+    {
+      "id": "ant-vespera",
+      "kind": "proprium",
+      "title": {
+        "la": "Ad Vesperas",
+        "de": "Antiphonen zur Vesper"
+      },
+      "text": {
+        "de": "An jenem Tage * werden die Anhöhen Süßigkeit tropfen lassen, und die Fluren werden überfließen von Milch und Honig, alleluja. · Juble auf, * Tochter Sion, und hüpfe nach Kräften, Tochter Jerusalem, alleluja. · Siehe, der Herr wird kommen, * und alle seine Heiligen mit ihm, und es wird an jenem Tage eine große Seligkeit sein, alleluja. · Alle, die ihr durstig seid, * kommt doch zur Quelle, nahet euch dem Herrn, da er sich finden lässt, alleluja. · Seht, es wird kommen * ein großer Gottesmann, und er wird ein neues Jerusalem schaffen, alleluja."
+      }
+    },
+    {
+      "id": "ant-laudes",
+      "kind": "proprium",
+      "title": {
+        "la": "Ad Laudes",
+        "de": "Antiphonen zu den Laudes"
+      },
+      "text": {
+        "la": "In illa die * stillábunt montes dulcédinem, et colles fluent lac et mel, allelúja. · Jucundáre, * fília Sion, et exsúlta satis, fília Jerúsalem, allelúja. · Ecce Dóminus véniet, * et omnes Sancti ejus cum eo: et erit in die illa lux magna, allelúja. · Omnes sitiéntes, * veníte ad aquas: quǽrite Dóminum, dum inveníri potest, allelúja. · Ecce véniet * Prophéta magnus, et ipse renovábit Jerúsalem, allelúja.",
+        "de": "An jenem Tage * werden die Anhöhen Süßigkeit tropfen lassen, und die Fluren werden überfließen von Milch und Honig, alleluja. · Juble auf, * Tochter Sion, und hüpfe nach Kräften, Tochter Jerusalem, alleluja. · Siehe, der Herr wird kommen, * und alle seine Heiligen mit ihm, und es wird an jenem Tage eine große Seligkeit sein, alleluja. · Alle, dir ihr durstig seid, * kommt doch zur Quelle, nahet euch dem Herrn, da er sich finden lässt, alleluja. · Seht, es wird kommen * ein großer Gottesmann, und er wird ein neues Jerusalem schaffen, alleluja."
+      }
+    },
+    {
+      "id": "capitulum-laudes",
+      "kind": "proprium",
+      "title": {
+        "la": "Capitulum",
+        "de": "Kurzlesung (Laudes)"
+      },
+      "text": {
+        "la": "Fratres: Hora est jam nos de somno súrgere: nunc enim própior est nostra salus, quam cum credídimus.",
+        "de": "Brüder: Es ist nun schon Zeit, aus dem Schlaf aufzuwachen. Jetzt nämlich ist unsere Beseligung näher als damals, wo wir den Glauben angenommen haben."
+      },
+      "reference": {
+        "la": "Rom 13:11",
+        "de": "Rom 13:11"
+      }
+    },
+    {
+      "id": "oratio",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Excita, quǽsumus, Dómine, poténtiam tuam, et veni: ut ab imminéntibus peccatórum nostrórum perículis, te mereámur protegénte éripi, te liberánte salvári:",
+        "de": "Laß, o Herr, wir bitten dich, wirksam werden deine Macht und komm, damit wir würdig werden, von den Gefahren, die uns auf Grund unserer Sünden drohen, herausgehoben und durch die von dir gebotene Befreiung beseligt zu werden."
+      }
+    },
+    {
+      "id": "lectio1",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio I",
+        "de": "1. Lesung (Matutin)"
+      },
+      "text": {
+        "la": "Incipit liber Isaíæ Prophétæ 1 Vísio Isaíæ fílii Amos, quam vidit super Judam et Jerúsalem, in diébus Ozíæ, Jóatham, Achaz, et Ezechíæ, regum Juda. 2 Audíte, cæli, et áuribus pércipe, terra, quóniam Dóminus locútus est: Fílios enutrívi, et exaltávi: ipsi autem sprevérunt me. 3 Cognóvit bos possessórem suum, et ásinus præsépe dómini sui: Israël autem me non cognóvit, et pópulus meus non intelléxit.",
+        "de": "Anfang des Buches des Propheten Isaias. 1 Offenbarung an Isaias, den Sohn des Amos, die er in Gesichten erhalten hat über Juda und Jerusalem, in der Zeit der Könige von Juda, Osias, Joathan, Achaz, und Ezechias. 2 Höre es, o Himmel, und mit deinen Ohren fang es auf, o Erde! So spricht der Herr: Kinder habe ich groß gezogen und mit Gütern ausgestattet, sie aber haben nur Verachtung gegen mich. 3 Es erkennt der Ochs seinen Eigentümer an und der Esel die Krippe, die sein Herr ihm hinstellt; das Volk Israels aber kennt mich nicht, mein Volk bleibt ohne Einsicht."
+      },
+      "reference": {
+        "la": "Isa 1:1-3",
+        "de": "Isa 1:1-3"
+      }
+    },
+    {
+      "id": "resp1",
+      "kind": "proprium",
+      "title": {
+        "la": "Responsorium I",
+        "de": "Responsorium I"
+      },
+      "text": {
+        "la": "Aspíciens a longe, ecce vídeo Dei poténtiam veniéntem, et nébulam totam terram tegéntem. * Ite óbviam ei, et dícite: * Núntia nobis, si tu es ipse, * Qui regnatúrus es in pópulo Israël. Quique terrígenæ, et fílii hóminum, simul in unum dives et pauper. Ite óbviam ei, et dícite. Qui regis Israël, inténde, qui dedúcis velut ovem Joseph. Núntia nobis, si tu es ipse. Tóllite portas, príncipes, vestras, et elevámini portæ æternáles, et introíbit Rex glóriæ. Qui regnatúrus es in pópulo Israël. Aspíciens a longe, ecce vídeo Dei poténtiam veniéntem, et nébulam totam terram tegéntem. * Ite óbviam ei, et dícite: * Núntia nobis, si tu es ipse, * Qui regnatúrus es in pópulo Israël.",
+        "de": "Aus der Ferne schaue ich und da, da gewahr' ich Gottes Majestät, die zu uns kommt, und eine Glanzwolke, die die ganze Erde bedeckt. * Eilt ihm entgegen und ruft: * Tue es uns kund, ob du es selbst bist, * Der du König sein sollst im Volke Israel. Ob ihr gehört zum niederen Stande oder zu den höheren Klassen, ihr Reichen und ihr Armen all zusammen. Eilt ihm entgegen und ruft. O Hirt Israels, gib acht, der du Josephs Kinder führst wie Schäflein. Tue es uns kund, ob du es selbst bist. Macht höher, ihr Tore, die Dächer, erhöht euch, ehrwürdige Tore, dass einziehen kann der erhabene König. Der du König sein sollst im Volke Israel. Aus der Ferne schaue ich und da, da gewahr' ich Gottes Majestät, die zu uns kommt, und eine Glanzwolke, die die ganze Erde bedeckt. * Eilt ihm entgegen und ruft: * Tue es uns kund, ob du es selbst bist, * Der du König sein sollst im Volke Israel."
+      }
+    }
+  ]
+}

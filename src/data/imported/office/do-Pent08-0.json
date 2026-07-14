@@ -1,0 +1,40 @@
+{
+  "id": "do-Pent08-0",
+  "form": "1962",
+  "note": "Stundengebet – Proprium des Tages aus Divinum Officium (gemeinfrei), Latein/Deutsch.",
+  "day": {
+    "title": {
+      "la": "Dominica VIII Post Pentecosten",
+      "de": "Achter Sonntag nach Pfingsten"
+    },
+    "color": "green"
+  },
+  "sections": [
+    {
+      "id": "oratio",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Largíre nobis, quǽsumus, Dómine, semper spíritum cogitándi quæ recta sunt, propítius et agéndi: ut, qui sine te esse non póssumus, secúndum te vívere valeámus."
+      }
+    },
+    {
+      "id": "lectio1",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio I",
+        "de": "1. Lesung (Matutin)"
+      },
+      "text": {
+        "la": "De libro tértio Regum 1 Factum est autem cum perfecísset Sálomon ædifícium domus Dómini et ædifícium regis et omne quod optáverat et volúerat fácere, 2 appáruit ei Dóminus secúndo, sicut apparúerat ei in Gábaon. 3 Dixítque Dóminus ad eum: Exaudívi oratiónem tuam et deprecatiónem tuam, quam deprecátus es coram me; sanctificávi domum hanc, quam ædificásti, ut pónerem nomen meum ibi in sempitérnum; et erunt óculi mei et cor meum ibi cunctis diébus. 4 Tu quoque, si ambuláveris coram me sicut ambulávit pater tuus in simplicitáte cordis et in æquitáte, et féceris ómnia quæ præcépi tibi et legítima mea et judícia mea serváveris, 5 ponam thronum regni tui super Israël in sempitérnum, sicut locútus sum David, patri tuo dicens: Non auferétur vir de génere tuo de sólio Israël."
+      },
+      "reference": {
+        "la": "3 Reg 9:1-5",
+        "de": "3 Reg 9:1-5"
+      }
+    }
+  ]
+}

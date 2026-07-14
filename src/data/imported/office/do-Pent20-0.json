@@ -1,0 +1,25 @@
+{
+  "id": "do-Pent20-0",
+  "form": "1962",
+  "note": "Stundengebet – Proprium des Tages aus Divinum Officium (gemeinfrei), Latein/Deutsch.",
+  "day": {
+    "title": {
+      "la": "Dominica XX Post Pentecosten",
+      "de": "20. Sonntag nach Pfingsten"
+    },
+    "color": "green"
+  },
+  "sections": [
+    {
+      "id": "oratio",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Largíre, quǽsumus, Dómine, fidélibus tuis indulgéntiam placátus et pacem: ut páriter ab ómnibus mundéntur offénsis, et secúra tibi mente desérviant."
+      }
+    }
+  ]
+}

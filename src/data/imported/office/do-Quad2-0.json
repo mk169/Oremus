@@ -1,0 +1,77 @@
+{
+  "id": "do-Quad2-0",
+  "form": "1962",
+  "note": "Stundengebet – Proprium des Tages aus Divinum Officium (gemeinfrei), Latein/Deutsch.",
+  "day": {
+    "title": {
+      "la": "Dominica II in Quadragesima",
+      "de": "Zweiter Sonntag der Fastenzeit"
+    },
+    "color": "violet"
+  },
+  "sections": [
+    {
+      "id": "ant-laudes",
+      "kind": "proprium",
+      "title": {
+        "la": "Ad Laudes",
+        "de": "Antiphonen zu den Laudes"
+      },
+      "text": {
+        "la": "Dómine, * lábia mea apéries, et os meum annuntiábit laudem tuam. · Déxtera Dómini * fecit virtútem: déxtera Dómini exaltávit me. · Factus est * adjútor meus, Deus meus. · Trium puerórum * cantémus hymnum, quem cantábant in camíno ignis, benedicéntes Dóminum. · Státuit ea * in ætérnum, et in sǽculum sǽculi: præcéptum pósuit, et non præteríbit."
+      }
+    },
+    {
+      "id": "capitulum-laudes",
+      "kind": "proprium",
+      "title": {
+        "la": "Capitulum",
+        "de": "Kurzlesung (Laudes)"
+      },
+      "text": {
+        "la": "Fratres: Rogámus vos, et obsecrámus in Dómino Jesu: ut, quemádmodum accepístis a nobis, quómodo vos opórteat ambuláre, et placére Deo, sic et ambulétis, ut abundétis magis."
+      },
+      "reference": {
+        "la": "1 Thess 4:1",
+        "de": "1 Thess 4:1"
+      }
+    },
+    {
+      "id": "oratio",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui cónspicis omni nos virtúte destítui: intérius exteriúsque custódi; ut ab ómnibus adversitátibus muniámur in córpore, et a pravis cogitatiónibus mundémur in mente."
+      }
+    },
+    {
+      "id": "lectio1",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio I",
+        "de": "1. Lesung (Matutin)"
+      },
+      "text": {
+        "la": "De libro Génesis 1 Sénuit autem Isaac, et calligavérunt óculi ejus, et vidére non póterat: vocavítque Esau fílium suum majórem, et dixit ei: Fili mi! Qui respóndit: Adsum. 2 Cui pater: Vides, inquit, quod senúerim et ignórem diem mortis meæ. 3 Sume arma tua, pháretram, et arcum, et egrédere foras: cumque venátu áliquid apprehénderis, 4 fac mihi inde pulméntum sicut velle me nosti, et affer ut cómedam: et benedícat tibi ánima mea ántequam móriar. 5 Quod cum audísset Rebécca, et ille abiísset in agrum ut jussiónem patris impléret, 6 dixit fílio suo Jacob: Audívi patrem tuum loquéntem cum Esau fratre tuo, et dicéntem ei: 7 Affer mihi de venatióne tua, et fac cibos ut cómedam, et benedícam tibi coram Dómino ántequam móriar. 8 Nunc ergo fili mi, acquiésce consíliis meis; 9 et pergens ad gregem, affer mihi duos hædos óptimos, ut fáciam ex eis escas patri tuo, quibus libénter véscitur: 10 quas cum intúleris, et coméderit, benedícat tibi priúsquam moriátur."
+      },
+      "reference": {
+        "la": "Gen 27:1-10",
+        "de": "Gen 27:1-10"
+      }
+    },
+    {
+      "id": "resp1",
+      "kind": "proprium",
+      "title": {
+        "la": "Responsorium I",
+        "de": "Responsorium I"
+      },
+      "text": {
+        "la": "Tolle arma tua, pháretram et arcum, et affer de venatióne tua, ut cómedam: * Et benedícat tibi ánima mea. Cumque venátu áliquid attúleris, fac mihi inde pulméntum, ut cómedam. Et benedícat tibi ánima mea."
+      }
+    }
+  ]
+}

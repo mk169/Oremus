@@ -1,0 +1,93 @@
+{
+  "id": "do-Adv2-0",
+  "form": "1962",
+  "note": "Stundengebet – Proprium des Tages aus Divinum Officium (gemeinfrei), Latein/Deutsch.",
+  "day": {
+    "title": {
+      "la": "Dominica II Adventus",
+      "de": "Zweiter Sonntag im Advent"
+    },
+    "color": "violet"
+  },
+  "sections": [
+    {
+      "id": "ant-vespera",
+      "kind": "proprium",
+      "title": {
+        "la": "Ad Vesperas",
+        "de": "Antiphonen zur Vesper"
+      },
+      "text": {
+        "de": "Seht, auf den Wolken des Himmels * wird der Herr kommen mit großer Macht, alleluia. · Eine befestigte Burg * haben wir, o Sion, der Heiland steht in ihr als Mauer und als Wall, ihr könnt die Tore öffnen, denn mit uns ist Gott, alleluia. · Gewiss, sichtbar wird werden * der Herr und uns nicht täuschen, wenn er warten lässt, verlass dich auf ihn, da er kommen und nicht ausbleiben wird, alleluia. · Die Berge und die Hügel * sollen vor Gott Lob singen, und alle Bäume in den Wäldern sollen Beifallsgrüße bringen, denn es wird der Gebieter und Herr in das ewige Reich eingehen, alleluia, alleluia. · Hört es, unser Herr * wird mit Macht kommen und außerordentliche Beseligung seinen Dienern bringen, alleluia."
+      }
+    },
+    {
+      "id": "ant-laudes",
+      "kind": "proprium",
+      "title": {
+        "la": "Ad Laudes",
+        "de": "Antiphonen zu den Laudes"
+      },
+      "text": {
+        "la": "Ecce in núbibus cæli * Dóminus véniet cum potestáte magna, allelúja. · Urbs fortitúdinis * nostræ Sion, Salvátor ponétur in ea murus et antemurále: aperíte portas, quia nobíscum Deus, allelúja. · Ecce apparébit * Dóminus, et non mentiétur: si moram fécerit, exspécta eum, quia véniet, et non tardábit, allelúja. · Montes et colles * cantábunt coram Deo laudem, et ómnia ligna silvárum plaudent mánibus: quóniam véniet Dominátor Dóminus in regnum ætérnum, allelúja, allelúja. · Ecce Dóminus * noster cum virtúte véniet, et illuminábit óculos servórum suórum, allelúja.",
+        "de": "Seht, auf den Wolken des Himmels * wird der Herr kommen mit großer Macht, alleluia. · Eine befestigte Burg * haben wir, o Sion, der Heiland steht in ihr als Mauer und als Wall, ihr könnt die Tore öffnen, denn mit uns ist Gott, alleluia. · Gewiss, sichtbar wird werden * der Herr und uns nicht täuschen, wenn er warten lässt, verlass dich auf ihn, da er kommen und nicht ausbleiben wird, alleluia. · Die Berge und die Hügel * sollen vor Gott Lob singen, und alle Bäume in den Wäldern sollen Beifallsgrüße bringen, denn es wird der Gebieter und Herr in das ewige Reich eingehen, alleluia, alleluia. · Hört es, unser Herr * wird mit Macht kommen und außerordentliche Beseligung seinen Dienern bringen, alleluia."
+      }
+    },
+    {
+      "id": "capitulum-laudes",
+      "kind": "proprium",
+      "title": {
+        "la": "Capitulum",
+        "de": "Kurzlesung (Laudes)"
+      },
+      "text": {
+        "la": "Fratres: Quæcúmque scripta sunt, ad nostram doctrínam scripta sunt: ut per patiéntiam, et consolatiónem Scripturárum spem habeámus.",
+        "de": "Brüder, alles, was in der Schrift steht, ist zu unserer Belehrung hineingeschrieben, damit wir auf Grund des in den Schriften empfohlenen geduldigen Wartens und auf Grund der dort enthaltenen trostvollen Verheißungen Zuversicht haben."
+      },
+      "reference": {
+        "la": "Rom 15:4",
+        "de": "Rom 15:4"
+      }
+    },
+    {
+      "id": "oratio",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Excita, Dómine, corda nostra ad præparándas Unigéniti tui vias: ut, per ejus advéntum, purificátis tibi méntibus servíre mereámur:",
+        "de": "Rege, o Herr, unsere Herzen an, daß sie für deinen Eingeborenen den Weg bereit halten, damit wir infolge seiner Ankunft einen geläuterten Sinn bekommen und dir alsdann mit geläutertem Inneren dienen können."
+      }
+    },
+    {
+      "id": "lectio1",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio I",
+        "de": "1. Lesung (Matutin)"
+      },
+      "text": {
+        "la": "De Isaía Prophéta 1 Et egrediétur virga de radíce Jesse, et flos de radíce ejus ascéndet. 2 Et requiéscet super eum Spíritus Dómini: spíritus sapiéntiæ et intelléctus, spíritus consílii et fortitúdinis, spíritus sciéntiæ et pietátis; 3 Et replébit eum spíritus timóris Dómini: non secúndum visiónem oculórum judicábit, neque secúndum audítum áurium árguet: 4 Sed judicábit in justítia páuperes, et árguet in æquitáte pro mansuétis terræ:",
+        "de": "Aus dem Propheten Isaias. 1 Es wird eine Staude aufsteigen aus der Wurzel Jesses, eine Blume wird aus dessen Stumpf emporsprossen. 2 Und niederlassen wird sich auf diesem Sproß der Geist des Herrn, der Geist der Weisheit und der Einsicht, der Geist der Klugheit und des Mutes, der Geist der Wissenschaft und Frömmigkeit, 3 und erfüllen wird ihn der Geist der Ehrfurcht vor dem Herrn. Nicht auf den Blick der Augen hin wird er das Urteil fällen und nicht auf das Gehör der Ohren hin die Entscheidungen treffen, 4 sondern er wird nach Rechtssinn urteilen zu Gunsten der Notleidenden und nach Billigkeit entscheiden zu Gunsten der Gequälten im Lande."
+      },
+      "reference": {
+        "la": "Isa 11:1-4",
+        "de": "Isa 11:1-4"
+      }
+    },
+    {
+      "id": "resp1",
+      "kind": "proprium",
+      "title": {
+        "la": "Responsorium I",
+        "de": "Responsorium I"
+      },
+      "text": {
+        "la": "Jerúsalem, cito véniet salus tua: Quare mœróre consúmeris? numquid consiliárius non est tibi, quia innovávit te dolor? * Salvábo te, et liberábo te, noli timére. Ego enim sum Dóminus, Deus tuus, Sanctus Israël, Redémptor tuus. Salvábo te, et liberábo te, noli timére.",
+        "de": "Jerusalem, schnell wird dein Segen kommen; warum bist du in Trauer niedergedrückt? Hast du denn keinen Helfer, da dich so fest gepackt der Schmerz? * Ich will dir Segen bringen und dich von den Übeln frei machen, habe keine Furcht. Ich bin doch der Herr, dein Gott, der Heilige Israels, dein Erlöser. Ich will dir Segen bringen und dich von den Übeln frei machen, habe keine Furcht."
+      }
+    }
+  ]
+}

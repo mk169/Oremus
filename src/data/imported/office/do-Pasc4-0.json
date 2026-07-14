@@ -1,0 +1,70 @@
+{
+  "id": "do-Pasc4-0",
+  "form": "1962",
+  "note": "Stundengebet – Proprium des Tages aus Divinum Officium (gemeinfrei), Latein/Deutsch.",
+  "day": {
+    "title": {
+      "la": "Dominica IV Post Pascha",
+      "de": "Vierter Sonntag nach Ostern"
+    },
+    "color": "white"
+  },
+  "sections": [
+    {
+      "id": "capitulum-laudes",
+      "kind": "proprium",
+      "title": {
+        "la": "Capitulum",
+        "de": "Kurzlesung (Laudes)"
+      },
+      "text": {
+        "la": "Caríssimi: Omne datum óptimum, et omne donum perféctum desúrsum est, descéndens a Patre lúminum, apud quem non est transmutátio, nec vicissitúdinis obumbrátio.",
+        "de": "Geliebteste, alles, was es an guten Gaben und an allseitig guten Spenden gibt, stammt von oben und geht aus von dem alles beglückenden Vater, bei dem es keine Umwandlung gibt und keinen Schatten einer Wesenänderung."
+      },
+      "reference": {
+        "la": "Jas 1:17",
+        "de": "Jas 1:17"
+      }
+    },
+    {
+      "id": "oratio",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui fidélium mentes uníus éfficis voluntátis: da pópulis tuis id amáre quod prǽcipis, id desideráre quod promíttis; ut inter mundánas varietátes ibi nostra fixa sint corda, ubi vera sunt gáudia.",
+        "de": "O Gott, der du die Herzen der Menschen lenkst, daß sie sich in einem Willen einigen, verleihe den dir geweihten Scharen die Gnade, daß sie das lieben, was du befiehlst, und das ersehnen, was du verheißest, damit inmitten der Unbeständigkeit auf dieser Welt unsere Herzen dorthin gerichtet bleiben, wo die wahren Freuden sind."
+      }
+    },
+    {
+      "id": "lectio1",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio I",
+        "de": "1. Lesung (Matutin)"
+      },
+      "text": {
+        "la": "Incipit Epístola cathólica beáti Jacóbi Apóstoli 1 Jacóbus, Dei et Dómini nostri Jesu Christi servus, duódecim tríbubus, quæ sunt in dispersióne, salútem. 2 Omne gáudium existimáte fratres mei, cum in tentatiónes várias incidéritis: 3 sciéntes quod probátio fídei vestræ patiéntiam operátur. 4 Patiéntia autem opus perféctum habet: ut sitis perfécti et íntegri in nullo deficiéntes. 5 Si quis autem vestrum índiget sapiéntia, póstulet a Deo, qui dat ómnibus affluénter, et non impróperat: et dábitur ei. 6 Póstulet autem in fide nihil hǽsitans:",
+        "de": "Anfang des an alle gerichteten Briefes des heiligen Apostels Jakobus. 1 Jakobus, Gottes und unseres Herrn Jesu Christi Knecht, entbietet den Angehörigen der zwölf Stämme, die zerstreut leben, Heil. 2 Seht es als die höchste Freude an, meine Brüder, wenn ihr in verschiedene Prüfungen hineingeratet: 3 Ihr wisst es doch, dass das Erproben eures Glaubens Ausdauer bewirkt; 4 die Ausdauer aber macht ein Werk zum vollkommenen: so seid ihr also vollkommene und ganze Menschen, an denen gar nichts fehlt. 5 Wenn aber einer von euch Mangel hat am weisen Sinn, der bete zu Gott, der allen im Überfluss Gaben austeilt, ohne ihnen Vorwürfe zu machen. 6 Er muss aber beten mit Vertrauen, ohne irgendwie zu zweifeln."
+      },
+      "reference": {
+        "la": "Jas 1:1-6",
+        "de": "Jas 1:1-6"
+      }
+    },
+    {
+      "id": "resp1",
+      "kind": "proprium",
+      "title": {
+        "la": "Responsorium I",
+        "de": "Responsorium I"
+      },
+      "text": {
+        "la": "Si oblítus fúero tui, allelúja, obliviscátur mei déxtera mea: * Adhǽreat lingua mea fáucibus meis, si non memínero tui, allelúja, allelúja. Super flúmina Babylónis illic sédimus et flévimus, dum recordarémur tui, Sion. Adhǽreat lingua mea fáucibus meis, si non memínero tui, allelúja, allelúja.",
+        "de": "Wenn einmal ich dein vergessen sollte, alleluja, mag los von mir getrennt sein meine Rechte: * Mag dann meine Zunge fest an meinem Gaumen kleben, wenn ich an dich nicht denken sollte, alleluja, alleluja. An dem großen Fluss in Babylon, da haben unser Lager wir und weinen, wenn wir an dich, o Sion, denken. Mag dann meine Zunge fest an meinem Gaumen kleben, wenn ich an dich nicht denken sollte, alleluja, alleluja."
+      }
+    }
+  ]
+}

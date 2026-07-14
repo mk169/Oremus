@@ -1,0 +1,77 @@
+{
+  "id": "do-Quad4-0",
+  "form": "1962",
+  "note": "Stundengebet – Proprium des Tages aus Divinum Officium (gemeinfrei), Latein/Deutsch.",
+  "day": {
+    "title": {
+      "la": "Dominica IV in Quadragesima",
+      "de": "Vierter Sonntag der Fastenzeit"
+    },
+    "color": "violet"
+  },
+  "sections": [
+    {
+      "id": "ant-laudes",
+      "kind": "proprium",
+      "title": {
+        "la": "Ad Laudes",
+        "de": "Antiphonen zu den Laudes"
+      },
+      "text": {
+        "la": "Tunc acceptábis * sacrifícium justítiæ, si avérteris fáciem tuam a peccátis meis. · Bonum est * speráre in Dómino, quam speráre in princípibus. · Me suscépit * déxtera tua, Dómine. · Benedícat nos Deus, * Deus noster, benedícat nos Deus. · In matutínis, * Dómine, meditábor in te. · Potens es, Dómine, * erípere nos de manu forti: líbera nos, Deus noster. · Reges terræ * et omnes pópuli, laudáte Deum."
+      }
+    },
+    {
+      "id": "capitulum-laudes",
+      "kind": "proprium",
+      "title": {
+        "la": "Capitulum",
+        "de": "Kurzlesung (Laudes)"
+      },
+      "text": {
+        "la": "Fratres: Scriptum est, quóniam Abraham duos fílios hábuit: unum de ancílla, et unum de líbera: sed qui de ancílla, secúndum carnem natus est: qui autem de líbera, per repromissiónem: quæ sunt per allegoríam dicta."
+      },
+      "reference": {
+        "la": "Gal 4:22-24",
+        "de": "Gal 4:22-24"
+      }
+    },
+    {
+      "id": "oratio",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Concéde, quǽsumus, omnípotens Deus: ut, qui ex mérito nostræ actiónis afflígimur, tuæ grátiæ consolatióne respirémus."
+      }
+    },
+    {
+      "id": "lectio1",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio I",
+        "de": "1. Lesung (Matutin)"
+      },
+      "text": {
+        "la": "De libro Exodi 1 Móyses autem pascébat oves Jethro sóceri sui sacerdótis Mádian; cumque minásset gregem ad interióra desérti, venit ad montem Dei Horeb. 2 Apparuítque ei Dóminus in flamma ignis de médio rubi; et vidébat quod rubus ardéret et non comburerétur. 3 Dixit ergo Móyses: Vadam, et vidébo visiónem hanc magnam, quare non comburátur rubus. 4 Cernens autem Dóminus quod pérgeret ad vidéndum, vocávit eum de médio rubi, et ait: Móyses, Móyses! Qui respóndit: Adsum. 5 At ille: Ne apprópies, inquit, huc: solve calceaméntum de pédibus tuis; locus enim, in quo stas, terra sancta est. 6 Et ait: Ego sum Deus patris tui, Deus Abraham, Deus Isaac, et Deus Jacob. Abscóndit Móyses fáciem suam: non enim audébat aspícere contra Deum."
+      },
+      "reference": {
+        "la": "Exod 3:1-6",
+        "de": "Exod 3:1-6"
+      }
+    },
+    {
+      "id": "resp1",
+      "kind": "proprium",
+      "title": {
+        "la": "Responsorium I",
+        "de": "Responsorium I"
+      },
+      "text": {
+        "la": "Locútus est Dóminus ad Móysen, dicens: Descénde in Ægýptum, et dic Pharaóni: * Ut dimíttat pópulum meum: indurátum est cor Pharaónis: non vult dimíttere pópulum meum, nisi in manu forti. Clamor filiórum Israël venit ad me, vidíque afflictiónem eórum: sed veni, mittam te ad Pharaónem. Ut dimíttat pópulum meum: indurátum est cor Pharaónis: non vult dimíttere pópulum meum, nisi in manu forti."
+      }
+    }
+  ]
+}

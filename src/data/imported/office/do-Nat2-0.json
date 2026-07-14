@@ -1,0 +1,94 @@
+{
+  "id": "do-Nat2-0",
+  "form": "1962",
+  "note": "Stundengebet – Proprium des Tages aus Divinum Officium (gemeinfrei), Latein/Deutsch.",
+  "day": {
+    "title": {
+      "la": "Sanctissimi Nominis Jesu",
+      "de": "Fest des heiligsten Namens Jesu"
+    },
+    "color": "white"
+  },
+  "sections": [
+    {
+      "id": "ant-vespera",
+      "kind": "proprium",
+      "title": {
+        "la": "Ad Vesperas",
+        "de": "Antiphonen zur Vesper"
+      },
+      "text": {
+        "la": "Omnis * qui invocáverit nomen Dómini, salvus erit. · Sanctum et terríbile * nomen ejus, inítium sapiéntiæ timor Dómini. · Ego autem * in Dómino gaudébo, et exsultábo in Deo Jesu meo. · A solis ortu * usque ad occásum laudábile nomen Dómini. · Sacrificábo * hóstiam laudis, et nomen Dómini invocábo.",
+        "de": "Jeder, * der anruft den Namen des Herrn, wird zum Heil gelangen. · Heilig und verehrungswürdig * ist der Name des Herrn, das Wesen aller Weisheit ist die Ehrfurcht vor dem Herrn. · Ich aber * habe meine Freude an dem Herrn und juble über Gott, der Jesus mir geworden. · Vom Sonnenaufgang * bis zum Untergang soll Lob erschallen dem Namen des Herrn. · Ich will darbringen * ihm zum Lob ein Opfer und den Namen des Herrn preisen."
+      }
+    },
+    {
+      "id": "ant-laudes",
+      "kind": "proprium",
+      "title": {
+        "la": "Ad Laudes",
+        "de": "Antiphonen zu den Laudes"
+      },
+      "text": {
+        "la": "Nomen tuum, Dómine, * decet sanctitudo in longitúdinem diérum. · Oleum effúsum * Nomen tuum, ídeo adolescéntulæ dilexérunt te. · Magnum est * Nomen meum, et honorábile in Géntibus, dicit Dóminus. · Jesus Nazarénus * Rex Judæórum, Imperátor cœli, et Dóminus dominántium. · Vincénti dabo * manna abscónditum, et Nomen novum scriptum, quod nemo scit, nisi qui áccipit.",
+        "de": "Wie ausgegossenes Öl * ist dein Name, darum lieben dich die jugendlichen Wesen. · Wisset, * dass der Herr selbst Gott ist, sein Name bleibt auf ewig. · Es dürstet * meine Seele, nach deinem heiligen Namen, o Herr. · Gepriesen sei * dein heiliger und ruhmvoller Name, er sei gelobt und über alles erhaben in ewige Zeiten. · Jünglinge und Jungfrauen, * Greise mit den Kindern mögen loben den Namen des Herrn, denn sein Name ragt allein empor über alles."
+      }
+    },
+    {
+      "id": "capitulum-laudes",
+      "kind": "proprium",
+      "title": {
+        "la": "Capitulum",
+        "de": "Kurzlesung (Laudes)"
+      },
+      "text": {
+        "la": "Fratres: Christus humiliávit semetípsum, factus obédiens usque ad mortem, mortem autem crucis. Propter quod et Deus exaltávit illum, et donávit illi nomen, quod est super omne nomen, ut in nómine Jesu omne genu flectátur.",
+        "de": "Brüder, Christus hat sich unterwürfig gemacht, indem er gehorsam geworden ist, selbst wo er sterben sollte, und zwar sterben am Kreuze. Darum hat ihn Gott erhöht und ihm einen Namen gewährt, der da ist über alle Namen, so dass vor dem Namen Jesu sich beugen müssen alle Knie."
+      },
+      "reference": {
+        "la": "Phil 2:8-10",
+        "de": "Phil 2:8-10"
+      }
+    },
+    {
+      "id": "oratio",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui unigénitum Fílium tuum constituísti humáni géneris Salvatórem, et Jesum vocári jussísti: concéde propítius; ut, cujus sanctum nomen venerámur in terris, ejus quoque aspéctu perfruámur in cælis.",
+        "de": "O Gott, der du deinen eingeborenen Sohn zum Erlöser des ganzen Menschengeschlechtes bestimmt und angeordnet hast, daß er Jesus heißt, verleihe uns in deiner Güte die Gnade, daß wir, die wir seine heilige Majestät auf Erden verehren, auch an seinem Anblick im Himmel Freude haben."
+      }
+    },
+    {
+      "id": "lectio1",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio I",
+        "de": "1. Lesung (Matutin)"
+      },
+      "text": {
+        "la": "De Actibus Apostolórum 1 Petrus autem et Joánnes ascendébant in templum ad horam oratiónis nonam. 2 Et quidam vir, qui erat claudus ex útero matris suæ, bajulabátur; quem ponébant cotídie ad portam templi, quæ dícitur Speciósa, ut péteret eleemósynam ab introëúntibus in templum. 3 Is, cum vidísset Petrum et Joánnem incipiéntes introíre in templum, rogábat ut eleemósynam accíperet. 4 Intuens autem in eum Petrus cum Joánne, dixit: Réspice in nos. 5 At ille intendébat in eos, sperans se áliquid acceptúrum ab eis. 6 Petrus autem dixit: Argéntum et aurum non est mihi: quod autem hábeo, hoc tibi do: In nómine Jesu Christi Nazaréni surge, et ámbula. 7 Et, apprehénsa manu ejus déxtera, allevávit eum, et prótinus consolidátæ sunt bases ejus, et plantæ. 8 Et exsíliens stetit, et ambulábat; et intrávit cum illis in templum ámbulans, et exsíliens, et laudans Deum.",
+        "de": "De Actibus Apostolórum 1 Petrus autem et Joánnes ascendébant in templum ad horam oratiónis nonam. 2 Et quidam vir, qui erat claudus ex útero matris suæ, bajulabátur; quem ponébant quotídie ad portam templi, quæ dícitur Speciósa, ut péteret eleemosynam ab introëúntibus in templum. 3 Is, cum vidísset Petrum et Joánnem incipiéntes introíre in templum, rogábat ut eleemósynam accíperet. 4 Intuens autem in eum Petrus cum Joánne, dixit: Réspice in nos. 5 At ille intendébat in eos, sperans se áliquid acceptúrum ab eis. 6 Petrus autem dixit: Argéntum et aurum non est mihi: quod autem habeo, hoc tibi do: In nómine Jesu Christi Nazaréni surge, et ámbula. 7 Et, apprehensa manu ejus déxtera, allevávit eum, et prótinus consolidátæ sunt bases ejus, et plantæ. 8 Et exsiliens stetit, et ambulábat; et intrávit cum illis in templum ámbulans, et exsiliens, et laudans Deum."
+      },
+      "reference": {
+        "la": "Act 3:1-8",
+        "de": "Act 3:1-8"
+      }
+    },
+    {
+      "id": "resp1",
+      "kind": "proprium",
+      "title": {
+        "la": "Responsorium I",
+        "de": "Responsorium I"
+      },
+      "text": {
+        "la": "Ecce concípies, et paries fílium, et vocábis nomen ejus Jesum: * Ipse enim salvum fáciet pópulum suum a peccátis eórum. Vocátum est nomen ejus Jesus, quod vocátum est ab Angelo, priúsquam in útero conciperétur. Ipse enim salvum fáciet pópulum suum a peccátis eórum.",
+        "de": "Ecce concípies, et paries fílium, et vocábis nomen ejus Jesum: * Ipse enim salvum fáciet pópulum suum a peccátis eórum. Vocátum est nomen ejus Jesus, quod vocátum est ab Angelo, priúsquam in útero conciperétur. Ipse enim salvum fáciet pópulum suum a peccátis eórum."
+      }
+    }
+  ]
+}

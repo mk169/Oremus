@@ -55,3 +55,42 @@
   font-style: italic;
   font-size: 0.9rem;
 }
+
+.brev-propers {
+  list-style: none;
+  margin: 0.6rem 0 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 0.35rem;
+}
+
+.brev-propers__link {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 0.7rem;
+  border: 1px solid var(--surface-line);
+  border-radius: var(--radius);
+  background: var(--surface-raised);
+  transition: border-color 0.15s ease;
+}
+
+.brev-propers__link:hover {
+  border-color: var(--gold);
+}
+
+.brev-propers__dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  flex: 0 0 auto;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+.brev-propers__name {
+  font-family: var(--font-display);
+  color: var(--accent);
+  font-size: 1rem;
+  line-height: 1.15;
+}

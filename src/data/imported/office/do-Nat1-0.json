@@ -1,0 +1,42 @@
+{
+  "id": "do-Nat1-0",
+  "form": "1962",
+  "note": "Stundengebet – Proprium des Tages aus Divinum Officium (gemeinfrei), Latein/Deutsch.",
+  "day": {
+    "title": {
+      "la": "Dominica Infra Octavam Nativitatis",
+      "de": "Sonntag innerhalb der Weihnachtsoktav"
+    },
+    "color": "white"
+  },
+  "sections": [
+    {
+      "id": "capitulum-laudes",
+      "kind": "proprium",
+      "title": {
+        "la": "Capitulum",
+        "de": "Kurzlesung (Laudes)"
+      },
+      "text": {
+        "la": "Fratres: Quanto témpore heres párvulus est, nihil differt a servo, cum sit dóminus ómnium: sed sub tutóribus et actóribus est usque ad præfínitum tempus a patre.",
+        "de": "Brüder, solange der künftige Eigentümer im Haus ein Kind ist, unterscheidet er sich in nichts vom Knechte, obwohl er der Herr von allem ist. Im Gegenteil, er steht unter den Erziehern und Verwaltern bis zu der vom Vater bestimmten Zeit."
+      },
+      "reference": {
+        "la": "Gal 4:1-2",
+        "de": "Gal 4:1-2"
+      }
+    },
+    {
+      "id": "oratio",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Omnípotens sempitérne Deus, dírige actus nostros in beneplácito tuo: ut in nómine dilécti Fílii tui mereámur bonis opéribus abundáre:",
+        "de": "Allmächtiger, ewiger Gott, lenke unsere Handlungen gemäß deinem Wohlgefallen, damit wir als Anhänger deines geliebten Sohnes würdig werden, in guten Werken immer mehr zuzunehmen."
+      }
+    }
+  ]
+}

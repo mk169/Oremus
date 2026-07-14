@@ -1,0 +1,66 @@
+{
+  "id": "do-Pasc3-0",
+  "form": "1962",
+  "note": "Stundengebet – Proprium des Tages aus Divinum Officium (gemeinfrei), Latein/Deutsch.",
+  "day": {
+    "title": {
+      "la": "Dominica III Post Pascha",
+      "de": "Dritter Sonntag nach Ostern"
+    },
+    "color": "white"
+  },
+  "sections": [
+    {
+      "id": "capitulum-laudes",
+      "kind": "proprium",
+      "title": {
+        "la": "Capitulum",
+        "de": "Kurzlesung (Laudes)"
+      },
+      "text": {
+        "la": "Caríssimi: Obsecro vos tamquam ádvenas et peregrínos abstinére vos a carnálibus desidériis, quæ mílitant advérsus ánimam."
+      },
+      "reference": {
+        "la": "1 Pet 2:11",
+        "de": "1 Pet 2:11"
+      }
+    },
+    {
+      "id": "oratio",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui errántibus, ut in viam possint redíre justítiæ, veritátis tuæ lumen osténdis: da cunctis, qui christiána professióne censéntur, et illa respúere, quæ huic inimíca sunt nómini; et ea, quæ sunt apta, sectári."
+      }
+    },
+    {
+      "id": "lectio1",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio I",
+        "de": "1. Lesung (Matutin)"
+      },
+      "text": {
+        "la": "Incipit liber Apocalýpsis beáti Joánnis Apóstoli 1 Apocalýpsis Jesu Christi, quam dedit illi Deus palam fácere servis suis, quæ opórtet fíeri cito: et significávit, mittens per ángelum suum servo suo Joánni, 2 qui testimónium perhíbuit verbo Dei, et testimónium Jesu Christi, quæcúmque vidit. 3 Beátus qui legit, et audit verba prophetíæ hujus, et servat ea, quæ in ea scripta sunt: tempus enim prope est. 4 Joánnes septem ecclésiis, quæ sunt in Asia. Grátia vobis, et pax ab eo, qui est, et qui erat, et qui ventúrus est: et a septem spirítibus qui in conspéctu throni ejus sunt: 5 et a Jesu Christo, qui est testis fidélis, primogénitus mortuórum, et princeps regum terræ, qui diléxit nos, et lavit nos a peccátis nostris in sánguine suo, 6 et fecit nos regnum, et sacerdótes Deo et Patri suo: ipsi glória et impérium in sǽcula sæculórum. Amen."
+      },
+      "reference": {
+        "la": "Apo 1:1-6",
+        "de": "Apo 1:1-6"
+      }
+    },
+    {
+      "id": "resp1",
+      "kind": "proprium",
+      "title": {
+        "la": "Responsorium I",
+        "de": "Responsorium I"
+      },
+      "text": {
+        "la": "Dignus es, Dómine, accípere librum, et aperíre signácula ejus, allelúja: quóniam occísus es, et redemísti nos Deo * In sánguine tuo, allelúja. Fecísti enim nos Deo nostro regnum et sacerdótium. In sánguine tuo, allelúja."
+      }
+    }
+  ]
+}

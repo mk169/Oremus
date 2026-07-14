@@ -1,0 +1,82 @@
+{
+  "id": "do-Quadp1-0",
+  "form": "1962",
+  "note": "Stundengebet – Proprium des Tages aus Divinum Officium (gemeinfrei), Latein/Deutsch.",
+  "day": {
+    "title": {
+      "la": "Dominica in Septuagesima",
+      "de": "Sonntag Septuagesima"
+    },
+    "color": "violet"
+  },
+  "sections": [
+    {
+      "id": "ant-laudes",
+      "kind": "proprium",
+      "title": {
+        "la": "Ad Laudes",
+        "de": "Antiphonen zu den Laudes"
+      },
+      "text": {
+        "la": "Miserére * mei, Deus, et a delícto meo munda me: quia tibi soli peccávi. · Confitébor * tibi, quóniam exaudísti me. · Deus, Deus meus, * ad te de luce vígilo, quia factus es adjútor meus. · Benedíctus es * in firmaménto cæli, et laudábilis in sǽcula, Deus noster. · Laudáte * Dóminum de cælis.",
+        "de": "O sei doch gnädig * mir, o Gott, und mach mich rein von meiner Sünde: denn dir allein bin ich schuldig geworden. · Ich preise * dich, weil du mich erhört hast. · O Gott, mein Gott, * nach dir späh ich beim frühsten Morgenschimmer, denn du bist ein Helfer mir geworden. · Du bist gepriesen, * der du thronest auf dem Firmament des Himmels, und alles Lobs auf ewig würdig, o unser Gott. · O lobt * den Herrn, ihr vom Himmel."
+      }
+    },
+    {
+      "id": "capitulum-laudes",
+      "kind": "proprium",
+      "title": {
+        "la": "Capitulum",
+        "de": "Kurzlesung (Laudes)"
+      },
+      "text": {
+        "la": "Fratres: Nescítis quod ii qui in stádio currunt, omnes quidem currunt, sed unus áccipit bravíum? Sic cúrrite ut comprehendátis.",
+        "de": "Brüder! Wisset ihr nicht, daß die Renner in der Wettbahn zwar alle rennen, daß aber nur einer den Preis gewinnt? Also werdet Renner, daß ihr Gewinner werdet."
+      },
+      "reference": {
+        "la": "1 Cor 9:24",
+        "de": "1 Cor 9:24"
+      }
+    },
+    {
+      "id": "oratio",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Preces pópuli tui, quǽsumus, Dómine, cleménter exáudi: ut, qui juste pro peccátis nostris afflígimur, pro tui nóminis glória misericórditer liberémur.",
+        "de": "Wir bitten dich, o Herr, erhöre gnädig die Bitten deines Volkes, damit wir, die wir in berechtigter Weise für unsere Sünden gezüchtigt werden, zum Ruhme für deine Majestät durch deine Barmherzigkeit davon befreit werden."
+      }
+    },
+    {
+      "id": "lectio1",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio I",
+        "de": "1. Lesung (Matutin)"
+      },
+      "text": {
+        "la": "Incipit liber Génesis 1 In princípio creávit Deus cælum et terram. 2 Terra autem erat inánis et vácua, et ténebræ erant super fáciem abýssi: et spíritus Dei ferebátur super aquas. 3 Dixítque Deus: Fiat lux. Et facta est lux. 4 Et vidit Deus lucem quod esset bona: et divísit lucem a ténebris. 5 Appellavítque lucem Diem, et ténebras Noctem: factúmque est véspere et mane, dies unus. 6 Dixit quoque Deus: Fiat firmaméntum in médio aquárum: et dívidat aquas ab aquis. 7 Et fecit Deus firmaméntum, divisítque aquas, quæ erant sub firmaménto, ab his, quæ erant super firmaméntum. Et factum est ita. 8 Vocavítque Deus firmaméntum, Cælum: et factum est véspere et mane, dies secúndus.",
+        "de": "Anfang des Buches Genesis. 1 Im Anfange schuf Gott Himmel und Erde. 2 Aber die Erde war wüst und leer, und Finsternis war über den Tiefen, und der Geist Gottes schwebte über den Wassermassen. 3 Und Gott sprach: Es werde Licht! Und es ward Licht. 4 Und Gott sah das Licht, dass es gut war, und er schied das Licht von der Finsternis 5 und nannte das Licht Tag und die Finsternis Nacht; und es war Abend und Morgen, ein Tag. 6 Und Gott sprach: Es werde ein Firmament in der Mitte der Wassermassen und sondere Wasser vom Wasser. 7 Und Gott machte das Firmament und sonderte die Wassermassen, welche unter dem Firmament waren, von denen, die über dem Firmament waren. Und also geschah es. 8 Und Gott nannte das Firmament Himmel; und es ward Abend und Morgen, der zweite Tag."
+      },
+      "reference": {
+        "la": "Gen 1:1-8",
+        "de": "Gen 1:1-8"
+      }
+    },
+    {
+      "id": "resp1",
+      "kind": "proprium",
+      "title": {
+        "la": "Responsorium I",
+        "de": "Responsorium I"
+      },
+      "text": {
+        "la": "In princípio creávit Deus cælum, et terram, et fecit in ea hóminem, * Ad imáginem et similitúdinem suam. Formávit ígitur Deus hóminem de limo terræ, et inspirávit in fáciem ejus spiráculum vitæ. Ad imáginem et similitúdinem suam.",
+        "de": "Am Anfang schuf Gott Himmel und Erde und bildete auf ihr den Menschen, * Nach seinem Vorbild und ihm ähnlich. Also formte Gott den Menschen aus Erdenlehm und hauchte ihm ins Antlitz den Odem des Lebens. Nach seinem Vorbild und ihm ähnlich."
+      }
+    }
+  ]
+}

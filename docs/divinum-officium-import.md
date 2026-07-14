@@ -48,12 +48,27 @@ Zeilen mit `!` werden als Schriftstellen gesammelt; Makros/Includes (`&`, `$`,
 - Der Liturgie-Hub listet alle Formulare; `/liturgie/formular/:id` zeigt sie
   (Ordinarium + Proprium) über `ImportedMassView` → `MassArticle`.
 
+## Offizium (Brevier) – zweisprachig
+
+Anders als beim Mess-Proprium hat DO beim **Stundengebet auch deutsche Texte**.
+`scripts/fetch-do-office.mjs` (`npm run officium:fetch`) importiert die Tagesproprien
+der Sonntage aus `web/www/horas/{Latin,Deutsch}/Tempora/` nach
+`src/data/imported/office/` – **Latein/Deutsch**:
+
+- `[Ant Vespera]` / `[Ant Laudes]` → Antiphonen zur Vesper / zu den Laudes
+- `[Capitulum Laudes]` → Kurzlesung
+- `[Oratio]` → Tagesgebet
+- `[Lectio1]` / `[Responsory1]` → erste Matutin-Lesung samt Responsorium
+
+Angezeigt im Brevier-Hub („Proprium des Tages") → `/brevier/proprium/:id`
+(`OfficePropersView` → `MassArticle`). DO-Bedingungsrubriken in Klammern
+(`(sed rubrica …)`) werden herausgefiltert; fehlt eine Sprache in einem Abschnitt,
+wird die vorhandene angezeigt. Psalmen/Hour-Ordinarium (aus Psalterium/Ordo) sind
+noch nicht zusammengesetzt – der nächste Ausbauschritt.
+
 ## Erweitern
 
-- Weitere Tage/Feste: die Schlüssel-Listen `TEMPORA`/`SANCTI` im Skript ergänzen und
-  `npm run missa:fetch` erneut ausführen.
-- **Offizium/Brevier:** DO hat hier auch **deutsche** Texte (Antiphonen usw.). Ein
-  Import ist möglich, aber aufwendiger, da Psalmen/Antiphonen über Verweise
-  (`@…`, Psalterium) zusammengesetzt werden – ein sinnvoller nächster Schritt.
-- **Deutsches Mess-Proprium:** benötigt eine andere gemeinfreie Quelle (z. B. ein
-  historisches Messbuch) oder manuelle Ergänzung in den JSON-Dateien.
+- Weitere Tage/Feste: die Schlüssel-Listen im jeweiligen Skript ergänzen und
+  `npm run missa:fetch` bzw. `npm run officium:fetch` erneut ausführen.
+- **Deutsches Mess-Proprium:** bei DO nicht vorhanden; benötigt eine andere
+  gemeinfreie Quelle (z. B. ein historisches Messbuch) oder manuelle Ergänzung.

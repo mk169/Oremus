@@ -1,0 +1,94 @@
+{
+  "id": "do-Epi1-0",
+  "form": "1962",
+  "note": "Stundengebet – Proprium des Tages aus Divinum Officium (gemeinfrei), Latein/Deutsch.",
+  "day": {
+    "title": {
+      "la": "Sanctæ Familiæ Jesu Mariæ Joseph",
+      "de": "Fest der Heiligen Familie Jesus, Maria und Joseph"
+    },
+    "color": "white"
+  },
+  "sections": [
+    {
+      "id": "ant-vespera",
+      "kind": "proprium",
+      "title": {
+        "la": "Ad Vesperas",
+        "de": "Antiphonen zur Vesper"
+      },
+      "text": {
+        "la": "Jacob autem * génuit Joseph virum Maríæ; de qua natus est Jesus, qui vocátur Christus.;;109 · Angelus Dómini * appáruit in somnis Joseph, dicens: Joseph, fili David, noli timére accípere Maríam cónjugem tuam; quod enim in ea natum est, de Spíritu Sancto est.;;112 · Pastóres venérunt * festinántes, et invenérunt Maríam, et Joseph, et Infántem pósitum in præsépio.;;121 · Magi, intrántes domum, * invenérunt Púerum cum María, matre ejus.;;126 · Erat Pater ejus * et Mater mirántes super his quæ dicebántur de illo.;;147",
+        "de": "Jacob autem * génuit Joseph virum Maríæ; de qua natus est Jesus, qui vocátur Christus.;;109 · Angelus Dómini * appáruit in somnis Joseph, dicens: Joseph, fili David, noli timére accípere Maríam conjúgem tuam; quod enim in ea natum est, de Spíritu Sancto est.;;112 · Pastores venérunt * festinántes, et invenérunt Maríam, et Joseph, et Infántem pósitum in præsépio.;;121 · Magi, intrántes domum, * invenérunt Puerum cum María, matre ejus.;;126 · Erat Pater ejus * et Mater mirántes super his quæ dicebántur de illo.;;147"
+      }
+    },
+    {
+      "id": "ant-laudes",
+      "kind": "proprium",
+      "title": {
+        "la": "Ad Laudes",
+        "de": "Antiphonen zu den Laudes"
+      },
+      "text": {
+        "la": "Post tríduum * invenérunt Jesum in templo sedéntem in médio doctórum, audiéntem illos, et interrogántem eos. · Dixit mater Jesu * ad illum: Fili, quid fecísti nobis sic? Ecce pater tuus et ego doléntes quærebámus te. · Descéndit Jesus * cum eis, et venit Názareth, et erat súbditus illis. · Et Jesus proficiébat * sapiéntia, et ætáte, et grátia apud Deum et hómines. · Et dicébant: * Unde huic sapiéntia hæc, et virtútes? Nonne hic est fabri fílius?",
+        "de": "Post triduum * invenérunt Jesum in templo sedéntem in médio doctórum, audiéntem illos, et interrogántem eos. · Dixit mater Jesu * ad illum: Fili, quid fecísti nobis sic? Ecce pater tuus et ego doléntes quærebámus te. · Descéndit Jesus * cum eis, et venit Názareth, et erat súbditus illis. · Et Jesus proficiébat * sapiéntia, et ætate, et grátia apud Deum et hómines. · Et dicébant: * Unde huic sapiéntia hæc, et virtútes? Nonne hic est fabri fílius?"
+      }
+    },
+    {
+      "id": "capitulum-laudes",
+      "kind": "proprium",
+      "title": {
+        "la": "Capitulum",
+        "de": "Kurzlesung (Laudes)"
+      },
+      "text": {
+        "la": "Descéndit Jesus cum María et Joseph, et venit Názareth: et erat súbditus illis.",
+        "de": "Jesus stieg hinab mit Maria und Joseph und kam nach Nazareth und er war ihnen untertan."
+      },
+      "reference": {
+        "la": "Luc 2:51",
+        "de": "Luc 2:51"
+      }
+    },
+    {
+      "id": "oratio",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Dómine Jesu Christe, qui, Maríæ et Joseph súbditus, domésticam vitam ineffabílibus virtútibus consecrásti: fac nos, utriúsque auxílio, Famíliæ sanctæ tuæ exémplis ínstrui; et consórtium cónsequi sempitérnum:",
+        "de": "Dómine Iesu Christe, qui, Maríæ et Joseph súbditus, domésticam vitam ineffabílibus virtútibus consecrásti: fac nos, utriúsque auxílio, Famíliæ sanctæ tuæ exémplis ínstrui; et consórtium cónsequi sempitérnum:"
+      }
+    },
+    {
+      "id": "lectio1",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio I",
+        "de": "1. Lesung (Matutin)"
+      },
+      "text": {
+        "la": "De Epístola beáti Pauli Apóstoli ad Colossénses 12 Indúite vos ergo sicut elécti Dei, sancti, et dilécti, víscera misericórdiæ, benignitátem, humilitátem, modéstiam, patiéntiam: 13 supportántes ínvicem, et donántes vobismetípsis si quis advérsus áliquem habet querélam: sicut et Dóminus donávit vobis, ita et vos. 14 Super ómnia autem hæc, caritátem habéte, quod est vínculum perfectiónis: 15 et pax Christi exsúltet in córdibus vestris, in qua et vocáti estis in uno córpore: et grati estóte. 16 Verbum Christi hábitet in vobis abundánter, in omni sapiéntia, docéntes, et commonéntes vosmetípsos, psalmis, hymnis et cánticis spirituálibus, in grátia cantántes in córdibus vestris Deo.",
+        "de": "De Epistola beáti Pauli Apóstoli ad Colossénses 12 Indúite vos ergo sicut elécti Dei, sancti, et dilécti, víscera misericórdiæ, benignitátem, humilitátem, modéstiam, patiéntiam: 13 supportántes ínvicem, et donántes vobismetípsis si quis advérsus áliquem habet querélam: sicut et Dóminus donávit vobis, ita et vos. 14 Super ómnia autem hæc, caritátem habéte, quod est vínculum perfectiónis: 15 et pax Christi exsúltet in córdibus vestris, in qua et vocáti estis in uno córpore: et gráti estóte. 16 Verbum Christi hábitet in vobis abundánter, in omni sapiéntia, docéntes, et commonéntes vosmetípsos, psalmis, hymnis et cánticis spirituálibus, in grátia cantántes in córdibus vestris Deo."
+      },
+      "reference": {
+        "la": "Col 3:12-16",
+        "de": "Col 3:12-16"
+      }
+    },
+    {
+      "id": "resp1",
+      "kind": "proprium",
+      "title": {
+        "la": "Responsorium I",
+        "de": "Responsorium I"
+      },
+      "text": {
+        "la": "Deus noster in terris visus est, * Et cum homínibus conversátus est. Hic adinvénit omnem viam disciplínæ, et trádidit illam Jacob púero suo. Et cum homínibus conversátus est.",
+        "de": "Deus noster in terris visus est, * Et cum homínibus conversátus est. Hic adinvénit omnem viam disciplinæ, et trádidit illam Jacob púero suo. Et cum homínibus conversátus est."
+      }
+    }
+  ]
+}

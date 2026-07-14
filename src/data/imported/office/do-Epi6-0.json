@@ -1,0 +1,40 @@
+{
+  "id": "do-Epi6-0",
+  "form": "1962",
+  "note": "Stundengebet – Proprium des Tages aus Divinum Officium (gemeinfrei), Latein/Deutsch.",
+  "day": {
+    "title": {
+      "la": "Dominica VI Post Epiphaniam",
+      "de": "Sechster Sonntag nach Erscheinung"
+    },
+    "color": "white"
+  },
+  "sections": [
+    {
+      "id": "oratio",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Præsta, quǽsumus, omnípotens Deus: ut, semper rationabília meditántes, quæ tibi sunt plácita, et dictis exsequámur et factis."
+      }
+    },
+    {
+      "id": "lectio1",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio I",
+        "de": "1. Lesung (Matutin)"
+      },
+      "text": {
+        "la": "Incipit Epístola beáti Pauli Apóstoli ad Hebrǽos 1 Multifáriam, multísque modis olim Deus loquens pátribus in prophétis: 2 novíssime, diébus istis locútus est nobis in Fílio, quem constítuit herédem universórum, per quem fecit et sǽcula: 3 qui cum sit splendor glóriæ, et figúra substántiæ ejus, portánsque ómnia verbo virtútis suæ, purgatiónem peccatórum fáciens, sedet ad déxteram majestátis in excélsis: 4 tanto mélior ángelis efféctus, quanto differéntius præ illis nomen hereditávit."
+      },
+      "reference": {
+        "la": "Heb 1:1-4",
+        "de": "Heb 1:1-4"
+      }
+    }
+  ]
+}

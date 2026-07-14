@@ -1,0 +1,40 @@
+{
+  "id": "do-Epi3-0",
+  "form": "1962",
+  "note": "Stundengebet – Proprium des Tages aus Divinum Officium (gemeinfrei), Latein/Deutsch.",
+  "day": {
+    "title": {
+      "la": "Dominica III Post Epiphaniam",
+      "de": "Dritter Sonntag nach Erscheinung"
+    },
+    "color": "white"
+  },
+  "sections": [
+    {
+      "id": "oratio",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Omnípotens sempitérne Deus, infirmitátem nostram propítius réspice: atque, ad protegéndum nos, déxteram tuæ majestátis exténde."
+      }
+    },
+    {
+      "id": "lectio1",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio I",
+        "de": "1. Lesung (Matutin)"
+      },
+      "text": {
+        "la": "Incipit Epístola beáti Pauli Apóstoli ad Gálatas 1 Paulus Apóstolus non ab homínibus, neque per hóminem, sed per Jesum Christum, et Deum Patrem, qui suscitávit eum a mórtuis: 2 et qui mecum sunt omnes fratres, ecclésiis Galátiæ. 3 Grátia vobis, et pax a Deo Patre, et Dómino nostro Jesu Christo, 4 qui dedit semetípsum pro peccátis nostris, ut eríperet nos de præsénti sǽculo nequam, secúndum voluntátem Dei et Patris nostri, 5 cui est glória in sǽcula sæculórum. Amen."
+      },
+      "reference": {
+        "la": "Gal 1:1-5",
+        "de": "Gal 1:1-5"
+      }
+    }
+  ]
+}

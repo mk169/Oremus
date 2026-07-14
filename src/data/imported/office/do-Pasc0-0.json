@@ -1,0 +1,66 @@
+{
+  "id": "do-Pasc0-0",
+  "form": "1962",
+  "note": "Stundengebet – Proprium des Tages aus Divinum Officium (gemeinfrei), Latein/Deutsch.",
+  "day": {
+    "title": {
+      "la": "Dominica Resurrectionis",
+      "de": "Sonntag der Auferstehung des Herrn"
+    },
+    "color": "white"
+  },
+  "sections": [
+    {
+      "id": "ant-laudes",
+      "kind": "proprium",
+      "title": {
+        "la": "Ad Laudes",
+        "de": "Antiphonen zu den Laudes"
+      },
+      "text": {
+        "la": "Angelus autem Dómini * descéndit de cælo, et accédens revólvit lápidem, et sedébat super eum, allelúja, allelúja. · Et ecce terræmótus * factus est magnus: Angelus enim Dómini descéndit de cælo, allelúja. · Erat autem * aspéctus ejus sicut fulgur, vestiménta autem ejus sicut nix, allelúja, allelúja. · Præ timóre autem ejus * extérriti sunt custódes, et facti sunt velut mórtui, allelúja. · Respóndens autem Angelus, * dixit muliéribus: Nolíte timére: scio enim quod Jesum quǽritis, allelúja.",
+        "de": "Der Engel des Herrn aber * stieg vom Himmel herab, trat an den Stein, wälzte ihn weg und setzte sich auf ihn, alleluja, alleluja. · Und es erbebte die Erde * ganz gewaltig: denn der Engel des Herrn stieg vom Himmel herab, alleluja. · Es war aber * sein Aussehen wie ein Blitzlicht und seine Kleider waren wie der Schnee, alleluja, alleluja. · In der Angst vor ihm aber * erschraken die Wächter, und waren wie tot, alleluja. · Es erwiderte aber der Engel * und sagte den Frauen: Fürchtet euch nicht: denn ich weiß, dass ihr Jesum sucht, alleluja."
+      }
+    },
+    {
+      "id": "oratio",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui hodiérna die per Unigénitum tuum æternitátis nobis áditum devícta morte reserásti: vota nostra, quæ præveniéndo aspíras, étiam adjuvándo proséquere.",
+        "de": "O Gott, der du am heutigen Tage durch deinen eingeborenen Sohn den Tod unschädlich gemacht hast und uns dadurch den Zutritt zum ewigen Leben aufgeschlossen hast, begleite unsere Wünsche, die du uns mit zuvorkommender Gnade eingibst, auch mit deiner ständigen Hilfe."
+      }
+    },
+    {
+      "id": "lectio1",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio I",
+        "de": "1. Lesung (Matutin)"
+      },
+      "text": {
+        "la": "Léctio sancti Evangélii secúndum Marcum In illo témpore: María Magdaléne, et María Jacóbi, et Salóme emérunt arómata, ut veniéntes úngerent Jesum. Et réliqua. _ Homilía sancti Gregórii Papæ Audístis, fratres caríssimi, quod sanctæ mulíeres, quæ Dóminum fúerant secútæ, cum aromátibus ad monuméntum venérunt, et ei, quem vivéntem diléxerant, étiam mórtuo, stúdio humanitátis obsequúntur. Sed res gesta áliquid in sancta Ecclésia signat geréndum. Sic quippe necésse est ut audiámus quæ facta sunt, quátenus cogitémus étiam quæ nobis sint ex eórum imitatióne faciénda. Et nos ergo in eum, qui est mórtuus, credéntes, si odóre virtútum reférti, cum opinióne bonórum óperum Dóminum quǽrimus, ad monuméntum profécto illíus cum aromátibus venímus. Illæ autem mulíeres Angelos vident, quæ cum aromátibus venérunt: quia vidélicet illæ mentes supérnos cives aspíciunt, quæ cum virtútum odóribus ad Dóminum per sancta desidéria proficiscúntur.",
+        "de": "Lesung aus dem heiligen Evangelium nach Markus. In jener Zeit kauften Maria Magdalena, Maria, die Mutter des Jakobus, und Salome Gewürze und Salben, um hinzugehen und Jesum zu salben. Und so weiter. _ Auslegung vom heiligen Papst Gregor. Ihr habt gehört, geliebteste Brüder, dass die heiligen Frauen, die dem Herrn gefolgt waren, mit Wohlgerüchen zum Grabe kamen und ihm, dem sie, so lange er lebte, in Liebe zugetan gewesen, auch, wo er tot war, in freundschaftlicher Absicht Dienste erweisen. Aber was sie getan, deutet etwas an, was in der heiligen Kirche zu geschehen hat. Wir müssen nämlich das, was sich ereignet hat, in der Weise hören, dass wir auch überlegen, was wir in Nachahmung desselben zu tun haben. Und so kommen wir, die wir an den Toten glauben, dann, wenn wir mit dem Wohlgeruch der Tugenden umduftet, mit dem Rufe des Eifers in guten Werken den Herrn suchen, ganz gewiss mit duftenden Salben an sein Grab. Solchen Frauen aber, die mit duftenden Salben kamen, sind Engel sichtbar geworden, weil eben jene Seelen die himmlischen Bürger zu schauen bekommen, die mit dem Wohlgeruch der Tugenden in heiliger Sehnsucht an den Herrn herangehen."
+      },
+      "reference": {
+        "la": "Marc 16:1-7; Homilia 21 in Evangelia",
+        "de": "Marc 16:1-7; Homilia 21 in Evangelia"
+      }
+    },
+    {
+      "id": "resp1",
+      "kind": "proprium",
+      "title": {
+        "la": "Responsorium I",
+        "de": "Responsorium I"
+      },
+      "text": {
+        "la": "Angelus Dómini descéndit de cælo, et accédens revólvit lápidem, et super eum sedit, et dixit muliéribus: * Nolíte timére: scio enim quia crucifíxum quǽritis: jam surréxit: veníte, et vidéte locum, ubi pósitus erat Dóminus, allelúja. Et introëúntes in monuméntum, vidérunt júvenem sedéntem in dextris, coopértum stola cándida, et obstupuérunt: qui dixit illis. Nolíte timére: scio enim quia crucifíxum quǽritis: jam surréxit: veníte, et vidéte locum, ubi pósitus erat Dóminus, allelúja. Angelus Dómini descéndit de cælo, et accédens revólvit lápidem, et super eum sedit, et dixit muliéribus: * Nolíte timére: scio enim quia crucifíxum quǽritis: jam surréxit: veníte, et vidéte locum, ubi pósitus erat Dóminus, allelúja.",
+        "de": "Der Engel des Herrn stieg vom Himmel herab, trat an den Stein, wälzte ihn weg und setzte sich auf ihn; und er sprach zu den Frauen: * Fürchtet euch nicht: denn ich weiß, dass ihr den Gekreuzigten sucht: er ist schon auferstanden: kommt näher und seht den Ort an, wo man den Herrn hingelegt hatte, alleluja. Und als sie in die Grabkammer eintraten, sahen sie einen jungen Mann zur Rechten sitzen, bekleidet mit einem weißen Gewande, und sie erschraken vor Staunen: der jedoch sagte ihnen: Fürchtet euch nicht: denn ich weiß, dass ihr den Gekreuzigten sucht: er ist schon auferstanden: kommt näher und seht den Ort an, wo man den Herrn hingelegt hatte, alleluja. Der Engel des Herrn stieg vom Himmel herab, trat an den Stein, wälzte ihn weg und setzte sich auf ihn; und er sprach zu den Frauen: * Fürchtet euch nicht: denn ich weiß, dass ihr den Gekreuzigten sucht: er ist schon auferstanden: kommt näher und seht den Ort an, wo man den Herrn hingelegt hatte, alleluja."
+      }
+    }
+  ]
+}

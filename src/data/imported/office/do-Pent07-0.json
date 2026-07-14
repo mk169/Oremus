@@ -1,0 +1,40 @@
+{
+  "id": "do-Pent07-0",
+  "form": "1962",
+  "note": "Stundengebet – Proprium des Tages aus Divinum Officium (gemeinfrei), Latein/Deutsch.",
+  "day": {
+    "title": {
+      "la": "Dominica VII Post Pentecosten",
+      "de": "Siebter Sonntag nach Pfingsten"
+    },
+    "color": "green"
+  },
+  "sections": [
+    {
+      "id": "oratio",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, cujus providéntia in sui dispositióne non fállitur: te súpplices exorámus; ut nóxia cuncta submóveas, et ómnia nobis profutúra concédas."
+      }
+    },
+    {
+      "id": "lectio1",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio I",
+        "de": "1. Lesung (Matutin)"
+      },
+      "text": {
+        "la": "Incipit liber tértius Regum 1 Et rex David senúerat habebátque ætátis plúrimos dies: cumque operirétur véstibus, non calefiébat. 2 Dixérunt ergo ei servi sui: Quærámus dómino nostro regi adolescéntulam vírginem, et stet coram rege et fóveat eum dormiátque in sinu suo et calefáciat dóminum nostrum regem. 3 Quæsiérunt ígitur adolescéntulam speciósam in ómnibus fínibus Israël et invenérunt Abísag Sunamítidem et adduxérunt eam ad regem. 4 Erat autem puélla pulchra nimis dormiebátque cum rege et ministrábat ei; rex vero non cognóvit eam."
+      },
+      "reference": {
+        "la": "3 Reg 1:1-4",
+        "de": "3 Reg 1:1-4"
+      }
+    }
+  ]
+}

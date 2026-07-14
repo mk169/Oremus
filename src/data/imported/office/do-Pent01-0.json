@@ -1,0 +1,78 @@
+{
+  "id": "do-Pent01-0",
+  "form": "1962",
+  "note": "Stundengebet – Proprium des Tages aus Divinum Officium (gemeinfrei), Latein/Deutsch.",
+  "day": {
+    "title": {
+      "la": "Dominica Sanctissimæ Trinitatis",
+      "de": "Fest der allerheiligsten Dreifaltigkeit"
+    },
+    "color": "green"
+  },
+  "sections": [
+    {
+      "id": "ant-vespera",
+      "kind": "proprium",
+      "title": {
+        "la": "Ad Vesperas",
+        "de": "Antiphonen zur Vesper"
+      },
+      "text": {
+        "la": "Glória tibi, Trínitas * æquális, una Déitas, et ante ómnia sǽcula, et nunc et in perpétuum.;;109 · Laus et perénnis glória * Deo Patri, et Fílio, Sancto simul Paráclito, in sæculórum sǽcula.;;110 · Glória laudis * résonet in ore ómnium, Patri, genitǽque Proli, Spirítui Sancto páriter resúltet laude perénni.;;111 · Laus Deo Patri, * parilíque Proli, et tibi, Sancte, stúdio perénni, Spíritus, nostro résonet ab ore, omne per ævum.;;112 · Ex quo ómnia, * per quem ómnia, in quo ómnia: ipsi glória in sǽcula.;;116"
+      }
+    },
+    {
+      "id": "capitulum-laudes",
+      "kind": "proprium",
+      "title": {
+        "la": "Capitulum",
+        "de": "Kurzlesung (Laudes)"
+      },
+      "text": {
+        "la": "O Altitúdo divitiárum sapiéntiæ, et sciéntiæ Dei, quam incomprehensibília sunt judícia ejus, et investigábiles viæ ejus!",
+        "de": "O Tiefe des Reichtums, der Weisheit und der Erkenntnis Gottes! Wie unergründlich sind seine Entscheidungen, wie unerforschlich seine Wege!"
+      },
+      "reference": {
+        "la": "Rom 11:33",
+        "de": "Rom 11:33"
+      }
+    },
+    {
+      "id": "oratio",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Omnípotens sempitérne Deus, qui dedísti fámulis tuis in confessióne veræ fídei, ætérnæ Trinitátis glóriam agnóscere, et in poténtia majestátis adoráre Unitátem: quǽsumus; ut, ejúsdem fídei firmitáte, ab ómnibus semper muniámur advérsis."
+      }
+    },
+    {
+      "id": "lectio1",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio I",
+        "de": "1. Lesung (Matutin)"
+      },
+      "text": {
+        "la": "De Isaía Prophéta 1 In anno, quo mórtuus est rex Ozías, vidi Dóminum sedéntem super sólium excélsum et elevátum: et ea, quæ sub ipso erant, replébant templum. 2 Séraphim stabant super illud: sex alæ uni, et sex alæ álteri, duábus velábant fáciem ejus, et duábus velábant pedes ejus, et duábus volábant. 3 Et clamábant alter ad álterum, et dicébant: Sanctus, sanctus, sanctus, Dóminus exercítuum, plena est omnis terra glória ejus. 4 Et commóta sunt superliminária cárdinum a voce clamántis, et domus repléta est fumo."
+      },
+      "reference": {
+        "la": "Isa 6:1-4",
+        "de": "Isa 6:1-4"
+      }
+    },
+    {
+      "id": "resp1",
+      "kind": "proprium",
+      "title": {
+        "la": "Responsorium I",
+        "de": "Responsorium I"
+      },
+      "text": {
+        "la": "Vidi Dóminum sedéntem super sólium excélsum et elevátum, et plena erat omnis terra majestáte ejus: * Et ea, quæ sub ipso erant, replébant templum. Séraphim stabant super illud: sex alæ uni, et sex alæ álteri. Et ea, quæ sub ipso erant, replébant templum."
+      }
+    }
+  ]
+}

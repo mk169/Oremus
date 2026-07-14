@@ -1,0 +1,58 @@
+{
+  "id": "do-Pasc1-0",
+  "form": "1962",
+  "note": "Stundengebet – Proprium des Tages aus Divinum Officium (gemeinfrei), Latein/Deutsch.",
+  "day": {
+    "title": {
+      "la": "Dominica in Albis in Octava Paschæ",
+      "de": "Weißer Sonntag, Oktav der Auferstehung"
+    },
+    "color": "white"
+  },
+  "sections": [
+    {
+      "id": "capitulum-laudes",
+      "kind": "proprium",
+      "title": {
+        "la": "Capitulum",
+        "de": "Kurzlesung (Laudes)"
+      },
+      "text": {
+        "la": "Caríssimi: Omne, quod natum est ex Deo, vincit mundum: et hæc est victória, quæ vincit mundum, fides nostra.",
+        "de": "Geliebteste: Alles, was seinen Ursprung in Gott hat, das überwindet die Welt: und das ist die siegreiche Kraft, die die Welt überwindet, unser Glaube."
+      },
+      "reference": {
+        "la": "1 Joann. 5:4",
+        "de": "1 Joann. 5:4"
+      }
+    },
+    {
+      "id": "oratio",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Præsta, quǽsumus, omnípotens Deus: ut qui paschália festa perégimus, hæc, te largiénte, móribus et vita teneámus.",
+        "de": "Gewähre uns, wir bitten dich, o allmächtiger Gott, die Gnade, daß wir, die wir das Auferstehungsfest gefeiert haben, dieses mit deiner gütigen Hilfe in unserem ganzen Benehmen und in unserer Lebensart festhalten."
+      }
+    },
+    {
+      "id": "lectio1",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio I",
+        "de": "1. Lesung (Matutin)"
+      },
+      "text": {
+        "la": "De Epístola beáti Pauli Apóstoli ad Colossénses 1 Si consurrexístis cum Christo: quæ sursum sunt quǽrite, ubi Christus est in déxtera Dei sedens: 2 quæ sursum sunt sápite, non quæ super terram. 3 Mórtui enim estis, et vita vestra est abscóndita cum Christo in Deo. 4 Cum Christus apparúerit, vita vestra: tunc et vos apparébitis cum ipso in glória. 5 Mortificáte ergo membra vestra, quæ sunt super terram: fornicatiónem, immundítiam, libídinem, concupiscéntiam malam, et avarítiam, quæ est simulacrórum sérvitus: 6 propter quæ venit ira Dei super fílios incredulitátis: 7 in quibus et vos ambulástis aliquándo, cum viverétis in illis.",
+        "de": "Aus dem Briefe des heiligen Apostels Paulus an die Kolosser. 1 Si consurrexistis cum Christo: quae sursum sunt quaerite, ubi Christus est in dextera Dei sedens: 2 quae sursum sunt sapite, non quae super terram. 3 Mortui enim estis, et vita vestra est abscondita cum Christo in Deo. 4 Cum Christus apparuerit, vita vestra: tunc et vos apparebitis cum ipso in gloria. 5 Mortificate ergo membra vestra, quae sunt super terram: fornicationem, immunditiam, libidinem, concupiscentiam malam, et avaritiam, quae est simulacrorum servitus: 6 propter quae venit ira Dei super filios incredulitatis: 7 in quibus et vos ambulastis aliquando, cum viveretis in illis."
+      },
+      "reference": {
+        "la": "Col 3:1-7",
+        "de": "Col 3:1-7"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "do-Pent02-0",
+  "form": "1962",
+  "note": "Stundengebet – Proprium des Tages aus Divinum Officium (gemeinfrei), Latein/Deutsch.",
+  "day": {
+    "title": {
+      "la": "Dominica II Post Pentecosten",
+      "de": "Zweiter Sonntag nach Pfingsten in der Fronleichnamsoktav"
+    },
+    "color": "green"
+  },
+  "sections": [
+    {
+      "id": "capitulum-laudes",
+      "kind": "proprium",
+      "title": {
+        "la": "Capitulum",
+        "de": "Kurzlesung (Laudes)"
+      },
+      "text": {
+        "la": "Caríssimi: Nolíte mirári, si odit vos mundus. Nos scimus quóniam transláti sumus de morte ad vitam, quóniam dilígimus fratres."
+      },
+      "reference": {
+        "la": "1 Joann. 3:13-14",
+        "de": "1 Joann. 3:13-14"
+      }
+    },
+    {
+      "id": "oratio",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Sancti nóminis tui, Dómine, timórem páriter et amórem fac nos habére perpétuum: quia nunquam tua gubernatióne destítuis, quos in soliditáte tuæ dilectiónis instítuis."
+      }
+    },
+    {
+      "id": "lectio1",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio I",
+        "de": "1. Lesung (Matutin)"
+      },
+      "text": {
+        "la": "De libro primo Regum 1 Et factum est in diébus illis, convenérunt Philísthiim in pugnam: et egréssus est Israël óbviam Philísthiim in prǽlium, et castrametátus est juxta lápidem Adiutórii. Porro Philísthiim venérunt in Aphec, 2 et instruxérunt áciem contra Israël. Inito autem certámine, terga vertit Israël Philisthǽis: et cæsa sunt in illo certámine passim per agros, quasi quátuor míllia virórum. 3 Et revérsus est pópulus ad castra: dixerúntque majóres natu de Israël: Quare percússit nos Dóminus hódie coram Philísthiim? afferámus ad nos de Silo arcam fœ́deris Dómini, et véniat in médium nostri, ut salvet nos de manu inimicórum nostrórum."
+      },
+      "reference": {
+        "la": "1 Reg 4:1-3",
+        "de": "1 Reg 4:1-3"
+      }
+    }
+  ]
+}

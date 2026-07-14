@@ -1,0 +1,40 @@
+{
+  "id": "do-Pent05-0",
+  "form": "1962",
+  "note": "Stundengebet – Proprium des Tages aus Divinum Officium (gemeinfrei), Latein/Deutsch.",
+  "day": {
+    "title": {
+      "la": "Dominica V Post Pentecosten",
+      "de": "Fünfter Sonntag nach Pfingsten"
+    },
+    "color": "green"
+  },
+  "sections": [
+    {
+      "id": "oratio",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui diligéntibus te bona invisibília præparásti: infúnde córdibus nostris tui amóris afféctum; ut te in ómnibus et super ómnia diligéntes, promissiónes tuas, quæ omne desidérium súperant, consequámur."
+      }
+    },
+    {
+      "id": "lectio1",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio I",
+        "de": "1. Lesung (Matutin)"
+      },
+      "text": {
+        "la": "Incipit liber secúndus Regum 1 Factum est autem, postquam mórtuus est Saul, ut David reverterétur a cæde Amalec et manéret in Síceleg duos dies. 2 In die autem tértia appáruit homo véniens de castris Saul veste conscíssa et púlvere conspérsus caput et, ut venit ad David, cécidit super fáciem suam et adorávit. 3 Dixítque ad eum David: Unde venis? Qui ait ad eum: De castris Israël fugi. 4 Et dixit ad eum David: Quod est verbum quod factum est? Indica mihi. Qui ait: Fugit pópulus ex prǽlio, et multi corruéntes e pópulo mórtui sunt; sed et Saul et Jónathas fílius ejus interiérunt."
+      },
+      "reference": {
+        "la": "2 Reg 1:1-4",
+        "de": "2 Reg 1:1-4"
+      }
+    }
+  ]
+}
