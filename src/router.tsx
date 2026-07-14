@@ -3,6 +3,7 @@ import { AppShell } from './components/AppShell'
 import { Dashboard } from './features/dashboard/Dashboard'
 import { LiturgyHub } from './features/liturgy/LiturgyHub'
 import { MassView } from './features/liturgy/MassView'
+import { ImportedMassView } from './features/liturgy/ImportedMassView'
 import { BreviaryHub } from './features/breviary/BreviaryHub'
 import { HourView } from './features/breviary/HourView'
 import { RosaryPage } from './features/rosary/RosaryPage'
@@ -20,6 +21,7 @@ export const router = createBrowserRouter([
       { path: 'brevier/:hourId', element: <HourView /> },
       { path: 'liturgie', element: <LiturgyHub /> },
       { path: 'liturgie/messe/:form', element: <MassView /> },
+      { path: 'liturgie/formular/:id', element: <ImportedMassView /> },
       { path: 'rosenkranz', element: <RosaryPage /> },
       { path: 'novene', element: <NovenaPage /> },
       { path: 'meditation', element: <MeditationPage /> },

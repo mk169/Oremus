@@ -38,6 +38,64 @@
   margin-top: 0.2rem;
 }
 
+.liturgy-hub__imported-title {
+  border-top: 1px solid var(--surface-line);
+  padding-top: 1.2rem;
+}
+
+.liturgy-hub__imported-note {
+  color: var(--text-muted);
+  font-style: italic;
+  margin-top: -0.4rem;
+}
+
+.mass-index {
+  list-style: none;
+  margin: 0.6rem 0 2rem;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 0.35rem;
+}
+
+.mass-index__link {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  padding: 0.5rem 0.7rem;
+  border: 1px solid var(--surface-line);
+  border-radius: var(--radius);
+  background: var(--surface-raised);
+  transition: border-color 0.15s ease;
+}
+
+.mass-index__link:hover {
+  border-color: var(--gold);
+}
+
+.mass-index__dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  flex: 0 0 auto;
+  align-self: center;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+.mass-index__name {
+  font-family: var(--font-display);
+  color: var(--accent);
+  font-size: 1.02rem;
+  line-height: 1.15;
+}
+
+.mass-index__la {
+  color: var(--text-muted);
+  font-size: 0.8rem;
+  font-style: italic;
+  margin-left: auto;
+}
+
 .liturgy-hub__prayers-title {
   border-top: 1px solid var(--surface-line);
   padding-top: 1.2rem;

@@ -1,0 +1,139 @@
+{
+  "id": "do-Quadp1-0",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "Dominica in Septuagesima",
+      "de": "Sonntag Septuagesima"
+    },
+    "color": "violet",
+    "rank": "Semiduplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Circumdedérunt me gémitus mortis, dolóres inférni circumdedérunt me: et in tribulatióne mea invocávi Dóminum, et exaudívit de templo sancto suo vocem meam. Díligam te, Dómine, fortitúdo mea: Dóminus firmaméntum meum, et refúgium meum, et liberátor meus. Circumdedérunt me gémitus mortis, dolóres inférni circumdedérunt me: et in tribulatióne mea invocávi Dóminum, et exaudívit de templo sancto suo vocem meam."
+      },
+      "reference": {
+        "la": "Ps 17:5; 17:6; 17:7; Ps 17:2-3",
+        "de": "Ps 17:5; 17:6; 17:7; Ps 17:2-3"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Preces pópuli tui, quǽsumus, Dómine, cleménter exáudi: ut, qui juste pro peccátis nostris afflígimur, pro tui nóminis glória misericórditer liberémur."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios Fratres: Nescítis, quod ii, qui in stádio currunt, omnes quidem currunt, sed unus áccipit bravíum? Sic cúrrite, ut comprehendátis. Omnis autem, qui in agóne conténdit, ab ómnibus se ábstinet: et illi quidem, ut corruptíbilem corónam accípiant; nos autem incorrúptam. Ego ígitur sic curro, non quasi in incértum: sic pugno, non quasi áërem vérberans: sed castígo corpus meum, et in servitútem rédigo: ne forte, cum áliis prædicáverim, ipse réprobus effíciar. Nolo enim vos ignoráre, fratres, quóniam patres nostri omnes sub nube fuérunt, et omnes mare transiérunt, et omnes in Móyse baptizáti sunt in nube et in mari: et omnes eándem escam spiritálem manducavérunt, et omnes eúndem potum spiritálem bibérunt bibébant autem de spiritáli, consequénte eos, petra: petra autem erat Christus: sed non in plúribus eórum beneplácitum est Deo."
+      },
+      "reference": {
+        "la": "1 Cor 9:24-27; 10:1-5",
+        "de": "1 Cor 9:24-27; 10:1-5"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Adjútor in opportunitátibus, in tribulatióne: sperent in te, qui novérunt te: quóniam non derelínquis quæréntes te, Dómine, Quóniam non in finem oblívio erit páuperis: patiéntia páuperum non períbit in ætérnum: exsúrge, Dómine, non præváleat homo. _ De profúndis clamávi ad te. Dómine: Dómine, exáudi vocem meam. Fiant aures tuæ intendéntes in oratiónem servi tui. Si iniquitátes observáveris, Dómine: Dómine, quis sustinébit? Quia apud te propitiátio est, et propter legem tuam sustínui te, Dómine."
+      },
+      "reference": {
+        "la": "Ps 9:10-11; 9:19-20; Tractus; Ps 129:1-4",
+        "de": "Ps 9:10-11; 9:19-20; Tractus; Ps 129:1-4"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Dixit Jesus discípulis suis parábolam hanc: Simile est regnum coelórum hómini patrifamílias, qui éxiit primo mane condúcere operários in víneam suam. Conventióne autem facta cum operáriis ex denário diúrno, misit eos in víneam suam. Et egréssus circa horam tértiam, vidit álios stantes in foro otiósos, et dixit illis: Ite et vos in víneam meam, et quod justum fúerit, dabo vobis. Illi autem abiérunt. Iterum autem éxiit circa sextam et nonam horam: et fecit simíliter. Circa undécimam vero éxiit, et invénit álios stantes, et dicit illis: Quid hic statis tota die otiósi? Dicunt ei: Quia nemo nos condúxit. Dicit illis: Ite et vos in víneam meam. Cum sero autem factum esset, dicit dóminus víneæ procuratóri suo: Voca operários, et redde illis mercédem, incípiens a novíssimis usque ad primos. Cum veníssent ergo qui circa undécimam horam vénerant, accepérunt síngulos denários. Veniéntes autem et primi, arbitráti sunt, quod plus essent acceptúri: accepérunt autem et ipsi síngulos denários. Et accipiéntes murmurábant advérsus patremfamílias, dicéntes: Hi novíssimi una hora fecérunt et pares illos nobis fecísti, qui portávimus pondus diéi et æstus. At ille respóndens uni eórum, dixit: Amíce, non facio tibi injúriam: nonne ex denário convenísti mecum? Tolle quod tuum est, et vade: volo autem et huic novíssimo dare sicut et tibi. Aut non licet mihi, quod volo, fácere? an óculus tuus nequam est, quia ego bonus sum? Sic erunt novíssimi primi, et primi novíssimi. Multi enim sunt vocáti, pauci vero elécti."
+      },
+      "reference": {
+        "la": "Matt 20:1-16",
+        "de": "Matt 20:1-16"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Bonum est confitéri Dómino, et psállere nómini tuo, Altíssime."
+      },
+      "reference": {
+        "la": "Ps 91:2",
+        "de": "Ps 91:2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Illúmina fáciem tuam super servum tuum, et salvum me fac in tua misericórdia: Dómine, non confúndar, quóniam invocávi te."
+      },
+      "reference": {
+        "la": "Ps 30:17-18",
+        "de": "Ps 30:17-18"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Fidéles tui, Deus, per tua dona firméntur: ut eadem et percipiéndo requírant, et quæréndo sine fine percípiant."
+      }
+    }
+  ]
+}

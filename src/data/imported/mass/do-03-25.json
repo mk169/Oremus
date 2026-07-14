@@ -1,0 +1,55 @@
+{
+  "id": "do-03-25",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "In Annuntiatione Beate Mariæ Virgine",
+      "de": "In Annuntiatione Beate Mariæ Virgine"
+    },
+    "color": "green",
+    "rank": "Duplex I classis"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui de beátæ Maríæ Vírginis útero Verbum tuum, Angelo nuntiánte, carnem suscípere voluísti: præsta supplícibus tuis; ut, qui vere eam Genetrícem Dei crédimus, ejus apud te intercessiónibus adjuvémur."
+      }
+    },
+    {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Diffúsa est grátia in lábiis tuis: proptérea benedíxit te Deus in ætérnum. Propter veritátem et mansuetúdinem et justítiam: et dedúcet te mirabíliter déxtera tua. _ Audi, fília, et vide, et inclína aurem tuam: quia concupívit Rex spéciem tuam. Vultum tuum deprecabúntur omnes dívites plebis: fíliæ regum in honóre tuo. Adducéntur Regi Vírgines post eam: próximæ ejus afferéntur tibi. Adducéntur in lætítia et exsultatióne: adducéntur in templum Regis."
+      },
+      "reference": {
+        "la": "Ps 44:3 et 5; Tractus; Ps 44:11 et 12; Ps 44:13 et 10; Ps 44:15-16",
+        "de": "Ps 44:3 et 5; Tractus; Ps 44:11 et 12; Ps 44:13 et 10; Ps 44:15-16"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Grátiam tuam, quǽsumus, Dómine, méntibus nostris infúnde: ut qui, Angelo nuntiánte, Christi Fílii tui incarnatiónem cognóvimus; per passiónem ejus et crucem, ad resurrectiónis glóriam perducámur."
+      }
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "id": "do-Epi2-0",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "Dominica II post Epiphaniam",
+      "de": "Zweiter Sonntag nach Erscheinung"
+    },
+    "color": "white",
+    "rank": "Semiduplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Omnis terra adóret te, Deus, et psallat tibi: psalmum dicat nómini tuo, Altíssime. Jubiláte Deo, omnis terra, psalmum dícite nómini ejus: date glóriam laudi ejus. Omnis terra adóret te, Deus, et psallat tibi: psalmum dicat nómini tuo, Altíssime."
+      },
+      "reference": {
+        "la": "Ps 65:4; Ps 65:1-2",
+        "de": "Ps 65:4; Ps 65:1-2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Omnípotens sempitérne Deus, qui cœléstia simul et terréna moderáris: supplicatiónes pópuli tui cleménter exáudi; et pacem tuam nostris concéde tempóribus."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános. Fratres: Habéntes donatiónes secúndum grátiam, quæ data est nobis, differéntes: sive prophetíam secúndum ratiónem fídei, sive ministérium in ministrándo, sive qui docet in doctrína, qui exhortátur in exhortándo, qui tríbuit in simplicitáte, qui præest in sollicitúdine, qui miserétur in hilaritáte. Diléctio sine simulatióne. Odiéntes malum, adhæréntes bono: Caritáte fraternitátis ínvicem diligéntes: Honóre ínvicem præveniéntes: Sollicitúdine non pigri: Spíritu fervéntes: Dómino serviéntes: Spe gaudéntes: In tribulatióne patiéntes: Oratióni instántes: Necessitátibus sanctórum communicántes: Hospitalitátem sectántes. Benedícite persequéntibus vos: benedícite, et nolíte maledícere. Gaudére cum gaudéntibus, flere cum fléntibus: Idípsum ínvicem sentiéntes: Non alta sapiéntes, sed humílibus consentiéntes."
+      },
+      "reference": {
+        "la": "Rom 12:6-16",
+        "de": "Rom 12:6-16"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Misit Dóminus verbum suum, et sanávit eos: et erípuit eos de intéritu eórum. Confiteántur Dómino misericórdiæ ejus: et mirabília ejus fíliis hóminum. Allelúja, allelúja. Laudáte Dóminum, omnes Angeli ejus: laudáte eum, omnes virtútes ejus. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 106:20-21; Ps 148:2",
+        "de": "Ps 106:20-21; Ps 148:2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Joánnem. In illo témpore: Núptiæ factæ sunt in Cana Galilǽæ: et erat Mater Jesu ibi. Vocátus est autem et Jesus, et discípuli ejus ad núptias. Et deficiénte vino, dicit Mater Jesu ad eum: Vinum non habent. Et dicit ei Jesus: Quid mihi et tibi est, mulier? nondum venit hora mea. Dicit Mater ejus minístris: Quodcúmque díxerit vobis, fácite. Erant autem ibi lapídeæ hýdriæ sex pósitæ secúndum purificatiónem Judæórum, capiéntes síngulæ metrétas binas vel ternas. Dicit eis Jesus: Implete hýdrias aqua. Et implevérunt eas usque ad summum. Et dicit eis Jesus: Hauríte nunc, et ferte architriclíno. Et tulérunt. Ut autem gustávit architriclínus aquam vinum fáctam, et non sciébat unde esset, minístri autem sciébant, qui háuserant aquam: vocat sponsum architriclínus, et dicit ei: Omnis homo primum bonum vinum ponit: et cum inebriáti fúerint, tunc id, quod detérius est. Tu autem servásti bonum vinum usque adhuc. Hoc fecit inítium signórum Jesus in Cana Galilǽæ: et manifestávit glóriam suam, et credidérunt in eum discípuli ejus.",
+        "de": "Aus dem heiligen Evangelium nach Johannes In jener Zeit war eine Hochzeit zu Kana in Galiläa. Die Mutter Jesu war dabei, und auch Jesus und Seine Jünger waren zur Hochzeit geladen. Als nun der Wein ausging, sagte die Mutter Jesu zu Ihm: \"Sie haben keinen Wein mehr.\" Jesus erwiderte ihr: \"Frau, was habe Ich mit dir zu tun? Meine Stunde ist noch nicht gekommen.\" Da sagte Seine Mutter zu den Dienern: \"Tuet alles, was Er euch sagen wird.\" Es standen aber daselbst sechs steinerne Wasserkrüge für die bei den Juden üblichen Reinigungen; jeder von ihnen faßte zwei bis drei Maß. Jesus sprach nun zu ihnen: \"Füllet die Krüge mit Wasser.\" Und sie füllten sie bis an den Rand. Dann sprach Jesus zu ihnen: \"Schöpfet jetzt und bringet davon dem Speisemeister.\" Sie brachten ihm davon. Der Speisemeister kostete das zu Wein gewordene Wasser und wußte nicht, woher der Wein war; die Diener aber, die das Wasser geschöpft hatten, wußten es. Nun rief er den Bräutigam und sprach zu ihm: \"Jedermann setzt zuerst den guten Wein vor, und wenn die Gäste genug getrunken haben, dann den geringeren; durch aber hast den guten Wein bis jetzt aufgehoben.\" – So machte Jesus zu Kana in Galiläa den Anfang mit Seinen Wundern und offenbarte Seine Herrlichkeit. Und Seine Jünger glaubten an Ihn."
+      },
+      "reference": {
+        "la": "Joann 2:1-11",
+        "de": "Joann 2:1-11"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Jubiláte Deo, univérsa terra: psalmum dícite nómini ejus: veníte et audíte, et narrábo vobis, omnes qui timétis Deum, quanta fecit Dóminus ánimæ meæ, allelúja."
+      },
+      "reference": {
+        "la": "Ps 65:1-2; 65:16",
+        "de": "Ps 65:1-2; 65:16"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Oblata, Dómine, múnera sanctífica: nosque a peccatórum nostrórum máculis emúnda."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Dicit Dóminus: Implete hýdrias aqua et ferte architriclíno. Cum gustásset architriclínus aquam vinum factam, dicit sponso: Servásti bonum vinum usque adhuc. Hoc signum fecit Jesus primum coram discípulis suis."
+      },
+      "reference": {
+        "la": "Joann 2:7; 2:8; 2:9; 2:10-11",
+        "de": "Joann 2:7; 2:8; 2:9; 2:10-11"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Augeátur in nobis, quǽsumus, Dómine, tuæ virtútis operatio: ut divínis vegetáti sacraméntis, ad eórum promíssa capiénda, tuo múnere præparémur."
+      }
+    }
+  ]
+}

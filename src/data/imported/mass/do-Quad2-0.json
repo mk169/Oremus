@@ -1,0 +1,121 @@
+{
+  "id": "do-Quad2-0",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "Dominica II in Quadragesima",
+      "de": "Zweiter Sonntag der Fastenzeit"
+    },
+    "color": "violet",
+    "rank": "I classis Semiduplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Reminíscere miseratiónum tuarum, Dómine, et misericórdiæ tuæ, quæ a sǽculo sunt: ne umquam dominéntur nobis inimíci nostri: líbera nos, Deus Israël, ex ómnibus angústiis nostris. Ad te, Dómine, levávi ánimam meam: Deus meus, in te confído, non erubéscam. Reminíscere miseratiónum tuarum, Dómine, et misericórdiæ tuæ, quæ a sǽculo sunt: ne umquam dominéntur nobis inimíci nostri: líbera nos, Deus Israël, ex ómnibus angústiis nostris."
+      },
+      "reference": {
+        "la": "Ps 24:6; 24:3; 24:22; Ps 24:1-2",
+        "de": "Ps 24:6; 24:3; 24:22; Ps 24:1-2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui cónspicis omni nos virtúte destítui: intérius exteriúsque custódi; ut ab ómnibus adversitátibus muniámur in córpore, et a pravis cogitatiónibus mundémur in mente."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Thessalonicénses Fratres: Rogámus vos et obsecrámus in Dómino Jesu: ut, quemádmodum accepístis a nobis, quómodo opórteat vos ambuláre et placére Deo, sic et ambulétis, ut abundétis magis. Scitis enim, quæ præcépta déderim vobis Per Dominum Jesum. Hæc est enim volúntas Dei, sanctificátio vestra: ut abstineátis vos a fornicatióne, ut sciat unusquísque vestrum vas suum possidére in sanctificatióne et honóre; non in passióne desidérii, sicut et gentes, quæ ignórant Deum: et ne quis supergrediátur neque circumvéniat in negótio fratrem suum: quóniam vindex est Dóminus de his ómnibus, sicut prædíximus vobis et testificáti sumus. Non enim vocávit nos Deus in immundítiam, sed in sanctificatiónem: in Christo Jesu, Dómino nostro."
+      },
+      "reference": {
+        "la": "1 Thess 4:1-7.",
+        "de": "1 Thess 4:1-7."
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Tribulatiónes cordis mei dilatátæ sunt: de necessitátibus meis éripe me, Dómine, Vide humilitátem meam et labórem meum: et dimítte ómnia peccáta mea. _ Confitémini Dómino, quóniam bonus: quóniam in sǽculum misericórdia ejus. Quis loquétur poténtias Dómini: audítas fáciet omnes laudes ejus? Beáti, qui custódiunt judícium et fáciunt justítiam in omni témpore. Meménto nostri, Dómine, in beneplácito pópuli tui: vísita nos in salutári tuo."
+      },
+      "reference": {
+        "la": "Ps 24:17-18; Tractus; Ps 105:1-4",
+        "de": "Ps 24:17-18; Tractus; Ps 105:1-4"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Assúmpsit Jesus Petrum, et Jacóbum, et Joánnem fratrem eius, et duxit illos in montem excélsum seórsum: et transfigurátus est ante eos. Et resplénduit fácies ejus sicut sol: vestiménta autem ejus facta sunt alba sicut nix. Et ecce, apparuérunt illis Móyses et Elías cum eo loquéntes. Respóndens autem Petrus, dixit ad Jesum: Dómine, bonum est nos hic esse: si vis, faciámus hic tria tabernácula, tibi unum, Móysi unum et Elíæ unum. Adhuc eo loquénte, ecce, nubes lúcida obumbrávit eos. Et ecce vox de nube, dicens: Hic est Fílius meus diléctus, in quo mihi bene complácui: ipsum audíte. Et audiéntes discípuli, cecidérunt in fáciem suam, et timuérunt valde. Et accéssit Jesus, et tétigit eos, dixítque eis: Súrgite, et nolíte timére. Levántes autem óculos suos, néminem vidérunt nisi solum Jesum. Et descendéntibus illis de monte, præcépit eis Jesus, dicens: Némini dixéritis visiónem, donec Fílius hóminis a mórtuis resúrgat."
+      },
+      "reference": {
+        "la": "Matt 17:1-9",
+        "de": "Matt 17:1-9"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Meditábor in mandátis tuis, quæ diléxi valde: et levábo manus meas ad mandáta tua, quæ diléxi."
+      },
+      "reference": {
+        "la": "Ps 118:47; 118:48",
+        "de": "Ps 118:47; 118:48"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Súpplices te rogámus, omnípotens Deus: ut quos tuis réficis sacraméntis, tibi étiam plácitis móribus dignánter deservíre concédas."
+      }
+    }
+  ]
+}

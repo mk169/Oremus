@@ -1,0 +1,168 @@
+{
+  "id": "do-Pasc0-0",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "Dominica Resurrectionis",
+      "de": "Sonntag der Auferstehung des Herrn"
+    },
+    "color": "white",
+    "rank": "Duplex I classis cum Octava Privilegiata I"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Resurréxi, et adhuc tecum sum, allelúja: posuísti super me manum tuam, allelúja: mirábilis facta est sciéntia tua, allelúja, allelúja. Dómine, probásti me et cognovísti me: tu cognovísti sessiónem meam et resurrectiónem meam. Resurréxi, et adhuc tecum sum, allelúja: posuísti super me manum tuam, allelúja: mirábilis facta est sciéntia tua, allelúja, allelúja."
+      },
+      "reference": {
+        "la": "Ps 138:18; 138:5-6.; Ps 138:1-2.",
+        "de": "Ps 138:18; 138:5-6.; Ps 138:1-2."
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui hodiérna die per Unigénitum tuum æternitátis nobis áditum, devícta morte, reserásti: vota nostra, quæ præveniéndo aspíras, étiam adjuvándo proséquere."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Corinthios. Fratres: Expurgáte vetus ferméntum, ut sitis nova conspérsio, sicut estis ázymi. Etenim Pascha nostrum immolátus est Christus. Itaque epulémur: non in ferménto véteri, neque in ferménto malítiæ et nequítiæ: sed in ázymis sinceritátis et veritátis."
+      },
+      "reference": {
+        "la": "1 Cor 5:7-8",
+        "de": "1 Cor 5:7-8"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Hæc dies, quam fecit Dóminus: exsultémus et lætémur in ea. Confitémini Dómino, quóniam bonus: quóniam in sǽculum misericórdia ejus. Allelúja, allelúja. Pascha nostrum immolátus est Christus."
+      },
+      "reference": {
+        "la": "Ps. 117:24; 117:1; 1 Cor 5:7",
+        "de": "Ps. 117:24; 117:1; 1 Cor 5:7"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "sequentia",
+      "kind": "proprium",
+      "title": {
+        "la": "Sequentia",
+        "de": "Sequenz"
+      },
+      "text": {
+        "la": "Víctimæ pascháli laudes ímmolent Christiáni. Agnus rédemit oves: Christus ínnocens Patri reconciliávit peccatóres. Mors et vita duéllo conflixére mirándo: dux vitæ mórtuus regnat vivus. Dic nobis, María, quid vidísti in via? Sepúlcrum Christi vivéntis et glóriam vidi resurgéntis. Angélicos testes, sudárium et vestes. Surréxit Christus, spes mea: præcédet vos in Galilǽam. Scimus Christum surrexísse a mórtuis vere: tu nobis, victor Rex, miserére. Amen. Allelúja."
+      },
+      "reference": {
+        "la": "Sequentia dicitur usque ad Sabbatum in Albis inclusive.",
+        "de": "Sequentia dicitur usque ad Sabbatum in Albis inclusive."
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Marcum. In illo témpore: María Magdaléne et María Jacóbi et Salóme emérunt arómata, ut veniéntes úngerent Jesum. Et valde mane una sabbatórum, véniunt ad monuméntum, orto jam sole. Et dicébant ad ínvicem: Quis revólvet nobis lápidem ab óstio monuménti? Et respiciéntes vidérunt revolútum lápidem. Erat quippe magnus valde. Et introëúntes in monuméntum vidérunt júvenem sedéntem in dextris, coopértum stola cándida, et obstupuérunt. Qui dicit illis: Nolíte expavéscere: Jesum quǽritis Nazarénum, crucifíxum: surréxit, non est hic, ecce locus, ubi posuérunt eum. Sed ite, dícite discípulis ejus et Petro, quia præcédit vos in Galilǽam: ibi eum vidébitis, sicut dixit vobis."
+      },
+      "reference": {
+        "la": "Marc 16:1-7.",
+        "de": "Marc 16:1-7."
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Terra trémuit, et quiévit, dum resúrgeret in judício Deus, allelúja."
+      },
+      "reference": {
+        "la": "Ps. 75:9-10.",
+        "de": "Ps. 75:9-10."
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Súscipe, quǽsumus, Dómine, preces pópuli tui cum oblatiónibus hostiárum: ut, Paschálibus initiáta mystériis, ad æternitátis nobis medélam, te operánte, profíciant."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Pascha nostrum immolátus est Christus, allelúja: itaque epulémur in ázymis sinceritátis et veritátis, allelúja, allelúja, allelúja."
+      },
+      "reference": {
+        "la": "1 Cor 5:7-8",
+        "de": "1 Cor 5:7-8"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Spíritum nobis, Dómine, tuæ caritátis infúnde: ut, quos sacraméntis paschálibus satiásti, tua fácias pietáte concordes."
+      }
+    }
+  ]
+}

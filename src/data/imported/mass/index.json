@@ -1,0 +1,422 @@
+[
+  {
+    "id": "do-Adv1-0",
+    "titleLa": "Dominica I Adventus",
+    "titleDe": "Erster Adventssonntag",
+    "color": "violet",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Adv2-0",
+    "titleLa": "Dominica II Adventus",
+    "titleDe": "Zweiter Sonntag im Advent",
+    "color": "violet",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Adv3-0",
+    "titleLa": "Dominica III Adventus",
+    "titleDe": "Dritter Sonntag im Advent",
+    "color": "violet",
+    "rank": "Semiduplex II. classis"
+  },
+  {
+    "id": "do-Adv4-0",
+    "titleLa": "Dominica IV Adventus",
+    "titleDe": "Vierter Sonntag im Advent",
+    "color": "violet",
+    "rank": "Semiduplex II. classis"
+  },
+  {
+    "id": "do-Nat1-0",
+    "titleLa": "Dominica Infra Octavam Nativitatis",
+    "titleDe": "Sonntag innerhalb der Weihnachtsoktav",
+    "color": "white",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Nat2-0",
+    "titleLa": "Sanctissimi Nominis Jesu",
+    "titleDe": "Fest des heiligsten Namens Jesu",
+    "color": "white",
+    "rank": "Duplex 2 class"
+  },
+  {
+    "id": "do-Epi1-0",
+    "titleLa": "Sanctæ Familiæ Jesu Mariæ Joseph",
+    "titleDe": "Fest der Heiligen Familie Jesus, Maria und Joseph",
+    "color": "white",
+    "rank": "Duplex majus"
+  },
+  {
+    "id": "do-Epi2-0",
+    "titleLa": "Dominica II post Epiphaniam",
+    "titleDe": "Zweiter Sonntag nach Erscheinung",
+    "color": "white",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Epi3-0",
+    "titleLa": "Dominica III Post Epiphaniam",
+    "titleDe": "Dritter Sonntag nach Erscheinung",
+    "color": "white",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Epi4-0",
+    "titleLa": "Dominica IV Post Epiphaniam",
+    "titleDe": "Vierter Sonntag nach Erscheinung",
+    "color": "white",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Epi5-0",
+    "titleLa": "Dominica V Post Epiphaniam",
+    "titleDe": "Fünfter Sonntag nach Erscheinung",
+    "color": "white",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Epi6-0",
+    "titleLa": "Dominica VI Post Epiphaniam",
+    "titleDe": "Sechster Sonntag nach Erscheinung",
+    "color": "white",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Quadp1-0",
+    "titleLa": "Dominica in Septuagesima",
+    "titleDe": "Sonntag Septuagesima",
+    "color": "violet",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Quadp2-0",
+    "titleLa": "Dominica in Sexagesima",
+    "titleDe": "Sonntag Sexagesima",
+    "color": "violet",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Quadp3-0",
+    "titleLa": "Dominica in Quinquagesima",
+    "titleDe": "Sonntag Quinquagesima",
+    "color": "violet",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Quad1-0",
+    "titleLa": "Dominica I in Quadragesima",
+    "titleDe": "Erster Sonntag der Fastenzeit",
+    "color": "violet",
+    "rank": "I classis Semiduplex"
+  },
+  {
+    "id": "do-Quad2-0",
+    "titleLa": "Dominica II in Quadragesima",
+    "titleDe": "Zweiter Sonntag der Fastenzeit",
+    "color": "violet",
+    "rank": "I classis Semiduplex"
+  },
+  {
+    "id": "do-Quad3-0",
+    "titleLa": "Dominica III in Quadragesima",
+    "titleDe": "Dritter Sonntag der Fastenzeit",
+    "color": "violet",
+    "rank": "I classis Semiduplex"
+  },
+  {
+    "id": "do-Quad4-0",
+    "titleLa": "Dominica IV in Quadragesima",
+    "titleDe": "Vierter Sonntag der Fastenzeit",
+    "color": "violet",
+    "rank": "I classis Semiduplex"
+  },
+  {
+    "id": "do-Quad5-0",
+    "titleLa": "Dominica de Passione",
+    "titleDe": "Passionssonntag",
+    "color": "violet",
+    "rank": "I classis Semiduplex"
+  },
+  {
+    "id": "do-Quad6-0",
+    "titleLa": "Dominica in Palmis",
+    "titleDe": "Palmsonntag",
+    "color": "violet",
+    "rank": "I classis Semiduplex"
+  },
+  {
+    "id": "do-Pasc0-0",
+    "titleLa": "Dominica Resurrectionis",
+    "titleDe": "Sonntag der Auferstehung des Herrn",
+    "color": "white",
+    "rank": "Duplex I classis cum Octava Privilegiata I"
+  },
+  {
+    "id": "do-Pasc1-0",
+    "titleLa": "Dominica in Albis in Octava Paschæ",
+    "titleDe": "Weißer Sonntag, Oktav der Auferstehung",
+    "color": "white",
+    "rank": "Duplex majus I. classis"
+  },
+  {
+    "id": "do-Pasc2-0",
+    "titleLa": "Dominica II Post Pascha",
+    "titleDe": "Zweiter Sonntag nach Ostern",
+    "color": "white",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Pasc3-0",
+    "titleLa": "Dominica III Post Pascha",
+    "titleDe": "Dritter Sonntag nach Ostern",
+    "color": "white",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Pasc4-0",
+    "titleLa": "Dominica IV Post Pascha",
+    "titleDe": "Vierter Sonntag nach Ostern",
+    "color": "white",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Pasc5-0",
+    "titleLa": "Dominica V Post Pascha",
+    "titleDe": "Fünfter Sonntag nach Ostern",
+    "color": "white",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Pent01-0",
+    "titleLa": "Dominica Sanctissimæ Trinitatis",
+    "titleDe": "Fest der allerheiligsten Dreifaltigkeit",
+    "color": "green",
+    "rank": "Duplex I classis"
+  },
+  {
+    "id": "do-Pent02-0",
+    "titleLa": "Dominica II Post Pentecosten",
+    "titleDe": "Zweiter Sonntag nach Pfingsten",
+    "color": "green",
+    "rank": "Semiduplex I classis"
+  },
+  {
+    "id": "do-Pent04-0",
+    "titleLa": "Dominica IV Post Pentecosten",
+    "titleDe": "Vierter Sonntag nach Pfingsten",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Pent05-0",
+    "titleLa": "Dominica V Post Pentecosten",
+    "titleDe": "Fünfter Sonntag nach Pfingsten",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Pent06-0",
+    "titleLa": "Dominica VI Post Pentecosten",
+    "titleDe": "Sechster Sonntag nach Pfingsten",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Pent07-0",
+    "titleLa": "Dominica VII Post Pentecosten",
+    "titleDe": "Siebter Sonntag nach Pfingsten",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Pent08-0",
+    "titleLa": "Dominica VIII Post Pentecosten",
+    "titleDe": "Achter Sonntag nach Pfingsten",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Pent09-0",
+    "titleLa": "Dominica IX Post Pentecosten",
+    "titleDe": "Neunter Sonntag nach Pfingsten",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Pent10-0",
+    "titleLa": "Dominica X Post Pentecosten",
+    "titleDe": "Zehnter Sonntag nach Pfingsten",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Pent11-0",
+    "titleLa": "Dominica XI Post Pentecosten",
+    "titleDe": "Elfter Sonntag nach Pfingsten",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Pent12-0",
+    "titleLa": "Dominica XII Post Pentecosten",
+    "titleDe": "Zwölfter Sonntag nach Pfingsten",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Pent13-0",
+    "titleLa": "Dominica XIII Post Pentecosten",
+    "titleDe": "13. Sonntag nach Pfingsten",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Pent14-0",
+    "titleLa": "Dominica XIV Post Pentecosten",
+    "titleDe": "14. Sonntag nach Pfingsten",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Pent15-0",
+    "titleLa": "Dominica XV Post Pentecosten",
+    "titleDe": "15. Sonntag nach Pfingsten",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Pent16-0",
+    "titleLa": "Dominica XVI Post Pentecosten",
+    "titleDe": "16. Sonntag nach Pfingsten",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Pent17-0",
+    "titleLa": "Dominica XVII Post Pentecosten",
+    "titleDe": "17. Sonntag nach Pfingsten",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Pent18-0",
+    "titleLa": "Dominica XVIII Post Pentecosten",
+    "titleDe": "18. Sonntag nach Pfingsten",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Pent19-0",
+    "titleLa": "Dominica XIX Post Pentecosten",
+    "titleDe": "19. Sonntag nach Pfingsten",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Pent20-0",
+    "titleLa": "Dominica XX Post Pentecosten",
+    "titleDe": "20. Sonntag nach Pfingsten",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Pent21-0",
+    "titleLa": "Dominica XXI Post Pentecosten",
+    "titleDe": "21. Sonntag nach Pfingsten",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Pent22-0",
+    "titleLa": "Dominica XXII Post Pentecosten",
+    "titleDe": "22. Sonntag nach Pfingsten",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Pent23-0",
+    "titleLa": "Dominica XXIII Post Pentecosten",
+    "titleDe": "23. Sonntag nach Pfingsten",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-Pent24-0",
+    "titleLa": "Dominica XXIV et ultima Post Pentecosten",
+    "titleDe": "24. und letzter Sonntag nach Pfingsten",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-01-06",
+    "titleLa": "In Epiphania Domini",
+    "titleDe": "In Epiphania Domini",
+    "color": "green",
+    "rank": "Duplex I classis"
+  },
+  {
+    "id": "do-02-02",
+    "titleLa": "In Purificatione Beatæ Mariæ Virginis",
+    "titleDe": "In Purificatione Beatæ Mariæ Virginis",
+    "color": "green",
+    "rank": "Duplex 2 class"
+  },
+  {
+    "id": "do-03-19",
+    "titleLa": "S. Joseph Sponsi B.M.V. Confessoris",
+    "titleDe": "Hl. Joseph, Gemahl der hl. Jungfrau Maria, Bekenner",
+    "color": "green",
+    "rank": "Duplex I classis"
+  },
+  {
+    "id": "do-03-25",
+    "titleLa": "In Annuntiatione Beate Mariæ Virgine",
+    "titleDe": "In Annuntiatione Beate Mariæ Virgine",
+    "color": "green",
+    "rank": "Duplex I classis"
+  },
+  {
+    "id": "do-06-24",
+    "titleLa": "In Nativitate S. Joannis Baptistæ",
+    "titleDe": "Fest der Geburt des heiligen Johannes des Täufers",
+    "color": "green",
+    "rank": "Duplex I classis cum Octava communi"
+  },
+  {
+    "id": "do-06-29",
+    "titleLa": "SS. Apostolorum Petri et Pauli",
+    "titleDe": "Fest der hl. Apostel Petrus und Paulus",
+    "color": "green",
+    "rank": "Duplex I classis cum octava communi"
+  },
+  {
+    "id": "do-08-15",
+    "titleLa": "In Assumptione Beatæ Mariæ Virginis",
+    "titleDe": "In Assumptione Beatæ Mariæ Virginis",
+    "color": "green",
+    "rank": "Duplex I classis cum Octava Communi"
+  },
+  {
+    "id": "do-09-08",
+    "titleLa": "Nativitate Beatæ Mariæ Virginis",
+    "titleDe": "Nativitate Beatæ Mariæ Virginis",
+    "color": "green",
+    "rank": "Duplex II classis cum Octava simplici"
+  },
+  {
+    "id": "do-11-01",
+    "titleLa": "Omnium Sanctorum",
+    "titleDe": "Allerheiligen",
+    "color": "green",
+    "rank": "Duplex I classis cum octava communi"
+  },
+  {
+    "id": "do-12-08",
+    "titleLa": "In Conceptione Immaculata Beatæ Mariæ Virginis",
+    "titleDe": "In Conceptione Immaculata Beatæ Mariæ Virginis",
+    "color": "green",
+    "rank": "Duplex I classis cum octava communi"
+  }
+]

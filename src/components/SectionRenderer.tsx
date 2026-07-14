@@ -15,9 +15,11 @@ interface Props {
  * der Abschnitt gesungen wird – der Gesang-Block (Neumen-Platzhalter).
  */
 export function SectionRenderer({ section }: Props) {
-  const { isSung } = useSettings()
+  const { isSung, language } = useSettings()
   const chantable = section.chant?.chantable ?? false
   const sung = chantable && isSung(section.id)
+  // Deutsch gewünscht, aber (noch) nicht übersetzt → dezenter Hinweis.
+  const deMissing = language === 'de' && !section.text.de?.trim() && Boolean(section.text.la?.trim())
   // GregoBase-Melodie bevorzugen, sonst das eingebettete Incipit.
   const chant = section.chant
     ? { ...section.chant, gabc: gabcFor(section.id, section.chant.gabc) }
@@ -42,6 +44,9 @@ export function SectionRenderer({ section }: Props) {
 
       <div className="lit-section__text">
         <BilingualText value={section.text} />
+        {deMissing && (
+          <p className="lit-section__de-missing">Deutsche Übersetzung folgt (Text auf Latein).</p>
+        )}
       </div>
 
       {section.reference && (

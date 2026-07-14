@@ -1,0 +1,150 @@
+{
+  "id": "do-Pent11-0",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "Dominica XI Post Pentecosten",
+      "de": "Elfter Sonntag nach Pfingsten"
+    },
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Deus in loco sancto suo: Deus qui inhabitáre facit unánimes in domo: ipse dabit virtútem et fortitúdinem plebi suæ. Exsúrgat Deus, et dissipéntur inimíci ejus: et fúgiant, qui odérunt eum, a fácie ejus. Deus in loco sancto suo: Deus qui inhabitáre facit unánimes in domo: ipse dabit virtútem et fortitúdinem plebi suæ."
+      },
+      "reference": {
+        "la": "Ps 67:6-7; 67:36; Ps 67:2",
+        "de": "Ps 67:6-7; 67:36; Ps 67:2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Omnípotens sempitérne Deus, qui, abundántia pietátis tuæ, et mérita súpplicum excédis et vota: effúnde super nos misericórdiam tuam; ut dimíttas quæ consciéntia métuit, et adícias quod orátio non præsúmit."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios. Fratres: Notum vobis fácio Evangélium, quod prædicávi vobis, quod et accepístis, in quo et statis, per quod et salvámini: qua ratione prædicáverim vobis, si tenétis, nisi frustra credidístis. Trádidi enim vobis in primis, quod et accépi: quóniam Christus mortuus est pro peccátis nostris secúndum Scriptúras: et quia sepúltus est, et quia resurréxit tértia die secúndum Scriptúras: et quia visus est Cephæ, et post hoc úndecim. Deinde visus est plus quam quingéntis frátribus simul, ex quibus multi manent usque adhuc, quidam autem dormiérunt. Deinde visus est Jacóbo, deinde Apóstolis ómnibus: novíssime autem ómnium tamquam abortívo, visus est et mihi. Ego enim sum mínimus Apostolórum, qui non sum dignus vocári Apóstolus, quóniam persecútus sum Ecclésiam Dei. Grátia autem Dei sum id quod sum, et grátia ejus in me vácua non fuit."
+      },
+      "reference": {
+        "la": "1 Cor 15:1-10",
+        "de": "1 Cor 15:1-10"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "In Deo sperávit cor meum, et adjútus sum: et reflóruit caro mea, et ex voluntáte mea confitébor illi. Ad te, Dómine, clamávi: Deus meus, ne síleas, ne discédas a me. Allelúja, allelúja Exsultáte Deo, adjutóri nostro, jubiláte Deo Jacob: súmite psalmum jucúndum cum cíthara. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 27:7 27:1; Ps 80:2-3",
+        "de": "Ps 27:7 27:1; Ps 80:2-3"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Marcum. In illo témpore: Exiens Jesus de fínibus Tyri, venit per Sidónem ad mare Galilǽæ, inter médios fines Decapóleos. Et addúcunt ei surdum et mutum, et deprecabántur eum, ut impónat illi manum. Et apprehéndens eum de turba seórsum, misit dígitos suos in aurículas ejus: et éxspuens, tétigit linguam ejus: et suspíciens in cœlum, ingémuit, et ait illi: Ephphetha, quod est adaperíre. Et statim apértæ sunt aures ejus, et solútum est vínculum linguæ ejus, et loquebátur recte. Et præcépit illis, ne cui dícerent. Quanto autem eis præcipiébat, tanto magis plus prædicábant: et eo ámplius admirabántur, dicéntes: Bene ómnia fecit: et surdos fecit audíre et mutos loqui."
+      },
+      "reference": {
+        "la": "Marc 7:31-37",
+        "de": "Marc 7:31-37"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Exaltábo te, Dómine, quóniam suscepísti me, nec delectásti inimícos meos super me: Dómine, clamávi ad te, et sanásti me."
+      },
+      "reference": {
+        "la": "Ps 29:2-3",
+        "de": "Ps 29:2-3"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Réspice, Dómine, quǽsumus, nostram propítius servitútem: ut, quod offérimus, sit tibi munus accéptum, et sit nostræ fragilitátis subsidium."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Hónora Dóminum de tua substántia, et de prímitiis frugum tuárum: et implebúntur hórrea tua saturitáte, et vino torculária redundábunt."
+      },
+      "reference": {
+        "la": "Prov 3:9-10",
+        "de": "Prov 3:9-10"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Sentiámus, quǽsumus, Dómine, tui perceptióne sacraménti, subsídium mentis et córporis: ut, in utróque salváti, cæléstis remédii plenitúdine gloriémur."
+      }
+    }
+  ]
+}

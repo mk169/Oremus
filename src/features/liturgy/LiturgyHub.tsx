@@ -5,8 +5,18 @@ import {
   praeparatioPrayers,
   gratiarumActioPrayers,
 } from '../../data/prayers/liturgyPrayers'
+import { importedMassList } from '../../data/registry'
 import type { Prayer } from '../../data/types'
 import './LiturgyHub.css'
+
+const COLOR_VAR: Record<string, string> = {
+  green: 'var(--season-green)',
+  violet: 'var(--season-violet)',
+  red: 'var(--season-red)',
+  white: 'var(--season-white)',
+  rose: 'var(--season-rose)',
+  black: 'var(--season-black)',
+}
 
 function PrayerList({ prayers }: { prayers: Prayer[] }) {
   return (
@@ -42,6 +52,23 @@ export function LiturgyHub() {
           <span className="form-choice__desc">Mit Tageslesungen und Evangelium</span>
         </Link>
       </div>
+
+      <h2 className="liturgy-hub__imported-title">Messformulare des Kirchenjahres (1962)</h2>
+      <p className="liturgy-hub__imported-note">
+        {importedMassList.length} Tagesproprien aus Divinum Officium (Latein). Dazu erscheint
+        automatisch das Ordinarium (Latein/Deutsch). Die deutsche Übersetzung des Proopriums folgt.
+      </p>
+      <ul className="mass-index">
+        {importedMassList.map((m) => (
+          <li key={m.id}>
+            <Link to={`/liturgie/formular/${m.id}`} className="mass-index__link">
+              <span className="mass-index__dot" style={{ background: COLOR_VAR[m.color] }} aria-hidden />
+              <span className="mass-index__name">{m.titleDe}</span>
+              <span className="mass-index__la">{m.titleLa}</span>
+            </Link>
+          </li>
+        ))}
+      </ul>
 
       <h2 className="liturgy-hub__prayers-title">Gebete für die Liturgie</h2>
       <p className="liturgy-hub__prayers-note">

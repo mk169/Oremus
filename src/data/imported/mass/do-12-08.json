@@ -1,0 +1,153 @@
+{
+  "id": "do-12-08",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "In Conceptione Immaculata Beatæ Mariæ Virginis",
+      "de": "In Conceptione Immaculata Beatæ Mariæ Virginis"
+    },
+    "color": "green",
+    "rank": "Duplex I classis cum octava communi"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Gaudens gaudébo in Dómino, et exsultábit ánima mea in Deo meo: quia índuit me vestiméntis salútis: et induménto justítiæ circúmdedit me, quasi sponsam ornátam monílibus suis. Exaltábo te, Dómine, quóniam suscepísti me: nec delectásti inimícos meos super me. Gaudens gaudébo in Dómino, et exsultábit ánima mea in Deo meo: quia índuit me vestiméntis salútis: et induménto justítiæ circúmdedit me, quasi sponsam ornátam monílibus suis."
+      },
+      "reference": {
+        "la": "Is 61:10; Ps 29:2",
+        "de": "Is 61:10; Ps 29:2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui per immaculátam Vírginis Conceptiónem dignum Fílio tuo habitáculum præparásti: quǽsumus; ut, qui ex morte ejúsdem Filii tui prævísa eam ab omni labe præservásti, nos quoque mundos ejus intercessióne ad te perveníre concédas."
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Benedícta es tu. Virgo María, a Dómino, Deo excélso, præ ómnibus muliéribus super terram. Tu glória Jerúsalem, tu lætítia Israël, tu honorificéntia pópuli nostri. Allelúja, allelúja. Tota pulchra es, María: et mácula originális non est in te. Allelúja."
+      },
+      "reference": {
+        "la": "Judith 13:23; Judith 15:10; Cant 4:7",
+        "de": "Judith 13:23; Judith 15:10; Cant 4:7"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Fundaménta ejus in móntibus sanctis: díligit Dóminus portas Sion super ómnia tabernácula Jacob. Gloriósa dicta sunt de te, cívitas Dei. Homo natus est in ea, et ipse fundávit eam Altíssimus."
+      },
+      "reference": {
+        "la": "Ps 86:1-2; Ps 86:3; Ps 86:5",
+        "de": "Ps 86:1-2; Ps 86:3; Ps 86:5"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Lucam In illo témpore: Missus est Angelus Gábriël a Deo in civitátem Galilææ, cui nomen Názareth, ad Vírginem desponsátam viro, cui nomen erat Joseph, de domo David, et nomen Vírginis María. Et ingréssus Angelus ad eam, dixit: Ave, grátia plena; Dóminus tecum: benedícta tu in muliéribus."
+      },
+      "reference": {
+        "la": "Luc 1:26-28",
+        "de": "Luc 1:26-28"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Ave, María, grátia plena; Dóminus tecum: benedícta tu in muliéribus, allelúja."
+      },
+      "reference": {
+        "la": "Luc 1:28",
+        "de": "Luc 1:28"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Salutárem hóstiam, quam in sollemnitáte immaculátæ Conceptiónis beátæ Vírginis Maríæ tibi, Dómine, offérimus, súscipe et præsta: ut, sicut illam tua grátia præveniénte ab omni labe immúnem profitémur; ita ejus intercessióne a culpis ómnibus liberémur."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Gloriósa dicta sunt de te, María: quia fecit tibi magna qui potens est."
+      },
+      "reference": {
+        "la": "Ps 86:3, Luc 1:49",
+        "de": "Ps 86:3, Luc 1:49"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Sacraménta quæ súmpsimus, Dómine, Deus noster: illíus in nobis culpæ vúlnera réparent; a qua immaculátam beátæ Maríæ Conceptiónem singuláriter præservásti."
+      }
+    }
+  ]
+}

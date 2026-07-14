@@ -1,34 +1,59 @@
-# Import aus Divinum Officium (später)
+# Import aus Divinum Officium
 
-[Divinum Officium](https://www.divinumofficium.com/) (Repository:
-`DivinumOfficium/divinum-officium`) enthält die vollständige **Messe (1962)** und das
-**Offizium** in Latein samt Übersetzungen. Diese Quelle dient als Basis, um nach und
-nach jeden Tag und jedes Fest einzupflegen.
+[Divinum Officium](https://www.divinumofficium.com/) (Repository
+`DivinumOfficium/divinum-officium`) enthält den vollständigen Datenbestand der
+überlieferten **Messe** und des **Offiziums**. Die Rohdaten liegen auf GitHub und
+sind von hier aus erreichbar (`raw.githubusercontent.com`).
 
-## Vorgehen (geplant)
+## Was importiert wird
 
-1. **Rohdaten** aus dem DO-Repository beziehen (Textdateien je Tag/Fest, eigenes Format
-   mit Abschnittsmarken wie `[Introitus]`, `[Oratio]`, `[Lectio]`, `[Evangelium]` …).
-2. **Parser** schreiben, der diese Abschnitte auf unser Modell abbildet:
+Das Skript `scripts/fetch-divinum-officium.mjs` (`npm run missa:fetch`) holt die
+**Tagesproprien der überlieferten Messe (1962)** und legt sie als JSON unter
+`src/data/imported/mass/` ab (plus `index.json`). Aktuell abgedeckt: alle Sonntage
+des Temporale (Advent → 24. Sonntag nach Pfingsten) sowie die Hauptfeste des
+Sanctorale – rund 60 Formulare.
 
-   | Divinum Officium | Oremos-Modell (`LiturgicalSection`) |
-   | --- | --- |
-   | `[Introitus]` | `id: 'introitus', kind: 'proprium'` |
-   | `[Kyrie]`/Ordinarium | `kind: 'ordinarium'` |
-   | `[Oratio]` | Collecta / Tagesgebet |
-   | `[Lectio]`/`[Epistola]` | Lesung/Epistel |
-   | `[Graduale]`/`[Alleluia]` | `chant: { chantable: true }` |
-   | `[Evangelium]` | Evangelium |
-   | `[Offertorium]`,`[Communio]` | gesangs-fähiges Proprium |
+### Datei-/Abschnittsformat
+DO-Dateien sind in Abschnitte `[Name]` gegliedert. Der Parser bildet ab:
 
-3. **Sprachen** zusammenführen: Latein + gewünschte Übersetzung in `BilingualText`.
-4. **Gesang** markieren (`chantable`), GABC später ergänzen (z.B. aus GregoBase).
-5. Pro Tag/Fest ein `MassFormulary` bzw. `Hour` erzeugen und in `registry.ts`
-   nach Datum/liturgischem Tag auflösen.
+| Divinum Officium | Oremus (`section.id`) |
+| --- | --- |
+| `[Introitus]` | `introitus` (Gesang) |
+| `[Oratio]` | `collecta` |
+| `[Lectio]` / `[Epistola]` | `lectio` / `epistola` |
+| `[Graduale]` / `[Tractus]` / `[Alleluia]` / `[Sequentia]` | `graduale` … (Gesang) |
+| `[Evangelium]` | `evangelium` |
+| `[Offertorium]` | `offertorium` (Gesang) |
+| `[Secreta]` | `secreta` |
+| `[Communio]` | `communio` (Gesang) |
+| `[Postcommunio]` | `postcommunio` |
 
-## Kalender
+Zeilen mit `!` werden als Schriftstellen gesammelt; Makros/Includes (`&`, `$`,
+`@`, `#`) und Versikel-Marker (`v.`, `r.`) werden bereinigt.
 
-Für die korrekte Zuordnung Datum → Formular wird ein vollständiger liturgischer
-Kalender beider Formen benötigt (Novus Ordo z.B. via `romcal`; die 1962-Regeln
-zusätzlich eigens). Aktuell berechnet `src/data/calendar.ts` nur Saison/Farbe für die
-Anzeige.
+## Sprachabdeckung (wichtig)
+
+- **Messe – Latein:** vollständig.
+- **Messe – Deutsch (Proprium):** bei DO **nicht vorhanden** (nur der Tagesname).
+  Die importierten Proprien sind daher Latein; die deutsche Spalte bleibt leer, und
+  die App zeigt im Deutsch-Modus den Hinweis „Deutsche Übersetzung folgt".
+- **Ordinarium:** stammt aus unseren eigenen, zweisprachigen Daten
+  (`src/data/mass/ordinarium1962.ts`) und wird beim Anzeigen automatisch mit dem
+  Proprium zum vollständigen Messablauf verwoben (`buildMass.ts`).
+
+## In der App
+
+- `src/data/registry.ts` lädt die JSON per `import.meta.glob` (`importedMassById`,
+  `importedMassList`).
+- Der Liturgie-Hub listet alle Formulare; `/liturgie/formular/:id` zeigt sie
+  (Ordinarium + Proprium) über `ImportedMassView` → `MassArticle`.
+
+## Erweitern
+
+- Weitere Tage/Feste: die Schlüssel-Listen `TEMPORA`/`SANCTI` im Skript ergänzen und
+  `npm run missa:fetch` erneut ausführen.
+- **Offizium/Brevier:** DO hat hier auch **deutsche** Texte (Antiphonen usw.). Ein
+  Import ist möglich, aber aufwendiger, da Psalmen/Antiphonen über Verweise
+  (`@…`, Psalterium) zusammengesetzt werden – ein sinnvoller nächster Schritt.
+- **Deutsches Mess-Proprium:** benötigt eine andere gemeinfreie Quelle (z. B. ein
+  historisches Messbuch) oder manuelle Ergänzung in den JSON-Dateien.

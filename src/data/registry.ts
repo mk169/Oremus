@@ -7,12 +7,31 @@ import { laudes1962, laudesNeu } from './office/laudes'
 import { prim1962, terz1962, sext1962, non1962, terzNeu, sextNeu, nonNeu } from './office/littleHours'
 import { vesper1962, vesperNeu } from './office/vesper'
 import { komplet1962, kompletNeu } from './office/komplet'
+import importedMassIndex from './imported/mass/index.json'
 import type { Hour, LiturgicalForm, MassFormulary } from './types'
 
 export const massByForm: Record<LiturgicalForm, MassFormulary> = {
   '1962': mass1962,
   novusOrdo: massNovusOrdo,
 }
+
+// Aus Divinum Officium importierte Tagesproprien (überlieferte Messe, 1962).
+const importedModules = import.meta.glob<{ default: MassFormulary }>('./imported/mass/do-*.json', {
+  eager: true,
+})
+export const importedMassById: Record<string, MassFormulary> = Object.fromEntries(
+  Object.values(importedModules).map((m) => [m.default.id, m.default]),
+)
+
+/** Liste der importierten Messformulare in liturgischer Reihenfolge. */
+export interface ImportedMassEntry {
+  id: string
+  titleLa: string
+  titleDe: string
+  color: string
+  rank?: string
+}
+export const importedMassList = importedMassIndex as ImportedMassEntry[]
 
 // Horen in der natürlichen Tagesordnung (Nachtwache/Morgen … Abend/Nacht).
 // 1962: Matutin, Laudes, Prim, Terz, Sext, Non, Vesper, Komplet.

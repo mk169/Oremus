@@ -1,0 +1,150 @@
+{
+  "id": "do-Pent23-0",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "Dominica XXIII Post Pentecosten",
+      "de": "23. Sonntag nach Pfingsten"
+    },
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Dicit Dóminus: Ego cógito cogitatiónes pacis, et non afflictiónis: invocábitis me, et ego exáudiam vos: et redúcam captivitátem vestram de cunctis locis. Benedixísti, Dómine, terram tuam: avertísti captivitátem Jacob. Dicit Dóminus: Ego cógito cogitatiónes pacis, et non afflictiónis: invocábitis me, et ego exáudiam vos: et redúcam captivitátem vestram de cunctis locis."
+      },
+      "reference": {
+        "la": "Jer 29:11; 29:12; 29:14; Ps 84:2",
+        "de": "Jer 29:11; 29:12; 29:14; Ps 84:2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Absólve, quǽsumus, Dómine, tuórum delícta populórum: ut a peccatórum néxibus, quæ pro nostra fragilitáte contráximus, tua benignitáte liberémur."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Philippénses Fratres: Imitatóres mei estóte, et observáte eos, qui ita ámbulant, sicut habétis formam nostram. Multi enim ámbulant, quos sæpe dicébam vobis - nunc autem et flens dico - inimícos Crucis Christi: quorum finis intéritus: quorum Deus venter est: et glória in confusióne ipsórum, qui terréna sápiunt. Nostra autem conversátio in cœlis est: unde étiam Salvatórem exspectámus, Dóminum nostrum Jesum Christum, qui reformábit corpus humilitátis nostræ, configurátum córpori claritátis suæ, secúndum operatiónem, qua étiam possit subjícere sibi ómnia. Itaque, fratres mei caríssimi et desideratíssimi, gáudium meum et coróna mea: sic state in Dómino, caríssimi. Evódiam rogo et Sýntychen déprecor idípsum sápere in Dómino. Etiam rogo et te, germáne compar, ádjuva illas, quæ mecum laboravérunt in Evangélio cum Cleménte et céteris adjutóribus meis, quorum nómina sunt in libro vitæ."
+      },
+      "reference": {
+        "la": "Phil 3:17-21; 4:1-3",
+        "de": "Phil 3:17-21; 4:1-3"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Liberásti nos, Dómine, ex affligéntibus nos: et eos, qui nos odérunt, confudísti. In Deo laudábimur tota die, et in nómine tuo confitébimur in sǽcula. Allelúja, allelúja. De profúndis clamávi ad te, Dómine: Dómine, exáudi oratiónem meam. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 43:8-9; Ps 129:1-2",
+        "de": "Ps 43:8-9; Ps 129:1-2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Loquénte Jesu ad turbas, ecce, princeps unus accéssit et adorábat eum, dicens: Dómine, fília mea modo defúncta est: sed veni, impóne manum tuam super eam, et vivet. Et surgens Jesus sequebátur eum et discípuli ejus. Et ecce múlier, quæ sánguinis fluxum patiebátur duódecim annis, accéssit retro et tétigit fímbriam vestiménti ejus. Dicébat enim intra se: Si tetígero tantum vestiméntum ejus, salva ero. At Jesus convérsus et videns eam, dixit: Confíde, fília, fides tua te salvam fecit. Et salva facta est múlier ex illa hora. Et cum venísset Jesus in domum príncipis, et vidísset tibícines et turbam tumultuántem, dicebat: Recédite: non est enim mórtua puélla, sed dormit. Et deridébant eum. Et cum ejécta esset turba, intrávit et ténuit manum ejus. Et surréxit puélla. Et éxiit fama hæc in univérsam terram illam."
+      },
+      "reference": {
+        "la": "Matt 9:18-26",
+        "de": "Matt 9:18-26"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "De profúndis clamávi ad te, Dómine: Dómine, exáudi oratiónem meam: de profúndis clamávi ad te, Dómine."
+      },
+      "reference": {
+        "la": "Ps 129:1-2",
+        "de": "Ps 129:1-2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Pro nostræ servitútis augménto sacrifícium tibi, Dómine, laudis offérimus: ut, quod imméritis contulísti, propítius exsequáris."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Amen, dico vobis, quidquid orántes pétitis, crédite, quia accipiétis, et fiet vobis."
+      },
+      "reference": {
+        "la": "Marc 11:24",
+        "de": "Marc 11:24"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Quǽsumus, omnípotens Deus: ut, quos divína tríbuis participatióne gaudére, humánis non sinas subjacére perículis."
+      }
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "do-Quadp3-0",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "Dominica in Quinquagesima",
+      "de": "Sonntag Quinquagesima"
+    },
+    "color": "violet",
+    "rank": "Semiduplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Esto mihi in Deum protectórem, et in locum refúgii, ut salvum me fácias: quóniam firmaméntum meum et refúgium meum es tu: et propter nomen tuum dux mihi eris, et enútries me. In te, Dómine, sperávi, non confúndar in ætérnum: in justítia tua líbera me et éripe me. Esto mihi in Deum protectórem, et in locum refúgii, ut salvum me fácias: quóniam firmaméntum meum et refúgium meum es tu: et propter nomen tuum dux mihi eris, et enútries me."
+      },
+      "reference": {
+        "la": "Ps 30:3-4; Ps 30:2",
+        "de": "Ps 30:3-4; Ps 30:2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Preces nostras, quǽsumus, Dómine, cleménter exáudi: atque, a peccatórum vínculis absolútos, ab omni nos adversitáte custódi."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Corinthios Fratres: Si linguis hóminum loquar et Angelórum, caritátem autem non hábeam, factus sum velut æs sonans aut cýmbalum tínniens. Et si habúero prophetíam, et nóverim mystéria ómnia et omnem sciéntiam: et si habúero omnem fidem, ita ut montes tránsferam, caritátem autem non habúero, nihil sum. Et si distribúero in cibos páuperum omnes facultátes meas, et si tradídero corpus meum, ita ut árdeam, caritátem autem non habuero, nihil mihi prodest. Cáritas patiens est, benígna est: cáritas non æmulátur, non agit pérperam, non inflátur, non est ambitiósa, non quærit quæ sua sunt, non irritátur, non cógitat malum, non gaudet super iniquitáte, congáudet autem veritáti: ómnia suffert, ómnia credit, ómnia sperat, ómnia sústinet. Cáritas numquam éxcidit: sive prophétiæ evacuabúntur, sive linguæ cessábunt, sive sciéntia destruétur. Ex parte enim cognóscimus, et ex parte prophetámus. Cum autem vénerit quod perféctum est, evacuábitur quod ex parte est. Cum essem párvulus, loquébar ut párvulus, sapiébam ut párvulus, cogitábam ut párvulus. Quando autem factus sum vir, evacuávi quæ erant párvuli. Vidémus nunc per spéculum in ænígmate: tunc autem fácie ad fáciem. Nunc cognósco ex parte: tunc autem cognóscam, sicut et cógnitus sum. Nunc autem manent fides, spes, cáritas, tria hæc: major autem horum est cáritas."
+      },
+      "reference": {
+        "la": "1 Cor 13:1-13",
+        "de": "1 Cor 13:1-13"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Tu es Deus qui facis mirabília solus: notam fecísti in géntibus virtútem tuam. Liberásti in bráchio tuo pópulum tuum, fílios Israël et Joseph. _ Jubiláte Deo, omnis terra: servíte Dómino in lætítia, Intráte in conspéctu ejus in exsultatióne: scitóte, quod Dóminus ipse est Deus. Ipse fecit nos, et non ipsi nos: nos autem pópulus ejus, et oves páscuæ ejus."
+      },
+      "reference": {
+        "la": "Ps 76:15; 76:16; Tractus; Ps 99:1-2",
+        "de": "Ps 76:15; 76:16; Tractus; Ps 99:1-2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Lucam In illo témpore: Assúmpsit Jesus duódecim, et ait illis: Ecce, ascéndimus Jerosólymam, et consummabúntur ómnia, quæ scripta sunt per Prophétas de Fílio hominis. Tradétur enim Géntibus, et illudétur, et flagellábitur, et conspuétur: et postquam flagelláverint, occídent eum, et tértia die resúrget. Et ipsi nihil horum intellexérunt, et erat verbum istud abscónditum ab eis, et non intellegébant quæ dicebántur. Factum est autem, cum appropinquáret Jéricho, cæcus quidam sedébat secus viam, mendícans. Et cum audíret turbam prætereúntem, interrogábat, quid hoc esset. Dixérunt autem ei, quod Jesus Nazarénus transíret. Et clamávit, dicens: Jesu, fili David, miserére mei. Et qui præíbant, increpábant eum, ut tacéret. Ipse vero multo magis clamábat: Fili David, miserére mei. Stans autem Jesus, jussit illum addúci ad se. Et cum appropinquásset, interrogávit illum, dicens: Quid tibi vis fáciam? At ille dixit: Dómine, ut vídeam. Et Jesus dixit illi: Réspice, fides tua te salvum fecit. Et conféstim vidit, et sequebátur illum, magníficans Deum. Et omnis plebs ut vidit, dedit laudem Deo."
+      },
+      "reference": {
+        "la": "Luc 18:31-43",
+        "de": "Luc 18:31-43"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Benedíctus es, Dómine, doce me justificatiónes tuas: in lábiis meis pronuntiávi ómnia judícia oris tui."
+      },
+      "reference": {
+        "la": "Ps 118:12-13",
+        "de": "Ps 118:12-13"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Manducavérunt, et saturári sunt nimis, et desidérium eórum áttulit eis Dóminus: non sunt fraudáti a desidério suo."
+      },
+      "reference": {
+        "la": "Ps 77:29-30",
+        "de": "Ps 77:29-30"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Quǽsumus, omnípotens Deus: ut, qui coeléstia aliménta percépimus, per hæc contra ómnia adversa muniámur."
+      }
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "id": "do-Pent19-0",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "Dominica XIX Post Pentecosten",
+      "de": "19. Sonntag nach Pfingsten"
+    },
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Salus pópuli ego sum, dicit Dóminus: de quacúmque tribulatióne clamáverint ad me, exáudiam eos: et ero illórum Dóminus in perpétuum. Attendite, pópule meus, legem meam: inclináte aurem vestram in verba oris mei. Salus pópuli ego sum, dicit Dóminus: de quacúmque tribulatióne clamáverint ad me, exáudiam eos: et ero illórum Dóminus in perpétuum"
+      },
+      "reference": {
+        "la": "Ps 77:1",
+        "de": "Ps 77:1"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Omnípotens et miséricors Deus, univérsa nobis adversántia propitiátus exclúde: ut mente et córpore páriter expedíti, quæ tua sunt, líberis méntibus exsequámur."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Ephésios Fratres: Renovámini spíritu mentis vestræ, et indúite novum hóminem, qui secúndum Deum creátus est in justítia et sanctitáte veritátis. Propter quod deponéntes mendácium, loquímini veritátem unusquísque cum próximo suo: quóniam sumus ínvicem membra. Irascímini, et nolíte peccáre: sol non occídat super iracúndiam vestram. Nolíte locum dare diábolo: qui furabátur, jam non furétur; magis autem labóret, operándo mánibus suis, quod bonum est, ut hábeat, unde tríbuat necessitátem patiénti."
+      },
+      "reference": {
+        "la": "Ephes 4:23-28",
+        "de": "Ephes 4:23-28"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Dirigátur orátio mea, sicut incénsum in conspéctu tuo, Dómine. Elevatio mánuum meárum sacrifícium vespertínum. Allelúja, allelúja Confitémini Dómino, et invocáte nomen ejus: annuntiáte inter gentes ópera ejus. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 140:2; Ps 104:1",
+        "de": "Ps 140:2; Ps 104:1"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Loquebátur Jesus princípibus sacerdótum et pharisǽis in parábolis, dicens: Símile factum est regnum cœlórum hómini regi, qui fecit núptias fílio suo. Et misit servos suos vocáre invitátos ad nuptias, et nolébant veníre. Iterum misit álios servos, dicens: Dícite invitátis: Ecce, prándium meum parávi, tauri mei et altília occísa sunt, et ómnia paráta: veníte ad núptias. Illi autem neglexérunt: et abiérunt, álius in villam suam, álius vero ad negotiatiónem suam: réliqui vero tenuérunt servos ejus, et contuméliis afféctos occidérunt. Rex autem cum audísset, iratus est: et, missis exercítibus suis, pérdidit homicídas illos et civitátem illórum succéndit. Tunc ait servis suis: Núptiæ quidem parátæ sunt, sed, qui invitáti erant, non fuérunt digni. Ite ergo ad exitus viárum et, quoscúmque invenéritis, vocáte ad núptias. Et egréssi servi ejus in vias, congregavérunt omnes, quos invenérunt, malos et bonos: et implétæ sunt núptiæ discumbéntium. Intrávit autem rex, ut vidéret discumbéntes, et vidit ibi hóminem non vestítum veste nuptiáli. Et ait illi: Amíce, quómodo huc intrásti non habens vestem nuptiálem? At ille obmútuit. Tunc dixit rex minístris: Ligátis mánibus et pédibus ejus, míttite eum in ténebras exterióres: ibi erit fletus et stridor déntium. Multi enim sunt vocáti, pauci vero elécti."
+      },
+      "reference": {
+        "la": "Matt 22:1-14",
+        "de": "Matt 22:1-14"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Si ambulávero in médio tribulatiónis, vivificábis me, Dómine: et super iram inimicórum meórum exténdes manum tuam, et salvum me fáciet déxtera tua."
+      },
+      "reference": {
+        "la": "Ps 137:7",
+        "de": "Ps 137:7"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Hæc múnera, quǽsumus, Dómine, quæ óculis tuæ majestátis offérimus, salutária nobis esse concéde."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Tu mandásti mandáta tua custodíri nimis: útinam dirigántur viæ meæ, ad custodiéndas justificatiónes tuas."
+      },
+      "reference": {
+        "la": "Ps 118:4-5",
+        "de": "Ps 118:4-5"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Tua nos, Dómine, medicinális operátio, et a nostris perversitátibus cleménter expédiat, et tuis semper fáciat inhærére mandátis."
+      }
+    }
+  ]
+}
