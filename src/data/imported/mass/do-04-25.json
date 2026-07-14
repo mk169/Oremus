@@ -1,0 +1,132 @@
+{
+  "id": "do-04-25",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Marci Evangelistæ",
+      "de": "Hl. Markus Evangelist"
+    },
+    "color": "green",
+    "rank": "Duplex II classis"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Protexísti me, Deus, a convéntu malignántium, allelúja: a multitúdine operántium iniquitátem, allelúja, allelúja. Exáudi, Deus, oratiónem meam cum déprecor: a timore inimíci éripe ánimam meam. Protexísti me, Deus, a convéntu malignántium, allelúja: a multitúdine operántium iniquitátem, allelúja, allelúja."
+      },
+      "reference": {
+        "la": "Ps 63:3; Ps 63:2",
+        "de": "Ps 63:3; Ps 63:2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui beátum Marcum Evangelístam tuum evangélicæ prædicatiónis grátia sublimásti: tríbue, quǽsumus; ejus nos semper et eruditióne profícere et oratióne deféndi."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Ezechiélis Prophétæ Similitúdo vultus quátuor animálium: fácies hóminis, et fácies leónis a dextris ipsórum quatuor: fácies autem bovis a sinístris ipsórum quátuor, et fácies áquilæ désuper ipsórum quátuor. Fácies eórum et pennæ eórum exténtæ désuper: duæ pennæ singulórum jungebántur et duæ tegébant córpora eórum: et unumquódque eórum coram fácie sua ambulábat: ubi erat ímpetus spíritus, illuc gradiebántur, nec revertebántur cum ambulárent. Et similitúdo animálium, aspéctus eórum quasi carbónum ignis ardéntium et quasi aspéctus lampadárum. Hæc erat visio discúrrens in médio animálium, splendor ignis, et de igne fulgur egrédiens. Et animália ibant et revertebántur in similitúdinem fúlguris coruscántis."
+      },
+      "reference": {
+        "la": "Ezech 1:10-14",
+        "de": "Ezech 1:10-14"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Allelúja, allelúja. Confitebúntur cœli mirabília tua, Dómine: étenim veritátem tuam in ecclésia sanctórum. Allelúja. Posuísti, Dómine, super caput ejus corónam de lápide pretióso. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 88:6; Ps 20:4.",
+        "de": "Ps 88:6; Ps 20:4."
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Lucam In illo témpore: Designávit Dóminus et álios septuagínta duos: et misit illos binos ante fáciem suam in omnem civitátem et locum, quo erat ipse ventúrus. ¶ Et dicebat illis: Messis quidem multa, operárii autem pauci. Rogáte ergo Dóminum messis, ut mittat operários in messem suam. Ite: ecce, ego mitto vos sicut agnos inter lupos. Nolíte portáre sácculum neque peram neque calceaménta; et néminem per viam salutavéritis. In quamcúmque domum intravéritis, primum dícite: Pax huic dómui: et si ibi fúerit fílius pacis, requiéscet super illum pax vestra: sin autem, ad vos revertétur. In eádem autem domo manéte, edéntes et bibéntes quæ apud illos sunt: dignus est enim operárius mercéde sua. Nolíte transíre de domo in domum. Et in quamcúmque civitátem intravéritis, et suscéperint vos, manducáte quæ apponúntur vobis: et curáte infírmos, qui in illa sunt, et dícite illis: Appropinquávit in vos regnum Dei."
+      },
+      "reference": {
+        "la": "Luc 10:1-9",
+        "de": "Luc 10:1-9"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Confitebúntur cœli mirabília tua, Dómine: et veritátem tuam in ecclésia sanctórum, allelúja, allelúja."
+      },
+      "reference": {
+        "la": "Ps 88:6",
+        "de": "Ps 88:6"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Beáti Marci Evangelístæ tui sollemnitáte tibi múnera deferéntes, quǽsumus, Dómine: ut, sicut illum prædicátio evangélica fecit gloriósum: ita nos ejus intercéssio et verbo et ópere tibi reddat accéptos."
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Tríbuant nobis, quǽsumus, Dómine, contínuum tua sancta præsídium: quo, beáti Marci evangelístæ tui précibus, nos ab ómnibus semper tueántur advérsis."
+      }
+    }
+  ]
+}

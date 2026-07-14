@@ -118,6 +118,24 @@
       }
     },
     {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Meménto verbi tui servo tuo, Dómine, in quo mihi spem dedísti: hæc me consoláta est in humilitáte mea."
+      },
+      "reference": {
+        "la": "Ps 118:49-50",
+        "de": "Ps 118:49-50"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
       "id": "postcommunio",
       "kind": "proprium",
       "title": {

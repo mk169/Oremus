@@ -1,0 +1,48 @@
+{
+  "id": "do-09-30",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Hieronymi Presbyteris Confessoris et Ecclesiæ Doctoris",
+      "de": "Hl. Hieronymus, Priester, Bekenner und Kirchenlehrer"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui Ecclésiæ tuæ in exponéndis sacris Scriptúris beátum Hierónymum, Confessórem tuum, Doctórem máximum providére dignátus es: præsta, quǽsumus; ut, ejus suffragántibus méritis, quod ore simul et ópere dócuit, te adjuvánte, exercére valeámus."
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Donis cœléstibus da nobis, quǽsumus, Dómine, líbera tibi mente servíre: ut múnera, quæ deférimus, interveniénte beáto Hierónymo Confessóre tuo, et medélam nobis operéntur et glóriam."
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Repleti alimónia cœlésti, quǽsumus, Dómine: ut, interveniénte beáto Hierónymo Confessóre tuo, misericórdiæ tuæ grátiam cónsequi mereámur."
+      }
+    }
+  ]
+}

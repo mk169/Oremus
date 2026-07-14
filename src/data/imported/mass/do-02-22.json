@@ -1,0 +1,66 @@
+{
+  "id": "do-02-22",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "In Cathedra S. Petri Apostoli Antiochiæ",
+      "de": "In Cathedra S. Petri Apostoli Antiochiæ"
+    },
+    "color": "green",
+    "rank": "Duplex majus"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "(deinde dicuntur semper) _ (sed rubrica 196 omittuntur)"
+      }
+    },
+    {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Exáltent eum in Ecclésia plebis: et in cáthedra seniórum laudent eum. Confiteántur Dómino misericórdiæ ejus; et mirabília ejus fíliis hóminum. _"
+      },
+      "reference": {
+        "la": "Ps 106:32; 106:31; Tractus",
+        "de": "Ps 106:32; 106:31; Tractus"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "(deinde dicuntur semper) _ (sed rubrica 196 omittuntur)"
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "(deinde dicuntur semper) _ (sed rubrica 196 omittuntur)"
+      }
+    }
+  ]
+}

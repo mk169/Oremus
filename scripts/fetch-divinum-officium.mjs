@@ -40,10 +40,38 @@ const ORDER = Object.keys(SECTION_MAP)
 const COLOR = (key) =>
   /^Adv|^Quad/.test(key) ? 'violet' : /^Pasc|^Nat|^Epi/.test(key) ? 'white' : /^Pent/.test(key) ? 'green' : 'green'
 
+const fileCache = new Map()
 async function fetchText(url) {
   const res = await fetch(url)
   if (!res.ok) return null
   return await res.text()
+}
+
+/** Holt eine Latein-Datei (Sancti/Tempora) und zerlegt sie – mit Cache. */
+async function getLatinSections(path) {
+  if (fileCache.has(path)) return fileCache.get(path)
+  const txt = await fetchText(`${RAW}/Latin/${path}.txt`)
+  const secs = txt ? splitSections(txt) : null
+  fileCache.set(path, secs)
+  return secs
+}
+
+/**
+ * Löst einen Abschnitt auf: liefert die bereinigten Zeilen. Ist der Abschnitt leer,
+ * aber verweist per @Sancti/... bzw. @Tempora/... auf einen anderen, wird dieser
+ * (eine Ebene tief) nachgeladen. Common-Verweise (ex C1) bleiben offen.
+ */
+async function resolveSection(rawLines, name, depth = 0) {
+  const cleaned = cleanSection(rawLines || [])
+  if (cleaned.text || depth > 2 || !rawLines) return cleaned
+  const ref = rawLines.map((l) => l.trim()).find((l) => /^@(Sancti|Tempora)\//.test(l))
+  if (!ref) return cleaned
+  const m = ref.match(/^@((?:Sancti|Tempora)\/[^:\s]+)(?::(.+))?$/)
+  if (!m) return cleaned
+  const secs = await getLatinSections(m[1])
+  if (!secs) return cleaned
+  const targetName = (m[2] || name).trim()
+  return resolveSection(secs[targetName], targetName, depth + 1)
 }
 
 /** Zerlegt eine DO-Datei in { [Section]: rawLines[] }. */
@@ -110,7 +138,7 @@ async function importKey(cat, key) {
   const sections = []
   for (const name of ORDER) {
     if (!laS[name]) continue
-    const cleaned = cleanSection(laS[name])
+    const cleaned = await resolveSection(laS[name], name)
     if (!cleaned.text) continue
     const map = SECTION_MAP[name]
     const deClean = deS[name] ? cleanSection(deS[name]) : null
@@ -148,7 +176,18 @@ const TEMPORA = [
   'Pasc0-0', 'Pasc1-0', 'Pasc2-0', 'Pasc3-0', 'Pasc4-0', 'Pasc5-0',
   ...Array.from({ length: 24 }, (_, i) => `Pent${String(i + 1).padStart(2, '0')}-0`),
 ]
-const SANCTI = ['12-25', '01-06', '02-02', '03-19', '03-25', '06-24', '06-29', '08-15', '09-08', '11-01', '12-08']
+// Breite Auswahl von Festen des Sanctorale (überlieferter Kalender).
+const SANCTI = [
+  '01-06', '01-21', '01-25', '02-02', '02-22', '02-24',
+  '03-17', '03-19', '03-25', '04-25', '04-29',
+  '05-01', '05-31', '06-11', '06-13', '06-24', '06-29',
+  '07-02', '07-22', '07-25', '07-26', '07-31',
+  '08-04', '08-06', '08-10', '08-15', '08-24', '08-28',
+  '09-08', '09-14', '09-21', '09-29', '09-30',
+  '10-02', '10-04', '10-07', '10-18', '10-28',
+  '11-01', '11-11', '11-21', '11-30',
+  '12-06', '12-08', '12-26', '12-27', '12-28',
+]
 
 async function main() {
   await mkdir(OUT_DIR, { recursive: true })

@@ -1,0 +1,150 @@
+{
+  "id": "do-08-06",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "In Transfiguratione Domini Nostri Jesu Christi",
+      "de": "In Transfiguratione Domini Nostri Jesu Christi"
+    },
+    "color": "green",
+    "rank": "Duplex II classis"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Illuxérunt coruscatiónes tuæ orbi terræ: commóta est et contrémuit terra. Quam dilécta tabernácula tua, Dómine virtútum! Concupíscit, et déficit ánima mea in átria Dómini. Illuxérunt coruscatiónes tuæ orbi terræ: commóta est et contrémuit terra."
+      },
+      "reference": {
+        "la": "Ps 76:19; Ps 83:2-3",
+        "de": "Ps 76:19; Ps 83:2-3"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui fídei sacraménta in Unigéniti tui gloriósa Transfiguratióne patrum testimónio roborásti, et adoptiónem filiórum perféctam, voce delápsa in nube lúcida, mirabíliter præsignásti: concéde propítius; ut ipsíus Regis glóriæ nos coherédes effícias, et ejúsdem glóriæ tríbuas esse consórtes."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Petri Apóstoli Caríssimi: Non doctas fábulas secúti notam fecimus vobis Dómini nostri Jesu Christi virtútem et præséntiam: sed speculatores facti illíus magnitudinis. Accipiens enim a Deo Patre honórem et glóriam, voce delapsa ad eum hujuscemodi a magnifica glória: Hic est Fílius meus diléctus, in quo mihi complacui, ipsum audíte. Et hanc vocem nos audivimus de cœlo allatam, cum essemus cum ipso in monte sancto. Et habémus firmiórem propheticum sermónem: cui bene facitis attendentes, quasi lucérnæ lucénti in caliginóso loco, donec dies elucescat et lucifer oriátur in córdibus vestris."
+      },
+      "reference": {
+        "la": "2 Petri 1:16-19",
+        "de": "2 Petri 1:16-19"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Speciosus forma præ fíliis hóminum: diffúsa est grátia in lábiis tuis. Eructávit cor meum verbum bonum: dico ego ópera mea Regi. Allelúja, allelúja. Candor est lucis ætérnæ, spéculum sine mácula, et imágo bonitátis illíus. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 44:3; 44:2; Eccli 7:26",
+        "de": "Ps 44:3; 44:2; Eccli 7:26"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Assúmpsit Jesus Petrum, et Jacóbum, et Joánnem fratrem ejus, et duxit illos in montem excélsum seórsum: et transfigurátus est ante eos. Et resplénduit fácies ejus sicut sol: vestiménta autem ejus facta sunt alba sicut nix. Et ecce, apparuérunt illis Moyses et Elías cum eo loquéntes. Respóndens autem Petrus, dixit ad Jesum: Dómine, bonum est nos hic esse: si vis, faciámus hic tria tabernácula, tibi unum, Móysi unum et Elíæ unum. Adhuc eo loquénte, ecce, nubes lúcida obumbrávit eos. Et ecce vox de nube, dicens: Hic est Fílius meus diléctus, in quo mihi bene complácui: ipsum audíte. Et audiéntes discípuli, cecidérunt in fáciem suam, et timuérunt valde. Et accéssit Jesus, et tétigit eos, dixítque eis: Surgite, et nolíte timére. Levántes autem óculos suos, néminem vidérunt nisi solum Jesum. Et descendéntibus illis de monte, præcépit eis Jesus, dicens: Némini dixéritis visiónem, donec Fílius hóminis a mórtuis resúrgat."
+      },
+      "reference": {
+        "la": "Matt 17:1-9",
+        "de": "Matt 17:1-9"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Glória et divítiæ in domo ejus: et justítia ejus manet in sǽculum sǽculi, allelúja."
+      },
+      "reference": {
+        "la": "Ps 111:3",
+        "de": "Ps 111:3"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Obláta, quǽsumus, Dómine, múnera gloriósa Unigéniti tui Transfiguratióne sanctífica: nosque a peccatórum máculis, splendóribus ipsíus illustratiónis emúnda."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Visiónem, quam vidístis, némini dixéritis, donec a mórtuis resúrgat Fílius hóminis."
+      },
+      "reference": {
+        "la": "Matt 17:9",
+        "de": "Matt 17:9"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Præsta, quǽsumus, omnípotens Deus: ut sacrosáncta Fílii tui Transfiguratiónis mystéria, quæ sollemni celebrámus offício, purificáta mentis intellegéntia consequámur."
+      }
+    }
+  ]
+}

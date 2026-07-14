@@ -12,6 +12,24 @@
   },
   "sections": [
     {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Adoráte Deum, omnes Angeli ejus: audívit, et lætáta est Sion: et exsultavérunt fíliæ Judæ. Dóminus regnávit, exsúltet terra: læténtur ínsulæ multæ. Adoráte Deum, omnes Angeli ejus: audívit, et lætáta est Sion: et exsultavérunt fíliæ Judæ."
+      },
+      "reference": {
+        "la": "Ps 96:7-8; Ps 96:1",
+        "de": "Ps 96:7-8; Ps 96:1"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
       "id": "collecta",
       "kind": "proprium",
       "title": {
@@ -38,6 +56,24 @@
       }
     },
     {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Timébunt gentes nomen tuum, Dómine, et omnes reges terræ glóriam tuam. Quóniam ædificávit Dóminus Sion, et vidébitur in majestáte sua. Allelúja, allelúja. Dóminus regnávit, exsúltet terra: læténtur ínsulæ multæ. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 101:16-17; Ps 96:1",
+        "de": "Ps 101:16-17; Ps 96:1"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
       "id": "evangelium",
       "kind": "proprium",
       "title": {
@@ -53,6 +89,24 @@
       }
     },
     {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Déxtera Dómini fecit virtutem, déxtera Dómini exaltávit me: non móriar, sed vivam, et narrábo ópera Dómini."
+      },
+      "reference": {
+        "la": "Ps 117:16; 117:17",
+        "de": "Ps 117:16; 117:17"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
       "id": "secreta",
       "kind": "proprium",
       "title": {
@@ -61,6 +115,24 @@
       },
       "text": {
         "la": "Concéde, quǽsumus, omnípotens Deus: ut hujus sacrifícii munus oblátum fragilitátem nostram ab omni malo purget semper et múniat."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Mirabántur omnes de his, quæ procedébant de ore Dei."
+      },
+      "reference": {
+        "la": "Luc 4:22",
+        "de": "Luc 4:22"
+      },
+      "chant": {
+        "chantable": true
       }
     },
     {

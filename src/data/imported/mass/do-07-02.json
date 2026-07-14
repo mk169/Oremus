@@ -1,0 +1,92 @@
+{
+  "id": "do-07-02",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "In Visitatione B. Mariæ Virginis",
+      "de": "In Visitatione B. Mariæ Virginis"
+    },
+    "color": "green",
+    "rank": "Duplex II classis"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Fámulis tuis, quǽsumus, Dómine, cœléstis grátiæ munus impertíre: ut, quibus beátæ Vírginis partus éxstitit salútis exórdium; Visitatiónis ejus votíva sollémnitas, pacis tríbuat increméntum."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio libri Sapiéntiæ Ecce, iste venit sáliens in móntibus, transíliens colles; símilis est diléctus meus cápreæ hinnulóque cervórum. En, ipse stat post paríetem nostrum, respíciens per fenéstras, prospíciens per cancéllos. En, diléctus meus lóquitur mihi: Surge, própera, amíca mea, colúmba mea, formósa mea, et veni. Jam enim hiems tránsiit, imber ábiit et recéssit. Flores apparuérunt in terra nostra, tempus putatiónis advénit: vox túrturis audíta est in terra nostra: ficus prótulit grossos suos: víneæ floréntes dedérunt odórem suum. Surge, amíca mea, speciósa mea, et veni: colúmba mea in foramínibus petra, in cavérna macériæ, osténde mihi fáciem tuam, sonet vox tua in áuribus meis: vox enim tua dulcis et fácies tua decóra."
+      },
+      "reference": {
+        "la": "Cant 2:8-14",
+        "de": "Cant 2:8-14"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Benedícta et venerábilis es, Virgo María: quæ sine tactu pudóris invénta es Mater Salvatóris. Virgo, Dei Génetrix, quem totus non capit orbis, in tua se clausit víscera factus homo. Allelúja, allelúja. Felix es, sacra Virgo María, et omni laude digníssima: quia ex te ortus est sol justítiæ, Christus, Deus noster. Allelúja."
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Lucam In illo témpore: Exsúrgens María ábiit in montána cum festinatióne in civitátem Juda: et intrávit in domum Zacharíæ et salutávit Elísabeth. Et factum est, ut audivit salutatiónem Maríæ Elísabeth, exsultávit infans in útero ejus: et repléta est Spíritu Sancto Elísabeth, et exclamávit voce magna et dixit: Benedícta tu inter mulíeres, et benedíctus fructus ventris tui. Et unde hoc mihi, ut véniat Mater Dómini mei ad me? Ecce enim, ut facta est vox salutatiónis tuæ in áuribus meis, exsultávit in gáudio infans in útero meo. Et beáta, quæ credidísti, quóniam perficiéntur ea, quæ dicta sunt tibi a Dómino. Et ait María: Magníficat ánima mea Dóminum: et exsultávit spíritus meus in Deo, salutári meo."
+      },
+      "reference": {
+        "la": "Luc 1:39-47",
+        "de": "Luc 1:39-47"
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Unigéniti tui, Dómine, nobis succúrrat humánitas: ut, qui, natus de Vírgine, Matris integritátem non mínuit, sed sacrávit; in Visitatiónis ejus sollémniis, nostris nos piáculis éxuens, oblatiónem nostram tibi fáciat accéptam Jesus Christus, Dóminus noster:"
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Súmpsimus, Dómine, celebritátis ánnuæ votíva sacraménta: præsta, quǽsumus; ut et temporális vitæ nobis remédia prǽbeant et ætérnæ."
+      }
+    }
+  ]
+}

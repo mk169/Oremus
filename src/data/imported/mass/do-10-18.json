@@ -1,0 +1,151 @@
+{
+  "id": "do-10-18",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Lucæ Evangelistæ",
+      "de": "Fest des hl. Evangelisten Lukas"
+    },
+    "color": "green",
+    "rank": "Duplex 2 classis"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Mihi autem nimis honoráti sunt amíci tui, Deus: nimis confortátus est principátus eórum. Dómine, probásti me et cognovísti me: tu cognovísti sessiónem meam et resurrectiónem meam. Mihi autem nimis honoráti sunt amíci tui, Deus: nimis confortátus est principátus eórum."
+      },
+      "reference": {
+        "la": "Ps 138:17; Ps 138:1-2.",
+        "de": "Ps 138:17; Ps 138:1-2."
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Intervéniat pro nobis, quǽsumus, Dómine, sanctus tuus Lucas Evangélista: qui crucis mortificatiónem júgiter in suo córpore, pro tui nóminis honóre, portávit.",
+        "de": "Laß, wir bitten dich, o Herr, deinen heiligen Evangelisten Lukas für uns Fürsprache einlegen: der die Abtötung des Kreuzes ständig an seinem Leibe zur Ehre deines Namens getragen hat."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios Fratres: Grátias ago Deo, qui dedit eandem sollicitúdinem pro vobis in corde Titi, quóniam exhortatiónem quidem suscépit: sed cum sollicítior esset, sua voluntáte proféctus est ad vos. Mísimus étiam cum illo fratrem, cujus laus est in Evangélio per omnes ecclésias: non solum autem, sed et ordinátus est ab ecclésiis comes peregrinatiónis nostræ in hanc grátiam, quæ ministrátur a nobis ad Dómini glóriam et destinátam voluntátem nostram: devitántes hoc, ne quis nos vitúperet in hac plenitúdine, quæ ministrátur a nobis. Providémus enim bona non solum coram Deo, sed étiam coram homínibus. Mísimus autem cum illis et fratrem nostrum, quem probávimus in multis sæpe sollícitum esse: nunc autem multo sollicitiórem, confidéntia multa in vos, sive pro Tito, qui est sócius meus, et in vos adjútor, sive fratres nostri, Apóstoli ecclesiárum, glória Christi. Ostensiónem ergo, quæ est caritátis vestræ, et nostræ glóriæ pro vobis, in illos osténdite in fáciem ecclesiárum."
+      },
+      "reference": {
+        "la": "2 Cor 8:16-24.",
+        "de": "2 Cor 8:16-24."
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "In omnem terram exívit sonus eórum: et in fines orbis terræ verba eórum. Cœli enárrant glóriam Dei: et ópera mánuum ejus annúntiat firmaméntum. Allelúja, allelúja. Ego vos elégi de mundo, ut eátis et fructum afferátis: et fructus vester máneat. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 18:5; 18:2; Joann 15:16",
+        "de": "Ps 18:5; 18:2; Joann 15:16"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Lucam In illo témpore: Designávit Dóminus et álios septuagínta duos: et misit illos binos ante fáciem suam in omnem civitátem et locum, quo erat ipse ventúrus. ¶ Et dicebat illis: Messis quidem multa, operárii autem pauci. Rogáte ergo Dóminum messis, ut mittat operários in messem suam. Ite: ecce, ego mitto vos sicut agnos inter lupos. Nolíte portáre sácculum neque peram neque calceaménta; et néminem per viam salutavéritis. In quamcúmque domum intravéritis, primum dícite: Pax huic dómui: et si ibi fúerit fílius pacis, requiéscet super illum pax vestra: sin autem, ad vos revertétur. In eádem autem domo manéte, edéntes et bibéntes quæ apud illos sunt: dignus est enim operárius mercéde sua. Nolíte transíre de domo in domum. Et in quamcúmque civitátem intravéritis, et suscéperint vos, manducáte quæ apponúntur vobis: et curáte infírmos, qui in illa sunt, et dícite illis: Appropinquávit in vos regnum Dei."
+      },
+      "reference": {
+        "la": "Luc 10:1-9",
+        "de": "Luc 10:1-9"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Mihi autem nimis honoráti sunt amíci tui, Deus: nimis confortátus est principátus eórum."
+      },
+      "reference": {
+        "la": "Ps 138:17",
+        "de": "Ps 138:17"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Donis cœléstibus da nobis, quǽsumus, Dómine, líbera tibi mente servíre: ut múnera quæ deférimus, interveniénte beáto Evangelísta tuo Luca, et medélam nobis operéntur et glóriam."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Vos, qui secúti estis me, sedébitis super sedes, judicántes duódecim tribus Israël."
+      },
+      "reference": {
+        "la": "Matt 19:28",
+        "de": "Matt 19:28"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Præsta, quǽsumus, omnípotens Deus: ut, quod de sancto altári tuo accépimus, précibus beáti Evangelístæ tui Lucæ, sanctíficet ánimas nostras, per quod tuti esse possímus."
+      }
+    }
+  ]
+}

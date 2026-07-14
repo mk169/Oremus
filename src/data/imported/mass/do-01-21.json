@@ -1,0 +1,55 @@
+{
+  "id": "do-01-21",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Agnetis Virginis et Martyris",
+      "de": "Hl. Agnes, Jungfrau und Martyrerin"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Omnípotens sempitérne Deus, qui infírma mundi éligis, ut fórtia quæque confúndas: concéde propítius; ut, qui beátæ Agnétis Vírginis et Mártyris tuæ sollémnia cólimus, ejus apud te patrocínia sentiámus."
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Diffúsa est grátia in lábiis tuis: proptérea benedíxit te Deus in ætérnum. Propter veritátem et mansuetúdinem et justítiam: et dedúcet te mirabíliter déxtera tua. Allelúja, allelúja. Quinque prudéntes vírgines accepérunt óleum in vasis suis cum lampádibus: média autem nocte clamor factus est: Ecce, sponsus venit: exíte óbviam Christo Dómino. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 44:3; Ps 44:5; Matt 25:4 25:6",
+        "de": "Ps 44:3; Ps 44:5; Matt 25:4 25:6"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Hóstias, Dómine, quas tibi offérimus, propítius súscipe: et, intercedénte beáta Agnéte Vírgine et Mártyre tua, víncula peccatórum nostrórum absólve."
+      }
+    }
+  ]
+}

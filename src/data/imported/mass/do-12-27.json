@@ -1,0 +1,122 @@
+{
+  "id": "do-12-27",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Joannis Apostoli et Evangelistæ",
+      "de": "Fest des heiligen Apostels und Evangelisten Johannes"
+    },
+    "color": "green",
+    "rank": "Duplex II Class cum octava simplici"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Ecclésiam tuam, Dómine, benígnus illústra: ut, beáti Joánnis Apóstoli tui et Evangelístæ illumináta doctrínis, ad dona pervéniat sempitérna.",
+        "de": "Umstrahle deine Kirche, o Herr, in deiner Güte, damit sie, von der Lehre deines heiligen Apostels und Evangelisten Johannes erleuchtet, zu den ewigen Gütern gelange."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Lectio libri Sapiéntiæ Qui timet Deum, fáciet bona: et qui cóntinens est justítiæ, apprehéndet illam, et obviábit illi quasi mater honorificáta. Cibábit illum pane vitæ et intelléctus, et aqua sapiéntiæ salutáris potábit illum: et firmábitur in illo, et non flectétur: et continébit illum, et non confundétur: et exaltábit illum apud próximos suos, et in médio ecclésiæ apériet os ejus, et adimplébit illum spíritu sapiéntiæ et intelléctus, et stola glóriæ véstiet illum. Jucunditátem et exsultatiónem thesaurizábit super illum, et nómine ætérno hereditábit illum, Dóminus, Deus noster."
+      },
+      "reference": {
+        "la": "Eccli 15:1-6",
+        "de": "Eccli 15:1-6"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Exiit sermo inter fratres, quod discípulus ille non móritur: et non dixit Jesus: Non móritur, Sed: Sic eum volo manére, donec véniam: tu me séquere. Allelúja, allelúja. Hic est discípulus ille, qui testimónium pérhibet de his: et scimus, quia verum est testimónium ejus. Allelúja."
+      },
+      "reference": {
+        "la": "Joann 21:23; 21:19; Joann 21:24",
+        "de": "Joann 21:23; 21:19; Joann 21:24"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Beátus vir, qui timet Dóminum: in mandátis ejus cupit nimis. Potens in terra erit semen ejus: generátio rectórum benedicétur. Glória et divítiæ in domo ejus: et justítia ejus manet in sǽculum sǽculi."
+      },
+      "reference": {
+        "la": "Ps 111:1-3",
+        "de": "Ps 111:1-3"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secundum Joánnem In illo témpore: Dixit Jesus Petro: Séquere me. Convérsus Petrus vidit illum discípulum, quem diligébat Jesus, sequéntem, qui et recúbuit in cena super pectus ejus, et dixit: Dómine, quis est qui tradet te ? Hunc ergo cum vidísset Petrus, dixit Jesu: Dómine, hic autem quid? Dicit ei Jesus: Sic eum volo manére, donec véniam, quid ad te? tu me séquere. Exiit ergo sermo iste inter fratres, quia discípulus ille non móritur. Et non dixit ei Jesus: Non móritur; sed: Sic eum volo manére, donec véniam: quid ad te? Hic est discípulus ille, qui testimónium pérhibet de his, et scripsit hæc: et scimus, quia verum est testimónium ejus."
+      },
+      "reference": {
+        "la": "Joann 21:19-24",
+        "de": "Joann 21:19-24"
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Súscipe, Dómine, múnera, quæ in ejus tibi sollemnitáte deférimus, cujus nos confídimus patrocínio liberári."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Exiit sermo inter fratres, quod discípulus ille non móritur: et non dixit Jesus: Non móritur; sed: Sic eum volo manére, donec véniam."
+      },
+      "reference": {
+        "la": "Joann 21:23",
+        "de": "Joann 21:23"
+      },
+      "chant": {
+        "chantable": true
+      }
+    }
+  ]
+}

@@ -12,6 +12,24 @@
   },
   "sections": [
     {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Adoráte Deum, omnes Angeli ejus: audívit, et lætáta est Sion: et exsultavérunt fíliæ Judæ. Dóminus regnávit, exsúltet terra: læténtur ínsulæ multæ. Adoráte Deum, omnes Angeli ejus: audívit, et lætáta est Sion: et exsultavérunt fíliæ Judæ."
+      },
+      "reference": {
+        "la": "Ps 96:7-8; Ps 96:1",
+        "de": "Ps 96:7-8; Ps 96:1"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
       "id": "collecta",
       "kind": "proprium",
       "title": {
@@ -20,6 +38,21 @@
       },
       "text": {
         "la": "Famíliam tuam, quǽsumus, Dómine, contínua pietáte custódi: ut, quæ in sola spe grátiæ cœléstis innítitur, tua semper protectióne muniátur."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Colossénses Fratres: Indúite vos sicut elécti Dei, sancti et dilécti, víscera misericórdiæ, benignitátem, humilitátem, modéstiam, patiéntiam: supportántes ínvicem, et donántes vobismetípsis, si quis advérsus áliquem habet querélam: sicut et Dóminus donávit vobis, ita et vos. Super ómnia autem hæc caritátem habéte, quod est vínculum perfectiónis: et pax Christi exsúltet in córdibus vestris, in qua et vocáti estis in uno córpore: et grati estóte. Verbum Christi hábitet in vobis abundánter, in omni sapiéntia, docéntes et commonéntes vosmetípsos psalmis, hymnis et cánticis spirituálibus, in grátia cantántes in córdibus vestris Deo. Omne, quodcúmque fácitis in verbo aut in ópere, ómnia in nómine Dómini Jesu Christi, grátias agéntes Deo et Patri per ipsum."
+      },
+      "reference": {
+        "la": "Col 3:12-17",
+        "de": "Col 3:12-17"
       }
     },
     {
@@ -82,6 +115,24 @@
       },
       "text": {
         "la": "Hóstias tibi, Dómine, placatiónis offérimus: ut et delícta nostra miserátus absólvas, et nutántia corda tu dírigas."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Mirabántur omnes de his, quæ procedébant de ore Dei."
+      },
+      "reference": {
+        "la": "Luc 4:22",
+        "de": "Luc 4:22"
+      },
+      "chant": {
+        "chantable": true
       }
     },
     {

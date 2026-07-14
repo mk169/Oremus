@@ -89,6 +89,35 @@
       }
     },
     {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Justítiæ Dómini rectæ, lætificántes corda, et judícia ejus dulcióra super mel et favum: nam et servus tuus custódit ea."
+      },
+      "reference": {
+        "la": "Ps 18:9, 10, 11, 12",
+        "de": "Ps 18:9, 10, 11, 12"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Hæc hóstia, Dómine, quǽsumus, emúndet nostra delícta: et, ad sacrifícium celebrándum, subditórum tibi córpora mentésque sanctíficet."
+      }
+    },
+    {
       "id": "communio",
       "kind": "proprium",
       "title": {

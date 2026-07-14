@@ -1,0 +1,96 @@
+{
+  "id": "do-07-22",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Mariæ Magdalenæ Pœnitentis",
+      "de": "Hl. Maria Magdalena, Büßerin"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Beátæ Maríæ Magdalénæ, quǽsumus, Dómine, suffrágiis adjuvémur: cujus précibus exorátus, quatriduánum fratrem Lázarum vivum ab ínferis resuscitásti:"
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio libri Sapiéntiæ Surgam, et circuíbo civitátem: per vicos et pláteas quæram, quem díligit ánima mea: quæsívi illum, et non invéni. Invenérunt me vígiles, qui custódiunt civitátem. Num quem díligit ánima mea, vidístis? Páululum cum pertransíssem eos, invéni, quem díligit ánima mea: ténui eum, nec dimíttam, donec introdúcam illum in domum matris meæ et in cubículum genetrícis meæ. Adjúro vos, fíliæ Jerúsalem, per cápreas cervósque campórum, ne suscitétis neque evigiláre faciátis diléctam, donec ipsa velit. Pone me ut signáculum super cor tuum, ut signáculum super bráchium tuum: quia fortis est ut mors diléctio, dura sicut inférnus æmulátio: lámpades ejus lámpades ignis atque flammárum. Aquæ multæ non potuérunt exstínguere caritátem, nec flúmina óbruent illam: si déderit homo omnem substántiam domus suæ pro dilectióne, quasi nihil despíciet eam."
+      },
+      "reference": {
+        "la": "Cant 3:2-5; 8:6-7",
+        "de": "Cant 3:2-5; 8:6-7"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Dilexísti justítiam, et odísti iniquitátem. Proptérea unxit te Deus, Deus tuus, óleo lætítiæ. Allelúja, allelúja. Diffúsa est grátia in lábiis tuis: proptérea benedíxit te Deus in ætérnum. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 44:8; Ps 44:3",
+        "de": "Ps 44:8; Ps 44:3"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Lucam In illo témpore: Rogábat Jesum quidam de pharisǽis, ut manducáret cum illo. Et ingréssus domum pharisǽi, discúbuit. Et ecce múlier, quæ erat in civitáte peccátrix, ut cognóvit, quod accubuísset in domo pharisǽi, áttulit alabástrum unguénti: et stans retro secus pedes ejus, lácrimis cœpit rigáre pedes ejus, et capíllis cápitis sui tergébat, et osculabátur pedes ejus, et unguénto ungébat. ¶ Videns autem pharisǽus, qui vocáverat eum, ait intra se, dicens: Hic si esset Prophéta, sciret útique, quæ et qualis est múlier, quæ tangit eum: quia peccátrix est. Et respóndens Jesus, dixit ad illum: Simon, hábeo tibi áliquid dícere. At ille ait: Magíster, dic. Duo debitóres erant cuidam fœneratóri: unus debébat denários quingéntos, et álius quinquagínta. Non habéntibus illis, unde rédderent, donávit utrísque. Quis ergo eum plus díligit? Respóndens Simon, dixit: Æstimo, quia is, cui plus donávit. At ille dixit ei: Recte judicásti. Et convérsus ad mulíerem, dixit Simóni: Vides hanc mulíerem? Intrávi in domum tuam, aquam pédibus meis non dedísti: hæc autem lácrimis rigávit pedes meos et capíllis suis tersit. Osculum mihi non dedísti: hæc autem, ex quo intrávit, non cessávit osculári pedes meos. Oleo caput meum non unxísti: hæc autem unguénto unxit pedes meos. Propter quod dico tibi: Remittúntur ei peccáta multa, quóniam diléxit multum. Cui autem minus dimíttitur, minus díligit. Dixit autem ad illam: Remittúntur tibi peccáta. Et cœpérunt, qui simul accumbébant, dícere intra se: Quis est hic, qui étiam peccáta dimíttit? Dixit autem ad mulíerem: Fides tua te salvam fecit: vade in pace."
+      },
+      "reference": {
+        "la": "Luc 7:36-50",
+        "de": "Luc 7:36-50"
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Múnera nostra, quǽsumus. Dómine, beátæ Maríæ Magdalénæ gloriósa mérita tibi reddant accépta: cujus oblatiónis obséquium unigénitus Fílius tuus cleménter suscépit impénsum:"
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Sumpto, quǽsumus, Dómine, único ac salutári remédio, Córpore et Sánguine tuo pretióso: ab ómnibus malis, sanctæ Maríæ Magdalénæ patrocíniis, eruámur:"
+      }
+    }
+  ]
+}

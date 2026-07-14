@@ -10,8 +10,11 @@ sind von hier aus erreichbar (`raw.githubusercontent.com`).
 Das Skript `scripts/fetch-divinum-officium.mjs` (`npm run missa:fetch`) holt die
 **Tagesproprien der überlieferten Messe (1962)** und legt sie als JSON unter
 `src/data/imported/mass/` ab (plus `index.json`). Aktuell abgedeckt: alle Sonntage
-des Temporale (Advent → 24. Sonntag nach Pfingsten) sowie die Hauptfeste des
-Sanctorale – rund 60 Formulare.
+des Temporale (Advent → 24. Sonntag nach Pfingsten) sowie eine breite Auswahl von
+Festen des Sanctorale – rund **97 Formulare**. Verweise auf andere Tage
+(`@Sancti/…`, `@Tempora/…`) werden eine Ebene tief aufgelöst; Verweise auf die
+Commune-Formulare (`ex C1`, `vide C4`) bleiben vorerst offen (die Commune-Dateien
+sind noch nachzuschlagen).
 
 ### Datei-/Abschnittsformat
 DO-Dateien sind in Abschnitte `[Name]` gegliedert. Der Parser bildet ab:

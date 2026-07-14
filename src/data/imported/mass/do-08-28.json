@@ -1,0 +1,44 @@
+{
+  "id": "do-08-28",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Augustini Episcopi et Confessoris et Ecclesiæ Doctoris",
+      "de": "Hl. Augustinus von Hippo, Bischof, Bekenner und Kirchenlehrer"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Adésto supplicatiónibus nostris, omnípotens Deus: et, quibus fidúciam sperándæ pietátis indúlges, intercedénte beáto Augustíno Confessóre tuo atque Pontífice, consuétæ misericórdiæ tríbue benígnus efféctum."
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Os justi meditábitur sapiéntiam, et lingua ejus loquétur judícium. Lex Dei ejus in corde ipsíus: et non supplantabúntur gressus ejus. Allelúja, allelúja. Invéni David servum meum, óleo sancto meo unxi eum. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 36:30-31; Ps 88:21",
+        "de": "Ps 36:30-31; Ps 88:21"
+      },
+      "chant": {
+        "chantable": true
+      }
+    }
+  ]
+}

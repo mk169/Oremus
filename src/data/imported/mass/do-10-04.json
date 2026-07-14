@@ -1,0 +1,132 @@
+{
+  "id": "do-10-04",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Francisci Confessoris",
+      "de": "Hl. Franz von Assisi, Bekenner"
+    },
+    "color": "green",
+    "rank": "Duplex majus"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Mihi autem absit gloriári, nisi in Cruce Dómini nostri Jesu Christi: per quem mihi mundus crucifíxus est, et ego mundo. Voce mea ad Dóminum clamávi: voce mea ad Dóminum deprecátus sum. Mihi autem absit gloriári, nisi in Cruce Dómini nostri Jesu Christi: per quem mihi mundus crucifíxus est, et ego mundo."
+      },
+      "reference": {
+        "la": "Gal 6:14; Ps 141:2",
+        "de": "Gal 6:14; Ps 141:2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui Ecclésiam tuam, beáti Francisci méritis fœtu novæ prolis amplíficas: tríbue nobis; ex ejus imitatióne, terréna despícere et cœléstium donórum semper participatióne gaudére."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Gálatas Fratres: Mihi autem absit gloriári, nisi in Cruce Dómini nostri Jesu Christi: per quem mihi mundus crucifíxus est, et ego mundo. In Christo enim Jesu neque circumcísio áliquid valet neque præpútium, sed nova creatúra. Et quicúmque hanc régulam secúti fúerint, pax sin per illos et misericórdia, et super Israël Dei. De cetero nemo mihi moléstus sit: ego enim stígmata Dómini Jesu in córpore meo porto. Grátia Dómini nostri Jesu Christi cum spíritu vestro, fratres. Amen."
+      },
+      "reference": {
+        "la": "Gal 6:14-18",
+        "de": "Gal 6:14-18"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Os justi meditábitur sapiéntiam, et lingua ejus loquétur judícium. Lex Dei ejus in corde ipsíus: et non supplantabúntur gressus ejus. Allelúja, allelúja. Francíscus pauper et húmilis cœlum dives ingréditur, hymnis cœléstibus honorátur. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 36:30-31",
+        "de": "Ps 36:30-31"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Beátus vir, qui timet Dóminum: in mandátis ejus cupit nimis. Potens in terra erit semen ejus: generátio rectórum benedicétur. Glória et divítiæ in domo ejus: et justítia ejus manet in sǽculum sǽculi."
+      },
+      "reference": {
+        "la": "Ps 111:1-3",
+        "de": "Ps 111:1-3"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Respóndens Jesus, dixit: Confíteor tibi, Pater, Dómine cœli et terræ, quia abscondísti hæc a sapiéntibus et prudéntibus, et revelásti ea párvulis. Ita, Pater: quóniam sic fuit plácitum ante te. Omnia mihi trádita sunt a Patre meo. Et nemo novit Fílium nisi Pater: neque Patrem quis novit nisi Fílius, et cui volúerit Fílius reveláre. Veníte ad me, omnes, qui laborátis et oneráti estis, et ego refíciam vos. Tóllite jugum meum super vos, et díscite a me, quia mitis sum et húmilis corde: et inveniétis réquiem animábus vestris. Jugum enim meum suave est et onus meum leve."
+      },
+      "reference": {
+        "la": "Matt 11:25-30",
+        "de": "Matt 11:25-30"
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Múnera tibi, Dómine, dicata sanctífica: et, intercedénte beáto Francísco, ab omni nos culpárum labe purífica."
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Ecclésiam tuam, quǽsumus, Dómine, grátia cœléstis amplíficet: quam beáti Francísci Confessóris tui illumináre voluísti gloriósis méritis et exémplis."
+      }
+    }
+  ]
+}

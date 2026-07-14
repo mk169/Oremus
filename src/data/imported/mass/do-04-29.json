@@ -1,0 +1,48 @@
+{
+  "id": "do-04-29",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Petri Martyris",
+      "de": "Hl. Petrus der Martyrer"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Præsta, quǽsumus, omnípotens Deus: ut beáti Petri Mártyris tui fidem cóngrua devotióne sectémur; qui, pro ejúsdem fídei dilatatióne, martýrii palmam méruit obtinére."
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Preces, quas tibi, Dómine, offérimus, intercedénte beáto Petro Mártyre tuo, cleménter inténde: et propugnatóres fídei sub tua protectióne custódi."
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Fidéles tuos, Dómine, custódiant sacraménta, quæ súmpsimus: et, intercedénte beáto Petro Mártyre tuo, contra omnes advérsos tueántur incúrsus."
+      }
+    }
+  ]
+}

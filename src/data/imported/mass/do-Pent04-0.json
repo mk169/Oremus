@@ -107,6 +107,17 @@
       }
     },
     {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Oblatiónibus nostris, quǽsumus, Dómine, placáre suscéptis: et ad te nostras étiam rebélles compélle propítius voluntátes."
+      }
+    },
+    {
       "id": "communio",
       "kind": "proprium",
       "title": {

@@ -107,6 +107,17 @@
       }
     },
     {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Súscipe, Dómine, fidélium preces cum oblatiónibus hostiárum: ut, per hæc piæ devotiónis offícia, ad cœléstem glóriam transeámus."
+      }
+    },
+    {
       "id": "communio",
       "kind": "proprium",
       "title": {

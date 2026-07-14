@@ -74,6 +74,24 @@
       }
     },
     {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Constítues eos príncipes super omnem terram: mémores erunt nóminis tui, Dómine, in omni progénie et generatióne."
+      },
+      "reference": {
+        "la": "Ps 44:17-18",
+        "de": "Ps 44:17-18"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
       "id": "secreta",
       "kind": "proprium",
       "title": {

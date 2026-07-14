@@ -1,0 +1,150 @@
+{
+  "id": "do-08-24",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Bartholomæi Apostoli",
+      "de": "Hl. Bartholomäus Apostel"
+    },
+    "color": "green",
+    "rank": "Duplex II classis"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Mihi autem nimis honoráti sunt amíci tui, Deus: nimis confortátus est principátus eórum. Dómine, probásti me et cognovísti me: tu cognovísti sessiónem meam et resurrectiónem meam. Mihi autem nimis honoráti sunt amíci tui, Deus: nimis confortátus est principátus eórum."
+      },
+      "reference": {
+        "la": "Ps 138:17; Ps 138:1-2.",
+        "de": "Ps 138:17; Ps 138:1-2."
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Omnípotens sempitérne Deus, qui hujus diei venerándam sanctámque lætítiam in beáti Apóstoli tui Bartholomǽi festivitáte tribuísti: da Ecclésiæ tuæ, quǽsumus; et amáre quod crédidit, et prædicáre quod dócuit."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios Fratres: Vos estis corpus Christi et membra de membro. Et quosdam quidem pósuit Deus in Ecclésia primum apóstolos, secúndo prophetas, tertio doctores, deinde virtútes, exinde grátias curationum, opitulatiónes, gubernatiónes, genera linguarum, interpretatiónes sermonum. Numquid omnes apóstoli? numquid omnes prophétæ? numquid omnes doctóres? numquid omnes virtútes? numquid omnes grátiam habent curationum? numquid omnes linguis loquúntur? numquid omnes interpretántur? Æmulámini autem charísmata melióra."
+      },
+      "reference": {
+        "la": "1 Cor 12:27-31",
+        "de": "1 Cor 12:27-31"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Constítues eos príncipes super omnem terram: mémores erunt nóminis tui, Dómine. Pro patribus tuis nati sunt tibi fílii: proptérea pópuli confitebúntur tibi. Allelúja, allelúja. Te gloriósus Apostolórum chorus laudat, Dómine. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 44:17; 44:18",
+        "de": "Ps 44:17; 44:18"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Lucam In illo témpore: Exiit Jesus in montem oráre, et erat pernóctans in oratióne Dei. Et cum dies factus esset, vocavit discípulos suos, et elégit duódecim ex ipsis - quos et Apóstolos nominávit -: Simónem, quem cognominávit Petrum, et Andream fratrem ejus, Jacóbum et Joánnem, Philíppum et Bartholomæum, Matthǽum et Thomam, Jacóbum Alphæi et Simónem, qui vocátur Zelótes, et Judam Jacóbi, et Judam Iscariótem, qui fuit próditor. Et descéndens cum illis, stetit in loco campéstri, et turba discipulórum ejus, et multitúdo copiósa plebis ab omni Judæa, et Jerúsalem, et marítima, et Tyri, et Sidónis, qui vénerant, ut audírent eum et sanaréntur a languóribus suis. Et, qui vexabántur a spirítibus immúndis, curabántur. Et omnis turba quærébat eum tángere: quia virtus de illo exíbat, et sanábat omnes."
+      },
+      "reference": {
+        "la": "Luc 6:12-19",
+        "de": "Luc 6:12-19"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Mihi autem nimis honoráti sunt amíci tui, Deus: nimis confortátus est principátus eórum."
+      },
+      "reference": {
+        "la": "Ps 138:17",
+        "de": "Ps 138:17"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Beáti Apóstoli tui Bartholomǽi sollémnia recenséntes, quǽsumus, Dómine: ut ejus auxílio tua benefícia capiámus, pro quo tibi laudis hóstias immolámus."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Vos, qui secúti estis me, sedébitis super sedes, judicántes duódecim tribus Israël."
+      },
+      "reference": {
+        "la": "Matt 19:28",
+        "de": "Matt 19:28"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Sumptum, Dómine, pignus redemptiónis ætérnæ: sit nobis, quǽsumus; interveniénte beáto Bartholomǽo Apóstolo tuo, vitæ præséntis auxílium páriter et futúræ."
+      }
+    }
+  ]
+}

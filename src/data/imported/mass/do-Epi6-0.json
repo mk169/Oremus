@@ -12,6 +12,24 @@
   },
   "sections": [
     {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Adoráte Deum, omnes Angeli ejus: audívit, et lætáta est Sion: et exsultavérunt fíliæ Judæ. Dóminus regnávit, exsúltet terra: læténtur ínsulæ multæ. Adoráte Deum, omnes Angeli ejus: audívit, et lætáta est Sion: et exsultavérunt fíliæ Judæ."
+      },
+      "reference": {
+        "la": "Ps 96:7-8; Ps 96:1",
+        "de": "Ps 96:7-8; Ps 96:1"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
       "id": "collecta",
       "kind": "proprium",
       "title": {
@@ -35,6 +53,24 @@
       "reference": {
         "la": "1 Thess 1:2-10",
         "de": "1 Thess 1:2-10"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Timébunt gentes nomen tuum, Dómine, et omnes reges terræ glóriam tuam. Quóniam ædificávit Dóminus Sion, et vidébitur in majestáte sua. Allelúja, allelúja. Dóminus regnávit, exsúltet terra: læténtur ínsulæ multæ. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 101:16-17; Ps 96:1",
+        "de": "Ps 101:16-17; Ps 96:1"
+      },
+      "chant": {
+        "chantable": true
       }
     },
     {
@@ -79,6 +115,24 @@
       },
       "text": {
         "la": "Hæc nos oblátio, Deus, mundet, quǽsumus, et rénovet, gubérnet et prótegat."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Mirabántur omnes de his, quæ procedébant de ore Dei."
+      },
+      "reference": {
+        "la": "Luc 4:22",
+        "de": "Luc 4:22"
+      },
+      "chant": {
+        "chantable": true
       }
     },
     {

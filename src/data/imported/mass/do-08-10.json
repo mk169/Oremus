@@ -1,0 +1,150 @@
+{
+  "id": "do-08-10",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Laurentii Martyris",
+      "de": "Hl. Laurentius, Martyrer"
+    },
+    "color": "green",
+    "rank": "Duplex II classis cum octava simplici"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Conféssio et pulchritúdo in conspéctu ejus: sánctitas et magnificéntia in sanctificatióne ejus. Cantáte Dómino cánticum novum: cantáte Dómino, omnis terra. Conféssio et pulchritúdo in conspéctu ejus: sánctitas et magnificéntia in sanctificatióne ejus."
+      },
+      "reference": {
+        "la": "Ps 95:6; Ps 95:1",
+        "de": "Ps 95:6; Ps 95:1"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Da nobis, quǽsumus, omnípotens Deus: vitiórum nostrorum flammas exstínguere; qui beáto Lauréntio tribuísti tormentórum suórum incéndia superáre."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios Fratres: Qui parce séminat, parce et metet: et qui séminat in benedictiónibus, de benedictiónibus et metet. Unusquísque prout destinávit in corde suo, non ex tristítia aut ex necessitáte: hilárem enim datórem díligit Deus. Potens est autem Deus omnem grátiam abundáre fácere in vobis, ut, in ómnibus semper omnem sufficiéntiam habéntes, abundétis in omne opus bonum, sicut scriptum est: Dispérsit, dedit paupéribus: justítia ejus manet in sǽculum sǽculi. Qui autem admínistrat semen seminánti: et panem ad manducándum præstábit, et multiplicábit semen vestrum, et augébit increménta frugum justítiæ vestræ."
+      },
+      "reference": {
+        "la": "2 Cor 9:6-10.",
+        "de": "2 Cor 9:6-10."
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Probásti, Dómine, cor meum, et visitásti nocte. Igne me examinásti, et non est invénta in me iníquitas. Allelúja, allelúja. Levíta Lauréntius bonum opus operátus est: qui per signum crucis cœcos illuminávit. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 16:3.",
+        "de": "Ps 16:3."
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Joánnem In illo témpore: Dixit Jesus discípulis suis: Amen, amen, dico vobis, nisi granum fruménti cadens in terram, mórtuum fúerit, ipsum solum manet: si autem mórtuum fúerit, multum fructum affert. Qui amat ánimam suam, perdet eam: et qui odit ánimam suam in hoc mundo, in vitam ætérnam custódit eam. Si quis mihi mínistrat, me sequátur: et ubi sum ego, illic et miníster meus erit. Si quis mihi ministráverit, honorificábit eum Pater meus."
+      },
+      "reference": {
+        "la": "Joann 12:24-26",
+        "de": "Joann 12:24-26"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Conféssio et pulchritúdo in conspéctu ejus: sánctitas, et magnificéntia in sanctificatióne ejus."
+      },
+      "reference": {
+        "la": "Ps 95:6",
+        "de": "Ps 95:6"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Accipe, quǽsumus, Dómine, múnera dignánter obláta: et, beáti Lauréntii suffragántibus méritis, ad nostræ salútis auxílium proveníre concéde."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Qui mihi mínistrat, me sequátur: et ubi ego sum, illic et miníster meus erit."
+      },
+      "reference": {
+        "la": "Joann 12:26",
+        "de": "Joann 12:26"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Sacro múnere satiáti, súpplices te, Dómine, deprecámur: ut, quod débitæ servitútis celebrámus offício, intercedénte beáto Lauréntio Mártyre tuo, salvatiónis tuæ sentiámus augméntum."
+      }
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id": "do-05-01",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "Ss. Philippi et Jacobi Apostolorum",
+      "de": "Hll. Philippus und Jakobus Apostel"
+    },
+    "color": "green",
+    "rank": "Duplex II classis"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Clamavérunt ad te, Dómine, in témpore afflictiónis suæ, et tu de cœlo exaudísti eos, allelúja, allelúja. Exsultáte, justi, in Dómino: rectos decet collaudátio. Clamavérunt ad te, Dómine, in témpore afflictiónis suæ, et tu de cœlo exaudísti eos, allelúja, allelúja."
+      },
+      "reference": {
+        "la": "Neh 9:27; Ps 32:1",
+        "de": "Neh 9:27; Ps 32:1"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui nos ánnua Apostolórum tuórum Philíppi et Jacóbi sollemnitáte lætíficas: præsta, quǽsumus: ut, quorum gaudémus méritis, instruámur exémplis.",
+        "de": "O Gott, der du uns durch das jährliche Fest deiner Apostel Philippus und Jakobus Freude bereitest, verleihe uns, wir bitten dich, die Gnade, daß wir, da wir uns über deren Verdienste freuen, auch aus ihrem Beispiel lernen."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio libri Sapiéntiæ Stabunt justi in magna constántia advérsus eos, qui se angustiavérunt et qui abstulérunt labóres eórum. Vidéntes turbabúntur timore horríbili, et mirabúntur in subitatióne insperátæ salútis, dicéntes intra se, pœniténtiam agéntes, et præ angústia spíritus geméntes: Hi sunt, quos habúimus aliquándo in derísum et in similitúdinem impropérii. Nos insensáti vitam illórum æstimabámus insániam, et finem illórum sine honóre: ecce, quómodo computáti sunt inter fílios Dei, et inter Sanctos sors illórum est."
+      },
+      "reference": {
+        "la": "Sap 5:1-5",
+        "de": "Sap 5:1-5"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Allelúja, allelúja. Confitebúntur cœli mirabília tua, Dómine: etenim veritátem tuam in ecclésia sanctórum. Allelúja. Tanto témpore vobíscum sum, et non cognovístis me? Philíppe, qui videt me, videt et Patrem meum. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 88:6; Ps 14:9",
+        "de": "Ps 88:6; Ps 14:9"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Joánnem In illo témpore: Dixit Jesus discípulis suis: Non turbátur cor vestrum. Creditis in Deum, et in me crédite. In domo Patris mei mansiónes multæ sunt. Si quo minus, dixíssem vobis: Quia vado paráre vobis locum. Et si abíero et præparávero vobis locum: íterum vénio et accípiam vos ad meípsum, ut, ubi sum ego, et vos sitis. Et quo ego vado, scitis, et viam scitis. Dicit ei Thomas: Dómine, nescímus, quo vadis: et quómodo póssumus viam scire? Dicit ei Jesus: Ego sum via et véritas et vita; nemo venit ad Patrem nisi per me. Si cognovissétis me, et Patrem meum útique cognovissétis: et ámodo cognoscátis eum, et vidístis eum. Dicit ei Philíppus: Dómine, osténde nobis Patrem, et sufficit nobis. Dicit ei Jesus: Tanto témpore vobíscum sum, et non cognovístis me? Philíppe, qui videt me, videt et Patrem. Quómodo tu dicis: Osténde nobis Patrem? Non créditis, quia ego in Patre, et Pater in me est? Verba, quæ ego loquor vobis, a meípso non loquor. Pater autem in me manens, ipse facit ópera. Non créditis, quia ego in Patre, et Pater in me est? Alióquin propter ópera ipsa crédite. Amen, amen, dico vobis, qui credit in me, ópera, quæ ego fácio, et ipse fáciet, et majóra horum fáciet: quia ego ad Patrem vado. Et quodcúmque petiéritis Patrem in nómine meo, hoc fáciam."
+      },
+      "reference": {
+        "la": "Joannes 14:1-13",
+        "de": "Joannes 14:1-13"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Confitebúntur cœli mirabília tua, Dómine: et veritátem tuam in ecclésia sanctórum, allelúja, allelúja."
+      },
+      "reference": {
+        "la": "Ps 88:6",
+        "de": "Ps 88:6"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Múnera, Dómine, quæ pro Apostolórum tuórum Philippi et Jacóbi sollemnitáte deférimus, propítius súscipe: et mala ómnia, quæ merémur avérte."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Tanto témpore vobíscum sum, et non cognovístis me? Philíppe, qui videt me, videt et Patrem meum, allelúja: non credis, quia ego in Patre, et Pater in me est? Allelúja, allelúja."
+      },
+      "reference": {
+        "la": "Joannes 14:9; 14:10",
+        "de": "Joannes 14:9; 14:10"
+      },
+      "chant": {
+        "chantable": true
+      }
+    }
+  ]
+}

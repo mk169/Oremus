@@ -107,6 +107,17 @@
       }
     },
     {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Sacrifíciis præséntibus, Dómine, quǽsumus, inténde placátus: ut et devotióni nostræ profíciant et salúti."
+      }
+    },
+    {
       "id": "communio",
       "kind": "proprium",
       "title": {

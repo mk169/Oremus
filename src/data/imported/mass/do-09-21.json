@@ -1,0 +1,133 @@
+{
+  "id": "do-09-21",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Matthæi Apostoli et Evangelistæ",
+      "de": "Fest des hl. Apostels und Evangelisten Matthäus"
+    },
+    "color": "green",
+    "rank": "Duplex II classis"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Beáti Apóstoli et Evangelístæ Matthǽi, Dómine, précibus adjuvémur: ut, quod possibílitas nostra non óbtinet, ejus nobis intercessióne donétur.",
+        "de": "Laß uns, o Herr, durch die Fürbitte des heiligen Apostels und Evangelisten Matthäus geholfen werden: damit, was unser eigenes Können nicht erreichen kann, uns auf seine Fürbitte hin gewährt werde."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Ezechiélis Prophétæ Similitúdo vultus quátuor animálium: fácies hóminis, et fácies leónis a dextris ipsórum quatuor: fácies autem bovis a sinístris ipsórum quátuor, et fácies áquilæ désuper ipsórum quátuor. Fácies eórum et pennæ eórum exténtæ désuper: duæ pennæ singulórum jungebántur et duæ tegébant córpora eórum: et unumquódque eórum coram fácie sua ambulábat: ubi erat ímpetus spíritus, illuc gradiebántur, nec revertebántur cum ambulárent. Et similitúdo animálium, aspéctus eórum quasi carbónum ignis ardéntium et quasi aspéctus lampadárum. Hæc erat visio discúrrens in médio animálium, splendor ignis, et de igne fulgur egrédiens. Et animália ibant et revertebántur in similitúdinem fúlguris coruscántis."
+      },
+      "reference": {
+        "la": "Ezech 1:10-14",
+        "de": "Ezech 1:10-14"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Beátus vir, qui timet Dóminum: in mandátis ejus cupit nimis. Potens in terra erit semen ejus: generátio rectórum benedicétur. Allelúja, allelúja. Te gloriosus Apostolórum chorus laudat, Dómine. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 111:1-2",
+        "de": "Ps 111:1-2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Vidit Jesus hóminem sedéntem in telónio, Matthǽum nómine. Et ait illi: Séquere me. Et surgens, secútus est eum. Et factum est, discumbénte eo in domo, ecce, multi publicáni et peccatóres veniéntes discumbébant cum Jesu et discípulis ejus. Et vidéntes pharisæi, dicébant discípulis ejus: Quare cum publicánis et peccatóribus mandúcat Magíster vester? At Jesus áudiens, ait: Non est opus valéntibus médicus, sed male habéntibus. Eúntes autem díscite, quid est: Misericórdiam volo, et non sacrifícium. Non enim veni vocáre justos, sed peccatóres."
+      },
+      "reference": {
+        "la": "Matt 9:9-13",
+        "de": "Matt 9:9-13"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Posuísti, Dómine, in cápite ejus corónam de lápide pretióso: vitam pétiit a te, et tribuísti ei, allelúja."
+      },
+      "reference": {
+        "la": "Ps 20:4-5",
+        "de": "Ps 20:4-5"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Supplicatiónibus beáti Matthæi Apóstoli et Evangelístæ, quǽsumus, Dómine, Ecclésiæ tuæ commendétur oblátio: cujus magníficis prædicatiónibus erúditur."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Magna est glória ejus in salutári tuo: glóriam et magnum deI córem ímpones super eum, Dómine."
+      },
+      "reference": {
+        "la": "Ps 20:6",
+        "de": "Ps 20:6"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Percéptis, Dómine, sacraméntis, beáto Matthæo Apóstolo tuo et Evangelísta interveniénte, deprecámur: ut, quæ pro ejus celebráta sunt glória, nobis profíciant ad medélam."
+      }
+    }
+  ]
+}

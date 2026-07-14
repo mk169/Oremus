@@ -1,0 +1,151 @@
+{
+  "id": "do-07-25",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Jacobi Apostoli",
+      "de": "Fest des heiligen Apostels Jakobus"
+    },
+    "color": "green",
+    "rank": "Duplex II classis"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Mihi autem nimis honoráti sunt amíci tui, Deus: nimis confortátus est principátus eórum. Dómine, probásti me et cognovísti me: tu cognovísti sessiónem meam et resurrectiónem meam. Mihi autem nimis honoráti sunt amíci tui, Deus: nimis confortátus est principátus eórum."
+      },
+      "reference": {
+        "la": "Ps 138:17; Ps 138:1-2.",
+        "de": "Ps 138:17; Ps 138:1-2."
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Esto, Dómine, plebi tuæ sanctificátor et custos: ut, Apóstoli tui Jacóbi muníta præsídiis, et conversatióne tibi pláceat, et secúra mente desérviat.",
+        "de": "Sei, o Herr, für dein Volk ein Spender von Heiligkeit und Wächter, damit es unter dem Schutz deines heiligen Apostels Jakobus in Sicherheit erhalten, dir auf Grund seines Wandels gefalle und dir ohne Besorgnis dienstbar sei."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios Fratres: Puto, quod Deus nos Apóstolos novíssimos osténdit, tamquam morti destinátos: quia spectáculum facti sumus mundo et Angelis et homínibus. Nos stulti propter Christum, vos autem prudéntes in Christo: nos infírmi, vos autem fortes: vos nóbiles, nos autem ignóbiles. Usque in hanc horam et esurímus, et sitímus, et nudi sumus, et cólaphis cædimur, et instábiles sumus, et laborámus operántes mánibus nostris: maledícimur, et benedícimus: persecutiónem pátimur, et sustinémus: blasphemámur, et obsecrámus: tamquam purgaménta hujus mundi facti sumus, ómnium peripséma usque adhuc. Non ut confúndam vos, hæc scribo, sed ut fílios meos caríssimos móneo. Nam si decem mília pædagogórum habeátis in Christo: sed non multos patres. Nam in Christo Jesu per Evangélium ego vos génui."
+      },
+      "reference": {
+        "la": "1 Cor 4:9-15",
+        "de": "1 Cor 4:9-15"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Constítues eos príncipes super omnem terram: mémores erunt nóminis tui, Dómine. Pro pátribus tuis nati sunt tibi fílii: proptérea pópuli confitebúntur tibi. Allelúja, allelúja. Ego vos elegi de mundo, ut eátis, et fructum afferátis, et fructus vester máneat. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 44:17; 44:18; Joannes 15:16",
+        "de": "Ps 44:17; 44:18; Joannes 15:16"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Accessit ad Jesum mater filiórum Zebedæi cum fíliis suis, adórans et petens áliquid ab eo. Qui dixit ei: Quid vis? Ait illi: Dic, ut sédeant hi duo fílii mei, unus ad déxteram tuam et unus ad sinístram in regno tuo. Respóndens autem Jesus, dixit: Néscitis, quid petátis. Potéstis bíbere cálicem, quem ego bibitúrus sum? Dicunt ei: Póssumus. Ait illis: Cálicem quidem meum bibétis: sedére autem ad déxteram meam vel sinístram, non est meum dare vobis, sed quibus parátum est a Patre meo."
+      },
+      "reference": {
+        "la": "Matt 20:20-23",
+        "de": "Matt 20:20-23"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "In omnem terram exívit sonus eórum: et in fines orbis terræ verba eórum."
+      },
+      "reference": {
+        "la": "Ps 18:5",
+        "de": "Ps 18:5"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Oblatiónes pópuli tui, quǽsumus, Dómine, beáti Jacóbi Apóstoli pássio beáta concíliet: et, quæ nostris non aptæ sunt méritis, fiant tibi plácitæ ejus deprecatióne."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Vos, qui secúti estis me, sedébitis super sedes, judicántes duódecim tribus Israël."
+      },
+      "reference": {
+        "la": "Matt 19:28",
+        "de": "Matt 19:28"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Beáti Apóstoli tui Jacóbi, quǽsumus, Dómine, intercessióne nos ádjuva: pro cujus festivitáte percépimus tua sancta lætántes."
+      }
+    }
+  ]
+}

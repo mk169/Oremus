@@ -1,0 +1,84 @@
+{
+  "id": "do-07-26",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Annæ Matris B.M.V.",
+      "de": "Hl. Anna, Mutter der hl. Jungfrau Maria"
+    },
+    "color": "green",
+    "rank": "Duplex II classis"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Gaudeámus omnes in Dómino, diem festum celebrántes sub honóre beátæ Annæ: de cujus sollemnitáte gaudent Angeli et colláudant Fílium Dei. Eructávit cor meum verbum bonum: dico ego ópera mea Regi. Gaudeámus omnes in Dómino, diem festum celebrántes sub honóre beátæ Annæ: de cujus sollemnitáte gaudent Angeli et colláudant Fílium Dei."
+      },
+      "reference": {
+        "la": "Ps 44:2.",
+        "de": "Ps 44:2."
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui beátæ Annæ grátiam conférre dignatus es, ut Genetrícis unigéniti Fílii tui mater effici mererétur: concéde propítius; ut, cujus sollémnia celebrámus, ejus apud te patrocíniis adjuvémur."
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Dilexísti justítiam, et odísti iniquitátem. Proptérea unxit te Deus, Deus tuus, óleo lætítiæ. Allelúja, allelúja. Diffúsa est grátia in lábiis tuis: proptérea benedíxit te Deus in ætérnum. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 44:8; Ps 44:3",
+        "de": "Ps 44:8; Ps 44:3"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Sacrifíciis præséntibus, quǽsumus, Dómine, placatus inténde: ut per intercessiónem beátæ Annæ, quæ Genetrícis Fílii tui, Dómini nostri Jesu Christi, mater éxstitit, et devotióni nostræ profíciant et salúti."
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Cœléstibus sacraméntis vegetáti, quǽsumus, Dómine, Deus noster: ut, intercessióne beátæ Annæ, quam Genetrícis Fílii tui matrem esse voluísti, ad ætérnam salútem perveníre mereámur."
+      }
+    }
+  ]
+}

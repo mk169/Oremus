@@ -89,6 +89,24 @@
       }
     },
     {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Pérfice gressus meos in sémitis tuis, ut non moveántur vestígia mea: inclína aurem tuam, et exáudi verba mea: mirífica misericórdias tuas, qui salvos facis sperántes in te, Dómine."
+      },
+      "reference": {
+        "la": "Ps 16:5; 16:6-7",
+        "de": "Ps 16:5; 16:6-7"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
       "id": "secreta",
       "kind": "proprium",
       "title": {

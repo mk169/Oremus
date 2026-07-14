@@ -1,0 +1,156 @@
+{
+  "id": "do-05-31",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "Beatæ Mariæ Virginis Reginæ",
+      "de": "Beatæ Mariæ Virginis Reginæ"
+    },
+    "color": "green",
+    "rank": "Duplex II classis"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Gaudeámus omnes in Dómino, diem festum celebrántes sub honóre beátæ Maríæ Vírginis Regínæ: de cuius solemnitáte gaudent Angeli, et colláudant Fílium Dei. (Alleluia, alleluia.) Effúndit cor meum verbum bonum: dico ego carmen meum Regi. Gaudeámus omnes in Dómino, diem festum celebrántes sub honóre beátæ Maríæ Vírginis Regínæ: de cuius solemnitáte gaudent Angeli, et colláudant Fílium Dei. (Alleluia, alleluia.)"
+      },
+      "reference": {
+        "la": "Ps 44:2",
+        "de": "Ps 44:2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Concéde nobis, quǽsumus, Dómine: ut, qui solemnitátem beátæ Maríæ Vírginis Regínæ nostræ celebrámus; eius muníti præsídio, pacem in præsénti et glóriam in futúro cónsequi mereámur."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Lectio libri Sapientiæ Ego ex ore Altíssimi prodívi, primogénita ante omnem creatúram; ego in altíssimis habitávi, et thronus meus in colúmna nubis. In omni terra steti; et in omni pópulo, et in omni gente primátum hábui, et ómnium excelléntium et humílium corda virtúte calcávi. Qui audit me, non confundétur, et qui operántur in me, non peccábunt; qui elúcidant me, vitam ætérnam habébunt."
+      },
+      "reference": {
+        "la": "Eccli 24:5, 7, 9-11, 30-31",
+        "de": "Eccli 24:5, 7, 9-11, 30-31"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Ipse habet in vestiménto et in fémore suo scriptum: Rex regum et Dóminus dominántium. Regína adstat ad déxteram eius, ornáta auro ex Ophir. Allelúia, allelúia. Salve, Regína misericórdiæ, tu nos ab hoste prótege, et mortis hora súscipe. Allelúia."
+      },
+      "reference": {
+        "la": "Apo 19:16; Ps 44:10",
+        "de": "Apo 19:16; Ps 44:10"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Gaude, María Virgo, cunctas hǽreses sola interemísti. Quæ Gabriélis Archángeli dictis credidísti. Dum Virgo Deum et hóminem genuísti: et post partum, Virgo, invioláta permansísti. Dei Génetrix, intercéde pro nobis."
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequentia sancti Evangelii secundum Lucam. In illo témpore: Missus est Angelus Gábriel a Deo in civitátem Galilǽæ, cui nomen Názareth, ad Vírginem desponsátam viro, cui nomen erat Ioseph, de domo David, et nomen Vírginis María. Et ingréssus Angelus ad eam, dixit: Ave, grátia plena: Dóminus tecum: benedícta tu in muliéribus. Quæ cum audísset, turbáta est in sermóne eius: et cogitábat, qualis esset ista salutátio. Et ait Angelus ei: Ne tímeas, María, invenísti enim grátiam apud Deum: ecce concípies in útero, et páries fílium, et vocábis nomen eius Iesum. Hic erit magnus, et Fílius Altíssimi vocábitur, et dabit illi Dóminus Deus sedem David patris eius: et regnábit in domo Iacob in ætérnum, et regni eius non erit finis."
+      },
+      "reference": {
+        "la": "Luc 1:26-33",
+        "de": "Luc 1:26-33"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Regáli ex progénie María exórta refúlget; cuius præscibus nos adiuvári, mente et spíritu devotíssime póscimus. (Allelúia.)"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Accipe, quǽsumus, Dómine, múnera lætántis Ecclésiæ, et, beátæ Vírginis Maríæ Regínæ suffragántibus méritis, ad nostræ salútis auxílium proveníre concéde."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Regína mundi digníssima, María Virgo perpétua, intercéde pro nostra pace et salúte, quæ genuísti Christum Dóminum, Salvatórem ómnium."
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Celebrátis solémniis, Dómine, quæ pro sanctæ Maríæ Regínæ nostræ festivitáte (memória) perégimus: eius, quǽsumus, nobis intercessióne fiant salutária; in cuius honóre sunt exsultánter impléta."
+      }
+    }
+  ]
+}

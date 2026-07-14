@@ -1,0 +1,168 @@
+{
+  "id": "do-10-02",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "Ss. Angelorum Custodum",
+      "de": "Hll. Schutzengel"
+    },
+    "color": "green",
+    "rank": "Duplex majus"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Benedícite Dóminum, omnes Angeli ejus: poténtes virtúte, qui fácitis verbum ejus, ad audiéndam vocem sermónum ejus. Benedic, ánima mea, Dómino: et ómnia, quæ intra me sunt, nómini sancto ejus. Benedícite Dóminum, omnes Angeli ejus: poténtes virtúte, qui fácitis verbum ejus, ad audiéndam vocem sermónum ejus."
+      },
+      "reference": {
+        "la": "Ps 102:20; Ps 102:1",
+        "de": "Ps 102:20; Ps 102:1"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui ineffábili providéntia sanctos Angelos tuos ad nostram custódiam míttere dignáris: largíre supplícibus tuis; et eórum semper protectióne deféndi, et ætérna societáte gaudére."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio libri Exodi Hæc dicit Dóminus Deus: Ecce, ego mittam Angelum meum, qui præcédat te, et custódiat in via, et intróducat in locum, quem parávi. Obsérva eum, et audi vocem ejus, nec contemnéndum putes: quia non dimíttet, cum peccáveris, et est nomen meum in illo. Quod si audiéris vocem ejus et féceris ómnia, quæ loquor, inimícus ero inimícis tuis et affligam affligéntes te: præcedétque te Angelus meus."
+      },
+      "reference": {
+        "la": "Exod 23:20-23",
+        "de": "Exod 23:20-23"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Angelis suis Deus mandávit de te, ut custódiant te in ómnibus viis tuis. In mánibus portábunt te, ne umquam offéndas ad lápidem pedem tuum. Allelúja, allelúja. Benedícite Dómino, omnes virtútes ejus: minístri ejus, qui fácitis voluntátem ejus. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 90:11-12; Ps 102:21.",
+        "de": "Ps 90:11-12; Ps 102:21."
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Benedícite Dóminum, omnes Angeli ejus: poténtes virtúte, qui fácitis verbum ejus. Benedícite Dómino, omnes virtútes ejus: ministri ejus, qui fácitis voluntátem ejus. Benedícite Dómino, ómnia ópera ejus: in omni loco dominatiónis ejus, bénedic, ánima mea, Dómino."
+      },
+      "reference": {
+        "la": "Ps 102:20; Ps 102:21-22",
+        "de": "Ps 102:20; Ps 102:21-22"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Accessérunt discípuli ad Jesum, dicéntes: Quis, putas, major est in regno cœlórum? Et ádvocans Jesus párvulum, státuit eum in médio eórum et dixit: Amen, dico vobis, nisi convérsi fuéritis et efficiámini sicut párvuli, non intrábitis in regnum cœlórum. Quicúmque ergo humiliáverit se sicut párvulus iste, hic est major in regno cœlórum. Et qui suscéperit unum párvulum talem in nómine meo, me súscipit. Qui autem scandalizáverit unum de pusíllis istis, qui in me credunt, expédit ei, ut suspendátur mola asinária in collo ejus, et demergátur in profúndum maris. Væ mundo a scándalis! Necésse est enim, ut véniant scándala: verúmtamen væ hómini illi, per quem scándalum venit! Si autem manus tua vel pes tuus scandalízat te, abscíde eum et projíce abs te: bonum tibi est ad vitam ingrédi débilem vel claudum, quam duas manus vel duos pedes habéntem niitti in ignem ætérnum. Et si óculus tuus scandalízat te, érue eum et projice abs te: bonum tibi est cum uno óculo in vitam intráre, quam duos óculos habéntem mitti in gehénnam ignis. Vidéte, ne contemnátis unum ex his pusíllis: dico enim vobis, quia Angeli eórum in cœlis semper vident fáciem Patris mei, qui in cœlis est."
+      },
+      "reference": {
+        "la": "Matt 18:1-10",
+        "de": "Matt 18:1-10"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Benedícite Dóminum, omnes Angeli ejus: minístri ejus, qui fácitis verbum ejus, ad audiéndam vocem sermónum ejus."
+      },
+      "reference": {
+        "la": "Ps 102:20-21",
+        "de": "Ps 102:20-21"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Súscipe, Dómine, múnera, quæ pro sanctórum Angelórum tuórum veneratióne deférimus: et concéde propítius; ut, perpétuis eórum præsídiis, a præséntibus perículis liberémur et ad vitam perveniámus ætérnam."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Benedícite, omnes Angeli Dómini, Dóminum: hymnum dícite et superexaltáte eum in sǽcula."
+      },
+      "reference": {
+        "la": "Dan 3:58",
+        "de": "Dan 3:58"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Súmpsimus, Dómine, divína mystéria, sanctórum Angelórum tuórum festivitáte lætántes: quǽsumus; ut eórum protectióne ab hóstium júgiter liberémur insídiis, et contra ómnia advérsa muniámur."
+      }
+    }
+  ]
+}

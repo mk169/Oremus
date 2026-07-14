@@ -107,6 +107,17 @@
       }
     },
     {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Hæc hóstia, Dómine, quǽsumus, emúndet nostra delícta: et, ad sacrifícium celebrándum, subditórum tibi córpora mentésque sanctíficet."
+      }
+    },
+    {
       "id": "communio",
       "kind": "proprium",
       "title": {

@@ -357,11 +357,46 @@
     "rank": "Duplex I classis"
   },
   {
+    "id": "do-01-21",
+    "titleLa": "S. Agnetis Virginis et Martyris",
+    "titleDe": "Hl. Agnes, Jungfrau und Martyrerin",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-01-25",
+    "titleLa": "In Conversione S. Pauli Apostoli",
+    "titleDe": "Bekehrung des Hl. Apostels Paulus",
+    "color": "green",
+    "rank": "Duplex majus"
+  },
+  {
     "id": "do-02-02",
     "titleLa": "In Purificatione Beatæ Mariæ Virginis",
     "titleDe": "In Purificatione Beatæ Mariæ Virginis",
     "color": "green",
     "rank": "Duplex 2 class"
+  },
+  {
+    "id": "do-02-22",
+    "titleLa": "In Cathedra S. Petri Apostoli Antiochiæ",
+    "titleDe": "In Cathedra S. Petri Apostoli Antiochiæ",
+    "color": "green",
+    "rank": "Duplex majus"
+  },
+  {
+    "id": "do-02-24",
+    "titleLa": "S. Matthiæ Apostoli",
+    "titleDe": "Hl. Matthias Apostel",
+    "color": "green",
+    "rank": "Duplex II classis"
+  },
+  {
+    "id": "do-03-17",
+    "titleLa": "S. Patricii Episcopi et Confessoris",
+    "titleDe": "Hl. Patrick, Bischof und Bekenner",
+    "color": "green",
+    "rank": "Duplex"
   },
   {
     "id": "do-03-19",
@@ -378,6 +413,48 @@
     "rank": "Duplex I classis"
   },
   {
+    "id": "do-04-25",
+    "titleLa": "S. Marci Evangelistæ",
+    "titleDe": "Hl. Markus Evangelist",
+    "color": "green",
+    "rank": "Duplex II classis"
+  },
+  {
+    "id": "do-04-29",
+    "titleLa": "S. Petri Martyris",
+    "titleDe": "Hl. Petrus der Martyrer",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-05-01",
+    "titleLa": "Ss. Philippi et Jacobi Apostolorum",
+    "titleDe": "Hll. Philippus und Jakobus Apostel",
+    "color": "green",
+    "rank": "Duplex II classis"
+  },
+  {
+    "id": "do-05-31",
+    "titleLa": "Beatæ Mariæ Virginis Reginæ",
+    "titleDe": "Beatæ Mariæ Virginis Reginæ",
+    "color": "green",
+    "rank": "Duplex II classis"
+  },
+  {
+    "id": "do-06-11",
+    "titleLa": "S. Barnabæ Apostoli",
+    "titleDe": "Hl. Barnabas Apostel",
+    "color": "green",
+    "rank": "Duplex majus"
+  },
+  {
+    "id": "do-06-13",
+    "titleLa": "S. Antonii de Padua Confessoris",
+    "titleDe": "Hl. Antonius von Padua, Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
     "id": "do-06-24",
     "titleLa": "In Nativitate S. Joannis Baptistæ",
     "titleDe": "Fest der Geburt des heiligen Johannes des Täufers",
@@ -392,11 +469,81 @@
     "rank": "Duplex I classis cum octava communi"
   },
   {
+    "id": "do-07-02",
+    "titleLa": "In Visitatione B. Mariæ Virginis",
+    "titleDe": "In Visitatione B. Mariæ Virginis",
+    "color": "green",
+    "rank": "Duplex II classis"
+  },
+  {
+    "id": "do-07-22",
+    "titleLa": "S. Mariæ Magdalenæ Pœnitentis",
+    "titleDe": "Hl. Maria Magdalena, Büßerin",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-07-25",
+    "titleLa": "S. Jacobi Apostoli",
+    "titleDe": "Fest des heiligen Apostels Jakobus",
+    "color": "green",
+    "rank": "Duplex II classis"
+  },
+  {
+    "id": "do-07-26",
+    "titleLa": "S. Annæ Matris B.M.V.",
+    "titleDe": "Hl. Anna, Mutter der hl. Jungfrau Maria",
+    "color": "green",
+    "rank": "Duplex II classis"
+  },
+  {
+    "id": "do-07-31",
+    "titleLa": "S. Ignatii Confessoris",
+    "titleDe": "Hl. Ignatius von Loyola, Bekenner",
+    "color": "green",
+    "rank": "Duplex majus"
+  },
+  {
+    "id": "do-08-04",
+    "titleLa": "S. Dominici Confessoris",
+    "titleDe": "Hl Dominikus, Bekenner",
+    "color": "green",
+    "rank": "Duplex majus"
+  },
+  {
+    "id": "do-08-06",
+    "titleLa": "In Transfiguratione Domini Nostri Jesu Christi",
+    "titleDe": "In Transfiguratione Domini Nostri Jesu Christi",
+    "color": "green",
+    "rank": "Duplex II classis"
+  },
+  {
+    "id": "do-08-10",
+    "titleLa": "S. Laurentii Martyris",
+    "titleDe": "Hl. Laurentius, Martyrer",
+    "color": "green",
+    "rank": "Duplex II classis cum octava simplici"
+  },
+  {
     "id": "do-08-15",
     "titleLa": "In Assumptione Beatæ Mariæ Virginis",
     "titleDe": "In Assumptione Beatæ Mariæ Virginis",
     "color": "green",
     "rank": "Duplex I classis cum Octava Communi"
+  },
+  {
+    "id": "do-08-24",
+    "titleLa": "S. Bartholomæi Apostoli",
+    "titleDe": "Hl. Bartholomäus Apostel",
+    "color": "green",
+    "rank": "Duplex II classis"
+  },
+  {
+    "id": "do-08-28",
+    "titleLa": "S. Augustini Episcopi et Confessoris et Ecclesiæ Doctoris",
+    "titleDe": "Hl. Augustinus von Hippo, Bischof, Bekenner und Kirchenlehrer",
+    "color": "green",
+    "rank": "Duplex"
   },
   {
     "id": "do-09-08",
@@ -406,6 +553,69 @@
     "rank": "Duplex II classis cum Octava simplici"
   },
   {
+    "id": "do-09-14",
+    "titleLa": "In Exaltatione Sanctæ Crucis",
+    "titleDe": "In Exaltatione Sanctæ Crucis",
+    "color": "green",
+    "rank": "Duplex majus"
+  },
+  {
+    "id": "do-09-21",
+    "titleLa": "S. Matthæi Apostoli et Evangelistæ",
+    "titleDe": "Fest des hl. Apostels und Evangelisten Matthäus",
+    "color": "green",
+    "rank": "Duplex II classis"
+  },
+  {
+    "id": "do-09-29",
+    "titleLa": "In Dedicatione S. Michaëlis Archangelis",
+    "titleDe": "Fest der Einweihung der Kirche des heiligen Erzengels Michael",
+    "color": "green",
+    "rank": "Duplex I classis"
+  },
+  {
+    "id": "do-09-30",
+    "titleLa": "S. Hieronymi Presbyteris Confessoris et Ecclesiæ Doctoris",
+    "titleDe": "Hl. Hieronymus, Priester, Bekenner und Kirchenlehrer",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-10-02",
+    "titleLa": "Ss. Angelorum Custodum",
+    "titleDe": "Hll. Schutzengel",
+    "color": "green",
+    "rank": "Duplex majus"
+  },
+  {
+    "id": "do-10-04",
+    "titleLa": "S. Francisci Confessoris",
+    "titleDe": "Hl. Franz von Assisi, Bekenner",
+    "color": "green",
+    "rank": "Duplex majus"
+  },
+  {
+    "id": "do-10-07",
+    "titleLa": "Sanctissimi Rosarii Beatæ Mariæ Virginis",
+    "titleDe": "Sanctissimi Rosarii Beatæ Mariæ Virginis",
+    "color": "green",
+    "rank": "Duplex 2 classis"
+  },
+  {
+    "id": "do-10-18",
+    "titleLa": "S. Lucæ Evangelistæ",
+    "titleDe": "Fest des hl. Evangelisten Lukas",
+    "color": "green",
+    "rank": "Duplex 2 classis"
+  },
+  {
+    "id": "do-10-28",
+    "titleLa": "Ss. Simonis et Judæ Apostolorum",
+    "titleDe": "Hll. Simon und Judas Thaddäus, Apostel",
+    "color": "green",
+    "rank": "Duplex 2 classis"
+  },
+  {
     "id": "do-11-01",
     "titleLa": "Omnium Sanctorum",
     "titleDe": "Allerheiligen",
@@ -413,10 +623,59 @@
     "rank": "Duplex I classis cum octava communi"
   },
   {
+    "id": "do-11-11",
+    "titleLa": "S. Martini Episcopi et Confessoris",
+    "titleDe": "Hl. Martin, Bischof und Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-11-21",
+    "titleLa": "In Presentatione Beatæ Mariæ Virginis",
+    "titleDe": "In Presentatione Beatæ Mariæ Virginis",
+    "color": "green",
+    "rank": "Duplex majus"
+  },
+  {
+    "id": "do-11-30",
+    "titleLa": "S. Andreæ Apostoli",
+    "titleDe": "Hl. Andreas, Apostel",
+    "color": "green",
+    "rank": "Duplex 2 classis"
+  },
+  {
+    "id": "do-12-06",
+    "titleLa": "S. Nicolai Episcopi et Confessoris",
+    "titleDe": "Hl. Nikolaus, Bischof und Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
     "id": "do-12-08",
     "titleLa": "In Conceptione Immaculata Beatæ Mariæ Virginis",
     "titleDe": "In Conceptione Immaculata Beatæ Mariæ Virginis",
     "color": "green",
     "rank": "Duplex I classis cum octava communi"
+  },
+  {
+    "id": "do-12-26",
+    "titleLa": "S. Stephani Protomartyris",
+    "titleDe": "Hl. Stephanus, Erzmartyrer",
+    "color": "green",
+    "rank": "Duplex II class cum octava simplici"
+  },
+  {
+    "id": "do-12-27",
+    "titleLa": "S. Joannis Apostoli et Evangelistæ",
+    "titleDe": "Fest des heiligen Apostels und Evangelisten Johannes",
+    "color": "green",
+    "rank": "Duplex II Class cum octava simplici"
+  },
+  {
+    "id": "do-12-28",
+    "titleLa": "Ss. Innocentium",
+    "titleDe": "Fest der Unschuldigen Kinder",
+    "color": "green",
+    "rank": "Duplex II class cum octava simplici"
   }
 ]
