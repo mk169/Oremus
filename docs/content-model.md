@@ -9,7 +9,9 @@ ergänzt werden können.
 - **`BilingualText { la?, de? }`** – zweisprachiger Text. Beide Seiten optional,
   z.B. für reine Rubriken oder rein deutsche Lesungen.
 - **`ChantInfo { chantable, mode?, gabc? }`** – markiert einen gesangs-fähigen
-  Abschnitt. `gabc` ist die spätere Neumen-Quelle (Gregorio-Format).
+  Abschnitt. `gabc` ist die Neumen-Quelle (Gregorio-Format); ist sie gesetzt, rendert
+  `NeumeScore` (via `exsurge`) daraus echte Quadratnotation. Die Beispiele enthalten
+  das Incipit; vollständige Melodien lassen sich später aus GregoBase einsetzen.
 - **`LiturgicalSection`** – ein Abschnitt einer Feier (Introitus, Kyrie, Lesung …)
   mit Titel, Art (`ordinarium`/`proprium`), Text, optionaler Rubrik, Quellenangabe
   und optionalem Gesang.

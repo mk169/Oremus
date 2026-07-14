@@ -1,5 +1,6 @@
 import type { ChantInfo } from '../data/types'
 import { NeumeIcon } from './Icons'
+import { NeumeScore } from './NeumeScore'
 import './ChantBlock.css'
 
 interface Props {
@@ -7,9 +8,9 @@ interface Props {
 }
 
 /**
- * Platzhalter für die spätere Neumen-Darstellung (GABC via exsurge.js).
- * Zeigt bereits die Kirchentonart und – falls vorhanden – die GABC-Quelle an,
- * damit der Gesang-Modus jetzt schon sichtbar vorbereitet ist.
+ * Zeigt den Gesang eines Abschnitts: Kirchentonart und – falls GABC vorhanden –
+ * echte gregorianische Quadratnotation (Neumen) via {@link NeumeScore}.
+ * Ohne GABC bleibt ein dezenter Hinweis stehen.
  */
 export function ChantBlock({ chant }: Props) {
   return (
@@ -19,9 +20,7 @@ export function ChantBlock({ chant }: Props) {
         <span className="smallcaps">Gesang{chant.mode ? ` · Ton ${chant.mode}` : ''}</span>
       </div>
       {chant.gabc ? (
-        <pre className="chant-block__gabc" aria-label="GABC-Quelle für Neumen">
-          {chant.gabc}
-        </pre>
+        <NeumeScore gabc={chant.gabc} />
       ) : (
         <p className="chant-block__hint">
           Neumen folgen – die Notation wird hier später als gregorianischer Gesang dargestellt.

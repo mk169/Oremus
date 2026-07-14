@@ -99,9 +99,14 @@ export interface Hour {
 /** Rosenkranz. */
 export interface RosaryMystery {
   id: string
-  title: BilingualText
-  /** Kurze Betrachtung / Schriftbezug. */
-  fruit: BilingualText
+  /** Der Geheimnis-Einschub ins Ave Maria (lateinischer Rosenkranz + Deutsch). */
+  clause: BilingualText
+  /** Name des Geheimnisses, z.B. „Annuntiatio" / „Verkündigung des Herrn". */
+  name: BilingualText
+  /** Schriftstelle (Angabe), z.B. { la: 'Lc 1,26-38', de: 'Lk 1,26-38' }. */
+  scripture: BilingualText
+  /** Kurzer Bibeltext-Ausschnitt (Vulgata / gemeinfreie dt. Übersetzung). */
+  verse: BilingualText
 }
 
 export interface RosarySet {

@@ -19,6 +19,11 @@
   color: var(--text-muted);
 }
 
+.bilingual__sep {
+  color: var(--gold);
+  padding: 0 0.15rem;
+}
+
 .bilingual--block .bilingual__de {
   display: block;
   color: var(--text-muted);

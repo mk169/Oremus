@@ -1,8 +1,25 @@
 import { Link } from 'react-router-dom'
 import { PageHeader } from '../../components/PageHeader'
 import { SectionRenderer } from '../../components/SectionRenderer'
-import { liturgyPrayers } from '../../data/prayers/liturgyPrayers'
+import {
+  praeparatioPrayers,
+  gratiarumActioPrayers,
+} from '../../data/prayers/liturgyPrayers'
+import type { Prayer } from '../../data/types'
 import './LiturgyHub.css'
+
+function PrayerList({ prayers }: { prayers: Prayer[] }) {
+  return (
+    <>
+      {prayers.map((p) => (
+        <SectionRenderer
+          key={p.id}
+          section={{ id: p.id, kind: 'ordinarium', title: p.title, text: p.text, rubric: p.rubric }}
+        />
+      ))}
+    </>
+  )
+}
 
 export function LiturgyHub() {
   return (
@@ -28,14 +45,14 @@ export function LiturgyHub() {
 
       <h2 className="liturgy-hub__prayers-title">Gebete für die Liturgie</h2>
       <p className="liturgy-hub__prayers-note">
-        Vorbereitung und Danksagung. Diese Sammlung wird noch erweitert.
+        Klassische Vorbereitung und Danksagung aus dem Missale. Diese Sammlung wird noch erweitert.
       </p>
-      {liturgyPrayers.map((p) => (
-        <SectionRenderer
-          key={p.id}
-          section={{ id: p.id, kind: 'ordinarium', title: p.title, text: p.text, rubric: p.rubric }}
-        />
-      ))}
+
+      <h3 className="liturgy-hub__group">Vor der heiligen Messe · Praeparatio ad Missam</h3>
+      <PrayerList prayers={praeparatioPrayers} />
+
+      <h3 className="liturgy-hub__group">Nach der heiligen Messe · Gratiarum actio</h3>
+      <PrayerList prayers={gratiarumActioPrayers} />
     </div>
   )
 }

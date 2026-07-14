@@ -6,8 +6,8 @@ Rosenkranz, Novene** und **meditatives Gebet**.
 
 Die Liturgie ist in beiden Formen angelegt: **überliefert (1962)** und **Novus Ordo**,
 jeweils mit Ordinarium und Proprium des Tages, zweisprachig **Latein/Deutsch**, und mit
-auswählbarem Gesang (nahtloser Ablauf). Neumen zum Singen sind strukturell vorbereitet
-(GABC/Gregorio, später via `exsurge.js`).
+auswählbarem Gesang (nahtloser Ablauf). Gesungene Abschnitte zeigen **echte Neumen**
+(gregorianische Quadratnotation), im Browser aus GABC gerendert mit `exsurge`.
 
 > Dies ist die erste, tragfähige Version: Architektur, Design-System, Dashboard,
 > Navigation und je ein funktionsfähiges **Beispiel** pro Bereich. Die liturgischen

@@ -30,11 +30,17 @@ export function BilingualText({ value, mode, block = true, className }: Props) {
   const fallbackDe = lang === 'la' && !hasLa && hasDe
 
   const Wrapper = block ? 'div' : 'span'
+  const renderLa = showLa || fallbackLa
+  const renderDe = showDe || fallbackDe
+  // Bei Inline-Darstellung beider Sprachen einen dezenten Trenner setzen,
+  // damit Latein und Deutsch nicht zusammenlaufen.
+  const inlineSep = !block && renderLa && renderDe
 
   return (
     <Wrapper className={['bilingual', block ? 'bilingual--block' : '', className].filter(Boolean).join(' ')}>
-      {(showLa || fallbackLa) && <span className="bilingual__la">{value.la}</span>}
-      {(showDe || fallbackDe) && <span className="bilingual__de">{value.de}</span>}
+      {renderLa && <span className="bilingual__la">{value.la}</span>}
+      {inlineSep && <span className="bilingual__sep"> · </span>}
+      {renderDe && <span className="bilingual__de">{value.de}</span>}
     </Wrapper>
   )
 }

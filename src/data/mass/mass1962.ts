@@ -2,7 +2,8 @@ import type { MassFormulary } from '../types'
 
 // Beispielformular: Messe im überlieferten Ritus (1962).
 // Ordinarium vollständig (gemeinfrei), Proprium exemplarisch von einem Sonntag
-// im Jahreskreis. Gesangsfähige Teile sind markiert; Neumen (GABC) folgen.
+// im Jahreskreis. Gesangsfähige Teile tragen GABC-Notation (Incipit), die im
+// Browser mit exsurge als echte Neumen dargestellt wird.
 // Herkunft der Texte: Missale Romanum 1962 (vorkonziliar, gemeinfrei).
 
 export const mass1962: MassFormulary = {
@@ -13,7 +14,7 @@ export const mass1962: MassFormulary = {
     color: 'green',
     rank: 'Sonntag II. Klasse',
   },
-  note: 'Beispielinhalt. Ordinarium gemeinfrei; Proprium exemplarisch. Für jeden Tag/jedes Fest folgt eigenes Proprium.',
+  note: 'Beispielinhalt. Ordinarium gemeinfrei; Proprium exemplarisch. Die Neumen zeigen das Incipit; vollständige Melodien folgen. Für jeden Tag/jedes Fest folgt eigenes Proprium.',
   sections: [
     {
       id: 'introitus',
@@ -24,7 +25,11 @@ export const mass1962: MassFormulary = {
         la: 'Réspice in me, et miserére mei, Dómine: quóniam únicus et pauper sum ego: vide humilitátem meam et labórem meum: et dimítte ómnia peccáta mea, Deus meus.',
         de: 'Blicke auf mich und erbarme dich meiner, o Herr; denn einsam bin ich und arm. Sieh meine Niedrigkeit und Mühsal, und vergib mir all meine Sünden, mein Gott.',
       },
-      chant: { chantable: true, mode: 'VII' },
+      chant: {
+        chantable: true,
+        mode: 'VII',
+        gabc: '(c4) Ré(f)spi(gh)ce(h) in(h) me,(hg) et(g) mi(gh)se(h)ré(hj)re(h) me(hg)i,(g) Dó(gh)mi(h)ne.(g) (::)',
+      },
     },
     {
       id: 'kyrie',
@@ -34,7 +39,11 @@ export const mass1962: MassFormulary = {
         la: 'Kýrie, eléison. Christe, eléison. Kýrie, eléison.',
         de: 'Herr, erbarme dich. Christus, erbarme dich. Herr, erbarme dich.',
       },
-      chant: { chantable: true, mode: 'I' },
+      chant: {
+        chantable: true,
+        mode: 'I',
+        gabc: '(c4) Ký(h)ri(h)e(hg~) *() e(hi)lé(hg)i(g)son.(g) (::) Chri(h)ste(hg~) e(hi)lé(hg)i(g)son.(g) (::)',
+      },
     },
     {
       id: 'gloria',
@@ -45,7 +54,11 @@ export const mass1962: MassFormulary = {
         la: 'Glória in excélsis Deo. Et in terra pax homínibus bonæ voluntátis. Laudámus te. Benedícimus te. Adorámus te. Glorificámus te. Grátias ágimus tibi propter magnam glóriam tuam.',
         de: 'Ehre sei Gott in der Höhe und Friede auf Erden den Menschen, die guten Willens sind. Wir loben dich. Wir preisen dich. Wir beten dich an. Wir verherrlichen dich. Wir sagen dir Dank ob deiner großen Herrlichkeit.',
       },
-      chant: { chantable: true, mode: 'IV' },
+      chant: {
+        chantable: true,
+        mode: 'IV',
+        gabc: '(c4) Gló(g)ri(gh)a(h) in(h) ex(hg)cél(gh)sis(h) De(hjh)o.(g) (::)',
+      },
     },
     {
       id: 'collecta',
@@ -76,7 +89,11 @@ export const mass1962: MassFormulary = {
         la: 'Lætátus sum in his, quæ dicta sunt mihi: in domum Dómini íbimus. Fiat pax in virtúte tua: et abundántia in túrribus tuis. Allelúia, allelúia.',
         de: 'Ich freute mich, als man mir sagte: Wir ziehen zum Haus des Herrn. Friede walte in deinen Mauern und Wohlstand in deinen Türmen. Alleluja, alleluja.',
       },
-      chant: { chantable: true, mode: 'V' },
+      chant: {
+        chantable: true,
+        mode: 'V',
+        gabc: '(c4) Lae(f)tá(gh)tus(h) sum(h) in(h) his(hg) quae(g) di(gh)cta(h) sunt(h) mi(hg)hi.(g) (::)',
+      },
     },
     {
       id: 'evangelium',
@@ -97,7 +114,11 @@ export const mass1962: MassFormulary = {
         la: 'Credo in unum Deum, Patrem omnipoténtem, factórem cæli et terræ, visibílium ómnium et invisibílium… Et exspécto resurrectiónem mortuórum. Et vitam ventúri sǽculi. Amen.',
         de: 'Ich glaube an den einen Gott, den allmächtigen Vater, Schöpfer des Himmels und der Erde, aller sichtbaren und unsichtbaren Dinge… Und ich erwarte die Auferstehung der Toten und das Leben der kommenden Welt. Amen.',
       },
-      chant: { chantable: true, mode: 'IV' },
+      chant: {
+        chantable: true,
+        mode: 'IV',
+        gabc: '(c4) Cre(g)do(gh) in(h) u(h)num(hg) De(gh)um,(h) Pa(h)trem(hg) o(g)mni(g)po(gh)tén(h)tem.(g) (::)',
+      },
     },
     {
       id: 'offertorium',
@@ -108,7 +129,11 @@ export const mass1962: MassFormulary = {
         la: 'Dómine, in auxílium meum réspice: confundántur et revereántur, qui quærunt ánimam meam, ut áuferant eam: Dómine, in auxílium meum réspice.',
         de: 'Herr, blicke her, mir zu helfen. In Schmach und Schande sollen fallen, die mir nach dem Leben trachten. Herr, blicke her, mir zu helfen.',
       },
-      chant: { chantable: true, mode: 'I' },
+      chant: {
+        chantable: true,
+        mode: 'I',
+        gabc: '(c4) Dó(f)mi(gh)ne,(h) in(h) au(h)xí(hg)li(g)um(gh) me(h)um(h) ré(hj)spi(h)ce.(g) (::)',
+      },
     },
     {
       id: 'sanctus',
@@ -118,7 +143,11 @@ export const mass1962: MassFormulary = {
         la: 'Sanctus, Sanctus, Sanctus, Dóminus Deus Sábaoth. Pleni sunt cæli et terra glória tua. Hosánna in excélsis. Benedíctus qui venit in nómine Dómini. Hosánna in excélsis.',
         de: 'Heilig, heilig, heilig, Herr, Gott der Heerscharen. Erfüllt sind Himmel und Erde von deiner Herrlichkeit. Hosanna in der Höhe. Hochgelobt sei, der da kommt im Namen des Herrn. Hosanna in der Höhe.',
       },
-      chant: { chantable: true, mode: 'IV' },
+      chant: {
+        chantable: true,
+        mode: 'IV',
+        gabc: '(c4) San(h)ctus,(hg~) *() San(gh)ctus,(h) San(hjh)ctus(hg) (,) Dó(gh)mi(h)nus(h) De(hg)us(g) Sá(gh)ba(h)oth.(g) (::)',
+      },
     },
     {
       id: 'pater-noster',
@@ -128,7 +157,11 @@ export const mass1962: MassFormulary = {
         la: 'Pater noster, qui es in cælis: Sanctificétur nomen tuum: Advéniat regnum tuum: Fiat volúntas tua, sicut in cælo, et in terra… Sed líbera nos a malo.',
         de: 'Vater unser im Himmel, geheiligt werde dein Name; dein Reich komme; dein Wille geschehe, wie im Himmel, so auf Erden… Sondern erlöse uns von dem Bösen.',
       },
-      chant: { chantable: true, mode: 'A' },
+      chant: {
+        chantable: true,
+        mode: 'A',
+        gabc: '(c4) Pa(g)ter(g) no(g)ster,(gh) qui(h) es(h) in(h) cae(hg)lis:(g) san(gh)cti(h)fi(h)cé(hg)tur(g) no(gh)men(h) tu(hg)um.(g) (::)',
+      },
     },
     {
       id: 'agnus-dei',
@@ -138,7 +171,11 @@ export const mass1962: MassFormulary = {
         la: 'Agnus Dei, qui tollis peccáta mundi: miserére nobis. Agnus Dei, qui tollis peccáta mundi: miserére nobis. Agnus Dei, qui tollis peccáta mundi: dona nobis pacem.',
         de: 'Lamm Gottes, du nimmst hinweg die Sünden der Welt: erbarme dich unser. Lamm Gottes… erbarme dich unser. Lamm Gottes… gib uns den Frieden.',
       },
-      chant: { chantable: true, mode: 'IV' },
+      chant: {
+        chantable: true,
+        mode: 'IV',
+        gabc: '(c4) A(h)gnus(hg~) De(gh)i,(h) *() qui(h) tol(hg)lis(g) pec(gh)cá(h)ta(h) mun(hg)di:(g) mi(gh)se(h)ré(hg)re(g) no(gh)bis.(g) (::)',
+      },
     },
     {
       id: 'communio',
@@ -149,7 +186,11 @@ export const mass1962: MassFormulary = {
         la: 'Dómine, memorábor justítiæ tuæ solíus: Deus, docuísti me a juventúte mea: et usque in senéctam et sénium, Deus, ne derelínquas me.',
         de: 'Herr, deine Gerechtigkeit allein will ich verkünden. O Gott, von Jugend auf hast du mich unterwiesen; bis in mein Alter und Ergrauen, o Gott, verlass mich nicht.',
       },
-      chant: { chantable: true, mode: 'VIII' },
+      chant: {
+        chantable: true,
+        mode: 'VIII',
+        gabc: '(c4) Dó(f)mi(gh)ne,(h) me(h)mo(hg)rá(g)bor(gh) iu(h)stí(hj)ti(h)ae(hg) tu(g)ae.(g) (::)',
+      },
     },
     {
       id: 'postcommunio',
@@ -168,7 +209,11 @@ export const mass1962: MassFormulary = {
         la: 'Ite, missa est. ℟ Deo grátias.',
         de: 'Gehet hin, ihr seid entlassen. ℟ Dank sei Gott.',
       },
-      chant: { chantable: true, mode: 'IV' },
+      chant: {
+        chantable: true,
+        mode: 'IV',
+        gabc: '(c4) I(g)te,(gh~) *() mis(h)sa(hjh) est.(hg) (::) De(g)o(gh) grá(hjh)ti(hg)as.(g) (::)',
+      },
     },
   ],
 }

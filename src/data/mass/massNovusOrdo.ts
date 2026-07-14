@@ -24,7 +24,11 @@ export const massNovusOrdo: MassFormulary = {
         la: 'Réspice in me et miserére mei, Dómine, quóniam únicus et pauper sum ego.',
         de: 'Wende dich mir zu und sei mir gnädig, Herr; denn ich bin einsam und gebeugt.',
       },
-      chant: { chantable: true, mode: 'VII' },
+      chant: {
+        chantable: true,
+        mode: 'VII',
+        gabc: '(c4) Ré(f)spi(gh)ce(h) in(h) me(hg) et(g) mi(gh)se(h)ré(hj)re(h) me(hg)i,(g) Dó(gh)mi(h)ne.(g) (::)',
+      },
     },
     {
       id: 'no-kyrie',
@@ -34,7 +38,11 @@ export const massNovusOrdo: MassFormulary = {
         la: 'Kýrie, eléison. Christe, eléison. Kýrie, eléison.',
         de: 'Herr, erbarme dich. Christus, erbarme dich. Herr, erbarme dich.',
       },
-      chant: { chantable: true, mode: 'I' },
+      chant: {
+        chantable: true,
+        mode: 'I',
+        gabc: '(c4) Ký(h)ri(h)e(hg~) *() e(hi)lé(hg)i(g)son.(g) (::)',
+      },
     },
     {
       id: 'no-gloria',
@@ -44,7 +52,11 @@ export const massNovusOrdo: MassFormulary = {
         la: 'Glória in excélsis Deo, et in terra pax homínibus bonæ voluntátis.',
         de: 'Ehre sei Gott in der Höhe und Friede auf Erden den Menschen seiner Gnade.',
       },
-      chant: { chantable: true, mode: 'IV' },
+      chant: {
+        chantable: true,
+        mode: 'IV',
+        gabc: '(c4) Gló(g)ri(gh)a(h) in(h) ex(hg)cél(gh)sis(h) De(hjh)o.(g) (::)',
+      },
     },
     {
       id: 'no-tagesgebet',
@@ -73,7 +85,11 @@ export const massNovusOrdo: MassFormulary = {
         la: 'Prope est Dóminus ómnibus invocántibus eum.',
         de: 'Nahe ist der Herr allen, die ihn anrufen. — Ich will dich rühmen, mein Gott und König, und deinen Namen preisen auf immer und ewig.',
       },
-      chant: { chantable: true, mode: 'VIII' },
+      chant: {
+        chantable: true,
+        mode: 'VIII',
+        gabc: '(c4) Pro(f)pe(gh) est(h) Dó(h)mi(hg)nus(g) ó(gh)mni(h)bus(h) in(h)vo(hg)cán(g)ti(gh)bus(h) e(hg)um.(g) (::)',
+      },
     },
     {
       id: 'no-lesung2',
@@ -92,7 +108,11 @@ export const massNovusOrdo: MassFormulary = {
         la: 'Allelúia, allelúia.',
         de: 'Halleluja. Halleluja. Öffne, Herr, unser Herz, dass wir auf die Worte deines Sohnes hören. Halleluja.',
       },
-      chant: { chantable: true, mode: 'VI' },
+      chant: {
+        chantable: true,
+        mode: 'VI',
+        gabc: '(c4) Al(f)le(gh)lú(hjh)ia.(hg) *() Al(gh)le(h)lú(hjh)ia.(hg) (::)',
+      },
     },
     {
       id: 'no-evangelium',
@@ -120,7 +140,11 @@ export const massNovusOrdo: MassFormulary = {
         la: 'Sanctus, Sanctus, Sanctus, Dóminus Deus Sábaoth.',
         de: 'Heilig, heilig, heilig, Gott, Herr aller Mächte und Gewalten. Erfüllt sind Himmel und Erde von deiner Herrlichkeit. Hosanna in der Höhe.',
       },
-      chant: { chantable: true, mode: 'IV' },
+      chant: {
+        chantable: true,
+        mode: 'IV',
+        gabc: '(c4) San(h)ctus,(hg~) *() San(gh)ctus,(h) San(hjh)ctus.(hg) (::)',
+      },
     },
     {
       id: 'no-agnus',
@@ -130,7 +154,11 @@ export const massNovusOrdo: MassFormulary = {
         la: 'Agnus Dei, qui tollis peccáta mundi: miserére nobis.',
         de: 'Lamm Gottes, du nimmst hinweg die Sünde der Welt: erbarme dich unser. … gib uns deinen Frieden.',
       },
-      chant: { chantable: true, mode: 'IV' },
+      chant: {
+        chantable: true,
+        mode: 'IV',
+        gabc: '(c4) A(h)gnus(hg~) De(gh)i,(h) *() qui(h) tol(hg)lis(g) pec(gh)cá(h)ta(h) mun(hg)di.(g) (::)',
+      },
     },
     {
       id: 'no-kommunionvers',
@@ -140,7 +168,11 @@ export const massNovusOrdo: MassFormulary = {
       text: {
         de: 'Du, Herr, hast deine Befehle gegeben, damit man sie treulich befolgt. Wären doch meine Schritte fest darauf gerichtet, deine Gesetze zu halten.',
       },
-      chant: { chantable: true, mode: 'VIII' },
+      chant: {
+        chantable: true,
+        mode: 'VIII',
+        gabc: '(c4) Du,(f) Herr,(gh) hast(h) dei(h)ne(hg) Be(g)feh(gh)le(h) ge(h)ge(hg)ben.(g) (::)',
+      },
     },
     {
       id: 'no-schlussgebet',

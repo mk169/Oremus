@@ -49,6 +49,14 @@
   margin-top: -0.4rem;
 }
 
+.liturgy-hub__group {
+  font-size: 1.15rem;
+  color: var(--gold);
+  font-variant: small-caps;
+  letter-spacing: 0.04em;
+  margin: 1.5rem 0 0.8rem;
+}
+
 .lit-note {
   margin-top: 2rem;
   padding-top: 1rem;

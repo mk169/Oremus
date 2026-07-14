@@ -24,17 +24,36 @@ export function RosaryPage() {
 
       <section className="rosary-sets">
         <h2>Die Geheimnisse</h2>
+        <p className="rosary-sets__hint">
+          Der lateinische Einschub wird beim Ave Maria nach „…fructus ventris tui, Iesus" gebetet.
+        </p>
         {rosarySets.map((set) => (
           <div key={set.id} className="rosary-set">
             <h3 className="rosary-set__title">
-              {set.title.de}
-              <span className="rosary-set__days"> · {set.days.de}</span>
+              <BilingualText value={set.title} block={false} />
+              <span className="rosary-set__days">
+                {' · '}
+                <BilingualText value={set.days} block={false} />
+              </span>
             </h3>
             <ol className="rosary-set__list">
-              {set.mysteries.map((m) => (
-                <li key={m.id}>
-                  <span className="rosary-set__mystery">{m.title.de}</span>
-                  <span className="rosary-set__fruit">{m.fruit.de}</span>
+              {set.mysteries.map((m, i) => (
+                <li key={m.id} className="rosary-mystery">
+                  <span className="rosary-mystery__num">{i + 1}</span>
+                  <div className="rosary-mystery__body">
+                    <span className="rosary-mystery__name">
+                      <BilingualText value={m.name} block={false} />
+                      <span className="rosary-mystery__ref">
+                        <BilingualText value={m.scripture} block={false} />
+                      </span>
+                    </span>
+                    <span className="rosary-mystery__clause">
+                      <BilingualText value={m.clause} />
+                    </span>
+                    <span className="rosary-mystery__verse">
+                      <BilingualText value={m.verse} />
+                    </span>
+                  </div>
                 </li>
               ))}
             </ol>

@@ -41,7 +41,11 @@ export const komplet1962: Hour = {
         la: 'Qui hábitat in adjutório Altíssimi, in protectióne Dei cæli commorábitur. Dicet Dómino: Suscéptor meus es tu, et refúgium meum: Deus meus, sperábo in eum.',
         de: 'Wer im Schutze des Höchsten wohnt, ruht im Schatten des Allmächtigen. Er spricht zum Herrn: Meine Zuflucht und meine Burg, mein Gott, auf den ich vertraue.',
       },
-      chant: { chantable: true, mode: 'VIII' },
+      chant: {
+        chantable: true,
+        mode: 'VIII',
+        gabc: '(c4) Qui(f) há(gh)bi(h)tat(h) in(h) ad(hg)iu(g)tó(gh)ri(h)o(h) Al(hg)tís(g)si(gh)mi.(g) (::)',
+      },
     },
     {
       id: 'k62-nunc',
@@ -52,7 +56,11 @@ export const komplet1962: Hour = {
         la: 'Nunc dimíttis servum tuum, Dómine, secúndum verbum tuum in pace: Quia vidérunt óculi mei salutáre tuum.',
         de: 'Nun lässt du, Herr, deinen Knecht in Frieden scheiden, wie du gesagt hast; denn meine Augen haben dein Heil geschaut.',
       },
-      chant: { chantable: true, mode: 'I' },
+      chant: {
+        chantable: true,
+        mode: 'I',
+        gabc: '(c4) Nunc(f) di(gh)mít(h)tis(h) ser(hg)vum(g) tu(gh)um,(h) Dó(hj)mi(h)ne,(hg) se(g)cún(gh)dum(h) ver(hg)bum(g) tu(gh)um(h) in(h) pa(hg)ce.(g) (::)',
+      },
     },
     {
       id: 'k62-antiphon',
@@ -62,7 +70,11 @@ export const komplet1962: Hour = {
         la: 'Salve Regína, mater misericórdiæ; vita, dulcédo et spes nostra, salve. Ad te clamámus, éxsules fílii Hevæ.',
         de: 'Sei gegrüßt, o Königin, Mutter der Barmherzigkeit; unser Leben, unsere Wonne und unsere Hoffnung, sei gegrüßt. Zu dir rufen wir verbannte Kinder Evas.',
       },
-      chant: { chantable: true, mode: 'V' },
+      chant: {
+        chantable: true,
+        mode: 'V',
+        gabc: '(c4) Sal(g)ve(h) Re(h)gí(hg)na,(g) *() ma(gh)ter(h) mi(h)se(h)ri(hg)cór(g)di(gh)ae:(h) (;) vi(h)ta,(hg) dul(g)cé(gh)do,(h) et(h) spes(hg) no(g)stra,(gh) sal(hg)ve.(g) (::)',
+      },
     },
   ],
 }
@@ -101,7 +113,11 @@ export const kompletNeu: Hour = {
         la: 'Te lucis ante términum, rerum Creátor, póscimus, ut sólita cleméntia sis præsul ad custódiam.',
         de: 'Bevor des Tages Licht vergeht, o Herr der Welt, dich rufen wir: Behüte uns in dieser Nacht nach deiner großen Güte, Herr.',
       },
-      chant: { chantable: true, mode: 'VIII' },
+      chant: {
+        chantable: true,
+        mode: 'VIII',
+        gabc: '(c4) Te(f) lu(g)cis(h) an(h)te(hg) tér(g)mi(gh)num,(h) (,) re(h)rum(hg) Cre(g)á(gh)tor,(h) pó(hj)sci(h)mus,(hg) (;) ut(g) só(gh)li(h)ta(h) cle(hg)mén(g)ti(gh)a(h) (,) sis(h) prae(hg)sul(g) ad(gh) cu(h)stó(hg)di(g)am.(g) (::)',
+      },
     },
     {
       id: 'kn-psalm',
@@ -110,7 +126,11 @@ export const kompletNeu: Hour = {
       text: {
         de: 'Wer im Schutz des Höchsten wohnt und ruht im Schatten des Allmächtigen, der sagt zum Herrn: Du bist für mich Zuflucht und Burg, mein Gott, dem ich vertraue.',
       },
-      chant: { chantable: true, mode: 'IV' },
+      chant: {
+        chantable: true,
+        mode: 'IV',
+        gabc: '(c4) Wer(f) im(gh) Schutz(h) des(h) Höch(hg)sten(g) wohnt(gh) und(h) ruht(h) im(hg) Schat(g)ten(gh) des(h) All(h)mäch(hg)ti(g)gen.(g) (::)',
+      },
     },
     {
       id: 'kn-nunc',
@@ -120,7 +140,11 @@ export const kompletNeu: Hour = {
       text: {
         de: 'Nun lässt du, Herr, deinen Knecht, wie du gesagt hast, in Frieden scheiden. Denn meine Augen haben das Heil gesehen, das du vor allen Völkern bereitet hast.',
       },
-      chant: { chantable: true, mode: 'I' },
+      chant: {
+        chantable: true,
+        mode: 'I',
+        gabc: '(c4) Nun(f) lässt(gh) du,(h) Herr,(h) dei(hg)nen(g) Knecht(gh) in(h) Frie(hg)den(g) schei(gh)den.(g) (::)',
+      },
     },
     {
       id: 'kn-schlussgebet',
