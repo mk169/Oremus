@@ -6,6 +6,7 @@ import {
   gratiarumActioPrayers,
 } from '../../data/prayers/liturgyPrayers'
 import { importedMassList } from '../../data/registry'
+import { aspergesMe, vidiAquam, aspergesOratio } from '../../data/mass/asperges'
 import type { Prayer } from '../../data/types'
 import './LiturgyHub.css'
 
@@ -52,6 +53,15 @@ export function LiturgyHub() {
           <span className="form-choice__desc">Mit Tageslesungen und Evangelium</span>
         </Link>
       </div>
+
+      <h2 className="liturgy-hub__asperges-title">Besprengung vor dem Hochamt</h2>
+      <p className="liturgy-hub__imported-note">
+        „Asperges me" außerhalb der Osterzeit, „Vidi aquam" in der Osterzeit. In den
+        Sonntagsformularen unten steht der passende Gesang bereits am Anfang.
+      </p>
+      <SectionRenderer section={aspergesMe} />
+      <SectionRenderer section={vidiAquam} />
+      <SectionRenderer section={aspergesOratio} />
 
       <h2 className="liturgy-hub__imported-title">Messformulare des Kirchenjahres (1962)</h2>
       <p className="liturgy-hub__imported-note">

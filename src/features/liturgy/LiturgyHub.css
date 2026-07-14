@@ -38,6 +38,7 @@
   margin-top: 0.2rem;
 }
 
+.liturgy-hub__asperges-title,
 .liturgy-hub__imported-title {
   border-top: 1px solid var(--surface-line);
   padding-top: 1.2rem;
