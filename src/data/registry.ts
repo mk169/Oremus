@@ -2,7 +2,10 @@
 // liturgischen Formen zu. Später wird hier nach Datum/Fest aufgelöst.
 import { mass1962 } from './mass/mass1962'
 import { massNovusOrdo } from './mass/massNovusOrdo'
+import { matutin1962, lesehoreNeu } from './office/matutin'
 import { laudes1962, laudesNeu } from './office/laudes'
+import { prim1962, terz1962, sext1962, non1962, terzNeu, sextNeu, nonNeu } from './office/littleHours'
+import { vesper1962, vesperNeu } from './office/vesper'
 import { komplet1962, kompletNeu } from './office/komplet'
 import type { Hour, LiturgicalForm, MassFormulary } from './types'
 
@@ -11,10 +14,12 @@ export const massByForm: Record<LiturgicalForm, MassFormulary> = {
   novusOrdo: massNovusOrdo,
 }
 
-// Horen in der natürlichen Tagesordnung (Laudes am Morgen … Komplet am Abend).
+// Horen in der natürlichen Tagesordnung (Nachtwache/Morgen … Abend/Nacht).
+// 1962: Matutin, Laudes, Prim, Terz, Sext, Non, Vesper, Komplet.
+// Neu: Lesehore, Laudes, Terz, Sext, Non, Vesper, Komplet (Prim entfällt).
 export const hoursByForm: Record<LiturgicalForm, Hour[]> = {
-  '1962': [laudes1962, komplet1962],
-  novusOrdo: [laudesNeu, kompletNeu],
+  '1962': [matutin1962, laudes1962, prim1962, terz1962, sext1962, non1962, vesper1962, komplet1962],
+  novusOrdo: [lesehoreNeu, laudesNeu, terzNeu, sextNeu, nonNeu, vesperNeu, kompletNeu],
 }
 
 export const FORM_LABEL: Record<LiturgicalForm, { de: string; la: string }> = {

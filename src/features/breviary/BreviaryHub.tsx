@@ -35,7 +35,8 @@ export function BreviaryHub() {
       ))}
 
       <p className="brev-note">
-        Weitere Horen (Matutin, Laudes, Vesper …) und die Tage/Feste werden schrittweise ergänzt.
+        Alle Horen des Tages sind angelegt (Beispieltag). Die Tages- und Festproprien sowie
+        der Psalter-Zyklus werden schrittweise ergänzt.
       </p>
     </div>
   )
