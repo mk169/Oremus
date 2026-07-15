@@ -26,7 +26,8 @@
         "de": "Is 66:10 et 11; Ps 121:1."
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) LAe(d)tá(gxdgef//)re(e_d) *() Je(d)rú(e)sa(f)lem:(hh) (;) et(h) con(hf~)vén(hji)tum(h_g) fá(hji)ci(h_g)te(hhh/fgf.___) (;) o(f)mnes(hiHF'fd) qui(gxg) di(gxg)lí(g)gi(egf)tis(ggvFE'fw!gvFE) e(de!fvED'e)am:(ed..) (:) gau(fh~)dé(h)te(f) cum(hgh) lae(e)tí(gxfgf)ti(ded___)a,(d.) (;) qui(d) in(e) tri(gxg)stí(f./ghf)ti(f.e!fwgfg)a(gf__) (,) fu(f!hhivH'GF)í(gxf.e!fwgfg)stis:(gf..) (:) ut(f) ex(fe)sul(h)té(hji)tis,(i_h) (,) et(hhh) sa(e)ti(g)é(gi/jij)mi(hi_H'_GF'g)ni(gf..) (;) ab(d) u(gxeg)bé(ffg)ri(e)bus(hh) (,) con(d)so(ef)la(f)ti(h)ó(h_iHE'f)nis(gxfhFE'fw!gvFE) ves(de!fvED'e)trae.(ed..) <i>Ps.</i>(::) Lae(d)tá(f)tus(h) sum(h) in(h) his(h) quae(h) di(h)cta(h) sunt(i) mi(i)hi:(h.) *(:) in(f) do(h)mum(h) Dó(i)mi(g)ni(g) í(h)bi(f)mus.(f.) (::) Gló(d)ri(f)a(h) Pa(h)tri.(h) (::) E(h) u(h) o(i) u(g) a(h) e.(fefvEDe.) (::)"
       }
     },
     {
@@ -70,7 +71,8 @@
         "de": "Ps 121:1, 7; Tractus; Ps 124:1-2"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c2) LAe(ff)tá(g)tus(fgF'Dgfg) sum(g./hiHG'gf/ghg___.) *(;) in(fg) his(gj) quae(j) di(jii)cta(g) sunt(gj~) mi(j_)hi:(g) (,) (ihi/j_i//hjii/ghg.) (:) in(gh) do(gh)mum(g_e) Dó(f)mi(dec)ni(c.) (,) í(eggf/g_e//fvED'e!f'g/ffd!ewf)bi(cdc___)mus.(c.)\r\n<sp>V/</sp>.(::) Fi(gfg)at(gj~) pax(j_kJ'G//ihi/j_i//hjii/ghg.) (;) in(f) vir(g)tú(g!ii//iikvJI'ig)te(gffd) tu(fdffd/ec)a:(c.) (:) et(g) a(c)bun(df~)dán(fv.d!gf'g/jv.iiiih~)ti(ij)a(j_g//ihi/j_i//hjii/ghg.) *(;) in(cd) túr(fgf)ri(dgf/gh)bus(gh) tu(gf)is.(f.) (,) (hg/i_h/giHG'ge./fge'/fvD'Cd_eddc.) (::)"
       }
     },
     {
@@ -103,7 +105,8 @@
         "de": "Ps 134:3, 6"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(f3) LAu(fc~)dá(ef)te(f!gwhhvGF'geec) *() Dó(ef)mi(fhf)num,(efe.) (;) qui(fe)a(f) be(f!hhh)ní(hihh)gnus(f) est:(f!gw!hvGEgf..) (:) psál(fh/ih)li(hhh)te(f) nó(f!hhh)mi(f)ni(eh) e(ghG~'F~)jus,(gf..) (;) quó(f!gw!hvGF)ni(fe)am(f) su(hh)á(hihh)vis(fe) est:(e!fwgffe.) (:) ó(e.f!gwh'!iv)mni(ih)a(hihh'h) (,) quae(f)cúm(hhi)que(h) vó(hih)lu(hhhf)it,(fiHG.) (,) fe(hghf)cit(f.e!fwgf.) (;) in(fe~) cae(ffe)lo(fiHG.) (,) et(hghf) in(f.e!fw!gvFE'f) ter(f!gwhgh)ra.(gf..) (::)"
       }
     },
     {
@@ -132,7 +135,8 @@
         "de": "Ps 121:3-4"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) JE(eef)rú(de)sa(cd)lem,(dg/hffe.) *(,) quae(f) ae(fd)di(fe)fi(f)cá(g)tur(f) ut(fd~) cí(ef)vi(f)tas,(eef.) (;) cu(fd~)jus(dfe) par(fg~)ti(g)ci(g)pá(gh)ti(h)o(h') e(j)jus(g') in(h) i(f')díp(g)sum:(e.) (:) il(h)luc(j) e(jjj)nim(g') a(h)scen(j)dé(ikjj)runt(ji..) (,) tri(jjj)bus,(g') tri(h)bus(f') Dó(h)mi(gh_G'_FE'f)ni,(fe..) (;) ad(fff) con(f)fi(fd)tén(dg~)dum(g.) (,) nó(gh)mi(f)ni(d) tu(ff)o,(dec//f!gwhgh_g) Dó(e)mi(egff)ne.(fe..) (::)"
       }
     },
     {

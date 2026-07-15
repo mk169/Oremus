@@ -26,7 +26,8 @@
         "de": "Ps 26:1; 26:2; Ps 26:3"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(f3) DO(c!e'f~)mi(f)nus(fgf___) *(,) il(e)lu(f)mi(hh)ná(h)ti(hhhf)o(f) me(fhhf)a,(f.) (,) et(ef) sa(hhi)lus(h) me(hh/ihhe)a,(e.) (;) quem(fi) ti(hiH'Gh)mé(fgf___)bo?(f.) (:) Dó(f!h'i~)mi(i)nus(iji) (,) de(h)fén(hih)sor(hhh) vi(hih)tae(hhh) me(hiH'F)ae,(f.) (;) a(f) quo(f!h'i) tre(i)pi(h)dá(hjij)bo?(h!ij..) (:) qui(f) trí(f!h'i)bu(i)lant(kxih/jki) me(hihh/fgf.) (,) i(f)ni(hg)mí(h)ci(f) me(f!hhhf/fef)i,(fe..) (;) in(f)fir(hh)má(h)ti(hhh) sunt,(f.) (,) et(fge) ce(hh)ci(ivH'Gh)dé(fgf___)runt.(f.) <i>Ps.</i>(::) Si(e) con(fe~)sís(eh)tant(h) ad(h)vér(hg)sum(hi) me(i) cas(hi)tra:(h.) *(:) non(h) ti(h')mé(i)bit(hf) cor(h) me(ge)um.(fgf.) (::) Gló(e)ri(fe)a(eh) Pa(h)tri.(h) (::) E(h') u(i) o(hf) u(h) a(ge) e.(fgf.) (::)"
       }
     },
     {
@@ -70,7 +71,8 @@
         "de": "Ps 78:9; 78:10; Ps 9:5; 9:10"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) PRo(d)pí(ffg)ti(f)us(f) e(ghgh)sto(gv.fgFD.) *(,) Dó(dgf/gh)mi(g)ne(ixg./hiGF'fd/fgf.___) (;) pec(f)cá(ghgh/jkj//)tis(ixhiH'G) no(ixhjg___!hwihi)stris:(ih..) (:) ne(f) quan(hg~)do(gj) di(hhg)cant(gh) gen(hg/hfg)tes:(fv.e!g'h/fg!hvF'EDef!gvgf.) (:) U(ixf!hhi)bi(g) est(gjj) De(j)us(j) e(ixj.h!iw!jvIG'hw!ivHG//)ó(fgf)rum?(f!h'j) (,) (fh'!jv/jv'IGfhg/hggf.) (z0::c3)\r\n<sp>V/</sp>. Ad(d)ju(d)va(f) nos,(gxg) De(h)us(h.) sa(h)lu(h)tá(h)ris(h) no(h)ster:(ihhe./hih___/ihhe.) (,) (hi!kv//lvKI'jvHF.) (,) (h_g/ijh'___ jvIH'jvIH'hvGF.) (:) et(hh) prop(h)ter(h) ho(h)nó(ih/ij_h//ih/ij_ij//hi/jij)rem(jh/jki/hh/fgf.) (;) nó(d)mi(d)nis(d) tu(d)i(d) Dó(d)mi(d)ne,(d.) *(,) lí(dfE'D)be(ef)ra(fhG'Fhhh) nos.(hhf.) (,) (gxg_fgvED.fgED.fehv.hhhff/dfe/feed.) (::)"
       }
     },
     {
@@ -103,7 +105,8 @@
         "de": "Ps 12:4-5"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) IL(ff)lú(fhg'/hf)mi(dgF'E)na(e.) *(,) ó(g_e)cu(ghg)los(h) me(ixhv./gih'/ivG'F/f'g!hiH'G/ih )os,(h.) (;) ne(jj)quán(gh)do(ff) ob(e)dór(ge/ghg)mi(gffvED)am(ed__) (,) in(fh~) mor(h_g/jjjvG'E//g_f/ghG'F/gvFE)te:(e.) (:) ne(ef!ghg)quán(gh)do(ghG'F) di(gh)cat(h/jjjvIH.) (,) in(h)i(ghg)mí(h/jjjvIH)cus(g_h) me(egF'E)us:(fff) (;) Prae(dec)vá(fv.fff)lu(dc)i(ccc/ca__) (;) ad(cfde~)vér(eef)sus(d!ewf) e(fff/ghG'D//fff/hvGF/gvFE)um.(e.) (::)"
       }
     },
     {
@@ -132,7 +135,8 @@
         "de": "Ps 17:3"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(f3) DO(h)mi(gh)nus(fhe.) *(,) fir(hg~)ma(hi)mén(iih)tum(f/hhe/gf) me(fgf___)um,(f.) (;) et(e) re(f)fú(f!gwh)gi(e)um(ec~) me(ef!hvGF)um,(f!gwh.) (;) et(hf~) li(hih)be(iji)rá(jji)tor(hi) me(hiih)us:(h.) (:) De(j)us(ij) me(hvGF)us(fhffe.) (;) ad(g!h'i~)jú(iih)tor(f/hhe/gf) me(fgf___)us.(f.) (::) <i>T. P.</i> Al(hi~)le(gf/hg)lú(eg/igh)ia.(gf..) (::)"
       }
     },
     {

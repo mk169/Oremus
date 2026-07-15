@@ -26,7 +26,8 @@
         "de": "Ps 90:15; 90:16; Ps 90:1"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) IN(ed~)vo(e)cá(ehgh)bit(fd~) me,(e.) *(,) et(fde) e(ef/hg)go(h) ex(h)áu(hhh)di(fe)am(e.f!gwh) e(hfge)um:(e.) (:) e(fde)rí(ehh)pi(f)am(fdf) e(fgFE'f)um,(fe..) (;) et(ef~) glo(e)ri(ef/hg)fi(g)cá(gi/jhhf)bo(h_g) e(hghf)um:(f.) (:) lon(hg~)gi(h)tú(i)di(h)ne(hhh) di(f)é(fgFE'f)rum(fe..) (;) a(e!f'g)dim(gf~)plé(fgE'C)bo(c!e'f) e(fgFE'f)um.(fe..) <i>Ps.</i>(::) Qui(e) há(fe)bi(eh)tat(h) in(h) ad(h)ju(h)tó(h)ri(hg)o(hi) Al(i)tís(hi)si(h)mi,(h.) *(:) in(hf~) pro(fh)tec(h)ti(h)ó(h)ne(h) De(h)i(h) cae(h)li(hhg) com(ef)mo(hg)rá(f)bi(f)tur.(e.) (::) Gló(e)ri(fe)a(eh) Pa(h)tri.(h) (::) E(h) u(hhg) o(ef) u(hg) a(f) e.(e.) (::)"
       }
     },
     {
@@ -70,7 +71,8 @@
         "de": "Ps 90:11-12; Tractus; Ps 90:1-7; 90:11-16"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) AN(egf)ge(f)lis(f.) *() su(hfghvF'Ege/fg)is(f.) (;) man(f)dá(hf/h!i'j//)vit(gxhffe!gvFE.) (`) de(e) te,(ed/feffd/ef!hvvF'E//f!gwh/ihh/fgf.) (:) ut(hh) cus(h)tó(h)di(h)ant(hg/hi!jvHGhhg , i_hivHF) te(fhF'Efhhf//hvvGF'heed.) (:) in(d) ó(d!e'f)mni(f)bus(f.hvGF'g) vi(e)is(f) tu(hf/h_i)is.(ih/ijI'H , jh/jkIG'hvF'E//f!gwh!iv.h!i'j , ijijHF'gwhf.) <sp>V/</sp>.(::) In(f) má(h)ni(hi)bus(i) por(ij~)tá(jvI'HG'hvF'E , ge/f!hh/ijij. , hj!kvIG'hvF'E//fgF'Ef. , i!jwk_jkvJI)bunt(ji~) te,(i.) (:) ne(i) un(k.i!jw!kvJI')quam(i) of(ij)fén(j_hjvIH'hf//hhfhv.hhh_f , hi!jvIHjvIHif)das(f.) (:) ad(d) lá(d!e'f)pi(f)dem(f.hvGF'g) *(,) pe(e)dem(f) tu(hf/h_i)um.(i_jH'Ghi..) (,) (e!f'h/h'jIH'GF'gwhf.) (::)"
       }
     },
     {
@@ -103,7 +105,8 @@
         "de": "Ps 90:4-5"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) SCá(h)pu(g)lis(g) su(gih)is(h.) *(,) ob(g)um(g)brá(gh/ji)bit(ih~) ti(jk)bi(hv.fhg) Dó(g)mi(ghg___)nus,(g.) (:) et(g) sub(g) pen(gh/ji)nis(j) e(j)jus(jjjvI'HG/hg__) (;) spe(hih)rá(jj//hj/kjk)bis:(ji..) (:) scu(hj/kj)to(jj//jjj) cir(hg~)cúm(g.h!iwj)da(jkJ'H)bit(h_g) te(gf..) (;) vé(ixfg!ivHGh./jkj//)ri(h_f)tas(fhg) e(ghg___)jus.(g.) (::)"
       }
     },
     {
@@ -132,7 +135,8 @@
         "de": "Ps 90:4-5"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) SCá(gh/ji)pu(j)lis(j) su(jvvIH)is(ih..) *(,) o(f)bum(gh)brá(h_fh)bit(g) ti(egff)bi,(fe..) (:) et(g) sub(g) pen(jv.jjj)nis(g) e(h)jus(f.) spe(ixf!gh/ig/h_g)rá(egff)bis:(fe..) (:) scu(ixhjhhgi)to(hg__/hih.___) (,) cir(f)cúm(hg~)da(h_fh)bit(gvFE'fwgfg) te(gf..) (,) vé(h_f)ri(gh)tas(g) e(egff)jus.(fe..) (::)"
       }
     },
     {

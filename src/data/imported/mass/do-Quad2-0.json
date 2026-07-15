@@ -26,7 +26,8 @@
         "de": "Ps 24:6; 24:3; 24:22; Ps 24:1-2"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) RE(d)mi(fd)ní(ef)sce(f)re(f.) *(,) mi(fff)se(fd)ra(fe)ti(f)ó(fhg)num(f.) (`) tu(fff)á(edf)rum,(ef!ghF'E) (,) Dó(e)mi(egF'E)ne,(f.) (:) et(fff) mi(fd)se(fe)ri(f)cór(fhg)di(f)ae(e) tu(fgF'E)ae,(f.) (;) quae(fff) a(fd) saé(eg)cu(f)lo(gvFD) sunt:(dfE'Df.) (:) ne(d) un(ffd~)quam(ff) do(c)mi(dfe')nén(f)tur(dg~) no(gf)bis(e.) (,) i(d)ni(g)mí(g)ci(f) no(gf/hg)stri:(g.) (:) lí(d)be(g)ra(ghG'F) nos(f_e) De(f)us(f) Is(gff)ra(df!gvFE'f)el(fe..) (;) ex(f) ó(f_d)mni(d)bus(d!ff/gddc.) (,) an(df~)gú(e_c/d!ewff)sti(d!f'g)is(g) no(g_fhvGFgvFE)stris.(e.) <i>Ps.</i>(::) Ad(hg~) te(gh) Dó(h)mi(h)ne(h) le(h)vá(h)vi(h) á(hg)ni(gi)mam(i) me(hi)am:(h.) *(:) De(hg)us(gh) me(h)us(h) in(h) te(h) con(h)fí(h)do,(h.) non(h) e(gf)ru(gh)bé(g)scam.(e.) (::) Gló(hg)ri(gh)a(h) Pa(h)tri.(h) (::) E(h) u(h) o(gf) u(gh) a(g) e.(egff) (::)"
       }
     },
     {
@@ -70,7 +71,8 @@
         "de": "Ps 24:17-18; Tractus; Ps 105:1-4"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) TRi(d)bu(f)la(hh)ti(h)ó(h_gi)nes(hihh/fgf.) *(,) cor(f!gwh)dis(ef) me(hh)i(hv.fhff/ded.) (;) di(f!gwh)la(e)tá(d!e'f)tae(fhFE'f) sunt:(ed..) (:) de(f!gwh) ne(e)ces(d)si(ef)tá(f)ti(fe)bus(f!gwh) me(e!gw!hvGF'g)is(gf..) (,) é(hg)ri(h)pe(i) me,(ih/ihh/fgf.) (;) Dó(fih/ihhvFD.,df!hv.ijHF.ghF'Efhe/f_e)mi(de!fvED'e)ne.(ed..) <sp>V/</sp>.(::) Vi(hv.hihhfh./df!hvv//hihhfh./gh/ihi)de(hh) (,) hu(hi)mi(hhg)li(fef)tá(eh)tem(g!h'i) me(hvGF)am,(fgf.___) (:) et(d) la(f)bó(gxhhivFD'fh.ivFD'fhfg.,fh/ih/i_h//ivFD'e_d.,ddd/f_h/ijh)rem(hi) me(h)um:(hg/i_h//jvIH'Ghf..) (:) et(f) di(fi)mít(i)te(ih/jki/hhf.) (,) ó(hf/hhh)mni(h)a(h.f!gwh!iv.hi/jhh/iih.) (;) pec(hhi)cá(hi)ta(h) *() me(hf/hh/ijH'G)a.(hhhf/hhhf/hhf.) (,) (de/f!hh/ijghf.//gxegFD.) (::)"
       }
     },
     {
@@ -103,7 +105,8 @@
         "de": "Ps 118:47; 118:48"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) ME(c)di(ef)tá(f/hhe/gf)bor(f.) *(,) in(e) man(f)dá(hih)tis(hh/ih) tu(hh/ihhvGF)is,(gf..) (;) quae(hg) di(h)lé(hji)xi(hji) val(hg__f~)de:(f.) (:) et(e) le(f)vá(hhi)bo(h.hhh) (,) ma(fhh'hh)nus(ef) me(fh)as(hhh/ih/ih//h'hhvF'Ef.) (,) ad(e) man(f)dá(hih)ta(high) tu(fgffe)a,(e.) (;) quae(hg) di(h)lé(hjIH'hf/ih/ih//h'hhvFE'D , efE'Defef)xi.(f!gwhhvGF'gwhhvGF.) (::)"
       }
     },
     {
@@ -132,7 +135,8 @@
         "de": "Ps 5:2-4"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) IN(f)tél(h!iwj)li(k)ge(jk) *() cla(j)mó(jk)rem(j) me(jiihi)um:(ih..) (;) in(h)tén(gi)de(g) vo(jij)ci(h) o(h)ra(f)ti(gh)ó(h!iw!jvIG)nis(hgh) me(f!g'h)ae,(h.) (;) Rex(j) me(jvIH)us,(h.) (,) et(gi~) De(iji)us(g) me(hjH'GhvGF'g)us:(gf..) (:) quó(f)ni(f)am(d!ewf) ad(fd~) te(f) o(gh)rá(h)bo,(g./h!iwji/jkj.) (;) Dó(h!iw!jvIG'/ixhw!ivHG)mi(fg!hvGF'g)ne.(gf..) (::)"
       }
     },
     {

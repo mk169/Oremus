@@ -26,7 +26,8 @@
         "de": "1 Pet 2:2; Ps 80:2."
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) QU{a}(c)si(d) mo(d)do(d) *() gé(d!fffg)ni(f)ti(f) in(f)fán(f)tes,(c.) (,) al(f)le(gef)lú(fhG~'F~)ia:(f.) (:) ra(fd)ti(f)o(g)ná(ixgih)bi(gf)les,(f.) (,) si(f)ne(e!f'g) do(gf)lo(fgff/ded.) (,) lac(d!f'g) con(gh~)cu(f)pí(fgf)sci(d)te,(dcd.) (;) al(c)le(ff)lú(fhG~'F~)ia,(f.) (,) al(df~)le(f_e)lú(fgf)ia,(fffddc.) (,) al(d)le(ff)lú(fhG~'F~)ia.(f.) <i>Ps.</i>(::) Ex(fg)sul(gf)tá(gh)te(h) De(h)o(h) ad(h)ju(g)tó(ixi)ri(h) nos(g)tro:(f.) *(:) ju(f)bi(f)lá(f')te(g) De(fd)o(f') Ja(g)cob.(f.) (::) Gló(fg)ri(gf)a(gh) Pa(h)tri.(h) (::) E(f') u(g) o(fd) u(f') a(g) e.(f'/ghg.) (::)"
       }
     },
     {
@@ -70,7 +71,8 @@
         "de": "Matt 28:7; Joannes 20:26"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) AL(e)le(e)lú(e_f//df!hvGF/hi~)ia.(ie..) *(,) <i>ij.</i>(fg!hvGFE./df!gvFE.) (;) (de!fv./gh'GFE./df!gvFE.//fgf/ge/ffe.) <sp>V/</sp>.(::) In(ei) di(i)e(ihhf//h_ie.) (,) re(d)sur(f!gwh)re(hg)cti(fe)ó(fg)nis(f) me(efe___)ae,(e.) (,) di(dc)cit(de) Dó(e)mi(ef/hfg)nus,(fe..) (:) prae(i/kj/k_lK'JI')cé(i/kj/k_lK'JI'//hkkvJH/ivHF)dam(hi~) vos(i.) *(;) in(e) Ga(e)li(e)laé(e_f//df!hvGF/hi)am.(ie..) (,) (fg!hvGFE./df!gvFE.) (;) (de!fv./gh'GFE./df!gvFE.//fgf/ge/ffe.) (::)"
       }
     },
     {
@@ -103,7 +105,8 @@
         "de": "Matt 28:2; 28:5-6"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) AN(fg~)ge(g.!hjHG'gf/ghg___)lus(g.) *(,) Dó(hg/h!jjkvJH)mi(gfh)ni(h.) (;) de(h)scén(jhhf/ghGF'/fde'c,cd!ff/gh!jvHG'/gfg)dit(g.) (;) de(g.h!iwj) cae(jji/j_g//hjij/kljj)lo,(ki/jhhg.) (;) et(g) di(gggvED'/eg'hvGF'g)xit(g.) (,) mu(g)li(hj)é(ig/h!jj/klK'I/jkj)ri(ij)bus:(hig.) (:) Quem(gh~) quaé(hvGF/gvFEf./ghffdg)ri(fg)tis,(g.) (;) sur(h)ré(gjI'G/hh//fh!jvGF'/fd/ef!ghg)xit,(g.) (;) sic(g)ut(gj) di(jji/jhhg)xit,(h.) (;) al(h!iwji~)le(jkJH'//gi.//hjIH'/g!jj/hig___)lú(ghg___)ia.(g.) (::)"
       }
     },
     {
@@ -132,7 +135,8 @@
         "de": "Joannes 20:27"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) MIt(ffg)te(f) *() ma(gh)num(g) tu(f)am,(ghg.) (,) et(fvE~D~) co(f)gnó(g)sce(f) lo(f)ca(f) cla(f)vó(f)rum,(g.) (,) al(fd~)le(f)lú(ixg!hw!ivH~G~//)ia:(hg..) (:) et(fd~) no(f)li(g) es(h)se(g) in(f)cré(g)du(fe)lus,(d.) (,) sed(f) fi(f)dé(dec___)lis,(c.) (;) al(f)le(g)lú(ixi)ia,(h.) (,) al(ixi)le(hv.gih)lú(fgf___)ia.(f.) (::)"
       }
     },
     {

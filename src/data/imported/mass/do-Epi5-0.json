@@ -26,7 +26,8 @@
         "de": "Ps 96:7-8; Ps 96:1"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c2) AD(c)o(ff)rá(g)te(f) *() De(g_f)um(fhg/hffe.) (,) o(e!f'g~)mnes(g) An(ii)ge(jiif)li(f_d) e(ef~)jus(c.) (:) au(d)dí(ffd)vit,(fe/fddc.) (,) et(dfe) læ(fg)tá(gh)ta(f_d) est(ff) Si(fgF'E)on:(f.) (:) et(f) ex(g)sul(f)ta(fg)vé(gffvED)runt(ff) (,) fí(g)li(c)æ(c.d!ewf_e) Ju(fffd/ffd)dæ(dc..) <i>Ps.</i>(::) Dó(cfe)mi(fg)nus(g) re(g)gná(g)vit,(g) ex(g)súl(gi)tet(h) ter(hg~)ra:(gh..) *(:) læ(ge)tén(fg)tur(g) ín(g!hwi)su(g')læ(f) mul(fff)tæ.(dc..) (::) Gló(cfe)ri(fg)a(g) Pa(g)tri.(g) (::) E(g) u(g!hwi) o(g') u(f) a(fff) e.(dc..) (::)"
       }
     },
     {
@@ -70,7 +71,8 @@
         "de": "Ps 101:16-17; Ps 96:1"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) TI(d)mé(ff)bunt(gh~) gen(h_fgvFED.g_e/fg)tes(f.) *(;) no(hf/gh!jj/kjk)men(jij) tu(h_g/h/jjvH'GF)um,(h_g~) Dó(f)mi(fg!hvGF'g)ne,(gf..) (:) et(f) o(ghgh)mnes(jhhg) re(h!iwj)ges(j_i) (`) ter(jkJ'IH)ræ(hjH'GhjjhjvvIH'jggf.) (;) gló(f!g'h/f!g'h)ri(gf)am(fv.ef!gvgf.) (,) tu(f!hhh//gh!jjjhjvvIH'jg./f.h!iw!jvIH'GF'f//hvGFgf)am.(f.) (z0::c3)\r\n<sp>V/</sp>. Quó(d)ni(d)am(d) æ(d)di(d)fi(fe)cá(eh)vit(h.) (,) Dó(h)mi(h)nus(ihh'hh_f//hhf/hhe/gxfgED.gyhhjvIH'/hvGF.) (;) Si(hi)on,(i_h/i/kkh//i_h/kkkvIH'hvGF.) (:) et(f) vi(hf)dé(h)bi(hfh)tur(hhhvF'Ef!hhhf/hhhvGF'heed.) (;) in(d) ma(d)je(d)stá(dfE'D)te(ef) *() su(fhG'Fhhh)a.(hhf.,gxg_f/gvED.fgED.fehv.hhhff//dfe/feed.) (::)"
       }
     },
     {
@@ -103,7 +105,8 @@
         "de": "Ps 117:16; 117:17"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) DEx(e!g'h)te(hiH'G)ra(g.ggg/hihi) Dó(gh)mi(efED'e)ni(ed..) *(;) fe(de/ghg___)cit(h.) vir(hi!kki/j_k)tú(hv.gih)tem,(h.) (:) déx(jj)te(j_i)ra(jjj_h) Dó(hjjh)mi(h)ni(h.) (,) ex(g)al(h)tá(hjj'jjh/kjjh)vit(hiH'~G~) me:(hg..) (:) non(h!iwj') mó(j)ri(jvIH)ar,(h.) (,) sed(g!jjj) vi(hig)vam,(egeg.) (;) et(d) nar(e)rá(g)bo(e) ó(ghg___)pe(h)ra(h./jkj'kvJ'IH) Dó(h)mi(h)ni.(h!iwjjvIHiih.) (::)"
       }
     },
     {
@@ -132,7 +135,8 @@
         "de": "Luc 4:22"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) MI(ef)ra(e.f!gwh)bán(hhhvGF)tur(h.f!gw!hvGF) o(ef/gfg)mnes(fe..) *(;) de(ehg___/hih/ij) his(i.) quæ(ef) pro(efED')ce(f)dé(hi)bant(hih.) (;) de(hi) o(ihhvGF)re(h.) De(fheed/e!f'g)i.(fe..) (::)"
       }
     },
     {

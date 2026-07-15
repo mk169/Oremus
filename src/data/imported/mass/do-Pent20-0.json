@@ -26,7 +26,8 @@
         "de": "Dan 3:31; 31:29; 31:35; Ps 118:1"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) O(gj)mni(j)a(j) *(,) quae(j) fe(j)cí(j)sti(h) no(jj)bis,(g) Dó(jj)mi(hkJI'j)ne,(ji..) (;) in(jk) ve(jkjj)ro(i_h) ju(h)dí(jj)ci(g)o(g) (,) fe(hggf/ghg)cí(egff)sti,(fe..) (:) qui(f)a(e!fwg'!hv) pec(g)cá(hhg)vi(g)mus(gfh) ti(h!iw!jvI'HG'h)bi,(hg..) (;) et(g) man(hi~)dá(i)tis(i) tu(j)is(h.) non(h) o(h)be(h)dí(h)vi(h.f!gwhgh)mus:(hg..) (:) sed(g) da(g.h!iwj/kjjvIG) gló(g.h!iwj)ri(g)am(g.) (,) nó(e!f'h)mi(h)ni(h!iwj) tu(g_f/gvFD)o,(d.) (:) et(gj~) fac(jv.jjj) no(h)bís(hih)cum(h.) (,) se(g)cún(ghgh)dum(f_e) mul(fg~)ti(f)tú(ef/gfg)di(egff)nem(eef.) (,) mi(fd)se(fe)ri(fg)cór(g/jjhi~)di(gfg)ae(ghG'F/ghg) tu(egff)ae.(fe..) <i>Ps.</i>(::) Be(g)á(hj)ti(j) im(j)ma(j)cu(j)lá(k)ti(j) in(j) vi(ih)a:(jjj) *(:) qui(ig) ám(hj)bu(j)lant(j) in(j) le(jji)ge(hg) Dó(h')mi(i)ni.(gh..) (::) Gló(g)ri(hj)a(j) Pa(j)tri(j) (::) E(j) u(jji) o(hg) u(h') a(i) e(gh..) (::)"
       }
     },
     {
@@ -70,7 +71,8 @@
         "de": "Ps 144:15-16; Ps 107:2"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c2) O(c.d!ewff)cu(gffvED)li(d_c) *(,) ó(cd/ede)mni(cd!evDC'd)um(dc..) (;) in(cf) te(fg) spe(g'/hvGF')rant,(gffe~) (,) Dó(fg)mi(g)ne:(gig/ivvHG/hg/j_i//hjii/ghg.) (:) et(f) tu(h/iji) das(i_h) il(iiiv_H~G~)lis(ghgg/efe.) (;) e(ef!gh!ivGF'E/f_g)scam(ghff'fvE'DC/dc..) (;) in(cd) tém(fe/f_g)po(ge/fvED/ef)re(e./fgf'/gd//evDC/dc..) (;) op(cd)por(fe~)tú(fgf)no.(fg!ii//g!iiivGF'/fvD'C) (,) (fffd/fvEC'/dc'/fd/eddc.) <sp>V/</sp>.(::) A(g)pe(hgge/f'/gffe/g'/hgge/f'/gff , d!fffvDC'/d!ff//eg!hvFE/ghG'F/gh)ris(gh) tu(g.) (;) ma(gig/ivvHG/hg/j_i)num(i_h) (,) tu(hjI'HG)am:(gv.d_f!g!hw!ivHF'/iv//hig/hhg.) (:) et(ghG'E) im(f!gwh)ples(g'/hg'/hff'f/gddc//dc/ded.) (,) o(cd)mne(c) á(c)ni(c.d!ew!fvED'e)mal(dc..) *(;) be(cd)ne(fe)di(fgf)cti(ge)ó(fg)ne.(fg!ii//g!iiivGF'/fvD'C) (,) (fffd/fvEC'/dc'/fd/eddc.) (::)"
       }
     },
     {
@@ -103,7 +105,8 @@
         "de": "Ps 136:1"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) SU(f)per(ixg!h'i) flú(h)mi(hgh)na(hf/gh/jh/jvGF'/fd/fddc.) *(,) Ba(d)by(dc/d!ff/g.h!iw!jvIH//ghG'F)ló(fg!hvGF'g)nis,(gf..) (:) il(fh)lic(h_g) sé(h!iwj)di(hvGF)mus,(ixg!hwih.) (;) et(h_g/hvGE) flé(f!gwhg)vi(gffvED)mus,(d!ffd/fge'/fgd'/eddc.) (:) dum(f) re(d)cor(e)da(f)ré(ghgh)mur(jh/jjvH'G) tu(ixgf/hiG'F////)i,(ff/ghF'E) (,) Si(f)on.(f_d//f!gwhgh'/jvHG'/hvF'D/f.) (,) (e/gwhgh'/jvHG'/hvF'D//fgf___//g_f/gff/ded.) (::)"
       }
     },
     {
@@ -132,7 +135,8 @@
         "de": "Ps 118:49-50"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) ME(f)mén(gh)to(hg) *() ver(h)bi(hg) tu(h)i(hf) ser(g)vo(gd) tu(f)o,(f.) Dó(e)mi(egff)ne(eef.) (;) in(d) quo(fhg) mi(h)hi(g_f) spem(gh) de(g)dí(egff)sti:(fe..) (:) haec(g) me(gh!ivih) con(h)so(hg)lá(h)ta(gh_G'_FE'f) est(fe..) (;) in(efe') hu(d)mi(efe')li(d)tá(e!f'g)te(f) me(egff)a.(fe..) (::)"
       }
     },
     {

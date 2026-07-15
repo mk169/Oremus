@@ -26,7 +26,8 @@
         "de": "Ps 129:3-4; Ps 129:1-2"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) SI(e) i(ed)ni(g)qui(hj)tá(ij)tes(j.) *(,) ob(j)ser(ih~)vá(jjj)ve(hg)ris(g) Dó(jj)mi(hkJI'j)ne,(iij.) (;) Dó(hk)mi(k)ne(k) quis(k) sus(jlkl)ti(j_i)né(ikJ'I)bit?(iij.) (:) qui(hji)a(j) a(j)pud(ih~) te(jjj) (,) pro(h_g)pi(g_f)ti(h)á(h/jjg)ti(fg)o(g) est,(ghgg/efe.) (;) De(e!f'g)us(g/jjh/i.g!hw!ivHG') Is(e)ra(egff)el.(fe..) <i>Ps.</i>(::) De(g) pro(hj)fún(j)dis(j) cla(j)má(j)vi(j) ad(k) te(j) Dó(j)mi(ih)ne:(jjj) *(:) Dó(ig)mi(hj)ne(j) ex(j)áu(j)di(jji) vo(hg)cem(h) me(i)am.(gh..) (::) Gló(g)ri(hj)a(j) Pa(j)tri(j) (::) E(j) u(jji) o(hg) u(h') a(i) e(gh..) (::)"
       }
     },
     {
@@ -70,7 +71,8 @@
         "de": "Ps 132:1-2; Ps 113:11"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) EC(ixdh!ivHG/fhg/hi)ce(h.) *(,) quam(fh~) bo(h)num,(ghGE.) (,) et(f) quam(ghg/hf~) ju(gh)cún(g_e/fgfg)dum(d.) (;) ha(h)bi(jj)tá(jkj)re(ji/jvIH/iij) fra(g!hwi'!jv)tres(ih..) (;) in(fh) u(ixh_g!jjvH'G//hig)num!(efd/f_h/ghGE/f_g//fgFD.) <sp>V/</sp>.(::) Si(d)cut(d) un(dh~)guén(h)tum(hjH'GF./eg/hgh//fgFD.) (,) (cd/fd//cd!ff/g.h!iw!jvIH.) (;) in(h) cá(h)pi(h)te,(hjH'G/h!jjjh//jjjvIH'/jggf.) (:) quod(hk) de(k_j)scén(j_lKJ'/kjj'jh~)dit(ih__) (,) in(f) bar(ixhv.fhg/hiG'F//gf/ghff'fd!ewfef)bam,(ed..) (:) bar(d/fff)bam(g_f) *() A(f')a(hg'h)ron.(hhf.) (,) (h_g/hvFD/gff'fvE'C//ddc/da..) (,) (cd!fvvDC'/d!ff/gff/ded.) (::)"
       }
     },
     {
@@ -103,7 +105,8 @@
         "de": "Esth 14:12; 14:13"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) RE(ddc)cor(f)dá(fhg)re(ghh) me(g)i,(g.) *(,) Dó(ixgiHG'/gf/gvFD)mi(d!ewfd)ne,(d.) (;) om(d!f'g)ni(g) po(g)ten(g)tá(gg/hgh)tu(f/gfg)i(d!ewf) (,) dó(d!f'g)mi(gvF'E/fvED'e)nans:(ed..) (:) da(d!f'g) ser(g)mó(g)nem(gh~) rec(ixh_g/hvGF/f'g/hg/hi)tum(h.) (,) in(h) os(hjj) me(jkJ'IH)um,(ghg.) (;) ut(gh~) plá(h)ce(g/iwji/jkJ'IH)ant(hhg~) (,) ver(ixgihh)ba(g_e) me(fgffvED)a(d/ffd/fge'/fgD'Cd.) (:) in(c) con(d)spé(ghff/f'gf/f'ff , fd/ffvD'C/d!ffd. , ghff/f'gff'/ff , fd/ef/ggf//gf/ge/fge/fvDC , ffd/ffc/g_f)ctu(fe/fe/f_g) prín(d)ci(deed)pis.(d.) (::)"
       }
     },
     {
@@ -132,7 +135,8 @@
         "de": "Ps 16:6"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) E(fg)go(gh) cla(h)má(hfg)vi,(ge/fd.) *(;) quó(fg)ni(g)am(gh) ex(g)au(hi~)dí(iij)sti(hk) me(k) De(ij)us:(ih..) (:) in(j)clí(jl)na(klk) au(ji~)rem(j) tu(klK'J)am,(jh__) (;) et(ji) ex(j)áu(k_i/jk~)di(h_g) (,) ver(fvE'D//geg)ba(g) me(ghg___)a.(g.) (::)"
       }
     },
     {

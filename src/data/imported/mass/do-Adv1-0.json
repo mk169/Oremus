@@ -26,7 +26,8 @@
         "de": "Ps 24:1-3; Ps 24:4"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) A{D}(gd~) te(f) le(gh)vá(h)vi(g.) *(,)\r\ná(gjj)ni(h)mam(gh) mé(fg)am:(ghg/gf.) (;)\r\nDé(h)us(jj) mé(jj/kj)us(jk..) (,)\r\nin(fg~) te(g) con(f)fí(fh/ji)do,(ih__) (,)\r\nnon(jjj) e(hg)ru(ghfg)bé(ghg___)scam:(g.) (:)\r\nne(j)que(jv.jjj/hih___) ir(h)rí(jkj)de(ih)ant(jjj) me(g.) (,)\r\nin(g)i(g)mí(g.h!iwj)ci(j_h) mé(h_f)i:(f.) (:)\r\nét(fh)e(hg)nim(g.) u(g)ni(g)vér(gihi)si(g.) (,) qui(g) te(g) ex(hji)spé(i/jkj)ctant,(hih./) (;)\r\nnon(gh~) con(h)fun(hfhg)dén(ghg___)tur.(g.) <i>Ps.</i>(::)\r\nVi(g)as(hg) tú(gj)as,(j) Dó(j)mi(j)ne,(j) de(ji)món(jk)stra(k) mí(jk)hi:(j.) *(:)\r\net(jh~) sé(hj)mi(j)tas(j) tú(j)as(jji) é(gh)do(ji)ce(h) me.(g.) (::)\r\nGló(g)ri(hg)a(gj) Pa(j)tri.(j) (::)\r\nsæ(j)cu(jji)ló(gh)rum.(ji) A(h)men.(ghd___/ffg.) (::)"
       }
     },
     {
@@ -70,7 +71,8 @@
         "de": "Ps 24:3; 24:4; Ps 84:8."
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(f3) U(e)ni(f)vér(fh!ivHF'gvEC.efef)si(f.) *(,) qui(fe) te(h) ex(ij)spéc(j)tant,(j_i/j_i/j_g/hih.___) (;) non(i_) con(hg~)fun(ef)dén(hi)tur,(gh/ih/ivHG') Dó(f)mi(fgf___)ne.(f.) (,) (kxef/hh//i./jkI'Gh_ih/hf.) (f+::c4) <sp>V/</sp>. Vi(dh)as(h) tu(hg)as,(gh) Dó(g_f)mi(g_h)ne,(h.,f!gh!jvjh/f!gh!jvjh/jvjvH'G/jk/jkJH.) (,) (ixf!gh!jvjh/j/jh/ig/gf.) (:) no(hk)tas(k_j) fac(j_lKJ'kj/jh.) (,) mi(hf/gh/jjh/jjvH'Gh!iwj_i)hi:(jjjvIH'jg/gf.) (:) et(fg~) sé(g./hjHG'gf)mi(g)tas(g) tu(hv.fgf/ef'!gvf/fd/ec)as(c.) *(,) é(ff)do(g_f)ce(fhgh) me.(hvhvGF'EC/d!ewfd.) (::)"
       }
     },
     {
@@ -103,7 +105,8 @@
         "de": "Ps 24:1-3."
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(f3) AD(c) te(ef//efef/hhh_g) Dó(f)mi(fg!hvGF'g)ne(gf..) *(;) le(f_e/f!gwh)vá(h)vi(gf) á(hhhvF'Ef/hhh)ni(f)mam(fgef) me(fgf___)am:(f.) (:) Dé(h)us(h) mé(hihh)us,(g_f) (,) in(fe~) te(f) con(fe~)fí(fhG'E)do,(fe..) (;) non(hhi) e(h)ru(high)bé(hih___)scam:(h.) (:) ne(hh)que(h_g) ir(hhh)rí(f)de(e!gw!hvGF)ant(fgf) me(f.) (,) i(e)ni(g)mí(i_h)ci(h) mé(h_f/gvFE'f)i:(fe..) (:) ét(fe)e(fgf)nim(fc) (,) u(efe)ni(f)vér(fih~)si(hi) qui(hg) te(f) ex(e)spé(efe)ctant,(c_bc.) (;) non(ef) con(ef)fun(f!gwh/ig/h_g)dén(fg!hvGF'g)tur.(gf..) (::)"
       }
     },
     {
@@ -132,7 +135,8 @@
         "de": "Ps 84:13."
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) DO(ff)mi(fhg)nus(ghF'E/fvE'DC/dc..) *(,) dá(ff)bit(ffg) be(fd)ni(f)gni(gh)tá(hj!kvJH)tem:(h.) (:) et(h) tér(ghg)ra(ef) nó(ghhg)stra(g.) (;) dá(hv./fhg/hvF'ED)bit(dfddc.) (,) frúc(fg)tum(e_d/fgF'Ef) sú(ded___)um.(d.) (::)"
       }
     },
     {

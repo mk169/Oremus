@@ -13,7 +13,8 @@
     "missa:fetch": "node scripts/fetch-divinum-officium.mjs",
     "officium:fetch": "node scripts/fetch-do-office.mjs",
     "kyriale:fetch": "node scripts/fetch-kyriale.mjs",
-    "gabc:dump": "node scripts/gregobase-from-dump.mjs"
+    "gabc:dump": "node scripts/gregobase-from-dump.mjs",
+    "propers:fetch": "node scripts/fill-proper-melodies.mjs"
   },
   "dependencies": {
     "@fontsource/cormorant-garamond": "^5.0.18",

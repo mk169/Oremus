@@ -26,7 +26,8 @@
         "de": "Ps 138:18; 138:5-6.; Ps 138:1-2."
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) RE(d)SUR(dfd)RÉ(f)XI,(fff/ded.) *(;) et(fe) ad(fg)huc(g) te(g)cum(f) sum,(ef/gfg.) (,) al(gv.!fff)le(dfe)lú(egff)ia:(fe..) (:) po(fgf)su(ff)í(f!gwh)sti(ghg) su(gv.!fff)per(d!ewf/gf) me(f.) (,) ma(fff)num(d!ewf) tu(fgF'E)am,(f.) (;) al(fff)le(dfe)lú(fgff)ia:(d//ffdf.) (:) mi(c)rá(cd/fef)bi(f)lis(f) fac(fffg)ta(deDC'd) est(dc..) (,) sci(e!fwg)én(ghg)ti(f)a(fff) tu(gfhg)a,(g.) (;) al(gf~)le(e/f'g)lú(gf~)ia,(e/fgfg.) (,) al(gv.!fff)le(dfe)lú(egff)ia.(fe..) <i>Ps.</i>(::) Dó(hg)mi(gh)ne(h) pro(h)bá(h)sti(h) me,(h) et(hg) co(gi)gno(i)ví(hi)sti(h) me:(h.) *(:) tu(hg) co(gh)gno(h)ví(h)sti(h) ses(h)si(h)ó(h)nem(h) me(h)am,(h.) (,) et(h) re(h)sur(h)rec(h)ti(h)ó(gf)nem(gh) me(g)am.(e.) (::) Gló(hg)ri(gh)a(h) Pa(h)tri.(h) (::) E(h) u(h) o(gf) u(gh) a(g) e.(egff) (::)"
       }
     },
     {
@@ -70,7 +71,8 @@
         "de": "Ps. 117:24; 117:1; 1 Cor 5:7"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) HAec(gxf_e/gvFEfd/f_h) di(hhhvFE/fef )es,(f.) *(;) quam(ef) fe(hh)cit(hh//ijhhvF'Ef.) (,) Dó(hfh)mi(hhh)nus:(h.f!gwh!iv.hi/jhh/iih.) (:) ex(f)sul(h)té(hg/hi!jvHG/hhg , i_h/ivHF)mus,(fhF'E/fhhf/hvvGF'/heed.) (:) et(d!e'f) lae(fef)té(hf/hhh)mur(hiHF.) (;) in(ef) e(hf/h_i)a.(ih/ijI'H , jh/jkIG'/hvF'E/f!gwh!iv./h!i'j) (,) (ijijHF'/gwhf.)\r\n<sp>V/</sp>.(::) Con(f)fi(h)té(hi~)mi(i)ni(i) Dó(ih/ij!kvJH)mi(hi/jij)no,(j_0kvJH'/jh/j_i/kvJI/kvJI.) (:) quó(h./ijijHF./h./ijHF./e.f!gwh!iv.llvJ'I)ni(ji)am(i.) (,) bo(iv.hhh/jvI__H//jvI__H//i_f)nus:(f.) (:) quó(hhi)ni(h)am(h) in(h) saé(hg/hi!jvHG/hhg , i_h/ivHF')cu(f)lum(fhF'E/fhhf/hvvGF'/heed.) (:) mi(d)se(d!e'f)ri(f)cór(f.hvGF'g)di(e)a(f) *() e(hf/h_i)jus.(i_jH'G/hi..) (,) (e!f'hh'jIH'GF'gwhf.) (::)"
       }
     },
     {
@@ -121,7 +123,8 @@
         "de": "Ps. 75:9-10."
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) TEr(dfe)ra(fffdf) *() tré(e!f'g)mu(gfh)it,(h.) (;) et(h/jjvH'G) qui(f!gwhg)é(gv.fhg)vit,(dgF'E/fgFD.) (:) dum(d!fffd~) re(ef)súr(gh)ge(gf)ret(fh!jjjh..) (;) in(dh) ju(h)dí(h/jjh)ci(g)o(giHG'h) De(ef!hvGE'/fd)us,(d.) (:) al(d!fff//f_efv./ixhiH'GF'/fe~)le(ghg//f'/ge/f_d , df/hg//df/hg//f'/ge/f_d//hvGF'g)lú(e)ia.(egf/gffe.) (::)"
       }
     },
     {
@@ -150,7 +153,8 @@
         "de": "1 Cor 5:7-8"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) PA(f)scha(fhgh) nos(f)trum(e.d!ewfd.) *(;) im(fe~)mo(f)lá(gh)tus(gvFE'/fwgfg) est(gf..) Chris(f)tus,(fe/fdf.) (,) al(f)le(f)lú(fhG~'F~)ia:(f.) (:) í(d)ta(fffvDC'/dff/hg/hf)que(f.) e(f)pu(fef)lé(fdec)mur(c.) (;) in(f) á(ghgh)zy(hgh)mis(gfg) sin(fd~)ce(fe)ri(f)tá(g)tis(f) et(e) ve(g_h)ri(gh)tá(fgf___)tis,(f.) (:) al(f)le(f_d/fef_d)lú(d!ewf)ia,(c.) (,) al(dc~)le(f!gwh_g/hvGF)lú(gh~)ia,(h.) (,) al(fg~)le(ix/giHG'//)lú(hggfg)ia.(gf..) (::)"
       }
     },
     {
