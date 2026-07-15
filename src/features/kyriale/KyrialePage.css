@@ -1,0 +1,119 @@
+.ky-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid var(--surface-line);
+  padding-bottom: 0.6rem;
+}
+
+.ky-tabs button {
+  padding: 0.4rem 0.9rem;
+  background: transparent;
+  border: 1px solid var(--surface-line);
+  border-radius: 999px;
+  color: var(--text-muted);
+  font-variant: small-caps;
+  letter-spacing: 0.04em;
+}
+
+.ky-tabs button.is-active {
+  background: var(--oxblood);
+  color: var(--gold);
+  border-color: var(--oxblood);
+}
+
+.ky-hint {
+  color: var(--text-muted);
+  font-style: italic;
+  font-size: 0.95rem;
+}
+
+.ky-mass-select {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  margin: 0.8rem 0;
+}
+
+.ky-mass-select button {
+  min-width: 2.6rem;
+  padding: 0.35rem 0.5rem;
+  background: var(--surface-raised);
+  border: 1px solid var(--surface-line);
+  border-radius: var(--radius);
+  color: var(--text-muted);
+  font-family: var(--font-display);
+  font-size: 1rem;
+}
+
+.ky-mass-select button.is-active {
+  background: var(--gold);
+  color: var(--oxblood-deep);
+  border-color: var(--gold);
+}
+
+.ky-mass-head {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin: 1rem 0 0.6rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid var(--gold);
+}
+
+.ky-mass-head__num {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  color: var(--accent);
+}
+
+.ky-mass-head__name {
+  font-style: italic;
+  color: var(--text);
+}
+
+.ky-mass-head__season {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  margin-left: auto;
+}
+
+.ky-entry {
+  margin: 0 0 1.4rem;
+}
+
+.ky-entry__title {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  font-size: 1.2rem;
+  color: var(--accent);
+  border-bottom: 1px solid var(--surface-line);
+  padding-bottom: 0.25rem;
+}
+
+.ky-entry__src {
+  font-family: var(--font-body);
+  font-size: 0.8rem;
+  font-style: italic;
+  color: var(--text-muted);
+  margin-left: auto;
+}
+
+.ky-entry__text {
+  margin-top: 0.4rem;
+  font-size: 1.05rem;
+}
+
+.ky-entry__pending {
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  font-style: italic;
+  color: var(--text-muted);
+  padding: 0.5rem 0.8rem;
+  border: 1px dashed var(--surface-line);
+  border-radius: var(--radius);
+}

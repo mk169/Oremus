@@ -51,6 +51,7 @@ export function Dashboard() {
       <div className="dashboard__grid">
         <Tile to="/brevier" title="Brevier" latin="Liturgia Horarum" description="Stundengebet – 1962 und neu, Latein/Deutsch" icon={<BookIcon size={26} />} />
         <Tile to="/liturgie" title="Liturgie" latin="Sancta Missa" description="Messe 1962 und Novus Ordo, Proprium des Tages" icon={<ChaliceIcon size={26} />} />
+        <Tile to="/kyriale" title="Kyriale" latin="Ordinarium Missæ" description="Choral-Ordinarien, Credo, marianische Antiphonen" icon={<ChaliceIcon size={26} />} />
         <Tile to="/rosenkranz" title="Rosenkranz" latin="Rosarium" description="Alle vier Geheimnis-Sätze" icon={<RosaryIcon size={26} />} />
         <Tile to="/novene" title="Novene" latin="Novena" description="Neuntägige Andacht" icon={<CandleIcon size={26} />} />
         <Tile to="/meditation" title="Meditatives Gebet" latin="Lectio divina" description="Anleitung zum betrachtenden Gebet" icon={<CrossIcon size={26} />} />

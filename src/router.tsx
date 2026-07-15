@@ -11,6 +11,7 @@ import { RosaryPage } from './features/rosary/RosaryPage'
 import { NovenaPage } from './features/novena/NovenaPage'
 import { MeditationPage } from './features/meditation/MeditationPage'
 import { CalendarPage } from './features/calendar/CalendarPage'
+import { KyrialePage } from './features/kyriale/KyrialePage'
 
 export const router = createBrowserRouter([
   {
@@ -24,6 +25,7 @@ export const router = createBrowserRouter([
       { path: 'liturgie', element: <LiturgyHub /> },
       { path: 'liturgie/messe/:form', element: <MassView /> },
       { path: 'liturgie/formular/:id', element: <ImportedMassView /> },
+      { path: 'kyriale', element: <KyrialePage /> },
       { path: 'rosenkranz', element: <RosaryPage /> },
       { path: 'novene', element: <NovenaPage /> },
       { path: 'meditation', element: <MeditationPage /> },

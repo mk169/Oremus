@@ -6,6 +6,7 @@ const NAV = [
   { to: '/', label: 'Dashboard', end: true },
   { to: '/brevier', label: 'Brevier' },
   { to: '/liturgie', label: 'Liturgie' },
+  { to: '/kyriale', label: 'Kyriale' },
   { to: '/rosenkranz', label: 'Rosenkranz' },
   { to: '/novene', label: 'Novene' },
   { to: '/meditation', label: 'Meditation' },

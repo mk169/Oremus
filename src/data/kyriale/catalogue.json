@@ -1,0 +1,944 @@
+{
+  "masses": [
+    {
+      "id": "mass-I",
+      "number": "I",
+      "name": "Lux et origo",
+      "season": "In der Osterzeit",
+      "parts": [
+        {
+          "id": "ky-I-kyrie",
+          "part": "kyrie",
+          "title": {
+            "la": "Kyrie",
+            "de": "Herr, erbarme dich"
+          },
+          "sourceName": "Kyrie I",
+          "gregobaseId": 1143
+        },
+        {
+          "id": "ky-I-gloria",
+          "part": "gloria",
+          "title": {
+            "la": "Gloria",
+            "de": "Ehre sei Gott"
+          },
+          "sourceName": "Gloria I",
+          "gregobaseId": 2980
+        },
+        {
+          "id": "ky-I-sanctus",
+          "part": "sanctus",
+          "title": {
+            "la": "Sanctus",
+            "de": "Heilig"
+          },
+          "sourceName": "Sanctus I",
+          "gregobaseId": 300
+        },
+        {
+          "id": "ky-I-agnus",
+          "part": "agnus",
+          "title": {
+            "la": "Agnus Dei",
+            "de": "Lamm Gottes"
+          },
+          "sourceName": "Agnus I",
+          "gregobaseId": 2977
+        }
+      ]
+    },
+    {
+      "id": "mass-II",
+      "number": "II",
+      "name": "Kyrie fons bonitatis",
+      "season": "Für Feste I. Klasse (1)",
+      "parts": [
+        {
+          "id": "ky-II-kyrie",
+          "part": "kyrie",
+          "title": {
+            "la": "Kyrie",
+            "de": "Herr, erbarme dich"
+          },
+          "sourceName": "Kyrie II",
+          "gregobaseId": 309
+        },
+        {
+          "id": "ky-II-gloria",
+          "part": "gloria",
+          "title": {
+            "la": "Gloria",
+            "de": "Ehre sei Gott"
+          },
+          "sourceName": "Gloria II",
+          "gregobaseId": 862
+        },
+        {
+          "id": "ky-II-sanctus",
+          "part": "sanctus",
+          "title": {
+            "la": "Sanctus",
+            "de": "Heilig"
+          },
+          "sourceName": "Sanctus II",
+          "gregobaseId": 1279
+        },
+        {
+          "id": "ky-II-agnus",
+          "part": "agnus",
+          "title": {
+            "la": "Agnus Dei",
+            "de": "Lamm Gottes"
+          },
+          "sourceName": "Agnus II",
+          "gregobaseId": 555
+        }
+      ]
+    },
+    {
+      "id": "mass-III",
+      "number": "III",
+      "name": "Kyrie Deus sempiterne",
+      "season": "Für Feste I. Klasse (2)",
+      "parts": [
+        {
+          "id": "ky-III-kyrie",
+          "part": "kyrie",
+          "title": {
+            "la": "Kyrie",
+            "de": "Herr, erbarme dich"
+          },
+          "sourceName": "Kyrie III",
+          "gregobaseId": 825
+        },
+        {
+          "id": "ky-III-gloria",
+          "part": "gloria",
+          "title": {
+            "la": "Gloria",
+            "de": "Ehre sei Gott"
+          },
+          "sourceName": "Gloria III",
+          "gregobaseId": 71
+        },
+        {
+          "id": "ky-III-sanctus",
+          "part": "sanctus",
+          "title": {
+            "la": "Sanctus",
+            "de": "Heilig"
+          },
+          "sourceName": "Sanctus III",
+          "gregobaseId": 566
+        },
+        {
+          "id": "ky-III-agnus",
+          "part": "agnus",
+          "title": {
+            "la": "Agnus Dei",
+            "de": "Lamm Gottes"
+          },
+          "sourceName": "Agnus III",
+          "gregobaseId": 578
+        }
+      ]
+    },
+    {
+      "id": "mass-IV",
+      "number": "IV",
+      "name": "Cunctipotens Genitor Deus",
+      "season": "Für Feste II. Klasse (1)",
+      "parts": [
+        {
+          "id": "ky-IV-kyrie",
+          "part": "kyrie",
+          "title": {
+            "la": "Kyrie",
+            "de": "Herr, erbarme dich"
+          },
+          "sourceName": "Kyrie IV",
+          "gregobaseId": 1061
+        },
+        {
+          "id": "ky-IV-gloria",
+          "part": "gloria",
+          "title": {
+            "la": "Gloria",
+            "de": "Ehre sei Gott"
+          },
+          "sourceName": "Gloria IV",
+          "gregobaseId": 2978
+        },
+        {
+          "id": "ky-IV-sanctus",
+          "part": "sanctus",
+          "title": {
+            "la": "Sanctus",
+            "de": "Heilig"
+          },
+          "sourceName": "Sanctus IV",
+          "gregobaseId": 2518
+        },
+        {
+          "id": "ky-IV-agnus",
+          "part": "agnus",
+          "title": {
+            "la": "Agnus Dei",
+            "de": "Lamm Gottes"
+          },
+          "sourceName": "Agnus IV",
+          "gregobaseId": 264
+        }
+      ]
+    },
+    {
+      "id": "mass-V",
+      "number": "V",
+      "name": "Kyrie magnæ Deus potentiæ",
+      "season": "Für Feste II. Klasse (2)",
+      "parts": [
+        {
+          "id": "ky-V-kyrie",
+          "part": "kyrie",
+          "title": {
+            "la": "Kyrie",
+            "de": "Herr, erbarme dich"
+          },
+          "sourceName": "Kyrie V",
+          "gregobaseId": 474
+        },
+        {
+          "id": "ky-V-gloria",
+          "part": "gloria",
+          "title": {
+            "la": "Gloria",
+            "de": "Ehre sei Gott"
+          },
+          "sourceName": "Gloria V",
+          "gregobaseId": 337
+        },
+        {
+          "id": "ky-V-sanctus",
+          "part": "sanctus",
+          "title": {
+            "la": "Sanctus",
+            "de": "Heilig"
+          },
+          "sourceName": "Sanctus V",
+          "gregobaseId": 2984
+        },
+        {
+          "id": "ky-V-agnus",
+          "part": "agnus",
+          "title": {
+            "la": "Agnus Dei",
+            "de": "Lamm Gottes"
+          },
+          "sourceName": "Agnus V",
+          "gregobaseId": 1241
+        }
+      ]
+    },
+    {
+      "id": "mass-VI",
+      "number": "VI",
+      "name": "Kyrie Rex Genitor",
+      "season": "Für Feste II. Klasse (3)",
+      "parts": [
+        {
+          "id": "ky-VI-kyrie",
+          "part": "kyrie",
+          "title": {
+            "la": "Kyrie",
+            "de": "Herr, erbarme dich"
+          },
+          "sourceName": "Kyrie VI",
+          "gregobaseId": 2903
+        },
+        {
+          "id": "ky-VI-gloria",
+          "part": "gloria",
+          "title": {
+            "la": "Gloria",
+            "de": "Ehre sei Gott"
+          },
+          "sourceName": "Gloria VI",
+          "gregobaseId": 321
+        },
+        {
+          "id": "ky-VI-sanctus",
+          "part": "sanctus",
+          "title": {
+            "la": "Sanctus",
+            "de": "Heilig"
+          },
+          "sourceName": "Sanctus VI",
+          "gregobaseId": 431
+        },
+        {
+          "id": "ky-VI-agnus",
+          "part": "agnus",
+          "title": {
+            "la": "Agnus Dei",
+            "de": "Lamm Gottes"
+          },
+          "sourceName": "Agnus VI",
+          "gregobaseId": 387
+        }
+      ]
+    },
+    {
+      "id": "mass-VII",
+      "number": "VII",
+      "name": "Kyrie Rex splendens",
+      "season": "Für Feste II. Klasse (4)",
+      "parts": [
+        {
+          "id": "ky-VII-kyrie",
+          "part": "kyrie",
+          "title": {
+            "la": "Kyrie",
+            "de": "Herr, erbarme dich"
+          },
+          "sourceName": "Kyrie VII",
+          "gregobaseId": 1262
+        },
+        {
+          "id": "ky-VII-gloria",
+          "part": "gloria",
+          "title": {
+            "la": "Gloria",
+            "de": "Ehre sei Gott"
+          },
+          "sourceName": "Gloria VII",
+          "gregobaseId": 721
+        },
+        {
+          "id": "ky-VII-sanctus",
+          "part": "sanctus",
+          "title": {
+            "la": "Sanctus",
+            "de": "Heilig"
+          },
+          "sourceName": "Sanctus VII",
+          "gregobaseId": 1089
+        },
+        {
+          "id": "ky-VII-agnus",
+          "part": "agnus",
+          "title": {
+            "la": "Agnus Dei",
+            "de": "Lamm Gottes"
+          },
+          "sourceName": "Agnus VII",
+          "gregobaseId": 2985
+        }
+      ]
+    },
+    {
+      "id": "mass-VIII",
+      "number": "VIII",
+      "name": "De Angelis",
+      "season": "Für Feste II. Klasse (5)",
+      "parts": [
+        {
+          "id": "ky-VIII-kyrie",
+          "part": "kyrie",
+          "title": {
+            "la": "Kyrie",
+            "de": "Herr, erbarme dich"
+          },
+          "sourceName": "Kyrie VIII",
+          "gregobaseId": 1184
+        },
+        {
+          "id": "ky-VIII-gloria",
+          "part": "gloria",
+          "title": {
+            "la": "Gloria",
+            "de": "Ehre sei Gott"
+          },
+          "sourceName": "Gloria VIII",
+          "gregobaseId": 961
+        },
+        {
+          "id": "ky-VIII-sanctus",
+          "part": "sanctus",
+          "title": {
+            "la": "Sanctus",
+            "de": "Heilig"
+          },
+          "sourceName": "Sanctus VIII",
+          "gregobaseId": 1384
+        },
+        {
+          "id": "ky-VIII-agnus",
+          "part": "agnus",
+          "title": {
+            "la": "Agnus Dei",
+            "de": "Lamm Gottes"
+          },
+          "sourceName": "Agnus VIII",
+          "gregobaseId": 2760
+        }
+      ]
+    },
+    {
+      "id": "mass-IX",
+      "number": "IX",
+      "name": "Cum jubilo",
+      "season": "Für Marienfeste (1)",
+      "parts": [
+        {
+          "id": "ky-IX-kyrie",
+          "part": "kyrie",
+          "title": {
+            "la": "Kyrie",
+            "de": "Herr, erbarme dich"
+          },
+          "sourceName": "Kyrie IX",
+          "gregobaseId": 2976
+        },
+        {
+          "id": "ky-IX-gloria",
+          "part": "gloria",
+          "title": {
+            "la": "Gloria",
+            "de": "Ehre sei Gott"
+          },
+          "sourceName": "Gloria IX",
+          "gregobaseId": 2771
+        },
+        {
+          "id": "ky-IX-sanctus",
+          "part": "sanctus",
+          "title": {
+            "la": "Sanctus",
+            "de": "Heilig"
+          },
+          "sourceName": "Sanctus IX",
+          "gregobaseId": 587
+        },
+        {
+          "id": "ky-IX-agnus",
+          "part": "agnus",
+          "title": {
+            "la": "Agnus Dei",
+            "de": "Lamm Gottes"
+          },
+          "sourceName": "Agnus IX",
+          "gregobaseId": 707
+        }
+      ]
+    },
+    {
+      "id": "mass-X",
+      "number": "X",
+      "name": "Alme Pater",
+      "season": "Für Marienfeste (2)",
+      "parts": [
+        {
+          "id": "ky-X-kyrie",
+          "part": "kyrie",
+          "title": {
+            "la": "Kyrie",
+            "de": "Herr, erbarme dich"
+          },
+          "sourceName": "Kyrie X",
+          "gregobaseId": 795
+        },
+        {
+          "id": "ky-X-gloria",
+          "part": "gloria",
+          "title": {
+            "la": "Gloria",
+            "de": "Ehre sei Gott"
+          },
+          "sourceName": "Gloria X",
+          "gregobaseId": 1204
+        },
+        {
+          "id": "ky-X-sanctus",
+          "part": "sanctus",
+          "title": {
+            "la": "Sanctus",
+            "de": "Heilig"
+          },
+          "sourceName": "Sanctus X",
+          "gregobaseId": 2770
+        },
+        {
+          "id": "ky-X-agnus",
+          "part": "agnus",
+          "title": {
+            "la": "Agnus Dei",
+            "de": "Lamm Gottes"
+          },
+          "sourceName": "Agnus X",
+          "gregobaseId": 2981
+        }
+      ]
+    },
+    {
+      "id": "mass-XI",
+      "number": "XI",
+      "name": "Orbis factor",
+      "season": "Für die Sonntage im Jahreskreis",
+      "parts": [
+        {
+          "id": "ky-XI-kyrie",
+          "part": "kyrie",
+          "title": {
+            "la": "Kyrie",
+            "de": "Herr, erbarme dich"
+          },
+          "sourceName": "Kyrie XI",
+          "gregobaseId": 2982
+        },
+        {
+          "id": "ky-XI-gloria",
+          "part": "gloria",
+          "title": {
+            "la": "Gloria",
+            "de": "Ehre sei Gott"
+          },
+          "sourceName": "Gloria XI",
+          "gregobaseId": 303
+        },
+        {
+          "id": "ky-XI-sanctus",
+          "part": "sanctus",
+          "title": {
+            "la": "Sanctus",
+            "de": "Heilig"
+          },
+          "sourceName": "Sanctus XI",
+          "gregobaseId": 1106
+        },
+        {
+          "id": "ky-XI-agnus",
+          "part": "agnus",
+          "title": {
+            "la": "Agnus Dei",
+            "de": "Lamm Gottes"
+          },
+          "sourceName": "Agnus XI",
+          "gregobaseId": 1243
+        }
+      ]
+    },
+    {
+      "id": "mass-XII",
+      "number": "XII",
+      "name": "Pater cuncta",
+      "season": "Für Feste III. Klasse (1)",
+      "parts": [
+        {
+          "id": "ky-XII-kyrie",
+          "part": "kyrie",
+          "title": {
+            "la": "Kyrie",
+            "de": "Herr, erbarme dich"
+          },
+          "sourceName": "Kyrie XII",
+          "gregobaseId": 2068
+        },
+        {
+          "id": "ky-XII-gloria",
+          "part": "gloria",
+          "title": {
+            "la": "Gloria",
+            "de": "Ehre sei Gott"
+          },
+          "sourceName": "Gloria XII",
+          "gregobaseId": 2114
+        },
+        {
+          "id": "ky-XII-sanctus",
+          "part": "sanctus",
+          "title": {
+            "la": "Sanctus",
+            "de": "Heilig"
+          },
+          "sourceName": "Sanctus XII",
+          "gregobaseId": 1062
+        },
+        {
+          "id": "ky-XII-agnus",
+          "part": "agnus",
+          "title": {
+            "la": "Agnus Dei",
+            "de": "Lamm Gottes"
+          },
+          "sourceName": "Agnus XII",
+          "gregobaseId": 759
+        }
+      ]
+    },
+    {
+      "id": "mass-XIII",
+      "number": "XIII",
+      "name": "Stelliferi Conditor orbis",
+      "season": "Für Feste III. Klasse (2)",
+      "parts": [
+        {
+          "id": "ky-XIII-kyrie",
+          "part": "kyrie",
+          "title": {
+            "la": "Kyrie",
+            "de": "Herr, erbarme dich"
+          },
+          "sourceName": "Kyrie XIII",
+          "gregobaseId": 137
+        },
+        {
+          "id": "ky-XIII-gloria",
+          "part": "gloria",
+          "title": {
+            "la": "Gloria",
+            "de": "Ehre sei Gott"
+          },
+          "sourceName": "Gloria XIII",
+          "gregobaseId": 2107
+        },
+        {
+          "id": "ky-XIII-sanctus",
+          "part": "sanctus",
+          "title": {
+            "la": "Sanctus",
+            "de": "Heilig"
+          },
+          "sourceName": "Sanctus XIII",
+          "gregobaseId": 1067
+        },
+        {
+          "id": "ky-XIII-agnus",
+          "part": "agnus",
+          "title": {
+            "la": "Agnus Dei",
+            "de": "Lamm Gottes"
+          },
+          "sourceName": "Agnus XIII",
+          "gregobaseId": 2886
+        }
+      ]
+    },
+    {
+      "id": "mass-XIV",
+      "number": "XIV",
+      "name": "Jesu Redemptor",
+      "season": "Für Feste III. Klasse (3)",
+      "parts": [
+        {
+          "id": "ky-XIV-kyrie",
+          "part": "kyrie",
+          "title": {
+            "la": "Kyrie",
+            "de": "Herr, erbarme dich"
+          },
+          "sourceName": "Kyrie XIV",
+          "gregobaseId": 441
+        },
+        {
+          "id": "ky-XIV-gloria",
+          "part": "gloria",
+          "title": {
+            "la": "Gloria",
+            "de": "Ehre sei Gott"
+          },
+          "sourceName": "Gloria XIV",
+          "gregobaseId": 908
+        },
+        {
+          "id": "ky-XIV-sanctus",
+          "part": "sanctus",
+          "title": {
+            "la": "Sanctus",
+            "de": "Heilig"
+          },
+          "sourceName": "Sanctus XIV",
+          "gregobaseId": 2979
+        },
+        {
+          "id": "ky-XIV-agnus",
+          "part": "agnus",
+          "title": {
+            "la": "Agnus Dei",
+            "de": "Lamm Gottes"
+          },
+          "sourceName": "Agnus XIV",
+          "gregobaseId": 2076
+        }
+      ]
+    },
+    {
+      "id": "mass-XV",
+      "number": "XV",
+      "name": "Dominator Deus",
+      "season": "Für Gedenktage und Ferien der Weihnachtszeit",
+      "parts": [
+        {
+          "id": "ky-XV-kyrie",
+          "part": "kyrie",
+          "title": {
+            "la": "Kyrie",
+            "de": "Herr, erbarme dich"
+          },
+          "sourceName": "Kyrie XV",
+          "gregobaseId": 393
+        },
+        {
+          "id": "ky-XV-gloria",
+          "part": "gloria",
+          "title": {
+            "la": "Gloria",
+            "de": "Ehre sei Gott"
+          },
+          "sourceName": "Gloria XV",
+          "gregobaseId": 2975
+        },
+        {
+          "id": "ky-XV-sanctus",
+          "part": "sanctus",
+          "title": {
+            "la": "Sanctus",
+            "de": "Heilig"
+          },
+          "sourceName": "Sanctus XV",
+          "gregobaseId": 386
+        },
+        {
+          "id": "ky-XV-agnus",
+          "part": "agnus",
+          "title": {
+            "la": "Agnus Dei",
+            "de": "Lamm Gottes"
+          },
+          "sourceName": "Agnus XV",
+          "gregobaseId": 959
+        }
+      ]
+    },
+    {
+      "id": "mass-XVI",
+      "number": "XVI",
+      "name": "",
+      "season": "Für die Ferien im Jahreskreis",
+      "parts": [
+        {
+          "id": "ky-XVI-kyrie",
+          "part": "kyrie",
+          "title": {
+            "la": "Kyrie",
+            "de": "Herr, erbarme dich"
+          },
+          "sourceName": "Kyrie XVI",
+          "gregobaseId": 545
+        },
+        {
+          "id": "ky-XVI-sanctus",
+          "part": "sanctus",
+          "title": {
+            "la": "Sanctus",
+            "de": "Heilig"
+          },
+          "sourceName": "Sanctus XVI",
+          "gregobaseId": 2990
+        },
+        {
+          "id": "ky-XVI-agnus",
+          "part": "agnus",
+          "title": {
+            "la": "Agnus Dei",
+            "de": "Lamm Gottes"
+          },
+          "sourceName": "Agnus XVI",
+          "gregobaseId": 1336
+        }
+      ]
+    },
+    {
+      "id": "mass-XVII",
+      "number": "XVII",
+      "name": "",
+      "season": "Für die Sonntage in Advent und Fastenzeit",
+      "parts": [
+        {
+          "id": "ky-XVII-kyrie",
+          "part": "kyrie",
+          "title": {
+            "la": "Kyrie",
+            "de": "Herr, erbarme dich"
+          },
+          "sourceName": "Kyrie XVII A",
+          "gregobaseId": 272
+        },
+        {
+          "id": "ky-XVII-sanctus",
+          "part": "sanctus",
+          "title": {
+            "la": "Sanctus",
+            "de": "Heilig"
+          },
+          "sourceName": "Sanctus XVII",
+          "gregobaseId": 871
+        },
+        {
+          "id": "ky-XVII-agnus",
+          "part": "agnus",
+          "title": {
+            "la": "Agnus Dei",
+            "de": "Lamm Gottes"
+          },
+          "sourceName": "Agnus XVII",
+          "gregobaseId": 1137
+        }
+      ]
+    },
+    {
+      "id": "mass-XVIII",
+      "number": "XVIII",
+      "name": "Deus Genitor alme",
+      "season": "For the ferias of Advent and Lent (as well as for Vigils, Ember Days, and Rogation Days",
+      "parts": [
+        {
+          "id": "ky-XVIII-kyrie",
+          "part": "kyrie",
+          "title": {
+            "la": "Kyrie",
+            "de": "Herr, erbarme dich"
+          },
+          "sourceName": "Kyrie XVIII",
+          "gregobaseId": 2522
+        },
+        {
+          "id": "ky-XVIII-sanctus",
+          "part": "sanctus",
+          "title": {
+            "la": "Sanctus",
+            "de": "Heilig"
+          },
+          "sourceName": "Sanctus XVIII",
+          "gregobaseId": 298
+        },
+        {
+          "id": "ky-XVIII-agnus",
+          "part": "agnus",
+          "title": {
+            "la": "Agnus Dei",
+            "de": "Lamm Gottes"
+          },
+          "sourceName": "Agnus XVIII",
+          "gregobaseId": 2412
+        }
+      ]
+    }
+  ],
+  "credos": [
+    {
+      "id": "credo-I",
+      "number": "I",
+      "name": "Credo I",
+      "gregobaseId": 344
+    },
+    {
+      "id": "credo-II",
+      "number": "II",
+      "name": "Credo II",
+      "gregobaseId": 2983
+    },
+    {
+      "id": "credo-III",
+      "number": "III",
+      "name": "Credo III",
+      "gregobaseId": 749
+    },
+    {
+      "id": "credo-IV",
+      "number": "IV",
+      "name": "Credo IV",
+      "gregobaseId": 678
+    },
+    {
+      "id": "credo-V",
+      "number": "V",
+      "name": "Credo V",
+      "gregobaseId": 955
+    },
+    {
+      "id": "credo-VI",
+      "number": "VI",
+      "name": "Credo VI",
+      "gregobaseId": 2934
+    },
+    {
+      "id": "credo-VII",
+      "number": "VII",
+      "name": "Credo VII",
+      "gregobaseId": 7915
+    }
+  ],
+  "marian": [
+    {
+      "id": "marian-alma-redemptoris",
+      "name": "Alma Redemptoris",
+      "gregobaseId": 2238
+    },
+    {
+      "id": "marian-alma-redemptoris-monasticum",
+      "name": "Alma Redemptoris (monasticum)",
+      "gregobaseId": 8146
+    },
+    {
+      "id": "marian-alma-redemptoris-simple-tone",
+      "name": "Alma Redemptoris (simple tone)",
+      "gregobaseId": 1851
+    },
+    {
+      "id": "marian-ave-regina-c-lorum",
+      "name": "Ave Regina cælorum",
+      "gregobaseId": 2602
+    },
+    {
+      "id": "marian-ave-regina-c-lorum-monasticum",
+      "name": "Ave Regina cælorum (monasticum)",
+      "gregobaseId": 3300
+    },
+    {
+      "id": "marian-ave-regina-c-lorum-simple-tone",
+      "name": "Ave Regina cælorum (simple tone)",
+      "gregobaseId": 2153
+    },
+    {
+      "id": "marian-regina-c-li",
+      "name": "Regina cæli",
+      "gregobaseId": 1976
+    },
+    {
+      "id": "marian-regina-c-li-monasticum",
+      "name": "Regina cæli (monasticum)",
+      "gregobaseId": 3301
+    },
+    {
+      "id": "marian-regina-c-li-simple-tone",
+      "name": "Regina cæli (simple tone)",
+      "gregobaseId": 2290
+    },
+    {
+      "id": "marian-salve-regina",
+      "name": "Salve Regina",
+      "gregobaseId": 2715
+    },
+    {
+      "id": "marian-salve-regina-monasticum",
+      "name": "Salve Regina (monasticum)",
+      "gregobaseId": 3299
+    },
+    {
+      "id": "marian-salve-regina-simple-tone",
+      "name": "Salve Regina (simple tone)",
+      "gregobaseId": 2435
+    }
+  ]
+}
