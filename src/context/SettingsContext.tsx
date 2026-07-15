@@ -14,12 +14,18 @@ interface SettingsState {
   language: LanguageMode
   /** Pro gesangs-fähigem Abschnitt: wird er gesungen? Key = section.id. */
   sung: Record<string, boolean>
+  /** Gewähltes Ordinarium (Kyriale-Messe) für die Messen, z.B. „mass-XI". */
+  ordinaryId: string
+  /** Gewählte Credo-Weise, z.B. „credo-III". */
+  credoId: string
 }
 
 interface SettingsContextValue extends SettingsState {
   setLanguage: (mode: LanguageMode) => void
   toggleSung: (sectionId: string, value?: boolean) => void
   isSung: (sectionId: string, fallback?: boolean) => boolean
+  setOrdinary: (id: string) => void
+  setCredo: (id: string) => void
 }
 
 const STORAGE_KEY = 'oremus.settings.v1'
@@ -27,6 +33,8 @@ const STORAGE_KEY = 'oremus.settings.v1'
 const defaultState: SettingsState = {
   language: 'both',
   sung: {},
+  ordinaryId: 'mass-XI', // Orbis factor – für die Sonntage im Jahreskreis
+  credoId: 'credo-III',
 }
 
 function loadState(): SettingsState {
@@ -38,6 +46,8 @@ function loadState(): SettingsState {
     return {
       language: parsed.language ?? defaultState.language,
       sung: parsed.sung ?? {},
+      ordinaryId: parsed.ordinaryId ?? defaultState.ordinaryId,
+      credoId: parsed.credoId ?? defaultState.credoId,
     }
   } catch {
     return defaultState
@@ -74,9 +84,17 @@ export function SettingsProvider({ children }: { children: ReactNode }) {
     [state.sung],
   )
 
+  const setOrdinary = useCallback((ordinaryId: string) => {
+    setState((s) => ({ ...s, ordinaryId }))
+  }, [])
+
+  const setCredo = useCallback((credoId: string) => {
+    setState((s) => ({ ...s, credoId }))
+  }, [])
+
   const value = useMemo<SettingsContextValue>(
-    () => ({ ...state, setLanguage, toggleSung, isSung }),
-    [state, setLanguage, toggleSung, isSung],
+    () => ({ ...state, setLanguage, toggleSung, isSung, setOrdinary, setCredo }),
+    [state, setLanguage, toggleSung, isSung, setOrdinary, setCredo],
   )
 
   return <SettingsContext.Provider value={value}>{children}</SettingsContext.Provider>

@@ -1,4 +1,5 @@
 import { useEffect, useRef, useState } from 'react'
+import { cleanGabc } from '../data/gabc/clean'
 import './NeumeScore.css'
 
 interface Props {
@@ -48,7 +49,7 @@ export function NeumeScore({ gabc }: Props) {
         // Textschriften an das edle Serifen-Design angleichen.
         ctxt.lyricTextFont = "'EB Garamond', Georgia, serif"
         ctxt.dropCapTextFont = "'Cormorant Garamond', Georgia, serif"
-        score = exsurge.Gabc.loadChantScore(ctxt, gabc, true)
+        score = exsurge.Gabc.loadChantScore(ctxt, cleanGabc(gabc), true)
         score.performLayout(ctxt, () => {
           if (cancelled) return
           render(host.clientWidth || 500)

@@ -7,10 +7,12 @@ interface Props {
   mass: MassFormulary
   /** Untertitel (z.B. Form + Rang). */
   subtitle?: string
+  /** Auswahl von Ordinarium und Credo anbieten (für die Messen). */
+  showOrdinary?: boolean
 }
 
 /** Stellt ein Messformular dar: Kopf, Einstellungen (Sprache/Gesang), Ablauf. */
-export function MassArticle({ mass, subtitle }: Props) {
+export function MassArticle({ mass, subtitle, showOrdinary }: Props) {
   return (
     <article>
       <PageHeader
@@ -18,7 +20,7 @@ export function MassArticle({ mass, subtitle }: Props) {
         latin={mass.day.title.la}
         subtitle={subtitle}
       />
-      <SettingsPanel sections={mass.sections} />
+      <SettingsPanel sections={mass.sections} showOrdinary={showOrdinary} />
       {mass.sections.map((s) => (
         <SectionRenderer key={s.id} section={s} />
       ))}

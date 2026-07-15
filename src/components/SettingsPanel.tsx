@@ -1,11 +1,14 @@
 import { useState } from 'react'
 import { useSettings } from '../context/SettingsContext'
+import { kyrialeMasses, kyrialeCredos } from '../data/kyriale'
 import type { LanguageMode, LiturgicalSection } from '../data/types'
 import './SettingsPanel.css'
 
 interface Props {
   /** Abschnitte, aus denen die gesangs-fähigen für die Auswahl gezogen werden. */
   sections?: LiturgicalSection[]
+  /** Auswahl von Ordinarium (Kyriale-Messe) und Credo anbieten. */
+  showOrdinary?: boolean
 }
 
 const LANG_OPTIONS: { value: LanguageMode; label: string }[] = [
@@ -19,8 +22,9 @@ const LANG_OPTIONS: { value: LanguageMode; label: string }[] = [
  * Abschnitt – ob dieser gesungen oder gesprochen wird. So entsteht ein
  * nahtloser, individuell zusammengestellter Ablauf.
  */
-export function SettingsPanel({ sections = [] }: Props) {
-  const { language, setLanguage, isSung, toggleSung } = useSettings()
+export function SettingsPanel({ sections = [], showOrdinary = false }: Props) {
+  const { language, setLanguage, isSung, toggleSung, ordinaryId, setOrdinary, credoId, setCredo } =
+    useSettings()
   const [open, setOpen] = useState(false)
   const chantable = sections.filter((s) => s.chant?.chantable)
 
@@ -56,6 +60,35 @@ export function SettingsPanel({ sections = [] }: Props) {
               ))}
             </div>
           </fieldset>
+
+          {showOrdinary && (
+            <fieldset className="settings-panel__group">
+              <legend>Ordinarium &amp; Credo</legend>
+              <div className="settings-panel__selects">
+                <label className="settings-panel__select">
+                  <span>Ordinarium</span>
+                  <select value={ordinaryId} onChange={(e) => setOrdinary(e.target.value)}>
+                    {kyrialeMasses.map((m) => (
+                      <option key={m.id} value={m.id}>
+                        Missa {m.number}
+                        {m.name ? ` · ${m.name}` : ' · Ferialton'}
+                      </option>
+                    ))}
+                  </select>
+                </label>
+                <label className="settings-panel__select">
+                  <span>Credo</span>
+                  <select value={credoId} onChange={(e) => setCredo(e.target.value)}>
+                    {kyrialeCredos.map((c) => (
+                      <option key={c.id} value={c.id}>
+                        {c.sourceName ?? c.title.la}
+                      </option>
+                    ))}
+                  </select>
+                </label>
+              </div>
+            </fieldset>
+          )}
 
           {chantable.length > 0 && (
             <fieldset className="settings-panel__group">
