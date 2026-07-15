@@ -23,7 +23,7 @@ function ChantEntry({ chant }: { chant: KyrialeChant }) {
       )}
       {pending ? (
         <p className="ky-entry__pending">
-          Melodie folgt automatisch aus GregoBase (ID&nbsp;{chant.gregobaseId} hinterlegt).
+          Melodie noch nicht im gemeinfreien Datenbestand (GregoBase-ID&nbsp;{chant.gregobaseId} hinterlegt).
         </p>
       ) : (
         <ChantBlock chant={chant.chant} />
@@ -62,9 +62,9 @@ export function KyrialePage() {
       {group === 'ordinary' && (
         <>
           <p className="ky-hint">
-            {kyrialeMasses.length} Choral-Messen (Missa I–XVIII). Melodien werden nach
-            Freischaltung von GregoBase automatisch geladen; die marianischen Antiphonen im
-            einfachen Ton sind bereits notiert.
+            {kyrialeMasses.length} Choral-Messen (Missa I–XVIII) mit echten Neumen aus dem
+            gemeinfreien GregoBase-Korpus. Einzelne, erst nach 2019 ergänzte Melodien fehlen
+            noch (die GregoBase-ID ist hinterlegt).
           </p>
           <div className="ky-mass-select" role="tablist" aria-label="Messe">
             {kyrialeMasses.map((m) => (
