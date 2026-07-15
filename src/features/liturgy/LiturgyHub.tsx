@@ -1,13 +1,8 @@
 import { Link } from 'react-router-dom'
 import { PageHeader } from '../../components/PageHeader'
 import { SectionRenderer } from '../../components/SectionRenderer'
-import {
-  praeparatioPrayers,
-  gratiarumActioPrayers,
-} from '../../data/prayers/liturgyPrayers'
 import { importedMassList } from '../../data/registry'
 import { aspergesMe, vidiAquam, aspergesOratio } from '../../data/mass/asperges'
-import type { Prayer } from '../../data/types'
 import './LiturgyHub.css'
 
 const COLOR_VAR: Record<string, string> = {
@@ -19,26 +14,13 @@ const COLOR_VAR: Record<string, string> = {
   black: 'var(--season-black)',
 }
 
-function PrayerList({ prayers }: { prayers: Prayer[] }) {
-  return (
-    <>
-      {prayers.map((p) => (
-        <SectionRenderer
-          key={p.id}
-          section={{ id: p.id, kind: 'ordinarium', title: p.title, text: p.text, rubric: p.rubric }}
-        />
-      ))}
-    </>
-  )
-}
-
 export function LiturgyHub() {
   return (
     <div>
       <PageHeader
         title="Liturgie"
-        latin="Sancta Missa"
-        subtitle="Heilige Messe – wähle die Form. Ordinarium und Proprium des Tages, Latein/Deutsch."
+        latin="Missale Romanum"
+        subtitle="Römisches Messbuch 1962 – Ordinarium, Proprium des Tages und Kyriale in einem nahtlosen Ablauf."
       />
 
       <div className="form-choice">
@@ -51,6 +33,11 @@ export function LiturgyHub() {
           <span className="form-choice__la smallcaps">Forma ordinaria</span>
           <span className="form-choice__title">Novus Ordo</span>
           <span className="form-choice__desc">Mit Tageslesungen und Evangelium</span>
+        </Link>
+        <Link to="/kyriale" className="form-choice__card">
+          <span className="form-choice__la smallcaps">Ordinarium Missæ</span>
+          <span className="form-choice__title">Kyriale</span>
+          <span className="form-choice__desc">Choral-Ordinarien I–XVIII, Credo, marianische Antiphonen</span>
         </Link>
       </div>
 
@@ -66,7 +53,8 @@ export function LiturgyHub() {
       <h2 className="liturgy-hub__imported-title">Messformulare des Kirchenjahres (1962)</h2>
       <p className="liturgy-hub__imported-note">
         {importedMassList.length} Tagesproprien aus Divinum Officium (Latein). Dazu erscheint
-        automatisch das Ordinarium (Latein/Deutsch). Die deutsche Übersetzung des Proopriums folgt.
+        automatisch das Ordinarium (Latein/Deutsch); das gewünschte Kyriale lässt sich im Formular
+        auswählen. Die deutsche Übersetzung des Propriums folgt.
       </p>
       <ul className="mass-index">
         {importedMassList.map((m) => (
@@ -79,17 +67,6 @@ export function LiturgyHub() {
           </li>
         ))}
       </ul>
-
-      <h2 className="liturgy-hub__prayers-title">Gebete für die Liturgie</h2>
-      <p className="liturgy-hub__prayers-note">
-        Klassische Vorbereitung und Danksagung aus dem Missale. Diese Sammlung wird noch erweitert.
-      </p>
-
-      <h3 className="liturgy-hub__group">Vor der heiligen Messe · Praeparatio ad Missam</h3>
-      <PrayerList prayers={praeparatioPrayers} />
-
-      <h3 className="liturgy-hub__group">Nach der heiligen Messe · Gratiarum actio</h3>
-      <PrayerList prayers={gratiarumActioPrayers} />
     </div>
   )
 }

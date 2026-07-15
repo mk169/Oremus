@@ -1,0 +1,28 @@
+.prayers-tiles {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+  margin-bottom: 1.4rem;
+}
+
+.prayers-group {
+  margin-top: 1.8rem;
+}
+
+.prayers-group__title {
+  margin: 0 0 0.6rem;
+  font-family: var(--font-display);
+  color: var(--accent);
+  border-bottom: 1px solid var(--surface-line);
+  padding-bottom: 0.3rem;
+}
+
+.prayers-group__la {
+  color: var(--gold);
+  font-size: 0.7rem;
+}
+
+.prayers-group__empty {
+  color: var(--text-muted);
+  font-style: italic;
+}

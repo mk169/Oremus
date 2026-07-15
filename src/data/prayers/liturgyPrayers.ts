@@ -1,8 +1,9 @@
 import type { Prayer } from '../types'
 
 // Gebete rund um die heilige Messe – klassische Kernauswahl aus dem
-// Missale Romanum (gemeinfrei): Vorbereitung (Praeparatio ad Missam) und
-// Danksagung (Gratiarum actio). Weitere Gebete werden ergänzt.
+// Missale Romanum (gemeinfrei): Vorbereitung (Praeparatio ad Missam),
+// Kommuniongebet, Danksagung (Gratiarum actio) und allgemeine Gebete.
+// Weitere Gebete werden ergänzt.
 
 /** Vor der heiligen Messe. */
 export const praeparatioPrayers: Prayer[] = [
@@ -25,17 +26,21 @@ export const praeparatioPrayers: Prayer[] = [
   },
 ]
 
-/** Nach der heiligen Messe. */
-export const gratiarumActioPrayers: Prayer[] = [
+/** Zur heiligen Kommunion. */
+export const communionPrayers: Prayer[] = [
   {
     id: 'anima-christi',
     title: { la: 'Anima Christi', de: 'Seele Christi' },
-    rubric: { de: 'Zur Danksagung nach der Kommunion.' },
+    rubric: { de: 'Zur Danksagung nach dem Empfang der heiligen Kommunion.' },
     text: {
       la: 'Anima Christi, sanctífica me. Corpus Christi, salva me. Sanguis Christi, inébria me. Aqua láteris Christi, lava me. Pássio Christi, confórta me. O bone Iesu, exáudi me. Intra tua vúlnera abscónde me. Ne permíttas me separári a te. Ab hoste malígno defénde me. In hora mortis meæ voca me, et iube me veníre ad te, ut cum Sanctis tuis laudem te in sǽcula sæculórum. Amen.',
       de: 'Seele Christi, heilige mich. Leib Christi, rette mich. Blut Christi, tränke mich. Wasser der Seite Christi, wasche mich. Leiden Christi, stärke mich. O guter Jesus, erhöre mich. Bei deinen Wunden birg mich. Von dir lass nimmer scheiden mich. Vor dem bösen Feind beschütze mich. In meiner Todesstunde rufe mich, und heiße mich kommen zu dir, dass ich mit deinen Heiligen dich lobe in alle Ewigkeit. Amen.',
     },
   },
+]
+
+/** Nach der heiligen Messe. */
+export const gratiarumActioPrayers: Prayer[] = [
   {
     id: 'en-ego',
     title: { la: 'Oratio "En ego, o bone Iesu"', de: 'Gebet vor dem Kruzifix' },
@@ -54,3 +59,6 @@ export const gratiarumActioPrayers: Prayer[] = [
     },
   },
 ]
+
+/** Allgemeine Gebete – wird noch ergänzt. */
+export const allgemeineGebete: Prayer[] = []

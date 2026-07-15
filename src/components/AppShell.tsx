@@ -3,13 +3,11 @@ import { CrossIcon } from './Icons'
 import './AppShell.css'
 
 const NAV = [
-  { to: '/', label: 'Dashboard', end: true },
-  { to: '/brevier', label: 'Brevier' },
+  { to: '/', label: 'Übersicht', end: true },
+  { to: '/gebete', label: 'Gebete' },
   { to: '/liturgie', label: 'Liturgie' },
-  { to: '/kyriale', label: 'Kyriale' },
-  { to: '/rosenkranz', label: 'Rosenkranz' },
-  { to: '/novene', label: 'Novene' },
-  { to: '/meditation', label: 'Meditation' },
+  { to: '/brevier', label: 'Brevier' },
+  { to: '/novene', label: 'Novenen' },
   { to: '/kalender', label: 'Kirchenjahr' },
 ]
 

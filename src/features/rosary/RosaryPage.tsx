@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom'
 import { PageHeader } from '../../components/PageHeader'
 import { BilingualText } from '../../components/BilingualText'
 import { rosaryPrayers, rosarySets } from '../../data/rosary'
@@ -9,8 +10,25 @@ export function RosaryPage() {
       <PageHeader
         title="Rosenkranz"
         latin="Rosarium"
-        subtitle="Die Grundgebete und die vier Geheimnis-Sätze."
+        subtitle="Die Grundgebete und die vier Geheimnis-Sätze. Wähle einen Satz, um die Geheimnisse einzeln zu beten."
       />
+
+      <section className="rosary-sets">
+        <h2>Die Geheimnisse</h2>
+        <div className="rosary-set-grid">
+          {rosarySets.map((set) => (
+            <Link key={set.id} to={`/rosenkranz/${set.id}`} className="rosary-set-card">
+              <span className="rosary-set-card__title">
+                <BilingualText value={set.title} block={false} />
+              </span>
+              <span className="rosary-set-card__days">
+                <BilingualText value={set.days} block={false} />
+              </span>
+              <span className="rosary-set-card__count">5 Geheimnisse ·</span>
+            </Link>
+          ))}
+        </div>
+      </section>
 
       <section className="rosary-prayers">
         <h2>Grundgebete</h2>
@@ -18,42 +36,6 @@ export function RosaryPage() {
           <div key={p.id} className="rosary-prayer">
             <h3 className="smallcaps">{p.title.de}</h3>
             <BilingualText value={p.text} />
-          </div>
-        ))}
-      </section>
-
-      <section className="rosary-sets">
-        <h2>Die Geheimnisse</h2>
-        <p className="rosary-sets__hint">
-          Der lateinische Einschub wird beim Ave Maria nach „…fructus ventris tui, Iesus" gebetet.
-        </p>
-        {rosarySets.map((set) => (
-          <div key={set.id} className="rosary-set">
-            <h3 className="rosary-set__title">
-              <BilingualText value={set.title} block={false} />
-              <span className="rosary-set__days">
-                {' · '}
-                <BilingualText value={set.days} block={false} />
-              </span>
-            </h3>
-            <ol className="rosary-set__list">
-              {set.mysteries.map((m, i) => (
-                <li key={m.id} className="rosary-mystery">
-                  <span className="rosary-mystery__num">{i + 1}</span>
-                  <div className="rosary-mystery__body">
-                    <span className="rosary-mystery__name">
-                      <BilingualText value={m.name} block={false} />
-                    </span>
-                    <span className="rosary-mystery__clause">
-                      <BilingualText value={m.clause} />
-                    </span>
-                    <span className="rosary-mystery__verse">
-                      <BilingualText value={m.passage} />
-                    </span>
-                  </div>
-                </li>
-              ))}
-            </ol>
           </div>
         ))}
       </section>

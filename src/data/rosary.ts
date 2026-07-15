@@ -1,9 +1,9 @@
 import type { Prayer, RosarySet } from './types'
 
 // Rosenkranz: Grundgebete und die vier Geheimnis-Sätze.
-// Zweisprachig (lateinischer Rosenkranz + Deutsch), je Geheimnis mit dem
-// vollständigen Text der Bibelstelle (Vulgata / gemeinfreie Allioli-Übersetzung),
-// ohne Buch-/Kapitelangabe.
+// Zweisprachig (lateinischer Rosenkranz + Deutsch), je Geheimnis mit
+// Bibelstellen-Angabe (`ref`) und dem vollständigen Text der Stelle
+// (Vulgata / gemeinfreie Allioli-Übersetzung).
 
 export const rosaryPrayers: Prayer[] = [
   {
@@ -56,6 +56,7 @@ export const rosarySets: RosarySet[] = [
     mysteries: [
       {
         id: 'g1',
+        ref: 'Lk 1,26–38',
         clause: { la: '…Iesus, quem, Virgo, concepísti.', de: '…Jesus, den du, o Jungfrau, vom Heiligen Geist empfangen hast.' },
         name: { la: 'Annuntiatio Domini', de: 'Verkündigung des Herrn' },
         passage: {
@@ -65,6 +66,7 @@ export const rosarySets: RosarySet[] = [
       },
       {
         id: 'g2',
+        ref: 'Lk 1,39–56',
         clause: { la: '…Iesus, quem, Virgo, ad Elísabeth portásti.', de: '…Jesus, den du, o Jungfrau, zu Elisabet getragen hast.' },
         name: { la: 'Visitatio', de: 'Heimsuchung Mariens' },
         passage: {
@@ -74,6 +76,7 @@ export const rosarySets: RosarySet[] = [
       },
       {
         id: 'g3',
+        ref: 'Lk 2,1–20',
         clause: { la: '…Iesus, quem, Virgo, in Béthlehem genuísti.', de: '…Jesus, den du, o Jungfrau, in Betlehem geboren hast.' },
         name: { la: 'Nativitas Domini', de: 'Geburt des Herrn' },
         passage: {
@@ -83,6 +86,7 @@ export const rosarySets: RosarySet[] = [
       },
       {
         id: 'g4',
+        ref: 'Lk 2,22–35',
         clause: { la: '…Iesus, quem, Virgo, in templo præsentásti.', de: '…Jesus, den du, o Jungfrau, im Tempel aufgeopfert hast.' },
         name: { la: 'Praesentatio in templo', de: 'Darstellung im Tempel' },
         passage: {
@@ -92,6 +96,7 @@ export const rosarySets: RosarySet[] = [
       },
       {
         id: 'g5',
+        ref: 'Lk 2,41–52',
         clause: { la: '…Iesus, quem, Virgo, in templo invenísti.', de: '…Jesus, den du, o Jungfrau, im Tempel wiedergefunden hast.' },
         name: { la: 'Inventio in templo', de: 'Der zwölfjährige Jesus im Tempel' },
         passage: {
@@ -108,6 +113,7 @@ export const rosarySets: RosarySet[] = [
     mysteries: [
       {
         id: 'l1',
+        ref: 'Mt 3,13–17',
         clause: { la: '…Iesus, qui apud Iordánem baptizátus est.', de: '…Jesus, der von Johannes im Jordan getauft worden ist.' },
         name: { la: 'Baptismus Domini', de: 'Taufe im Jordan' },
         passage: {
@@ -117,6 +123,7 @@ export const rosarySets: RosarySet[] = [
       },
       {
         id: 'l2',
+        ref: 'Joh 2,1–11',
         clause: { la: '…Iesus, qui apud Canam sese revelávit.', de: '…Jesus, der sich bei der Hochzeit zu Kana geoffenbart hat.' },
         name: { la: 'Nuptiae Canae', de: 'Die Hochzeit zu Kana' },
         passage: {
@@ -126,6 +133,7 @@ export const rosarySets: RosarySet[] = [
       },
       {
         id: 'l3',
+        ref: 'Mk 1,14–15',
         clause: { la: '…Iesus, qui regnum Dei annuntiávit.', de: '…Jesus, der das Reich Gottes verkündet hat.' },
         name: { la: 'Regni Dei proclamatio', de: 'Verkündigung des Reiches Gottes' },
         passage: {
@@ -135,6 +143,7 @@ export const rosarySets: RosarySet[] = [
       },
       {
         id: 'l4',
+        ref: 'Mt 17,1–8',
         clause: { la: '…Iesus, qui in monte transfigurátus est.', de: '…Jesus, der auf dem Berg verklärt worden ist.' },
         name: { la: 'Transfiguratio', de: 'Verklärung des Herrn' },
         passage: {
@@ -144,6 +153,7 @@ export const rosarySets: RosarySet[] = [
       },
       {
         id: 'l5',
+        ref: 'Mt 26,26–28',
         clause: { la: '…Iesus, qui Eucharístiam instítuit.', de: '…Jesus, der uns die Eucharistie geschenkt hat.' },
         name: { la: 'Institutio Eucharistiae', de: 'Einsetzung der Eucharistie' },
         passage: {
@@ -160,6 +170,7 @@ export const rosarySets: RosarySet[] = [
     mysteries: [
       {
         id: 'd1',
+        ref: 'Lk 22,39–46',
         clause: { la: '…Iesus, qui pro nobis sánguinem sudávit.', de: '…Jesus, der für uns Blut geschwitzt hat.' },
         name: { la: 'Agonia in horto', de: 'Todesangst am Ölberg' },
         passage: {
@@ -169,6 +180,7 @@ export const rosarySets: RosarySet[] = [
       },
       {
         id: 'd2',
+        ref: 'Joh 19,1; Is 53,5',
         clause: { la: '…Iesus, qui pro nobis flagellátus est.', de: '…Jesus, der für uns gegeißelt worden ist.' },
         name: { la: 'Flagellatio', de: 'Geißelung' },
         passage: {
@@ -178,6 +190,7 @@ export const rosarySets: RosarySet[] = [
       },
       {
         id: 'd3',
+        ref: 'Mt 27,27–31',
         clause: { la: '…Iesus, qui pro nobis spinis coronátus est.', de: '…Jesus, der für uns mit Dornen gekrönt worden ist.' },
         name: { la: 'Coronatio spinis', de: 'Dornenkrönung' },
         passage: {
@@ -187,6 +200,7 @@ export const rosarySets: RosarySet[] = [
       },
       {
         id: 'd4',
+        ref: 'Lk 23,26–31',
         clause: { la: '…Iesus, qui pro nobis crucem baiulávit.', de: '…Jesus, der für uns das schwere Kreuz getragen hat.' },
         name: { la: 'Baiulatio crucis', de: 'Kreuztragung' },
         passage: {
@@ -196,6 +210,7 @@ export const rosarySets: RosarySet[] = [
       },
       {
         id: 'd5',
+        ref: 'Lk 23,33–46',
         clause: { la: '…Iesus, qui pro nobis crucifíxus est.', de: '…Jesus, der für uns gekreuzigt worden ist.' },
         name: { la: 'Crucifixio et mors', de: 'Kreuzigung und Tod des Herrn' },
         passage: {
@@ -212,6 +227,7 @@ export const rosarySets: RosarySet[] = [
     mysteries: [
       {
         id: 'r1',
+        ref: 'Mt 28,1–7',
         clause: { la: '…Iesus, qui resurréxit a mórtuis.', de: '…Jesus, der von den Toten auferstanden ist.' },
         name: { la: 'Resurrectio', de: 'Auferstehung des Herrn' },
         passage: {
@@ -221,6 +237,7 @@ export const rosarySets: RosarySet[] = [
       },
       {
         id: 'r2',
+        ref: 'Apg 1,9–11',
         clause: { la: '…Iesus, qui in cælum ascéndit.', de: '…Jesus, der in den Himmel aufgefahren ist.' },
         name: { la: 'Ascensio', de: 'Himmelfahrt des Herrn' },
         passage: {
@@ -230,6 +247,7 @@ export const rosarySets: RosarySet[] = [
       },
       {
         id: 'r3',
+        ref: 'Apg 2,1–4',
         clause: { la: '…Iesus, qui Spíritum Sanctum misit.', de: '…Jesus, der uns den Heiligen Geist gesandt hat.' },
         name: { la: 'Missio Spiritus Sancti', de: 'Herabkunft des Heiligen Geistes' },
         passage: {
@@ -239,6 +257,7 @@ export const rosarySets: RosarySet[] = [
       },
       {
         id: 'r4',
+        ref: 'Lk 1,46–49',
         clause: { la: '…Iesus, qui te, Virgo, in cælum assúmpsit.', de: '…Jesus, der dich, o Jungfrau, in den Himmel aufgenommen hat.' },
         name: { la: 'Assumptio B.M.V.', de: 'Aufnahme Mariens in den Himmel' },
         passage: {
@@ -248,6 +267,7 @@ export const rosarySets: RosarySet[] = [
       },
       {
         id: 'r5',
+        ref: 'Offb 12,1',
         clause: { la: '…Iesus, qui te, Virgo, in cælis coronávit.', de: '…Jesus, der dich, o Jungfrau, im Himmel gekrönt hat.' },
         name: { la: 'Coronatio B.M.V.', de: 'Krönung Mariens' },
         passage: {
