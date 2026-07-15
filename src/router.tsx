@@ -35,6 +35,6 @@ export const router = createBrowserRouter(
     ],
   },
   ],
-  // Basispfad aus Vite (dev: '/', Build für GitHub Pages: '/oremus/').
+  // Basispfad aus Vite (dev: '/', Build für GitHub Pages: '/Oremus/').
   { basename: import.meta.env.BASE_URL.replace(/\/$/, '') },
 )
