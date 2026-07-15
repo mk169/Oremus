@@ -3,12 +3,15 @@ import react from '@vitejs/plugin-react'
 import { VitePWA } from 'vite-plugin-pwa'
 
 // https://vitejs.dev/config/
-export default defineConfig({
+// Für GitHub Pages (Projekt-Site mk169.github.io/oremus/) wird beim Build der
+// Basispfad /oremus/ gesetzt; im Dev-Server bleibt es der Wurzelpfad.
+export default defineConfig(({ command }) => ({
+  base: command === 'build' ? '/oremus/' : '/',
   plugins: [
     react(),
     VitePWA({
       registerType: 'autoUpdate',
-      includeAssets: ['favicon.svg'],
+      includeAssets: ['favicon.svg', 'icon.svg'],
       manifest: {
         name: 'Oremus – Gebet, Liturgie & Stundenbuch',
         short_name: 'Oremus',
@@ -29,4 +32,4 @@ export default defineConfig({
       },
     }),
   ],
-})
+}))

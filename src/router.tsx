@@ -13,7 +13,8 @@ import { MeditationPage } from './features/meditation/MeditationPage'
 import { CalendarPage } from './features/calendar/CalendarPage'
 import { KyrialePage } from './features/kyriale/KyrialePage'
 
-export const router = createBrowserRouter([
+export const router = createBrowserRouter(
+  [
   {
     path: '/',
     element: <AppShell />,
@@ -33,4 +34,7 @@ export const router = createBrowserRouter([
       { path: '*', element: <Dashboard /> },
     ],
   },
-])
+  ],
+  // Basispfad aus Vite (dev: '/', Build für GitHub Pages: '/oremus/').
+  { basename: import.meta.env.BASE_URL.replace(/\/$/, '') },
+)
