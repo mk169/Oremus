@@ -24,6 +24,14 @@
   padding: 0 0.15rem;
 }
 
+/* Liturgische Marken (℣ ℟ ✝) wie im Missale rot und aufrecht. */
+.lit-mark {
+  color: var(--rubric);
+  font-style: normal;
+  font-weight: 600;
+  padding-right: 0.05em;
+}
+
 .bilingual--block .bilingual__de {
   display: block;
   color: var(--text-muted);

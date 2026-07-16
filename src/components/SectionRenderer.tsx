@@ -24,11 +24,23 @@ export function SectionRenderer({ section }: Props) {
   const chant = section.chant
     ? { ...section.chant, gabc: gabcFor(section.id, section.chant.gabc) }
     : undefined
+  // Die Wandlungsworte erhalten eigene, hervorgehobene Darstellung.
+  const isConsecration = section.id === 'qui-pridie' || section.id === 'simili-modo'
+  const className = [
+    'lit-section',
+    section.kind === 'proprium' ? 'lit-section--proprium' : 'lit-section--ordinarium',
+    isConsecration ? 'lit-section--consecration' : '',
+  ]
+    .filter(Boolean)
+    .join(' ')
 
   return (
-    <section className="lit-section" id={section.id}>
+    <section className={className} id={section.id} data-kind={section.kind}>
       <h3 className="lit-section__title smallcaps">
         <BilingualText value={section.title} block={false} />
+        {section.kind === 'proprium' && (
+          <span className="lit-section__kind">Proprium</span>
+        )}
         {chantable && (
           <span className={`lit-section__badge ${sung ? 'is-sung' : 'is-spoken'}`}>
             {sung ? 'gesungen' : 'gesprochen'}

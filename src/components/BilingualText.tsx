@@ -1,6 +1,21 @@
+import type { ReactNode } from 'react'
 import { useSettings } from '../context/SettingsContext'
 import type { BilingualText as BilingualTextType, LanguageMode } from '../data/types'
 import './BilingualText.css'
+
+// Liturgische Marken (Versikel ℣, Responsorium ℟, Segenskreuz ✝) wie im
+// gedruckten Missale rot/hervorgehoben darstellen.
+function withMarks(text: string): ReactNode[] {
+  return text.split(/([℣℟✝])/).map((part, i) =>
+    part === '℣' || part === '℟' || part === '✝' ? (
+      <span key={i} className="lit-mark">
+        {part}
+      </span>
+    ) : (
+      part
+    ),
+  )
+}
 
 interface Props {
   value: BilingualTextType
@@ -38,9 +53,9 @@ export function BilingualText({ value, mode, block = true, className }: Props) {
 
   return (
     <Wrapper className={['bilingual', block ? 'bilingual--block' : '', className].filter(Boolean).join(' ')}>
-      {renderLa && <span className="bilingual__la">{value.la}</span>}
+      {renderLa && <span className="bilingual__la">{withMarks(value.la!)}</span>}
       {inlineSep && <span className="bilingual__sep"> · </span>}
-      {renderDe && <span className="bilingual__de">{value.de}</span>}
+      {renderDe && <span className="bilingual__de">{withMarks(value.de!)}</span>}
     </Wrapper>
   )
 }

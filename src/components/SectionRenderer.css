@@ -1,18 +1,33 @@
 .lit-section {
-  margin: 0 0 1.6rem;
+  margin: 0 0 1.7rem;
 }
 
 .lit-section__title {
   display: flex;
   align-items: baseline;
   flex-wrap: wrap;
-  gap: 0.6rem;
+  gap: 0.55rem;
   font-family: var(--font-display);
-  font-size: 1.2rem;
+  font-size: 1.24rem;
+  line-height: 1.2;
   color: var(--accent);
-  margin: 0 0 0.4rem;
-  padding-bottom: 0.25rem;
-  border-bottom: 1px solid var(--surface-line);
+  margin: 0 0 0.5rem;
+  padding-bottom: 0.28rem;
+  /* Feine Goldlinie statt kräftiger Trennlinie – wie im Missale. */
+  border-bottom: 1px solid color-mix(in srgb, var(--gold) 45%, transparent);
+}
+
+/* Kleines Etikett für Tagestexte (Proprium). */
+.lit-section__kind {
+  font-family: var(--font-body);
+  font-variant: small-caps;
+  letter-spacing: 0.08em;
+  font-size: 0.62rem;
+  padding: 0.05rem 0.45rem;
+  border-radius: 999px;
+  border: 1px solid color-mix(in srgb, var(--gold) 55%, transparent);
+  color: var(--gold);
+  align-self: center;
 }
 
 .lit-section__badge {
@@ -24,6 +39,7 @@
   border-radius: 999px;
   border: 1px solid var(--surface-line);
   color: var(--text-muted);
+  align-self: center;
 }
 
 .lit-section__badge.is-sung {
@@ -35,12 +51,14 @@
 .lit-section__rubric {
   color: var(--rubric);
   font-style: italic;
-  font-size: 0.98rem;
-  margin: 0 0 0.5rem;
+  font-size: 0.96rem;
+  line-height: 1.5;
+  margin: 0 0 0.55rem;
 }
 
 .lit-section__text {
   font-size: 1.12rem;
+  line-height: 1.62;
 }
 
 .lit-section__de-missing {
@@ -57,4 +75,28 @@
   color: var(--text-muted);
   font-variant: small-caps;
   letter-spacing: 0.04em;
+}
+
+/* Tagestexte (Proprium) mit dezentem Goldrand am Rand markiert. */
+.lit-section--proprium {
+  border-left: 2px solid color-mix(in srgb, var(--gold) 40%, transparent);
+  padding-left: 0.9rem;
+  margin-left: -0.9rem;
+}
+
+/* Die Wandlungsworte: hervorgehobene, andächtige Darstellung. */
+.lit-section--consecration {
+  background: color-mix(in srgb, var(--gold) 8%, var(--surface-raised));
+  border: 1px solid color-mix(in srgb, var(--gold) 40%, transparent);
+  border-radius: var(--radius);
+  padding: 0.9rem 1.1rem;
+}
+
+.lit-section--consecration .lit-section__title {
+  color: var(--oxblood);
+  border-bottom-color: color-mix(in srgb, var(--gold) 60%, transparent);
+}
+
+.lit-section--consecration .lit-section__text {
+  font-size: 1.16rem;
 }
