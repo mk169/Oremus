@@ -3,6 +3,7 @@
 // das Fest/den Sonntag auf. Bewusst auf Zeiten + Hauptfeste fokussiert
 // (nicht jede Gedächtnisfeier). Voll offline, ohne externe Abhängigkeit.
 import { easterSunday, type SeasonColor } from './calendar'
+import { sanctoraleFor } from './sanctorale'
 import type { BilingualText, LiturgicalForm } from './types'
 
 export interface Celebration {
@@ -15,6 +16,8 @@ export interface Celebration {
   color: SeasonColor
   /** Name der liturgischen Zeit (deutsch). */
   season: string
+  /** Mitgefeierte Gedächtnisse (Kommemorationen). */
+  commemorations?: BilingualText[]
 }
 
 // ---- Datums-Hilfen ------------------------------------------------------
@@ -79,32 +82,14 @@ function movable(year: number): Movable {
   }
 }
 
-// ---- Feste mit festem Datum ---------------------------------------------
-interface FixedFeast {
-  m: number // 1-12
-  d: number
-  color: SeasonColor
-  rank: string
-  title1962: BilingualText
-  titleNO: BilingualText
+// ---- Rangbezeichnungen des Sanktorale -----------------------------------
+// Klasse 1–4 der Rubriken von 1960 → deutsche Bezeichnung.
+const CLASS_LABEL: Record<1 | 2 | 3 | 4, string> = {
+  1: 'I. Klasse',
+  2: 'II. Klasse',
+  3: 'III. Klasse',
+  4: 'Kommemoration',
 }
-const FIXED: FixedFeast[] = [
-  { m: 1, d: 1, color: 'white', rank: 'Hochfest', title1962: { la: 'In Circumcisione Domini', de: 'Beschneidung des Herrn' }, titleNO: { la: 'Sollemnitas S. Dei Genetricis Mariæ', de: 'Hochfest der Gottesmutter Maria' } },
-  { m: 1, d: 6, color: 'white', rank: 'Hochfest', title1962: { la: 'In Epiphania Domini', de: 'Erscheinung des Herrn' }, titleNO: { la: 'In Epiphania Domini', de: 'Erscheinung des Herrn' } },
-  { m: 2, d: 2, color: 'white', rank: 'Fest', title1962: { la: 'In Purificatione B.M.V.', de: 'Darstellung des Herrn (Lichtmess)' }, titleNO: { la: 'In Præsentatione Domini', de: 'Darstellung des Herrn' } },
-  { m: 3, d: 19, color: 'white', rank: 'Hochfest', title1962: { la: 'S. Ioseph Sponsi B.M.V.', de: 'Hl. Josef' }, titleNO: { la: 'S. Ioseph', de: 'Hl. Josef' } },
-  { m: 3, d: 25, color: 'white', rank: 'Hochfest', title1962: { la: 'In Annuntiatione B.M.V.', de: 'Verkündigung des Herrn' }, titleNO: { la: 'In Annuntiatione Domini', de: 'Verkündigung des Herrn' } },
-  { m: 6, d: 24, color: 'white', rank: 'Hochfest', title1962: { la: 'In Nativitate S. Ioannis Bapt.', de: 'Geburt Johannes des Täufers' }, titleNO: { la: 'In Nativitate S. Ioannis Bapt.', de: 'Geburt Johannes des Täufers' } },
-  { m: 6, d: 29, color: 'red', rank: 'Hochfest', title1962: { la: 'Ss. Petri et Pauli App.', de: 'Hl. Petrus und Paulus' }, titleNO: { la: 'Ss. Petri et Pauli App.', de: 'Hl. Petrus und Paulus' } },
-  { m: 8, d: 15, color: 'white', rank: 'Hochfest', title1962: { la: 'In Assumptione B.M.V.', de: 'Mariä Aufnahme in den Himmel' }, titleNO: { la: 'In Assumptione B.M.V.', de: 'Mariä Aufnahme in den Himmel' } },
-  { m: 9, d: 8, color: 'white', rank: 'Fest', title1962: { la: 'In Nativitate B.M.V.', de: 'Mariä Geburt' }, titleNO: { la: 'In Nativitate B.M.V.', de: 'Mariä Geburt' } },
-  { m: 9, d: 14, color: 'red', rank: 'Fest', title1962: { la: 'In Exaltatione S. Crucis', de: 'Kreuzerhöhung' }, titleNO: { la: 'In Exaltatione S. Crucis', de: 'Kreuzerhöhung' } },
-  { m: 11, d: 1, color: 'white', rank: 'Hochfest', title1962: { la: 'Omnium Sanctorum', de: 'Allerheiligen' }, titleNO: { la: 'Omnium Sanctorum', de: 'Allerheiligen' } },
-  { m: 11, d: 2, color: 'violet', rank: 'Gedächtnis', title1962: { la: 'In Commemoratione Omnium Fidelium Defunctorum', de: 'Allerseelen' }, titleNO: { la: 'Omnium Fidelium Defunctorum', de: 'Allerseelen' } },
-  { m: 12, d: 8, color: 'white', rank: 'Hochfest', title1962: { la: 'In Conceptione Immaculata B.M.V.', de: 'Mariä Empfängnis' }, titleNO: { la: 'In Conceptione Immaculata B.M.V.', de: 'Hochfest der ohne Erbsünde empfangenen Jungfrau Maria' } },
-  { m: 12, d: 25, color: 'white', rank: 'Hochfest', title1962: { la: 'In Nativitate Domini', de: 'Geburt des Herrn (Weihnachten)' }, titleNO: { la: 'In Nativitate Domini', de: 'Geburt des Herrn (Weihnachten)' } },
-  { m: 12, d: 26, color: 'red', rank: 'Fest', title1962: { la: 'S. Stephani Protomartyris', de: 'Hl. Stephanus' }, titleNO: { la: 'S. Stephani Protomartyris', de: 'Hl. Stephanus' } },
-]
 
 // ---- Saison + Sonntagsordnung -------------------------------------------
 const WEEKDAY_LA = ['Dominica', 'feria II', 'feria III', 'feria IV', 'feria V', 'feria VI', 'sabbato']
@@ -136,7 +121,37 @@ function movableSolemnity(date: Date, m: Movable, form: LiturgicalForm): Celebra
 }
 
 /**
+ * Rangklasse des zeitlichen Festkreises an einem Tag (1 = höchste).
+ * Bestimmt, ob ein Sonntag/eine Ferie ein Heiligenfest verdrängt.
+ */
+function temporalClass(d: Date, m: Movable, isSunday: boolean): 1 | 2 | 3 | 4 {
+  // Aschermittwoch und die Karwoche verdrängen jedes Fest.
+  if (sameDay(d, m.ashWed)) return 1
+  if (d > m.palmSunday && d < m.easter) return 1
+
+  if (isSunday) {
+    // I. Klasse: Sonntage des Advents, der Fastenzeit/Passionszeit,
+    // Weißer Sonntag (Oktavtag von Ostern).
+    if (d >= m.adventThisYear && d < new Date(d.getFullYear(), 11, 25)) return 1
+    if (d >= m.ashWed && d < m.easter) return 1
+    if (sameDay(d, addDays(m.easter, 7))) return 1
+    // Übrige Sonntage (nach Erscheinung / nach Pfingsten / im Jahreskreis).
+    return 2
+  }
+
+  // Gebotene Ferien des Advents (17.–23.12.) und der Fastenzeit werden
+  // an Festen kommemoriert → Klasse 3.
+  const isDec = d.getMonth() === 11
+  if (isDec && d.getDate() >= 17 && d.getDate() <= 23) return 3
+  if (d >= m.ashWed && d < m.easter) return 3
+
+  return 4
+}
+
+/**
  * Löst zu einem Datum die Feier in der gewünschten Form auf.
+ * Berücksichtigt die Rangordnung zwischen zeitlichem Festkreis
+ * (Sonntage/Ferien), beweglichen Hochfesten und dem Sanktorale.
  */
 export function resolveCelebration(date: Date, form: LiturgicalForm): Celebration {
   const d = d0(date)
@@ -145,27 +160,53 @@ export function resolveCelebration(date: Date, form: LiturgicalForm): Celebratio
   const dow = d.getDay()
   const isSunday = dow === 0
 
-  // 1) Feste mit festem Datum (Hochfeste/Feste überlagern).
-  for (const f of FIXED) {
-    if (d.getMonth() + 1 === f.m && d.getDate() === f.d) {
-      return {
-        form,
-        title: form === '1962' ? f.title1962 : f.titleNO,
-        rank: f.rank,
-        color: f.color,
-        season: seasonName(d, m, form).de,
-      }
+  // 1) Bewegliche Hochfeste (Osterkreis) haben stets Vorrang.
+  const sol = movableSolemnity(d, m, form)
+  if (sol) {
+    const sanct = sanctoraleFor(d)
+    if (sanct) sol.commemorations = [{ la: sanct.la, de: sanct.de }]
+    return sol
+  }
+
+  // 2) Zeitlicher Festkreis (Saison + Sonntag/Feria) als Grundlage.
+  const season = seasonName(d, m, form)
+  const temporal = temporalTitle(d, m, form, isSunday, dow)
+  const tCls = temporalClass(d, m, isSunday)
+  const temporalCel: Celebration = {
+    form,
+    title: temporal,
+    color: season.color,
+    season: season.de,
+    rank: isSunday ? `Sonntag · ${CLASS_LABEL[tCls]}` : undefined,
+  }
+
+  // 3) Sanktorale (Heiligenkalender) und Präzedenz.
+  const sanct = sanctoraleFor(d)
+  if (!sanct) return temporalCel
+
+  const sanctWins = sanct.cls < tCls || (sanct.cls === tCls && !isSunday && tCls >= 3)
+
+  if (sanctWins) {
+    const commemorations: BilingualText[] = []
+    // Verdrängter Sonntag wird kommemoriert.
+    if (isSunday) commemorations.push({ la: temporal.la, de: temporal.de })
+    // Eigene Gedächtnisse des Festes.
+    if (sanct.comm) for (const c of sanct.comm) commemorations.push({ la: c.la, de: c.de })
+    return {
+      form,
+      title: { la: sanct.la, de: sanct.de },
+      rank: CLASS_LABEL[sanct.cls],
+      color: sanct.color,
+      season: season.de,
+      commemorations: commemorations.length ? commemorations : undefined,
     }
   }
 
-  // 2) Bewegliche Hochfeste.
-  const sol = movableSolemnity(d, m, form)
-  if (sol) return sol
-
-  // 3) Zeit + Sonntag/Feria.
-  const season = seasonName(d, m, form)
-  const title = temporalTitle(d, m, form, isSunday, dow)
-  return { form, title, color: season.color, season: season.de, rank: isSunday ? 'Sonntag' : undefined }
+  // Zeitlicher Festkreis siegt – Heiligenfest (bis III. Klasse) wird kommemoriert.
+  if (sanct.cls <= 3) {
+    temporalCel.commemorations = [{ la: sanct.la, de: sanct.de }]
+  }
+  return temporalCel
 }
 
 interface SeasonInfo {
@@ -261,5 +302,28 @@ export function upcomingCelebrations(from: Date, count: number, form: Liturgical
     const date = addDays(d0(from), i)
     out.push({ date, cel: resolveCelebration(date, form) })
   }
+  return out
+}
+
+export interface CalendarDay {
+  date: Date
+  cel: Celebration
+}
+
+/** Alle Tage eines Kalendermonats (0 = Januar) mit ihrer Feier. */
+export function monthCelebrations(year: number, month: number, form: LiturgicalForm): CalendarDay[] {
+  const days = new Date(year, month + 1, 0).getDate()
+  const out: CalendarDay[] = []
+  for (let day = 1; day <= days; day++) {
+    const date = new Date(year, month, day)
+    out.push({ date, cel: resolveCelebration(date, form) })
+  }
+  return out
+}
+
+/** Das komplette Kalenderjahr, nach Monaten gruppiert. */
+export function yearCelebrations(year: number, form: LiturgicalForm): CalendarDay[][] {
+  const out: CalendarDay[][] = []
+  for (let month = 0; month < 12; month++) out.push(monthCelebrations(year, month, form))
   return out
 }
