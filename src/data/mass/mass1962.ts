@@ -1,5 +1,10 @@
 import type { MassFormulary } from '../types'
 import { stufengebet } from './ordoStufengebet'
+import { salutatioAnteOrationem, mundaCor, perEvangelica } from './ordoWortgottesdienst'
+import { salutatioOffertorium, offertoriumGebete } from './ordoOffertorium'
+import { praefatioSanctus, canonRomanus } from './ordoCanon'
+import { paterNosterIntro, postPaterNoster, postAgnus } from './ordoCommunio'
+import { salutatioPostcommunio, salutatioAnteIte, conclusio } from './ordoConclusio'
 
 // Messe im überlieferten Ritus (1962). Ordo Missae – schrittweise vollständig.
 // Beginn: Stufengebet (jedes Gebet als eigener Abschnitt), danach folgen die
@@ -63,6 +68,7 @@ export const mass1962: MassFormulary = {
         gabc: '(c4) Gló(g)ri(gh)a(h) in(h) ex(hg)cél(gh)sis(h) De(hjh)o.(g) (::)',
       },
     },
+    ...salutatioAnteOrationem,
     {
       id: 'collecta',
       kind: 'proprium',
@@ -98,6 +104,7 @@ export const mass1962: MassFormulary = {
         gabc: '(c4) Lae(f)tá(gh)tus(h) sum(h) in(h) his(hg) quae(g) di(gh)cta(h) sunt(h) mi(hg)hi.(g) (::)',
       },
     },
+    ...mundaCor,
     {
       id: 'evangelium',
       kind: 'proprium',
@@ -109,6 +116,7 @@ export const mass1962: MassFormulary = {
         de: 'In jener Zeit sprach Jesus zu seinen Jüngern: Niemand kann zwei Herren dienen… Suchet also zuerst das Reich Gottes und seine Gerechtigkeit, und dies alles wird euch dazugegeben werden.',
       },
     },
+    ...perEvangelica,
     {
       id: 'credo',
       kind: 'ordinarium',
@@ -123,6 +131,7 @@ export const mass1962: MassFormulary = {
         gabc: '(c4) Cre(g)do(gh) in(h) u(h)num(hg) De(gh)um,(h) Pa(h)trem(hg) o(g)mni(g)po(gh)tén(h)tem.(g) (::)',
       },
     },
+    ...salutatioOffertorium,
     {
       id: 'offertorium',
       kind: 'proprium',
@@ -138,6 +147,18 @@ export const mass1962: MassFormulary = {
         gabc: '(c4) Dó(f)mi(gh)ne,(h) in(h) au(h)xí(hg)li(g)um(gh) me(h)um(h) ré(hj)spi(h)ce.(g) (::)',
       },
     },
+    ...offertoriumGebete,
+    {
+      id: 'secreta',
+      kind: 'proprium',
+      title: { la: 'Secreta', de: 'Stillgebet über die Gaben' },
+      rubric: { de: 'Proprium des Tages. Der Priester betet es still; der Schluss „Per ómnia sǽcula sæculórum“ leitet zur Präfation.' },
+      text: {
+        la: 'Réspice, quǽsumus, Dómine, múnera, quæ tibi offérimus: et quod nostræ devotiónis effícimus, tuæ nobis fiat grátiæ efficácia sempitérnæ. Per Dóminum nostrum Iesum Christum.',
+        de: 'Blicke, wir bitten dich, o Herr, auf die Gaben, die wir dir darbringen; und was wir aus unserer Hingabe vollbringen, das werde uns zur Wirkkraft deiner ewigen Gnade. Durch unseren Herrn Jesus Christus.',
+      },
+    },
+    ...praefatioSanctus,
     {
       id: 'sanctus',
       kind: 'ordinarium',
@@ -152,6 +173,8 @@ export const mass1962: MassFormulary = {
         gabc: '(c4) San(h)ctus,(hg~) *() San(gh)ctus,(h) San(hjh)ctus(hg) (,) Dó(gh)mi(h)nus(h) De(hg)us(g) Sá(gh)ba(h)oth.(g) (::)',
       },
     },
+    ...canonRomanus,
+    ...paterNosterIntro,
     {
       id: 'pater-noster',
       kind: 'ordinarium',
@@ -166,6 +189,7 @@ export const mass1962: MassFormulary = {
         gabc: '(c4) Pa(g)ter(g) no(g)ster,(gh) qui(h) es(h) in(h) cae(hg)lis:(g) san(gh)cti(h)fi(h)cé(hg)tur(g) no(gh)men(h) tu(hg)um.(g) (::)',
       },
     },
+    ...postPaterNoster,
     {
       id: 'agnus-dei',
       kind: 'ordinarium',
@@ -180,6 +204,7 @@ export const mass1962: MassFormulary = {
         gabc: '(c4) A(h)gnus(hg~) De(gh)i,(h) *() qui(h) tol(hg)lis(g) pec(gh)cá(h)ta(h) mun(hg)di:(g) mi(gh)se(h)ré(hg)re(g) no(gh)bis.(g) (::)',
       },
     },
+    ...postAgnus,
     {
       id: 'communio',
       kind: 'proprium',
@@ -195,6 +220,7 @@ export const mass1962: MassFormulary = {
         gabc: '(c4) Dó(f)mi(gh)ne,(h) me(h)mo(hg)rá(g)bor(gh) iu(h)stí(hj)ti(h)ae(hg) tu(g)ae.(g) (::)',
       },
     },
+    ...salutatioPostcommunio,
     {
       id: 'postcommunio',
       kind: 'proprium',
@@ -204,6 +230,7 @@ export const mass1962: MassFormulary = {
         de: 'Wir haben die heiligen Gaben empfangen; wir bitten dich, o Herr: Mit dem häufigen Empfang des Geheimnisses wachse in uns die Wirkung unseres Heiles. Durch unseren Herrn Jesus Christus.',
       },
     },
+    ...salutatioAnteIte,
     {
       id: 'ite-missa-est',
       kind: 'ordinarium',
@@ -218,5 +245,6 @@ export const mass1962: MassFormulary = {
         gabc: '(c4) I(g)te,(gh~) *() mis(h)sa(hjh) est.(hg) (::) De(g)o(gh) grá(hjh)ti(hg)as.(g) (::)',
       },
     },
+    ...conclusio,
   ],
 }
