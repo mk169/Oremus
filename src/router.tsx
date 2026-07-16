@@ -11,6 +11,7 @@ import { RosaryPage } from './features/rosary/RosaryPage'
 import { RosarySetView } from './features/rosary/RosarySetView'
 import { RosaryMysteryView } from './features/rosary/RosaryMysteryView'
 import { PrayersHub } from './features/prayers/PrayersHub'
+import { PrayerGroupPage } from './features/prayers/PrayerGroupPage'
 import { NovenaPage } from './features/novena/NovenaPage'
 import { MeditationPage } from './features/meditation/MeditationPage'
 import { CalendarPage } from './features/calendar/CalendarPage'
@@ -31,6 +32,7 @@ export const router = createBrowserRouter(
       { path: 'liturgie/formular/:id', element: <ImportedMassView /> },
       { path: 'kyriale', element: <KyrialePage /> },
       { path: 'gebete', element: <PrayersHub /> },
+      { path: 'gebete/:groupId', element: <PrayerGroupPage /> },
       { path: 'rosenkranz', element: <RosaryPage /> },
       { path: 'rosenkranz/:setId', element: <RosarySetView /> },
       { path: 'rosenkranz/:setId/:mysteryId', element: <RosaryMysteryView /> },

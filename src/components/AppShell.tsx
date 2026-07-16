@@ -1,17 +1,10 @@
-import { Link, NavLink, Outlet, ScrollRestoration } from 'react-router-dom'
+import { Link, Outlet, ScrollRestoration } from 'react-router-dom'
 import { CrossIcon } from './Icons'
 import './AppShell.css'
 
-const NAV = [
-  { to: '/', label: 'Übersicht', end: true },
-  { to: '/gebete', label: 'Gebete' },
-  { to: '/liturgie', label: 'Liturgie' },
-  { to: '/brevier', label: 'Brevier' },
-  { to: '/novene', label: 'Novenen' },
-  { to: '/kalender', label: 'Kirchenjahr' },
-]
-
-/** Rahmen der App: Kopf mit Titel, Navigation und Inhaltsbereich. */
+/** Rahmen der App: Kopf mit Titel und Inhaltsbereich.
+ *  Bewusst ohne obere Navigationsleiste – die Bereiche werden ausschließlich
+ *  über die Kacheln der Übersicht angesteuert. Der Titel „Oremus" führt zurück. */
 export function AppShell() {
   return (
     <div className="app-shell">
@@ -22,18 +15,6 @@ export function AppShell() {
         </Link>
         <p className="app-shell__tagline smallcaps">Gebet · Liturgie · Stundenbuch</p>
       </header>
-
-      <nav className="app-shell__nav" aria-label="Hauptnavigation">
-        <ul>
-          {NAV.map((item) => (
-            <li key={item.to}>
-              <NavLink to={item.to} end={item.end}>
-                {item.label}
-              </NavLink>
-            </li>
-          ))}
-        </ul>
-      </nav>
 
       <main className="app-shell__main container">
         <Outlet />

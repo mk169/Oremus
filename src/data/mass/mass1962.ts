@@ -1,9 +1,11 @@
 import type { MassFormulary } from '../types'
+import { stufengebet } from './ordoStufengebet'
 
-// Beispielformular: Messe im überlieferten Ritus (1962).
-// Ordinarium vollständig (gemeinfrei), Proprium exemplarisch von einem Sonntag
-// im Jahreskreis. Gesangsfähige Teile tragen GABC-Notation (Incipit), die im
-// Browser mit exsurge als echte Neumen dargestellt wird.
+// Messe im überlieferten Ritus (1962). Ordo Missae – schrittweise vollständig.
+// Beginn: Stufengebet (jedes Gebet als eigener Abschnitt), danach folgen die
+// weiteren Teile (Introitus … bis Schlussevangelium). Ordinarium gemeinfrei;
+// Proprium exemplarisch von einem Sonntag im Jahreskreis. Gesangsfähige Teile
+// tragen GABC-Notation (Incipit), die im Browser mit exsurge dargestellt wird.
 // Herkunft der Texte: Missale Romanum 1962 (vorkonziliar, gemeinfrei).
 
 export const mass1962: MassFormulary = {
@@ -14,8 +16,9 @@ export const mass1962: MassFormulary = {
     color: 'green',
     rank: 'Sonntag II. Klasse',
   },
-  note: 'Beispielinhalt. Ordinarium gemeinfrei; Proprium exemplarisch. Die Neumen zeigen das Incipit; vollständige Melodien folgen. Für jeden Tag/jedes Fest folgt eigenes Proprium.',
+  note: 'Ordo Missae – wird schrittweise vervollständigt. Stufengebet gemeinfrei; das Proprium ist exemplarisch (ein Sonntag im Jahreskreis). Für jeden Tag/jedes Fest folgt eigenes Proprium.',
   sections: [
+    ...stufengebet,
     {
       id: 'introitus',
       kind: 'proprium',

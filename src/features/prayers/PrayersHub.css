@@ -26,3 +26,15 @@
   color: var(--text-muted);
   font-style: italic;
 }
+
+.prayers-breadcrumb {
+  margin: 0 0 0.4rem;
+  font-variant: small-caps;
+  letter-spacing: 0.03em;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.prayers-breadcrumb a {
+  color: var(--accent);
+}
