@@ -1,0 +1,88 @@
+{
+  "id": "week-feria5-prim",
+  "form": "1962",
+  "hour": "prim",
+  "name": {
+    "la": "Ad Primam",
+    "de": "Prim"
+  },
+  "day": {
+    "title": {
+      "la": "Feria V",
+      "de": "Donnerstag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-feria5-prim-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria5-prim-hymnus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Jam lucis orto sídere, Deum precémur súpplices, ut in diúrnis áctibus nos servet a nocéntibus.\nLinguam refrénans témperet, ne litis horror ínsonet: visum fovéndo cóntegat, ne vanitátes háuriat.",
+        "de": "Da nun das Licht am Himmel steigt, flehn wir zu Gott in Demut still, dass er in allem, was wir tun, uns vor dem Schaden schützen will.\nEr zähme, zügle unsre Zung, dass nicht der Streites Lärm erschallt; er hüte gnädig unsern Blick vor eitler Dinge Trug und Bild."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
+      }
+    },
+    {
+      "id": "week-feria5-prim-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 22",
+        "de": "Psalm 22"
+      },
+      "text": {
+        "la": "Dóminus regit me, et nihil mihi déerit: * in loco páscuæ ibi me collocávit.\nSuper aquam refectiónis educávit me: * ánimam meam convértit.\nDedúxit me super sémitas justítiæ, * propter nomen suum.\nNam, et si ambulávero in médio umbræ mortis, non timébo mala: * quóniam tu mecum es.\nVirga tua, et báculus tuus: * ipsa me consoláta sunt.\nParásti in conspéctu meo mensam, * advérsus eos, qui tríbulant me.\nImpinguásti in óleo caput meum: * et calix meus inébrians quam præclárus est!\nEt misericórdia tua subsequétur me * ómnibus diébus vitæ meæ:\nEt ut inhábitem in domo Dómini, * in longitúdinem diérum.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Der Herr leitet mich, und nichts wird mir mangeln, * auf einem Weideplatz, dort ließ er mich lagern.\nbeim Wasser der Erquickung zog er mich auf, * meine Seele hat er bekehrt.\nEr hat mich geleitet auf Pfade der Gerechtigkeit * um seines namens willen.\nDein Stab und Dein Stock, * sie haben mich getröstet.\nDein Stab und Dein Stock, * sie haben mich getröstet.\nmit Öl hast Du mein Haupt gesalbt, * und mein berauschender Kelch, wie herrlich ist er!\nmit Öl hast Du mein Haupt gesalbt, * und mein berauschender Kelch, wie herrlich ist er!\ndass ich wohnen darf im Haus des Herrn * für die länge der Tage.\ndass ich wohnen darf im Haus des Herrn * für die länge der Tage.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. In loco páscuæ * ibi Dóminus me collocávit.",
+        "de": "Ant. In loco páscuæ * ibi Dóminus me collocávit."
+      }
+    },
+    {
+      "id": "week-feria5-prim-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 71 (2-8)",
+        "de": "Psalm 71 (2-8)"
+      },
+      "text": {
+        "la": "Deus, judícium tuum regi da: * et justítiam tuam fílio regis:\nJudicáre pópulum tuum in justítia, * et páuperes tuos in judício.\nSuscípiant montes pacem pópulo: * et colles justítiam.\nJudicábit páuperes pópuli, et salvos fáciet fílios páuperum: * et humiliábit calumniatórem.\nEt permanébit cum sole, et ante lunam, * in generatióne et generatiónem.\nDescéndet sicut plúvia in vellus: * et sicut stillicídia stillántia super terram.\nOriétur in diébus ejus justítia, et abundántia pacis: * donec auferátur luna.\nEt dominábitur a mari usque ad mare: * et a flúmine usque ad términos orbis terrárum.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "um zu richten Dein Volk in Gerechtigkeit * und Deine Armen nach dem Recht.\num zu richten Dein Volk in Gerechtigkeit * und Deine Armen nach dem Recht.\nDie Berge sollen Frieden empfangen für das Volk * und die Hügel Gerechtigkeit.\nrichten wird er die Armen des Volkes und Heil schaffen den Kindern der Armen, * und demütigen wird er den Verleumder.\nund bleiben wird er mit der Sonne und vor dem Mond, * von Geschlecht zu Geschlecht.\nEr wird herabkommen wie Regen auf das Vlies * und wie Tropfen, die auf die Erde rieseln.\nAufgehen wird in seinen Tagen die Gerechtigkeit und die Fülle des Friedens, * bis der Mond hinweggenommen wird.\nund herrschen wird er von Meer zu Meer * und vom Strom bis zu den Enden des Erdkreises.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria5-prim-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 71 (9-19)",
+        "de": "Psalm 71 (9-19)"
+      },
+      "text": {
+        "la": "Coram illo prócident Æthíopes: * et inimíci ejus terram lingent.\nReges Tharsis, et ínsulæ múnera ófferent: * reges Árabum et Saba dona addúcent.\nEt adorábunt eum omnes reges terræ: * omnes gentes sérvient ei:\nQuia liberábit páuperem a poténte: * et páuperem, cui non erat adjútor.\nParcet páuperi et ínopi: * et ánimas páuperum salvas fáciet.\nEx usúris et iniquitáte rédimet ánimas eórum: * et honorábile nomen eórum coram illo.\nEt vivet, et dábitur ei de auro Arábiæ, et adorábunt de ipso semper: * tota die benedícent ei.\nEt erit firmaméntum in terra in summis móntium, superextollétur super Líbanum fructus ejus: * et florébunt de civitáte sicut fænum terræ.\nSit nomen ejus benedíctum in sǽcula: * ante solem pérmanet nomen ejus.\nEt benedicéntur in ipso omnes tribus terræ: * omnes gentes magnificábunt eum.\nBenedíctus Dóminus, Deus Israël, * qui facit mirabília solus:\nEt benedíctum nomen majestátis ejus in ætérnum: * et replébitur majestáte ejus omnis terra: fiat, fiat.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Vor ihm werden niederfallen die Äthiopier, * und seine Feinde werden die Erde lecken.\nDie Könige von Tharsis und die Inseln werden Gaben opfern. * Die Könige der Araber und Saba werden Geschenke herbeibringen.\nund anbeten werden ihn alle Könige der Erde, * alle Völker werden ihm dienen,\ndenn er wird den Armen befreien vom Mächtigen; * auch den Armen, für den es keinen Helfer gab.\nSchonen wird er den Armen und Hilflosen, * und die Seelen der Armen wird er retten.\nAus Wucher und Ungerechtigkeit wird er ihre Seelen erlösen, * und ehrwürdig ist ihr Name vor ihm.\nEr wird leben, und vom Gold Arabiens wird man ihm geben, und seinetwegen wird man allezeit anbeten, * den ganzen Tag werden sie ihn preisen.\nund es wird eine Feste sein auf Erden auf den Höhen der Berge, hoch über den Libanon wird sich erheben seine Frucht, * und sie werden der Stadt entblühen wie das Gras der Erde.\nund gesegnet werden in ihm alle Stämme der Erde, * alle Völker werden ihn verherrlichen.\nund gesegnet werden in ihm alle Stämme der Erde, * alle Völker werden ihn verherrlichen.\nGepriesen sei der Herr, der Gott israels, * der allein Wunder tut!\nund gepriesen sei der Name seiner Majestät in Ewigkeit, * und von seiner Majestät wird erfüllt sein die ganze Erde. So sei es! So sei es!\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "week-feria3-laudes",
+  "form": "1962",
+  "hour": "laudes",
+  "name": {
+    "la": "Ad Laudes",
+    "de": "Laudes (Morgenlob)"
+  },
+  "day": {
+    "title": {
+      "la": "Feria III",
+      "de": "Dienstag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-feria3-laudes-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria3-laudes-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 95",
+        "de": "Psalm 95"
+      },
+      "text": {
+        "la": "Cantáte Dómino cánticum novum: * cantáte Dómino, omnis terra.\nCantáte Dómino, et benedícite nómini ejus: * annuntiáte de die in diem salutáre ejus.\nAnnuntiáte inter gentes glóriam ejus, * in ómnibus pópulis mirabília ejus.\nQuóniam magnus Dóminus, et laudábilis nimis: * terríbilis est super omnes deos.\nQuóniam omnes dii géntium dæmónia: * Dóminus autem cælos fecit.\nConféssio, et pulchritúdo in conspéctu ejus: * sanctimónia et magnificéntia in sanctificatióne ejus.\nAfférte Dómino, pátriæ géntium, afférte Dómino glóriam et honórem: * afférte Dómino glóriam nómini ejus.\nTóllite hóstias, et introíte in átria ejus: * adoráte Dóminum in átrio sancto ejus.\nCommoveátur a fácie ejus univérsa terra: * dícite in géntibus quia Dóminus regnávit.\nÉtenim corréxit orbem terræ qui non commovébitur: * judicábit pópulos in æquitáte.\nLæténtur cæli, et exsúltet terra: commoveátur mare, et plenitúdo ejus: * gaudébunt campi, et ómnia quæ in eis sunt.\nTunc exsultábunt ómnia ligna silvárum a fácie Dómini, quia venit: * quóniam venit judicáre terram.\nJudicábit orbem terræ in æquitáte, * et pópulos in veritáte sua.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Singt dem Herrn ein neues lied, * singt dem Herrn, alle Welt.\nSingt dem Herrn und preist seinen namen, * verkündet von Tag zu Tag sein Heil.\nVerkündet unter den Heiden seine Herrlichkeit, * bei allen Völkern seine Wundertaten.\nDenn groß ist der Herr und überaus lobwürdig, * furchtbar ist er, mehr als alle Götter,\ndenn alle Götter der Heiden sind Dämonen, * der Herr aber hat die Himmel gemacht.\nlobpreis und Schönheit sind vor seinem Angesicht, * Heiligkeit und Hoheit in seinem Heiligtum.\nbringt dar dem Herrn, ihr Stämme der Heiden, bringt dar dem Herrn ruhm und Ehre, * bringt dar dem Herrn den ruhm seines namens.\nnehmt Opfergaben und tretet ein in seine Vorhöfe, * betet an den Herrn in seinem heiligen Vorhof.\nErbeben soll vor seinem Angesicht die ganze Erde, * sagt bei den Heiden: Der Herr hat die Königs herrschaft erlangt.\nDenn er hat den Erdkreis fest errichtet, der nicht wanken wird, * er wird richten die Völker in Gerechtigkeit.\nFreuen sollen sich die Himmel, und es frohlocke die Erde, erbeben soll das meer und seine Fülle, * es werden sich freuen die Felder und alles, was auf ihnen ist.\nDann werden jauchzen alle bäume der Wälder vor dem Angesicht des Herrn, weil er kommt, * denn er kommt, die Erde zu richten.\nrichten wird er den Erdkreis in Gerechtigkeit * und die Völker in seiner Wahrheit.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Cantáte * Dómino et benedícite nómini ejus.",
+        "de": "Ant. Nun singt * dem Herrn und preiset seinen Namen."
+      }
+    },
+    {
+      "id": "week-feria3-laudes-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 42",
+        "de": "Psalm 42"
+      },
+      "text": {
+        "la": "Júdica me, Deus, et discérne causam meam de gente non sancta, * ab hómine iníquo, et dolóso érue me.\nQuia tu es, Deus, fortitúdo mea: * quare me repulísti? et quare tristis incédo, dum afflígit me inimícus?\nEmítte lucem tuam et veritátem tuam: * ipsa me deduxérunt, et adduxérunt in montem sanctum tuum, et in tabernácula tua.\nEt introíbo ad altáre Dei: * ad Deum, qui lætíficat juventútem meam.\nConfitébor tibi in cíthara, Deus, Deus meus: * quare tristis es, ánima mea? et quare contúrbas me?\nSpera in Deo, quóniam adhuc confitébor illi: * salutáre vultus mei, et Deus meus.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "richte mich, Gott, und entscheide meine Sache gegen ein unheiliges Volk, * vom ungerechten und tückischen menschen rette mich.\nDenn Du bist, Gott, meine Stärke; * warum hast Du mich verstoßen, und warum geh ich traurig einher, da der Feind mich bedrängt?\nSende aus Dein licht und Deine Wahrheit; * sie haben mich herabgeführt und mich herbeigeführt zu Deinem heiligen berg und in Dein Gezelt.\nund eintreten will ich zum Altar Gottes, * zu Gott, der meine Jugend erfreut.\nich will Dich preisen auf der zither, Gott, mein Gott; * warum bist du traurig, meine Seele, und warum verwirrst du mich?\nHoffe auf Gott, denn noch will ich ihn preisen; * er ist das Heil meines Angesichts und mein Gott.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Salutáre vultus mei, * Deus meus.",
+        "de": "Ant. Mach segnend heiter mir das Antlitz, * o mein Gott du."
+      }
+    },
+    {
+      "id": "week-feria3-laudes-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 66",
+        "de": "Psalm 66"
+      },
+      "text": {
+        "la": "Deus misereátur nostri, et benedícat nobis: * illúminet vultum suum super nos, et misereátur nostri.\nUt cognoscámus in terra viam tuam, * in ómnibus géntibus salutáre tuum.\nConfiteántur tibi pópuli, Deus: * confiteántur tibi pópuli omnes.\nLæténtur et exsúltent gentes: * quóniam júdicas pópulos in æquitáte, et gentes in terra dírigis.\nConfiteántur tibi pópuli, Deus, confiteántur tibi pópuli omnes: * (7a) terra dedit fructum suum.\nBenedícat nos Deus, Deus noster, (8) benedícat nos Deus: * et métuant eum omnes fines terræ.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Gott erbarme sich unser und segne uns, * er lasse sein Angesicht leuchten über uns und erbarme sich unser,\ndamit wir auf Erden Deinen Weg erkennen, * unter allen Völkern Dein Heil.\nPreisen sollen Dich die Völker, Gott, * preisen sollen Dich alle Völker.\nFreuen sollen sich und jubeln die Heiden, * denn Du richtest die Völker in Gerechtigkeit und lenkst die Nationen auf Erden.\nPreisen sollen Dich die Völker, Gott, preisen sollen Dich alle Völker; * (7a) die Erde gab ihre Frucht.\nEs segne uns Gott, unser Gott, (8) es segne uns Gott, * und fürchten sollen ihn alle Enden der Erde.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Illúmina, Dómine, * vultum tuum super nos.",
+        "de": "Ant. Lass, o Herr, heiter leuchten * über uns dein Antlitz"
+      }
+    },
+    {
+      "id": "week-feria3-laudes-ps4",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 212",
+        "de": "Canticum"
+      },
+      "text": {
+        "la": "Magnus es, Dómine, in ætérnum, * et in ómnia sǽcula regnum tuum:\nQuóniam tu flagéllas, et salvas: dedúcis ad ínferos, et redúcis: * et non est qui effúgiat manum tuam.\nConfitémini Dómino, fílii Israël, * et in conspéctu géntium laudáte eum:\nQuóniam ídeo dispérsit vos inter gentes, quæ ignórant eum, * ut vos enarrétis mirabília ejus,\nEt faciátis scire eos, * quia non est álius Deus omnípotens præter eum.\nIpse castigávit nos propter iniquitátes nostras: * et ipse salvábit nos propter misericórdiam suam.\nAspícite ergo quæ fecit nobíscum, et cum timóre et tremóre confitémini illi: * Regémque sæculórum exaltáte in opéribus vestris.\nEgo autem in terra captivitátis meæ confitébor illi: * quóniam osténdit majestátem suam in gentem peccatrícem.\nConvertímini ítaque, peccatóres, et fácite justítiam coram Deo, * credéntes quod fáciat vobíscum misericórdiam suam:\nEgo autem, et ánima mea * in eo lætábimur.\nBenedícite Dóminum, omnes elécti ejus: * ágite dies lætítiæ, et confitémini illi.",
+        "de": "Magnus es, Dómine, in ætérnum, * et in ómnia sæcula regnum tuum:\nQuóniam tu flagéllas, et salvas: dedúcis ad ínferos, et redúcis: * et non est qui effúgiat manum tuam.\nConfitémini Dómino, fílii Israël, * et in conspéctu géntium laudáte eum:\nQuóniam ídeo dispérsit vos inter gentes, quæ ignórant eum, * ut vos enarrétis mirabília ejus,\nEt faciátis scire eos, * quia non est álius Deus omnípotens præter eum.\nIpse castigávit nos propter iniquitátes nostras: * et ipse salvábit nos propter misericórdiam suam.\nAspícite ergo quæ fecit nobíscum, et cum timóre et tremóre confitémini illi: * Regémque sæculórum exaltáte in opéribus vestris.\nEgo autem in terra captivitátis meæ confitébor illi: * quóniam osténdit majestátem suam in gentem peccatrícem.\nConvertímini ítaque, peccatóres, et fácite justítiam coram Deo, * credéntes quod fáciat vobíscum misericórdiam suam:\nEgo autem, et ánima mea * in eo lætábimur.\nBenedícite Dóminum, omnes elécti ejus: * ágite dies lætítiæ, et confitémini illi."
+      },
+      "rubric": {
+        "la": "Ant. Exaltáte * Regem sæculórum in opéribus vestris.",
+        "de": "Ant. Lobt und rühmt * den ewigen König in all euren Werken."
+      }
+    },
+    {
+      "id": "week-feria3-laudes-ps5",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 134",
+        "de": "Psalm 134"
+      },
+      "text": {
+        "la": "Laudáte nomen Dómini, * laudáte, servi, Dóminum.\nQui statis in domo Dómini, * in átriis domus Dei nostri.\nLaudáte Dóminum, quia bonus Dóminus: * psállite nómini ejus, quóniam suáve.\nQuóniam Jacob elégit sibi Dóminus, * Israël in possessiónem sibi.\nQuia ego cognóvi quod magnus est Dóminus, * et Deus noster præ ómnibus diis.\nÓmnia quæcúmque vóluit, Dóminus fecit in cælo, et in terra, * in mari, et in ómnibus abýssis.\nEdúcens nubes ab extrémo terræ: * fúlgura in plúviam fecit.\nQui prodúcit ventos de thesáuris suis: * (8) qui percússit primogénita Ægýpti ab hómine usque ad pecus.\nEt misit signa, et prodígia in médio tui, Ægýpte: * in Pharaónem, et in omnes servos ejus.\nQui percússit gentes multas: * et occídit reges fortes:\nSehon, regem Amorrhæórum, et Og, regem Basan, * et ómnia regna Chánaan.\nEt dedit terram eórum hereditátem, * hereditátem Israël, pópulo suo.\nDómine, nomen tuum in ætérnum: * Dómine, memoriále tuum in generatiónem et generatiónem.\nQuia judicábit Dóminus pópulum suum: * et in servis suis deprecábitur.\nSimulácra géntium argéntum, et aurum, * ópera mánuum hóminum.\nOs habent, et non loquéntur: * óculos habent, et non vidébunt.\nAures habent, et non áudient: * neque enim est spíritus in ore ipsórum.\nSímiles illis fiant qui fáciunt ea: * et omnes qui confídunt in eis.\nDomus Israël, benedícite Dómino: * domus Aaron, benedícite Dómino.\nDomus Levi, benedícite Dómino: * qui timétis Dóminum, benedícite Dómino.\nBenedíctus Dóminus ex Sion, * qui hábitat in Jerúsalem.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Lobet den Namen des Herrn, * lobet, ihr Diener, den Herrn.\nDie ihr steht im Hause des Herrn, * in den Vorhöfen des Hauses unseres Gottes.\nlobet den Herrn, denn gut ist der Herr, * spielt seinem Namen, denn er ist lieblich,\ndenn Jakob hat sich der Herr erwählt, * Israel zu seinem Eigentum;\ndenn ich habe erkannt, daß der Herr groß ist, * und unser Gott ist vor allen Göttern.\nAlles, was immer er wollte, hat der Herr gemacht im Himmel und auf Erden, * im Meer und in allen Tiefen.\nEr führt Wolken herbei vom Äußersten der Erde, * macht Blitze zum Regen.\nEr bringt Winde aus seinen Schatzkammern hervor, * (8) der die Erstgeborenen Ägyptens schlug vom Menschen bis zum Vieh.\nUnd er sandte Zeichen und Wunder in deine Mitte, Ägypten, * wider den Pharao und all seine Knechte,\nder viele Völker schlug * und starke Könige tötete,\nSehon, den König der Amoriter, und Og, den König von Basan, * und alle Reiche Kanaans.\nUnd er gab ihr Land als Erbe, * als Erbe Israel, seinem Volk.\nHerr, Dein Name währt in Ewigkeit, * Herr, Dein Gedenken von Geschlecht zu Geschlecht.\nDenn richten wird der Herr sein Volk, * und für seine Diener läßt er sich erbitten.\nDie Götzenbilder der Heiden sind Silber und Gold, * Machwerke von Menschenhänden.\nEinen Mund haben sie und werden nicht reden, * Augen haben sie und werden nicht sehen.\nOhren haben sie und werden nicht hören, * denn kein Hauch ist in ihrem Mund.\nDie sie machen, mögen ihnen gleich werden, * und alle, die auf sie vertrauen.\nHaus Israel, preiset den Herrn, * Haus Aaron, preiset den Herrn.\nHaus Levi, preiset den Herrn, * die ihr fürchtet den Herrn, preiset den Herrn.\nGepriesen sei der Herr von Sion her, * der da wohnt in Jerusalem.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Laudáte * nomen Dómini, qui statis in domo Dómini.",
+        "de": "Ant. Nun lobt * den Namen des Herrn, die in dem Haus des Herrn ihr weilet."
+      }
+    },
+    {
+      "id": "week-feria3-laudes-benedictus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Canticum Zachariæ (Benedictus)",
+        "de": "Lobgesang des Zacharias"
+      },
+      "reference": {
+        "la": "Luc 1, 68-79",
+        "de": "Luc 1, 68-79"
+      },
+      "text": {
+        "la": "Benedíctus Dóminus, Deus Israël: * quia visitávit, et fecit redemptiónem plebis suæ:\nEt eréxit cornu salútis nobis: * in domo David, púeri sui.\nSicut locútus est per os sanctórum, * qui a sǽculo sunt, prophetárum ejus:\nSalútem ex inimícis nostris, * et de manu ómnium, qui odérunt nos:\nAd faciéndam misericórdiam cum pátribus nostris: * et memorári testaménti sui sancti:\nJusjurándum, quod jurávit ad Ábraham patrem nostrum, * datúrum se nobis:\nUt sine timóre, de manu inimicórum nostrórum liberáti, * serviámus illi.\nIn sanctitáte, et justítia coram ipso, * ómnibus diébus nostris.\nEt tu, puer, Prophéta Altíssimi vocáberis: * præíbis enim ante fáciem Dómini paráre vias ejus:\nAd dandam sciéntiam salútis plebi ejus: * in remissiónem peccatórum eórum:\nPer víscera misericórdiæ Dei nostri: * in quibus visitávit nos, óriens ex alto:\nIllumináre his, qui in ténebris, et in umbra mortis sedent: * ad dirigéndos pedes nostros in viam pacis.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Gepriesen sei der Herr, der Gott Israels; * denn er hat sein Volk besucht und ihm Erlösung geschaffen;\nund hat uns aufgerichtet ein Horn des Heiles * im Hause Davids, seines Knechtes:\nwie er verheißen hat durch den Mund seiner heiligen Propheten, * die von alters her gewesen:\nErrettung von unsern Feinden * und aus der Hand aller, die uns hassen;\nzu üben Barmherzigkeit an unsern Vätern * und zu gedenken seines heiligen Bundes,\ndes Eides, den er unserm Vater Abraham geschworen, * uns zu verleihen,\ndass wir, befreit aus der Hand unsrer Feinde, ohne Furcht ihm dienen \nin Heiligkeit und Gerechtigkeit vor ihm * alle unsre Tage.\nUnd du, Kind, wirst Prophet des Höchsten heißen; * denn du wirst vor dem Herrn hergehen, ihm den Weg zu bereiten,\nseinem Volke Kunde des Heiles zu geben * zur Vergebung ihrer Sünden,\ndurch die herzliche Barmherzigkeit unsres Gottes, * mit der uns besucht hat der Aufgang aus der Höhe,\nzu erleuchten, die in Finsternis und Todesschatten sitzen, * zu lenken unsre Schritte auf den Weg des Friedens.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

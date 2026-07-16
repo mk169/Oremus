@@ -1,0 +1,88 @@
+{
+  "id": "week-sabbato-terz",
+  "form": "1962",
+  "hour": "terz",
+  "name": {
+    "la": "Ad Tertiam",
+    "de": "Terz"
+  },
+  "day": {
+    "title": {
+      "la": "Sabbato",
+      "de": "Samstag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-sabbato-terz-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-sabbato-terz-hymnus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Nunc, Sancte, nobis, Spíritus, unum Patri cum Fílio, dignáre promptus íngeri nostro refúsus péctori.\nOs, lingua, mens, sensus, vigor confessiónem pérsonent, flamméscat igne cáritas, accéndat ardor próximos.",
+        "de": "Komm, Heilger Geist, und wohne uns, der eins mit Vater und mit Sohn, mit deiner Gnade gütig bei und gieße dich ins Herz uns ein.\nDass Mund und Zunge, Geist und Sinn dein Lob und dein Bekenntnis ist, in Liebe lodre unser Herz und zünde auch den Nächsten an."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
+      }
+    },
+    {
+      "id": "week-sabbato-terz-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 101 (2-13)",
+        "de": "Psalm 101 (2-13)"
+      },
+      "text": {
+        "la": "Dómine, exáudi oratiónem meam: * et clamor meus ad te véniat.\nNon avértas fáciem tuam a me: * in quacúmque die tríbulor, inclína ad me aurem tuam.\nIn quacúmque die invocávero te, * velóciter exáudi me.\nQuia defecérunt sicut fumus dies mei: * et ossa mea sicut crémium aruérunt.\nPercússus sum ut fænum, et áruit cor meum: * quia oblítus sum comédere panem meum.\nA voce gémitus mei * adhǽsit os meum carni meæ.\nSímilis factus sum pellicáno solitúdinis: * factus sum sicut nyctícorax in domicílio.\nVigilávi, * et factus sum sicut passer solitárius in tecto.\nTota die exprobrábant mihi inimíci mei: * et qui laudábant me, advérsum me jurábant.\nQuia cínerem tamquam panem manducábam, * et potum meum cum fletu miscébam.\nA fácie iræ et indignatiónis tuæ: * quia élevans allisísti me.\nDies mei sicut umbra declinavérunt: * et ego sicut fænum árui.\nTu autem, Dómine, in ætérnum pérmanes: * et memoriále tuum in generatiónem et generatiónem.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Herr, erhöre mein Gebet, * und mein rufen gelange zu Dir.\nAn welchem Tag auch immer ich Dich anrufe, * erhöre mich schnell.\nAn welchem Tag auch immer ich Dich anrufe, * erhöre mich schnell.\nDenn hingeschwunden wie rauch sind meine Tage, * und meine Gebeine verdorrt wie brennholz.\nich wurde geschlagen wie Gras, und es verdorrte mein Herz, * denn ich vergaß, mein brot zu essen.\nVom laut meines Seufzens * klebt mein Gebein an meinem Fleisch.\nich gleiche dem Pelikan der Wüste, * bin geworden wie eine nachteule in ihrer behausung.\nich habe gewacht * und bin geworden wie ein einsamer Sperling auf dem Dach.\nDen ganzen Tag verhöhnten mich meine Feinde, * und die mich lobten, verschworen sich gegen mich.\nDenn Asche aß ich wie brot, * und meinen Trank mischte ich mit Tränen,\nvor dem Angesicht Deines zornes und Deiner Empörung, * denn Du hobst mich empor und schmettertest mich nieder.\nmeine Tage neigen sich wie Schatten, * und ich verdorre wie Gras.\nDu aber, Herr, bleibst in Ewigkeit * und Dein Gedenken von Geschlecht zu Geschlecht.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Clamor meus, * Dómine, ad te pervéniat: non avértas fáciem tuam a me.",
+        "de": "Ant. Clamor meus, * Dómine, ad te pervéniat: non avértas fáciem tuam a me."
+      }
+    },
+    {
+      "id": "week-sabbato-terz-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 101 (14-23)",
+        "de": "Psalm 101 (14-23)"
+      },
+      "text": {
+        "la": "Tu exsúrgens miseréberis Sion: * quia tempus miseréndi ejus, quia venit tempus.\nQuóniam placuérunt servis tuis lápides ejus: * et terræ ejus miserebúntur.\nEt timébunt gentes nomen tuum, Dómine, * et omnes reges terræ glóriam tuam.\nQuia ædificávit Dóminus Sion: * et vidébitur in glória sua.\nRespéxit in oratiónem humílium: * et non sprevit precem eórum.\nScribántur hæc in generatióne áltera: * et pópulus, qui creábitur, laudábit Dóminum:\nQuia prospéxit de excélso sancto suo: * Dóminus de cælo in terram aspéxit:\nUt audíret gémitus compeditórum: * ut sólveret fílios interemptórum:\nUt annúntient in Sion nomen Dómini: * et laudem ejus in Jerúsalem.\nIn conveniéndo pópulos in unum, * et reges ut sérviant Dómino.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Du wirst Dich erheben und Dich Sions erbarmen, * denn es ist zeit, sich seiner zu erbarmen, ja, gekommen ist die zeit.\nDenn seine Steine gefallen Deinen Knechten, * und sie fühlen Erbarmen mit seiner Erde.\nund die Völker werden Deinen namen fürchten, o Herr, * und alle Könige der Erde Deine Herrlichkeit.\nDenn der Herr hat Sion erbaut, * und er wird in seiner Herrlichkeit erscheinen.\nEr sah auf das Gebet der Demütigen, * und er verschmähte nicht ihre bitte.\nman schreibe dies für ein kommendes Geschlecht; * und ein Volk, das einst geschaffen wird, wird loben den Herrn.\nDenn er schaute herab von seiner heiligen Höhe, * der Herr blickte vom Himmel auf die Erde,\nauf dass er höre das Seufzen der Gefesselten * und die Söhne der Getöteten erlöse,\ndamit sie in Sion den namen des Herrn verkünden * und sein lob in Jerusalem,\nwenn die Völker sich allzumal versammeln * und die Könige, um dem Herrn zu dienen.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-sabbato-terz-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 101 (24-29)",
+        "de": "Psalm 101 (24-29)"
+      },
+      "text": {
+        "la": "Respóndit ei in via virtútis suæ: * Paucitátem diérum meórum núntia mihi.\nNe révoces me in dimídio diérum meórum: * in generatiónem et generatiónem anni tui.\nInítio tu, Dómine, terram fundásti: * et ópera mánuum tuárum sunt cæli.\nIpsi períbunt, tu autem pérmanes: * et omnes sicut vestiméntum veteráscent.\nEt sicut opertórium mutábis eos, et mutabúntur: * tu autem idem ipse es, et anni tui non defícient.\nFílii servórum tuórum habitábunt: * et semen eórum in sǽculum dirigétur.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Es antwortete ihm [das geprüfte Volk] auf dem Weg seiner Stärke: * Die geringe zahl meiner Tage tue mir kund!\nberufe mich nicht ab in der Hälfte meiner Tage; * von Geschlecht zu Geschlecht währen Deine Jahre.\nim Anbeginn hast Du, o Herr, die Erde begründet, * und Werke Deiner Hände sind die Himmel.\nSie werden vergehen, Du aber bleibst, * und sie alle werden altern wie ein Kleid.\nund wie ein Gewand wirst Du sie wechseln, und sie werden getauscht, * Du aber bist immer derselbe, und Deine Jahre enden nie.\nDie Söhne Deiner Knechte werden Wohnung nehmen, * und ihre nachkommen werden bleiben in Ewigkeit.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

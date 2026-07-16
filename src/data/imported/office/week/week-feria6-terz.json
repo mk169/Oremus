@@ -1,0 +1,88 @@
+{
+  "id": "week-feria6-terz",
+  "form": "1962",
+  "hour": "terz",
+  "name": {
+    "la": "Ad Tertiam",
+    "de": "Terz"
+  },
+  "day": {
+    "title": {
+      "la": "Feria VI",
+      "de": "Freitag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-feria6-terz-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria6-terz-hymnus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Nunc, Sancte, nobis, Spíritus, unum Patri cum Fílio, dignáre promptus íngeri nostro refúsus péctori.\nOs, lingua, mens, sensus, vigor confessiónem pérsonent, flamméscat igne cáritas, accéndat ardor próximos.",
+        "de": "Komm, Heilger Geist, und wohne uns, der eins mit Vater und mit Sohn, mit deiner Gnade gütig bei und gieße dich ins Herz uns ein.\nDass Mund und Zunge, Geist und Sinn dein Lob und dein Bekenntnis ist, in Liebe lodre unser Herz und zünde auch den Nächsten an."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
+      }
+    },
+    {
+      "id": "week-feria6-terz-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 79 (2-8)",
+        "de": "Psalm 79 (2-8)"
+      },
+      "text": {
+        "la": "Qui regis Israël, inténde: * qui dedúcis velut ovem Joseph.\nQui sedes super Chérubim, * manifestáre coram Éphraim, Bénjamin, et Manásse.\nÉxcita poténtiam tuam, et veni, * ut salvos fácias nos.\nDeus, convérte nos: * et osténde fáciem tuam, et salvi érimus.\nDómine, Deus virtútum, * quoúsque irascéris super oratiónem servi tui?\nCibábis nos pane lacrimárum: * et potum dabis nobis in lácrimis in mensúra?\nPosuísti nos in contradictiónem vicínis nostris: * et inimíci nostri subsannavérunt nos.\nDeus virtútum, convérte nos: * et osténde fáciem tuam, et salvi érimus.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Der Du über Cherubim thronst, * offenbare Dich vor Ephra im, benjamin und manasse.\nDer Du über Cherubim thronst, * offenbare Dich vor Ephra im, benjamin und manasse.\nbiete auf Deine macht und komm, * um uns zu retten.\nGott, bekehre uns * und zeige Dein Angesicht, und wir werden gerettet sein.\nHerr, Gott der Heerscharen, * wie lange wirst Du zürnen über das Gebet Deines Knechtes?\nWillst Du uns mit Tränenbrot speisen * und zum Trank uns Tränen geben in reichem maß?\nDu hast uns gesetzt zum zankapfel für unsere nachbarn, * und unsere Feinde haben uns verhöhnt.\nGott der Heerscharen, bekehre uns * und zeige Dein Angesicht, so werden wir gerettet sein.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Éxcita, Dómine, * poténtiam tuam, ut salvos fácias nos.",
+        "de": "Ant. Éxcita, Dómine, * poténtiam tuam, ut salvos fácias nos."
+      }
+    },
+    {
+      "id": "week-feria6-terz-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 79 (9-20)",
+        "de": "Psalm 79 (9-20)"
+      },
+      "text": {
+        "la": "Víneam de Ægýpto transtulísti: * ejecísti gentes, et plantásti eam.\nDux itíneris fuísti in conspéctu ejus: * plantásti radíces ejus, et implévit terram.\nOpéruit montes umbra ejus: * et arbústa ejus cedros Dei.\nExténdit pálmites suos usque ad mare: * et usque ad flumen propágines ejus.\nUt quid destruxísti macériam ejus: * et vindémiant eam omnes, qui prætergrediúntur viam?\nExterminávit eam aper de silva: * et singuláris ferus depástus est eam.\nDeus virtútum, convértere: * réspice de cælo, et vide, et vísita víneam istam.\nEt pérfice eam, quam plantávit déxtera tua: * et super fílium hóminis, quem confirmásti tibi.\nIncénsa igni, et suffóssa * ab increpatióne vultus tui períbunt.\nFiat manus tua super virum déxteræ tuæ: * et super fílium hóminis, quem confirmásti tibi.\nEt non discédimus a te, vivificábis nos: * et nomen tuum invocábimus.\nDómine, Deus virtútum, convérte nos: * et osténde fáciem tuam, et salvi érimus.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Einen Weinstock hast Du aus Ägypten übertragen, * hast Völker vertrieben und ihn eing epflanzt.\nEin Führer auf dem Weg warst Du vor seinem Angesicht, * Du hast seine Wurzeln eingepflanzt, und er erfüllte das land.\nSein Schatten bedeckte die berge * und seine ranken die zedern Gottes.\nEr streckte zweige aus bis zum meer * und bis zum Fluss seine Sprossen.\nWarum hast Du seine mauern niedergerissen, * und alle ernten ihn ab, die des Weges vorübergehen?\nzerwühlt hat ihn ein Eber aus dem Wald, * und ein einzelnes Wildtier hat ihn abgeweidet.\nGott der Heerscharen, wende Dich um, * schau vom Himmel und sieh, und suche heim diesen Weinstock\nund vollende ihn, den Deine rechte gepflanzt hat, * und schau auf den menschensohn, den Du für Dich erstarken ließest.\nEr ist im Feuer verbrannt und untergraben; * vor dem Drohen Deines Angesichtes werden sie vergehen.\nDeine Hand sei über dem mann Deiner rechten * und über dem menschensohn, den Du für Dich erstarken ließest.\nund wir weichen nicht von Dir; Du wirst uns beleben, * und Deinen namen werden wir anrufen.\nHerr, Gott der Heerscharen, bekehre uns, * und zeige Dein Angesicht, und wir werden gerettet sein.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria6-terz-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 81",
+        "de": "Psalm 81"
+      },
+      "text": {
+        "la": "Deus stetit in synagóga deórum: * in médio autem deos dijúdicat.\nÚsquequo judicátis iniquitátem: * et fácies peccatórum súmitis?\nJudicáte egéno, et pupíllo: * húmilem, et páuperem justificáte.\nErípite páuperem: * et egénum de manu peccatóris liberáte.\nNesciérunt, neque intellexérunt, in ténebris ámbulant: * movebúntur ómnia fundaménta terræ.\nEgo dixi: Dii estis, * et fílii Excélsi omnes.\nVos autem sicut hómines moriémini: * et sicut unus de princípibus cadétis.\nSurge, Deus, júdica terram: * quóniam tu hereditábis in ómnibus géntibus.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Gott steht da in der Versammlung der Götter; * und in ihrer mitte richtet er die Götter.\nWie lange richtet ihr ungerechtigkeit * und bevorzugt das Ansehen der Sünder?\nSprecht recht dem bedürftigen und Waisen, * dem niedrigen und Armen schafft recht.\nreißt heraus den Armen * und befreit den bedürftigen aus der Hand des Sünders.\nSie erkennen nichts, noch haben sie Einsicht, in Finsternis wandeln sie; * alle Grundfesten der Erde werden erschüttert.\nich sprach: Götter seid ihr * und Söhne des Höchsten ihr alle.\nihr aber werdet sterben wie menschen, * und wie einer der Fürsten werdet ihr fallen.\nErhebe Dich, Gott, richte die Erde, * denn erben wirst Du unter allenVölkern.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

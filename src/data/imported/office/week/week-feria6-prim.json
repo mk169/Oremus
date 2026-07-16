@@ -1,0 +1,88 @@
+{
+  "id": "week-feria6-prim",
+  "form": "1962",
+  "hour": "prim",
+  "name": {
+    "la": "Ad Primam",
+    "de": "Prim"
+  },
+  "day": {
+    "title": {
+      "la": "Feria VI",
+      "de": "Freitag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-feria6-prim-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria6-prim-hymnus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Jam lucis orto sídere, Deum precémur súpplices, ut in diúrnis áctibus nos servet a nocéntibus.\nLinguam refrénans témperet, ne litis horror ínsonet: visum fovéndo cóntegat, ne vanitátes háuriat.",
+        "de": "Da nun das Licht am Himmel steigt, flehn wir zu Gott in Demut still, dass er in allem, was wir tun, uns vor dem Schaden schützen will.\nEr zähme, zügle unsre Zung, dass nicht der Streites Lärm erschallt; er hüte gnädig unsern Blick vor eitler Dinge Trug und Bild."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
+      }
+    },
+    {
+      "id": "week-feria6-prim-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 21 (2-12)",
+        "de": "Psalm 21 (2-12)"
+      },
+      "text": {
+        "la": "Deus, Deus meus, réspice in me: quare me dereliquísti? * longe a salúte mea verba delictórum meórum.\nDeus meus, clamábo per diem, et non exáudies: * et nocte, et non ad insipiéntiam mihi.\nTu autem in sancto hábitas, * laus Israël.\nIn te speravérunt patres nostri: * speravérunt, et liberásti eos.\nAd te clamavérunt, et salvi facti sunt: * in te speravérunt, et non sunt confúsi.\nEgo autem sum vermis, et non homo: * oppróbrium hóminum, et abjéctio plebis.\nOmnes vidéntes me, derisérunt me: * locúti sunt lábiis, et movérunt caput.\nSperávit in Dómino, erípiat eum: * salvum fáciat eum, quóniam vult eum.\nQuóniam tu es, qui extraxísti me de ventre: * spes mea ab ubéribus matris meæ. In te projéctus sum ex útero:\nDe ventre matris meæ Deus meus es tu, * ne discésseris a me:\nQuóniam tribulátio próxima est: * quóniam non est qui ádjuvet.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Gott, mein Gott, schau her auf mich. Warum hast Du mich verlassen? * Fern von meinem Heil sind die Worte meiner Verfehlungen.\nmein Gott, ich rufe bei Tag, doch Du erhörst es nicht, * und bei nacht, und nicht ist es Torheit von mir.\nDu aber wohnst im Heiligtum, * lob israels.\nAuf Dich hofften unsere Väter; * sie haben gehofft, und Du hast sie befreit.\nzu Dir haben sie gerufen und wurden gerettet, * auf Dich haben sie gehofft und wurden nicht zuschanden.\nich aber bin ein Wurm und kein mensch, * der leute Spott und des Volkes Verachtung.\nAlle, die mich sehen, verspotten mich, * sie lästern mit den lippen und schütteln den Kopf.\nEr hat auf den Herrn vertraut, der soll ihn nun retten; * er soll ihn heil machen, da er ihn ja will.\nDenn Du bist es, der mich aus dem leib gezogen, * meine Hoffnung seit der brust meiner mutter; auf Dich bin ich geworfen vom mutterschoß an.\nVom leib meiner mutter an bist Du mein Gott; * weiche nicht von mir.\nDenn Drangsal ist nahe, * denn niemand ist da, der hilft.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Ne discédas a me, * Dómine: quóniam tribulátio próxima est: quóniam non est qui ádjuvet.",
+        "de": "Ant. Ne discédas a me, * Dómine: quóniam tribulátio próxima est: quóniam non est qui ádjuvet."
+      }
+    },
+    {
+      "id": "week-feria6-prim-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 21 (13-23)",
+        "de": "Psalm 21 (13-23)"
+      },
+      "text": {
+        "la": "Circumdedérunt me vítuli multi: * tauri pingues obsedérunt me.\nAperuérunt super me os suum, * sicut leo rápiens et rúgiens.\nSicut aqua effúsus sum: * et dispérsa sunt ómnia ossa mea.\nFactum est cor meum tamquam cera liquéscens * in médio ventris mei.\nÁruit tamquam testa virtus mea, et lingua mea adhǽsit fáucibus meis: * et in púlverem mortis deduxísti me.\nQuóniam circumdedérunt me canes multi: * concílium malignántium obsédit me.\nFodérunt manus meas et pedes meos: * dinumeravérunt ómnia ossa mea.\nIpsi vero consideravérunt et inspexérunt me: * divisérunt sibi vestiménta mea, et super vestem meam misérunt sortem.\nTu autem, Dómine, ne elongáveris auxílium tuum a me: * ad defensiónem meam cónspice.\nÉrue a frámea, Deus, ánimam meam: * et de manu canis únicam meam:\nSalva me ex ore leónis: * et a córnibus unicórnium humilitátem meam.\nNarrábo nomen tuum frátribus meis: * in médio ecclésiæ laudábo te.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Es umgaben mich viele Kälber, * fette Stiere belagerten mich.\nSie öffneten über mir ihren rachen * wie ein reißender und brüllender löwe.\nmein Herz ist geworden wie schmelzendes Wachs, * inmitten meines leibes.\nmein Herz ist geworden wie schmelzendes Wachs, * inmitten meines leibes.\nVertrocknet wie eine Scherbe ist meine Kraft, und meine zunge klebt an meinem Gaumen, * und in den Staub des Todes hast Du mich hinabgeführt.\nSie haben meine Hände und Füße durchbohrt, * gezählt haben sie all meine Gebeine.\nSie haben meine Hände und Füße durchbohrt, * gezählt haben sie all meine Gebeine.\nSie aber gafften mich an und betrachteten mich, * sie teilten unter sich meine Kleider und warfen das los um mein Gewand.\nDu aber, Herr, entferne nicht Deine Hilfe von mir, * achte auf meine Verteidigung.\nErrette vom Speer, o Gott, meine Seele, * und aus der Hand des Hundes meine Einzige.\nbefreie mich aus dem rachen des löwen * und vor den Hörnern der Einhörner mich Armen.\nVerkünden will ich Deinen na men meinen brüdern, * inmitten der Versammlung Dich loben.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria6-prim-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 21 (24-32)",
+        "de": "Psalm 21 (24-32)"
+      },
+      "text": {
+        "la": "Qui timétis Dóminum, laudáte eum: * univérsum semen Jacob, glorificáte eum.\nTímeat eum omne semen Israël: * quóniam non sprevit, neque despéxit deprecatiónem páuperis:\nNec avértit fáciem suam a me: * et cum clamárem ad eum, exaudívit me.\nApud te laus mea in ecclésia magna: * vota mea reddam in conspéctu timéntium eum.\nEdent páuperes, et saturabúntur: et laudábunt Dóminum qui requírunt eum: * vivent corda eórum in sǽculum sǽculi.\nReminiscéntur et converténtur ad Dóminum * univérsi fines terræ:\nEt adorábunt in conspéctu ejus * univérsæ famíliæ géntium.\nQuóniam Dómini est regnum: * et ipse dominábitur géntium.\nManducavérunt et adoravérunt omnes pingues terræ: * in conspéctu ejus cadent omnes qui descéndunt in terram.\nEt ánima mea illi vivet: * et semen meum sérviet ipsi.\nAnnuntiábitur Dómino generátio ventúra: * et annuntiábunt cæli justítiam ejus pópulo qui nascétur, quem fecit Dóminus.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Die ihr fürchtet den Herrn, lobet ihn, * alle nachkommen Jakobs, verherrlicht ihn!\nnoch wandte er sein Angesicht von mir ab, * und als ich zu ihm rief, hat er mich erhört.\nnoch wandte er sein Angesicht von mir ab, * und als ich zu ihm rief, hat er mich erhört.\nbei Dir ist mein lob in großer Versammlung, * meine Gelübde will ich erfüllen im Angesicht derer, die ihn fürchten.\nDie Armen werden essen und gesättigt, und den Herrn werden loben, die ihn suchen, * ihre Herzen werden leben in alle Ewigkeit.\nund es werden anbeten vor seinem Angesicht * alle Familien der Völker.\nund es werden anbeten vor seinem Angesicht * alle Familien der Völker.\nDenn dem Herrn gehört das reich, * und er wird herrschen über die Völker.\nEs haben gegessen und angebetet alle Fetten der Erde, * vor seinem Angesicht werden alle niederfallen, die hinabsteigen zur Erde.\nund meine Seele wird leben für ihn, * und meine nachkommen werden ihm dienen.\nAngekündigt wird dem Herrn das kommende Geschlecht, * und die Himmel künden seine Gerechtigkeit dem Volk, das erstehen wird, das geschaffen hat der Herr.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

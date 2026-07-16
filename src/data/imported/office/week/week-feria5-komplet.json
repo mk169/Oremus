@@ -1,0 +1,104 @@
+{
+  "id": "week-feria5-komplet",
+  "form": "1962",
+  "hour": "komplet",
+  "name": {
+    "la": "Ad Completorium",
+    "de": "Komplet (Nachtgebet)"
+  },
+  "day": {
+    "title": {
+      "la": "Feria V",
+      "de": "Donnerstag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-feria5-komplet-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria5-komplet-hymnus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Te lucis ante términum, rerum Creátor, póscimus, ut pro tua cleméntia sis præsul et custódia.\nProcul recédant sómnia, et nóctium phantásmata; hostémque nostrum cómprime, ne polluántur córpora.",
+        "de": "Bevor des Tages Licht vergeht, o Herr der Welt, so hören wir: In deiner großen Güte bleib uns Schutz und Wächter für die Nacht.\nWeit weiche jeder böse Traum, weit weiche nächtlich Schreckgebild; bezwinge unsern alten Feind, dass rein der Leib vom Frevel bleibt."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
+      }
+    },
+    {
+      "id": "week-feria5-komplet-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 69",
+        "de": "Psalm 69"
+      },
+      "text": {
+        "la": "Deus, in adjutórium meum inténde: * Dómine, ad adjuvándum me festína.\nConfundántur et revereántur, * qui quærunt ánimam meam.\nAvertántur retrórsum, et erubéscant, * qui volunt mihi mala.\nAvertántur statim erubescéntes, * qui dicunt mihi: Euge, euge.\nExsúltent et læténtur in te omnes qui quærunt te, * et dicant semper: Magnificétur Dóminus: qui díligunt salutáre tuum.\nEgo vero egénus, et pauper sum: * Deus, ádjuva me.\nAdjútor meus, et liberátor meus es tu: * Dómine, ne moréris.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Erröten und in Scham sich hüllen sollen alle, * die mir das Leben rauben wollen.\nDie Flucht ergreifen sollen sie in Schimpf und Schande, * die mir Böses wünschen.\nSchnell sollen sie beschämt die Flucht ergreifen, * die zu mir sagen: Köstlich, köstlich.\nSchnell sollen sie beschämt die Flucht ergreifen, * die zu mir sagen: Köstlich, köstlich.\nFrohlocken aber und in dir sich freuen sollen alle, die dich suchen, * und die dein Heil lieben, sollen immer sprechen: „Hochgelobet sei der Herr!“\nAch, ich bin elend und armselig; * o Gott, so hilf mir!\nAch, ich bin elend und armselig; * o Gott, so hilf mir!\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Adjútor meus * et liberátor meus esto, Dómine.",
+        "de": "Ant. Adjútor meus * et liberátor meus esto, Dómine."
+      }
+    },
+    {
+      "id": "week-feria5-komplet-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 70 (1-12)",
+        "de": "Psalm 70 (1-12)"
+      },
+      "text": {
+        "la": "In te, Dómine, sperávi, non confúndar in ætérnum: * in justítia tua líbera me, et éripe me.\nInclína ad me aurem tuam, * et salva me.\nEsto mihi in Deum protectórem, et in locum munítum: * ut salvum me fácias,\nQuóniam firmaméntum meum, * et refúgium meum es tu.\nDeus meus, éripe me de manu peccatóris, * et de manu contra legem agéntis et iníqui:\nQuóniam tu es patiéntia mea, Dómine: * Dómine, spes mea a juventúte mea.\nIn te confirmátus sum ex útero: * de ventre matris meæ tu es protéctor meus.\nIn te cantátio mea semper: * tamquam prodígium factus sum multis: et tu adjútor fortis.\nRepleátur os meum laude, ut cantem glóriam tuam: * tota die magnitúdinem tuam.\nNe proícias me in témpore senectútis: * cum defécerit virtus mea, ne derelínquas me.\nQuia dixérunt inimíci mei mihi: * et qui custodiébant ánimam meam, consílium fecérunt in unum.\nDicéntes: Deus derelíquit eum, persequímini, † et comprehéndite eum: * quia non est qui erípiat.\nDeus, ne elongéris a me: * Deus meus, in auxílium meum réspice.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Auf Dich, Herr, habe ich meine Hoffnung gesetzt, lass mich nicht zuschanden werden in Ewigkeit; * in Deiner Gerechtigkeit befreie mich und reiße mich heraus.\nneige zu mir Dein Ohr * und erlöse mich.\nDenn meine Feste * und meine zuflucht bist Du.\nDenn meine Feste * und meine zuflucht bist Du.\nmein Gott, entreiße mich der Hand des Sünders * und der Hand dessen, der gegen das Gesetz handelt, und des Frevlers.\nDenn Du bist meine Geduld, o Herr, * Herr, meine Hoffnung von meiner Jugend an.\nin Dir bin ich gefestigt vom mutterschoß an, * vom mutterleib an bist Du mein beschützer.\nin Dir ist stets mein lobgesang, * wie ein Wunder bin ich für viele geworden, und Du bist ein starker Helfer.\nVoll von lob sei mein mund, damit ich Deine Herrlichkeit besinge, * den ganzen Tag Deine Größe.\nVerwirf mich nicht zur zeit des Alters, * wenn schwinden wird meine Kraft, verlass mich nicht!\nDenn meine Feinde redeten über mich, * und die auf meine Seele lauerten, hielten rat miteinander.\nSie sagen: Gott hat ihn verlassen! Verfolgt und ergreift ihn, * denn niemand ist, der ihn rettet!\nGott, entferne Dich nicht von mir, * mein Gott, schau her auf meine Hilfe!\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria5-komplet-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 70 (13-24)",
+        "de": "Psalm 70 (13-24)"
+      },
+      "text": {
+        "la": "Confundántur, et defíciant detrahéntes ánimæ meæ: * operiántur confusióne, et pudóre qui quærunt mala mihi.\nEgo autem semper sperábo: * et adíciam super omnem laudem tuam.\nOs meum annuntiábit justítiam tuam: * tota die salutáre tuum.\nQuóniam non cognóvi litteratúram, † introíbo in poténtias Dómini: * Dómine, memorábor justítiæ tuæ solíus.\nDeus, docuísti me a juventúte mea: * et usque nunc pronuntiábo mirabília tua.\nEt usque in senéctam et sénium: * Deus, ne derelínquas me,\nDonec annúntiem brácchium tuum * generatióni omni, quæ ventúra est:\nPoténtiam tuam, et justítiam tuam, Deus, † usque in altíssima, quæ fecísti magnália: * Deus, quis símilis tibi?\nQuantas ostendísti mihi tribulatiónes multas et malas: et convérsus vivificásti me: * et de abýssis terræ íterum reduxísti me:\nMultiplicásti magnificéntiam tuam: * et convérsus consolátus es me.\nNam et ego confitébor tibi in vasis psalmi veritátem tuam: * Deus, psallam tibi in cíthara, Sanctus Israël.\nExsultábunt lábia mea cum cantávero tibi: * et ánima mea, quam redemísti.\nSed et lingua mea tota die meditábitur justítiam tuam: * cum confúsi et revériti fúerint, qui quærunt mala mihi.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "zuschanden werden und vergehen sollen, die herabziehen meine Seele, * mit Schmach und Schande bedeckt sollen werden, die böses für mich suchen.\nich aber will allezeit hoffen * und all Dein lob vermehren.\nmein mund soll Deine Gerechtigkeit verkünden, * den ganzen Tag Dein Heil.\nDenn bücherweisheit kenne ich nicht; so will ich eingehn in die Kraft des Herrn. * Herr, Deiner Gerechtigkeit allein will ich gedenken.\nGott, Du hast mich belehrt von meiner Jugend an, * und bis jetzt will ich Deine Wunder verkünden.\nbis ich verkünde Deinen Arm * dem ganzen Geschlecht, das da kommen wird,\nbis ich verkünde Deinen Arm * dem ganzen Geschlecht, das da kommen wird,\nDeine macht und Deine Gerechtigkeit. Gott, bis in die höchsten Höhen reichen die Großtaten, die Du vollbracht hast. * Gott, wer ist Dir gleich?\nWie viele und schlimme Trübsale hast Du mich schauen lassen! und Du hast Dich umgewandt und mich neu belebt * und mich wieder zurückgeführt aus den Abgründen der Erde.\nGemehrt hast Du Deine Herrlichkeit, * und Du hast Dich umgewandt und mich getröstet.\nDenn auch ich will mit Psalmenspiel Deine Wahrheit preisen, * Gott, ich will Dir spielen auf der zither, Du Heiliger israels.\nFrohlocken werden meine lippen, wenn ich Dir singe, * und meine Seele, die Du erlöst hast.\nDoch auch meine zunge soll den ganzen Tag Deine Gerechtigkeit bedenken, * wenn zuschanden und beschämt werden, die böses für mich suchen.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria5-komplet-nunc",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Canticum Simeonis (Nunc dimittis)",
+        "de": "Lobgesang des Simeon"
+      },
+      "reference": {
+        "la": "Luc 2, 29-32",
+        "de": "Luc 2, 29-32"
+      },
+      "text": {
+        "la": "Nunc dimíttis servum tuum, Dómine, * secúndum verbum tuum in pace:\nQuia vidérunt óculi mei * salutáre tuum,\nQuod parásti * ante fáciem ómnium populórum,\nLumen ad revelatiónem géntium, * et glóriam plebis tuæ Israël.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Nun entlässest du, Herr, deinen Diener * nach deinem Worte in Frieden;\ndenn meine Augen haben * dein Heil geschaut,\ndas du bereitet hast * vor dem Angesicht aller Völker:\nein Licht zur Erleuchtung der Heiden * und zur Verherrlichung deines Volkes Israel.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

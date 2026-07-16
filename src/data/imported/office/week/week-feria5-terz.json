@@ -1,0 +1,88 @@
+{
+  "id": "week-feria5-terz",
+  "form": "1962",
+  "hour": "terz",
+  "name": {
+    "la": "Ad Tertiam",
+    "de": "Terz"
+  },
+  "day": {
+    "title": {
+      "la": "Feria V",
+      "de": "Donnerstag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-feria5-terz-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria5-terz-hymnus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Nunc, Sancte, nobis, Spíritus, unum Patri cum Fílio, dignáre promptus íngeri nostro refúsus péctori.\nOs, lingua, mens, sensus, vigor confessiónem pérsonent, flamméscat igne cáritas, accéndat ardor próximos.",
+        "de": "Komm, Heilger Geist, und wohne uns, der eins mit Vater und mit Sohn, mit deiner Gnade gütig bei und gieße dich ins Herz uns ein.\nDass Mund und Zunge, Geist und Sinn dein Lob und dein Bekenntnis ist, in Liebe lodre unser Herz und zünde auch den Nächsten an."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
+      }
+    },
+    {
+      "id": "week-feria5-terz-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 72 (1-9)",
+        "de": "Psalm 72 (1-9)"
+      },
+      "text": {
+        "la": "Quam bonus Israël Deus, * his, qui recto sunt corde!\nMei autem pæne moti sunt pedes: * pæne effúsi sunt gressus mei.\nQuia zelávi super iníquos, * pacem peccatórum videns.\nQuia non est respéctus morti eórum: * et firmaméntum in plaga eórum.\nIn labóre hóminum non sunt, * et cum homínibus non flagellabúntur:\nÍdeo ténuit eos supérbia, * opérti sunt iniquitáte et impietáte sua.\nPródiit quasi ex ádipe iníquitas eórum: * transiérunt in afféctum cordis.\nCogitavérunt, et locúti sunt nequítiam: * iniquitátem in excélso locúti sunt.\nPosuérunt in cælum os suum: * et lingua eórum transívit in terra.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Wie gut ist Gott zu Israel, * zu denen, die aufrichtigen Herzens sind!\nmeine Füße aber wären beinahe gestrauchelt, * fast wären meine Schritte ausgeglitten.\nDenn ich ereiferte mich über die Frevler, * da ich den Frieden der Sünder sah.\nDenn sie kennen nicht Rücksicht auf ihren Tod * und Dauer in ihrer Plage.\nin der Mühsal der Menschen sind sie nicht, * und mit den Menschen werden sie nicht gezüchtigt.\nDarum hat Hochmut sie ergriffen, * sie haben sich mit ihrem Frevel und ihrer Gottlosigkeit umhüllt.\nWie von Fett quoll hervor ihre Schlechtigkeit, * sie gingen einher nach der Laune ihres Herzens.\nSie ersannen und sprachen Frevel, * unrecht haben sie geredet in ihrem Hochmut.\nSie haben ihren Mund gegen den Himmel gerichtet, * und ihre Zunge erging sich auf Erden.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Quam bonus * Israël Deus, his, qui recto sunt corde.",
+        "de": "Ant. Quam bonus * Israël Deus, his, qui recto sunt corde."
+      }
+    },
+    {
+      "id": "week-feria5-terz-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 72 (10-17)",
+        "de": "Psalm 72 (10-17)"
+      },
+      "text": {
+        "la": "Ídeo convertétur pópulus meus hic: * et dies pleni inveniéntur in eis.\nEt dixérunt: Quómodo scit Deus, * et si est sciéntia in excélso?\nEcce, ipsi peccatóres, et abundántes in sǽculo, * obtinuérunt divítias.\nEt dixi: Ergo sine causa justificávi cor meum, * et lavi inter innocéntes manus meas:\nEt fui flagellátus tota die, * et castigátio mea in matutínis.\nSi dicébam: Narrábo sic: * ecce, natiónem filiórum tuórum reprobávi.\nExistimábam ut cognóscerem hoc, * labor est ante me:\nDonec intrem in Sanctuárium Dei: * et intéllegam in novíssimis eórum.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Deshalb wendet sich mein Volk dorthin, * und volle Tage finden sich bei ihnen.\nund sie sprachen: Wie sollte Gott davon wissen, * und gibt es Erkenntnis beim Höchsten?\nSiehe, sie sind Sünder, und sie haben Überfluss in der Welt, * Reichtum haben sie erlangt.\nund ich sagte: also habe ich vergeblich mein Herz gerecht gemacht * und unter Unschuldigen meine Hände gewaschen.\nund ich wurde geschlagen den ganzen Tag * und hatte meine Züchtigung am morgen.\nWenn ich gesagt hätte: „So will ich reden“, * siehe, dann hätte ich das Geschlecht Deiner Kinder verworfen.\nich dachte nach, um es zu verstehen; * Mühsal ist vor mir,\nbis ich eintrete in das Heiligtum Gottes * und Einsicht gewinne in ihre letzten Dinge.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria5-terz-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 72 (18-28)",
+        "de": "Psalm 72 (18-28)"
+      },
+      "text": {
+        "la": "Verúmtamen propter dolos posuísti eis: * dejecísti eos dum allevaréntur.\nQuómodo facti sunt in desolatiónem, súbito defecérunt: * periérunt propter iniquitátem suam.\nVelut sómnium surgéntium, Dómine, * in civitáte tua imáginem ipsórum ad níhilum rédiges.\nQuia inflammátum est cor meum, et renes mei commutáti sunt: * et ego ad níhilum redáctus sum, et nescívi.\nUt juméntum factus sum apud te: * et ego semper tecum.\nTenuísti manum déxteram meam: et in voluntáte tua deduxísti me, * et cum glória suscepísti me.\nQuid enim mihi est in cælo? * et a te quid vólui super terram?\nDefécit caro mea, et cor meum: * Deus cordis mei, et pars mea Deus in ætérnum.\nQuia ecce, qui elóngant se a te, períbunt: * perdidísti omnes, qui fornicántur abs te.\nMihi autem adhærére Deo bonum est: * pónere in Dómino Deo spem meam:\nUt annúntiem omnes prædicatiónes tuas, * in portis fíliæ Sion.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Fürwahr, wegen ihrer Bosheiten hast Du es für sie festgesetzt: * Du stürztest sie, als sie sich erhoben.\nWie wurden sie zur Öde, plötzlich schwanden sie dahin, * sie gingen zugrunde wegen ihrer Ungerechtigkeit.\nWie einen Traum der Erwachenden, Herr, * wirst Du in Deiner Stadt ihr bild zunichte machen.\nWeil entflammt ist mein Herz und meine Nieren erregt waren, * wurde auch ich zunichte gemacht und hatte keine Einsicht.\nWie ein lasttier bin ich vor Dir geworden, * und doch war ich stets bei Dir.\nDu hieltest meine rechte Hand, und nach Deinem Willen hast Du mich geleitet, * und mit Ehre hast Du mich angenommen.\nWas nämlich gibt es für mich im Himmel? * und was außer Dir will ich auf Erden?\nDahingeschwunden ist mein Fleisch und mein Herz; * der Gott meines Herzens und mein Anteil ist Gott in Ewigkeit,\ndenn siehe, die sich von Dir entfernen werden zugrunde gehen. * Du richtest alle zugrunde, die von Dir weg Unzucht treiben.\num all Dein Lob zu verkünden * in den Toren der Tochter Sion.\num all Dein Lob zu verkünden * in den Toren der Tochter Sion.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

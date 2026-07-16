@@ -1,0 +1,88 @@
+{
+  "id": "week-sabbato-sext",
+  "form": "1962",
+  "hour": "sext",
+  "name": {
+    "la": "Ad Sextam",
+    "de": "Sext"
+  },
+  "day": {
+    "title": {
+      "la": "Sabbato",
+      "de": "Samstag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-sabbato-sext-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-sabbato-sext-hymnus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Rector potens, verax Deus, qui témperas rerum vices, splendóre mane ínstruis, et ígnibus merídiem.\nExstíngue flammas lítium, aufer calórem nóxium, confer salútem córporum, verámque pacem córdium.",
+        "de": "Allmächtger Lenker, wahrer Gott, der du der Dinge Wechsel führst: du schmückst den Morgen mit dem Glanz und gibst dem Mittag Feuerglut.\nLösch aus die Flammen bösen Streits, nimm weg die Glut, die schädlich brennt, verleih dem Leibe Wohlergehn und wahren Frieden unserm Herz."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
+      }
+    },
+    {
+      "id": "week-sabbato-sext-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 103 (1-12)",
+        "de": "Psalm 103 (1-12)"
+      },
+      "text": {
+        "la": "Bénedic, ánima mea, Dómino: * Dómine, Deus meus, magnificátus es veheménter.\nConfessiónem, et decórem induísti: * amíctus lúmine sicut vestiménto:\nExténdens cælum sicut pellem: * qui tegis aquis superióra ejus.\nQui ponis nubem ascénsum tuum: * qui ámbulas super pennas ventórum.\nQui facis ángelos tuos, spíritus: * et minístros tuos ignem uréntem.\nQui fundásti terram super stabilitátem suam: * non inclinábitur in sǽculum sǽculi.\nAbýssus, sicut vestiméntum, amíctus ejus: * super montes stabunt aquæ.\nAb increpatióne tua fúgient: * a voce tonítrui tui formidábunt.\nAscéndunt montes: et descéndunt campi * in locum, quem fundásti eis.\nTérminum posuísti, quem non transgrediéntur: * neque converténtur operíre terram.\nQui emíttis fontes in convállibus: * inter médium móntium pertransíbunt aquæ.\nPotábunt omnes béstiæ agri: * exspectábunt ónagri in siti sua.\nSuper ea vólucres cæli habitábunt: * de médio petrárum dabunt voces.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "lobpreis und Pracht hast Du angetan, * bist umhüllt mit licht wie mit einem Gewand,\nlobpreis und Pracht hast Du angetan, * bist umhüllt mit licht wie mit einem Gewand,\nder Du ausspannst den Himmel wie ein Fell, * der Du mit Wassern seine oberen räume bedeckst,\nder Du Gewölk zu Deinem Aufstieg machst, * der Du wandelst auf den Flügeln der Winde,\nder Du zu Deinen boten die Geister machst * und Deine Diener zu loderndem Feuer,\nder Du die Erde begründet hast auf ihrem festen Fundament; * sie wird nicht wanken in alle Ewigkeit.\nDer Abgrund ist, gleich einem Kleid, ihre umhüllung, * hoch auf den bergen werden Wasser stehen.\nVor Deiner Schelte werden sie fliehen, * vor der Stimme Deines Donners erschrecken.\nEs erheben sich die berge und senken sich die Felder, * hin zu dem Ort, den Du für sie begründet hast.\nEine Grenze hast Du gesetzt, die sie nicht überschreiten, * und sie werden nicht zurückkehren, die Erde zu be decken.\nDer Du Quellen hervorsprudeln lässt in den Tälern: * zwischen den bergen werden Wasser hindurchgehen.\nEs werden trinken alle Tiere des Feldes, * danach verlangen die Wildesel in ihrem Durst.\nÜber ihnen werden die Vögel des Himmels wohnen, * mitten aus den Felsen lassen sie ihre Stimmen hören.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Dómine, Deus meus * magnificátus es veheménter.",
+        "de": "Ant. Dómine, Deus meus * magnificátus es veheménter."
+      }
+    },
+    {
+      "id": "week-sabbato-sext-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 103 (13-23)",
+        "de": "Psalm 103 (13-23)"
+      },
+      "text": {
+        "la": "Rigans montes de superióribus suis: * de fructu óperum tuórum satiábitur terra:\nProdúcens fænum juméntis, * et herbam servitúti hóminum:\nUt edúcas panem de terra: * et vinum lætíficet cor hóminis:\nUt exhílaret fáciem in óleo: * et panis cor hóminis confírmet.\nSaturabúntur ligna campi, et cedri Líbani, quas plantávit: * illic pásseres nidificábunt.\nHeródii domus dux est eórum: * montes excélsi cervis: petra refúgium herináciis.\nFecit lunam in témpora: * sol cognóvit occásum suum.\nPosuísti ténebras, et facta est nox: * in ipsa pertransíbunt omnes béstiæ silvæ.\nCátuli leónum rugiéntes, ut rápiant, * et quærant a Deo escam sibi.\nOrtus est sol, et congregáti sunt: * et in cubílibus suis collocabúntur.\nExíbit homo ad opus suum: * et ad operatiónem suam usque ad vésperum.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Du bist es, der die berge tränkt von seinen oberen räumen aus, * von der Frucht Deiner Werke wird gesättigt die Erde.\num brot hervorzubringen aus der Erde, * und dass Wein des menschen Herz erfreue,\num brot hervorzubringen aus der Erde, * und dass Wein des menschen Herz erfreue,\num das Gesicht zu erheitern mit Öl, * und dass brot des menschen Herz stärke.\nGesättigt werden die bäume des Feldes und die zedern des libanon, die er gepflanzt hat, * dort werden Sperlinge nisten.\nDas nest des reihers ist ihr Führer, * die hohen berge sind für die Hirsche, die Felsen eine zuflucht für igel.\nEr hat den mond gemacht für die zeiten, * die Sonne kennt ihren untergang.\nDu hast Finsternis gesetzt, und es ward nacht; * in ihr schweifen umher alle Tiere des Waldes,\ndie Jungen der löwen, die brüllen um zu reißen * und die von Gott ihre nahrung verlangen.\nAufgegangen ist die Sonne und sie versammelten sich, * und auf ihren lagern werden sie sich niederlassen.\nHinausgehen wird der mensch zu seinem Werk * und an seine Arbeit bis zum Abend.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-sabbato-sext-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 103 (24-35)",
+        "de": "Psalm 103 (24-35)"
+      },
+      "text": {
+        "la": "Quam magnificáta sunt ópera tua, Dómine! * ómnia in sapiéntia fecísti: impléta est terra possessióne tua.\nHoc mare magnum, et spatiósum mánibus: * illic reptília, quorum non est númerus.\nAnimália pusílla cum magnis: * illic naves pertransíbunt.\nDraco iste, quem formásti ad illudéndum ei: * ómnia a te exspéctant ut des illis escam in témpore.\nDante te illis, cólligent: * aperiénte te manum tuam, ómnia implebúntur bonitáte.\nAverténte autem te fáciem, turbabúntur: * áuferes spíritum eórum, et defícient, et in púlverem suum reverténtur.\nEmíttes spíritum tuum, et creabúntur: * et renovábis fáciem terræ.\nSit glória Dómini in sǽculum: * lætábitur Dóminus in opéribus suis:\nQui réspicit terram, et facit eam trémere: * qui tangit montes, et fúmigant.\nCantábo Dómino in vita mea: * psallam Deo meo, quámdiu sum.\nJucúndum sit ei elóquium meum: * ego vero delectábor in Dómino.\nDefíciant peccatóres a terra, et iníqui ita ut non sint: * bénedic, ánima mea, Dómino.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Wie groß sind Deine Werke, o Herr! * Alles hast Du in Weisheit gemacht, erfüllt ist die Erde mit Deinem Eigentum.\nDies große und weite meer mit seinen Armen, * dort sind Kriechtiere, die ohne zahl sind,\nlebewesen, kleine mit großen, * dort ziehen Schiffe dahin,\ndieser Drache, den Du geformt hast, um darin zu spielen, * sie alle erwarten von Dir, dass Du ihnen nahrung gibst zur rechten zeit.\nGibst Du ihnen, werden sie sammeln, * öffnest Du Deine Hand, werden sie alle erfüllt mit Gutem.\nWendest Du aber Dein Angesicht ab, werden sie verwirrt, * nimmst Du ihren Geist hinweg, schwinden sie dahin und kehren zurück zum Staub.\nAussenden wirst Du Deinen Geist, und sie werden erschaffen, * und Du wirst das Angesicht der Erde erneuern.\nEs sei die Herrlichkeit des Herrn in Ewigkeit, * freuen wird sich der Herr an seinen Werken,\nder auf die Erde blickt und sie erbeben lässt, * der die berge berührt, und sie rauchen.\nSingen will ich dem Herrn in meinem leben, * spielen meinem Gott, solange ich bin.\nAngenehm sei ihm mein Ausspruch, * ich aber will mich freuen im Herrn.\nDahinschwinden mögen die Sünder von der Erde und die Frevler, so dass sie nicht mehr sind. * lobpreise, meine Seele, den Herrn!\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

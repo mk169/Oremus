@@ -1,0 +1,128 @@
+{
+  "id": "week-sabbato-laudes",
+  "form": "1962",
+  "hour": "laudes",
+  "name": {
+    "la": "Ad Laudes",
+    "de": "Laudes (Morgenlob)"
+  },
+  "day": {
+    "title": {
+      "la": "Sabbato",
+      "de": "Samstag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-sabbato-laudes-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-sabbato-laudes-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 149",
+        "de": "Psalm 149"
+      },
+      "text": {
+        "la": "Cantáte Dómino cánticum novum: * laus ejus in ecclésia sanctórum.\nLætétur Israël in eo, qui fecit eum: * et fílii Sion exsúltent in rege suo.\nLaudent nomen ejus in choro: * in týmpano, et psaltério psallant ei:\nQuia beneplácitum est Dómino in pópulo suo: * et exaltábit mansuétos in salútem.\nExsultábunt sancti in glória: * lætabúntur in cubílibus suis.\nExaltatiónes Dei in gútture eórum: * et gládii ancípites in mánibus eórum.\nAd faciéndam vindíctam in natiónibus: * increpatiónes in pópulis.\nAd alligándos reges eórum in compédibus: * et nóbiles eórum in mánicis férreis.\nUt fáciant in eis judícium conscríptum: * glória hæc est ómnibus sanctis ejus.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Singt dem Herrn ein neues Lied, * sein Lob in der Versammlung der Heiligen.\nFreuen soll sich Israel an ihm, der es geschaffen hat, * und die Söhne Sions sollen jubeln über ihren König.\nLoben sollen sie seinen Namen im Chor, * mit Pauke und Harfe ihm spielen.\nDenn Wohlgefallen hat der Herr an seinem Volk, * und erhöhen wird er die Sanftmütigen zum Heil.\nFrohlocken werden die Heiligen in Herrlichkeit, * sie werden sich freuen auf ihren Lagern.\nErhebungen Gottes sind in ihrer Kehle * und zweischneidige Schwerter in ihren Händen,\num Rache zu vollziehen an den Nationen, * Strafgerichte an den Völkern,\num ihre Könige zu binden mit Fußfesseln * und ihre Vornehmen mit eisernen Handfesseln,\num ihnen zu tun nach dem geschriebenen Urteil. * Ruhm ist dies für all seine Heiligen.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Fílii Sion * exsúltent in Rege suo.",
+        "de": "Ant. Die Söhne Sions * mögen jubeln über ihren König."
+      }
+    },
+    {
+      "id": "week-sabbato-laudes-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 91",
+        "de": "Psalm 91"
+      },
+      "text": {
+        "la": "Bonum est confitéri Dómino: * et psállere nómini tuo, Altíssime.\nAd annuntiándum mane misericórdiam tuam: * et veritátem tuam per noctem.\nIn decachórdo, psaltério: * cum cántico, in cíthara.\nQuia delectásti me, Dómine, in factúra tua: * et in opéribus mánuum tuárum exsultábo.\nQuam magnificáta sunt ópera tua, Dómine! * nimis profúndæ factæ sunt cogitatiónes tuæ.\nVir insípiens non cognóscet: * et stultus non intélleget hæc.\nCum exórti fúerint peccatóres sicut fænum: * et apparúerint omnes, qui operántur iniquitátem:\nUt intéreant in sǽculum sǽculi: * tu autem Altíssimus in ætérnum, Dómine.\nQuóniam ecce inimíci tui, Dómine, quóniam ecce inimíci tui períbunt: * et dispergéntur omnes, qui operántur iniquitátem.\nEt exaltábitur sicut unicórnis cornu meum: * et senéctus mea in misericórdia úberi.\nEt despéxit óculus meus inimícos meos: * et in insurgéntibus in me malignántibus áudiet auris mea.\nJustus, ut palma florébit: * sicut cedrus Líbani multiplicábitur.\nPlantáti in domo Dómini, * in átriis domus Dei nostri florébunt.\nAdhuc multiplicabúntur in senécta úberi: * et bene patiéntes erunt, ut annúntient:\nQuóniam rectus Dóminus, Deus noster: * et non est iníquitas in eo.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Gut ist es, den Herrn zu preisen * und Deinem namen zu spielen, Du Höchster,\num am Morgen Deine barmherzigkeit zu verkünden * und Deine Wahrheit während der Nacht,\nauf der zehnsaitigen Harfe, * mit Gesang und Zither.\nDenn erfreut hast Du mich, Herr, durch Dein Werk, * und über die Werke Deiner Hände will ich jubeln.\nWie herrlich sind Deine Werke, o Herr! * Gar tief sind Deine Gedanken.\nEin törichter Mann erkennt das nicht, * und ein Dummer wird es nicht einsehen.\nAls die Sünder sprossten wie Gras, * da erschienen auch alle, die Unrecht tun,\ndamit sie untergehen in alle Ewigkeit. * Du aber bist der Höchste in Ewigkeit, o Herr.\nDenn siehe, Deine Feinde, o Herr, denn siehe, Deine Feinde werden zugrunde gehen, * und zerstreut werden alle, die Unrecht tun.\nund mein Horn wird erhöht wie das eines Einhorns, * und mein Alter wird in reicher Barmherzigkeit sein.\nund mein Auge schaut auf meine Feinde herab, * und von den Übeltätern, die sich gegen mich erheben, wird mein Ohr hören.\nDer Gerechte wird wie die Palme blühen, * wie eine Zeder des Libanon wird er gedeihen.\nGepflanzt im Haus des Herrn, * werden sie erblühen in den Vorhöfen des Hauses unseres Gottes.\nSie werden sich vermehren noch im hohen Alter, * und sie werden rüstig sein, um zu verkünden:\nGerecht ist der Herr, unser Gott, * und kein Unrecht ist an ihm.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Quam magnificáta * sunt ópera tua, Dómine.",
+        "de": "Ant. O wie erhaben, * Herr, sind deine Werke."
+      }
+    },
+    {
+      "id": "week-sabbato-laudes-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 63",
+        "de": "Psalm 63"
+      },
+      "text": {
+        "la": "Exáudi, Deus, oratiónem meam cum déprecor: * a timóre inimíci éripe ánimam meam.\nProtexísti me a convéntu malignántium: * a multitúdine operántium iniquitátem.\nQuia exacuérunt ut gládium linguas suas: * intendérunt arcum rem amáram, ut sagíttent in occúltis immaculátum.\nSúbito sagittábunt eum, et non timébunt: * firmavérunt sibi sermónem nequam.\nNarravérunt ut abscónderent láqueos: * dixérunt: Quis vidébit eos?\nScrutáti sunt iniquitátes: * defecérunt scrutántes scrutínio.\nAccédet homo ad cor altum: * et exaltábitur Deus.\nSagíttæ parvulórum factæ sunt plagæ eórum: * et infirmátæ sunt contra eos linguæ eórum.\nConturbáti sunt omnes qui vidébant eos: * et tímuit omnis homo.\nEt annuntiavérunt ópera Dei, * et facta ejus intellexérunt.\nLætábitur justus in Dómino, et sperábit in eo, * et laudabúntur omnes recti corde.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Ja, du musst mich schützen vor der frevlerischen Rotte, * vor der großen Schar der Unheilstifter.\nSiehe, wie geschärft sind ihre Zungen gleich den Schwertern, * wie sie schon gespannt den mörderischen Bogen halten.\nUm mich Schuldlosen zu treffen, * schießen sie ganz rasch und furchtlos.\nDoch wo all ihr Sinnen geht auf Frevel, wo sie müde sind vom Sinnen und vom Brüten; * wo die Mannen an den ganz gemeinen Plan herangehn,\nDoch wo all ihr Sinnen geht auf Frevel, wo sie müde sind vom Sinnen und vom Brüten; * wo die Mannen an den ganz gemeinen Plan herangehn,\nDa erhebt sich Gott nun, * Kinderpfeile werde ihre Treffer (die so wehe tuen sollten).\nDa erhebt sich Gott nun, * Kinderpfeile werde ihre Treffer (die so wehe tuen sollten).\nNun misslingen, kehren sich gar gegen sie dann all ihre Pläne; * voll Bestürzung sind dann alle, die dies sehen;\nFurcht erfasst die Menschen alle; * (63:10) und sie künden überall, was Gott getan hat, sein Verhalten, das sie selbst gesehen.\n\nFreuen aber kann der Gottesdiener sich im Herrn, und ihm sich ganz ergeben; * glücklich können alle preisen sich, die Gott die Treue halten.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Lætábitur justus * in Dómino et sperábit in eo.",
+        "de": "Ant. Freuen kann der Gottesdiener sich * im Herrn und ganz auf ihn vertrauen."
+      }
+    },
+    {
+      "id": "week-sabbato-laudes-ps4",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 216",
+        "de": "Canticum"
+      },
+      "text": {
+        "la": "Miserére nostri, Deus ómnium, et réspice nos, * et osténde nobis lucem miseratiónum tuárum:\nEt immítte timórem tuum super gentes, * quæ non exquisiérunt te,\nUt cognóscant quia non est Deus nisi tu, * et enárrent magnália tua.\nÁlleva manum tuam super gentes aliénas, * ut vídeant poténtiam tuam.\nSicut enim in conspéctu eórum sanctificátus es in nobis, * sic in conspéctu nostro magnificáberis in eis,\nUt cognóscant te, sicut et nos cognóvimus, * quóniam non est Deus præter te, Dómine.\nÍnnova signa, et immúta mirabília. * Glorífica manum, et brácchium dextrum.\nÉxcita furórem, et effúnde iram. * Tolle adversárium, et afflíge inimícum.\nFestína tempus, et meménto finis, * ut enárrent mirabília tua.\nIn ira flammæ devorétur qui salvátur: * et qui péssimant plebem tuam, invéniant perditiónem.\nCóntere caput príncipum inimicórum, * dicéntium: Non est álius præter nos.\nCóngrega omnes tribus Jacob: ut cognóscant quia non est Deus nisi tu, * et enárrent magnália tua:\nEt hereditábis eos, * sicut ab inítio.\nMiserére plebi tuæ, super quam invocátum est nomen tuum: * et Israël, quem coæquásti primogénito tuo.\nMiserére civitáti sanctificatiónis tuæ Jerúsalem, * civitáti requiéi tuæ.\nReple Sion inenarrabílibus verbis tuis, * et glória tua pópulum tuum.",
+        "de": "Miserére nostri, Deus ómnium, et réspice nos, * et osténde nobis lucem miseratiónum tuárum:\nEt immítte timórem tuum super gentes, * quæ non exquisiérunt te,\nUt cognóscant quia non est Deus nisi tu, * et enárrent magnália tua.\nÁlleva manum tuam super gentes aliénas, * ut vídeant poténtiam tuam.\nSicut enim in conspéctu eórum sanctificátus es in nobis, * sic in conspéctu nostro magnificáberis in eis,\nUt cognóscant te, sicut et nos cognóvimus, * quóniam non est Deus præter te, Dómine.\nÍnnova signa, et immúta mirabília. * Glorífica manum, et bráchium dextrum.\nÉxcita furórem, et effúnde iram. * Tolle adversárium, et afflíge inimícum.\nFestína tempus, et meménto finis, * ut enárrent mirabília tua.\nIn ira flammæ devorétur qui salvátur: * et qui péssimant plebem tuam, invéniant perditiónem.\nCóntere caput príncipum inimicórum, * dicéntium: Non est álius præter nos.\nCóngrega omnes tribus Jacob: ut cognóscant quia non est Deus nisi tu, * et enárrent magnália tua:\nEt hereditábis eos, * sicut ab inítio.\nMiserére plebi tuæ, super quam invocátum est nomen tuum: * et Israël, quem coæquásti primogénito tuo.\nMiserére civitáti sanctificatiónis tuæ Jerúsalem, * civitáti requiéi tuæ.\nReple Sion inenarrabílibus verbis  tuis, * et glória tua pópulum tuum."
+      },
+      "rubric": {
+        "la": "Ant. Osténde nobis, Dómine, * lucem miseratiónum tuárum.",
+        "de": "Ant. Zeige uns, o Herr, * das Licht deiner Erbarmungen."
+      }
+    },
+    {
+      "id": "week-sabbato-laudes-ps5",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 150",
+        "de": "Psalm 150"
+      },
+      "text": {
+        "la": "Laudáte Dóminum in sanctis ejus: * laudáte eum in firmaménto virtútis ejus.\nLaudáte eum in virtútibus ejus: * laudáte eum secúndum multitúdinem magnitúdinis ejus.\nLaudáte eum in sono tubæ: * laudáte eum in psaltério, et cíthara.\nLaudáte eum in týmpano, et choro: * laudáte eum in chordis, et órgano.\nLaudáte eum in cýmbalis benesonántibus: † laudáte eum in cýmbalis jubilatiónis: * (6) omnis spíritus laudet Dóminum.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Lobet den Herrn in seinem Heiligtum, * lobet ihn in der Feste seiner Kraft!\nLobet ihn in seinen Kräften, * lobet ihn nach der Vielfalt seiner Größe!\nLobet ihn mit dem Klang der Trompete, * lobet ihn mit Psalter und zither!\nLobet ihn mit Pauke und Chor, * lobet ihn mit Saiten und Pfeifen!\nLobet ihn mit wohlklingenden Zimbeln, † lobet ihn mit Zimbeln des Jubels. * Alles, was Atem hat, lobe den Herrn!\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Omnis spíritus * laudet Dóminum.",
+        "de": "Ant. Was Atem hat, * das alles soll den Herrn nun loben."
+      }
+    },
+    {
+      "id": "week-sabbato-laudes-benedictus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Canticum Zachariæ (Benedictus)",
+        "de": "Lobgesang des Zacharias"
+      },
+      "reference": {
+        "la": "Luc 1, 68-79",
+        "de": "Luc 1, 68-79"
+      },
+      "text": {
+        "la": "Benedíctus Dóminus, Deus Israël: * quia visitávit, et fecit redemptiónem plebis suæ:\nEt eréxit cornu salútis nobis: * in domo David, púeri sui.\nSicut locútus est per os sanctórum, * qui a sǽculo sunt, prophetárum ejus:\nSalútem ex inimícis nostris, * et de manu ómnium, qui odérunt nos:\nAd faciéndam misericórdiam cum pátribus nostris: * et memorári testaménti sui sancti:\nJusjurándum, quod jurávit ad Ábraham patrem nostrum, * datúrum se nobis:\nUt sine timóre, de manu inimicórum nostrórum liberáti, * serviámus illi.\nIn sanctitáte, et justítia coram ipso, * ómnibus diébus nostris.\nEt tu, puer, Prophéta Altíssimi vocáberis: * præíbis enim ante fáciem Dómini paráre vias ejus:\nAd dandam sciéntiam salútis plebi ejus: * in remissiónem peccatórum eórum:\nPer víscera misericórdiæ Dei nostri: * in quibus visitávit nos, óriens ex alto:\nIllumináre his, qui in ténebris, et in umbra mortis sedent: * ad dirigéndos pedes nostros in viam pacis.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Gepriesen sei der Herr, der Gott Israels; * denn er hat sein Volk besucht und ihm Erlösung geschaffen;\nund hat uns aufgerichtet ein Horn des Heiles * im Hause Davids, seines Knechtes:\nwie er verheißen hat durch den Mund seiner heiligen Propheten, * die von alters her gewesen:\nErrettung von unsern Feinden * und aus der Hand aller, die uns hassen;\nzu üben Barmherzigkeit an unsern Vätern * und zu gedenken seines heiligen Bundes,\ndes Eides, den er unserm Vater Abraham geschworen, * uns zu verleihen,\ndass wir, befreit aus der Hand unsrer Feinde, ohne Furcht ihm dienen \nin Heiligkeit und Gerechtigkeit vor ihm * alle unsre Tage.\nUnd du, Kind, wirst Prophet des Höchsten heißen; * denn du wirst vor dem Herrn hergehen, ihm den Weg zu bereiten,\nseinem Volke Kunde des Heiles zu geben * zur Vergebung ihrer Sünden,\ndurch die herzliche Barmherzigkeit unsres Gottes, * mit der uns besucht hat der Aufgang aus der Höhe,\nzu erleuchten, die in Finsternis und Todesschatten sitzen, * zu lenken unsre Schritte auf den Weg des Friedens.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "week-feria6-komplet",
+  "form": "1962",
+  "hour": "komplet",
+  "name": {
+    "la": "Ad Completorium",
+    "de": "Komplet (Nachtgebet)"
+  },
+  "day": {
+    "title": {
+      "la": "Feria VI",
+      "de": "Freitag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-feria6-komplet-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria6-komplet-hymnus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Te lucis ante términum, rerum Creátor, póscimus, ut pro tua cleméntia sis præsul et custódia.\nProcul recédant sómnia, et nóctium phantásmata; hostémque nostrum cómprime, ne polluántur córpora.",
+        "de": "Bevor des Tages Licht vergeht, o Herr der Welt, so hören wir: In deiner großen Güte bleib uns Schutz und Wächter für die Nacht.\nWeit weiche jeder böse Traum, weit weiche nächtlich Schreckgebild; bezwinge unsern alten Feind, dass rein der Leib vom Frevel bleibt."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
+      }
+    },
+    {
+      "id": "week-feria6-komplet-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 76 (2-13)",
+        "de": "Psalm 76 (2-13)"
+      },
+      "text": {
+        "la": "Voce mea ad Dóminum clamávi: * voce mea ad Deum, et inténdit mihi.\nIn die tribulatiónis meæ Deum exquisívi, mánibus meis nocte contra eum: * et non sum decéptus.\nRénuit consolári ánima mea, * memor fui Dei, et delectátus sum, et exercitátus sum: et defécit spíritus meus.\nAnticipavérunt vigílias óculi mei: * turbátus sum, et non sum locútus.\nCogitávi dies antíquos: * et annos ætérnos in mente hábui.\nEt meditátus sum nocte cum corde meo, * et exercitábar, et scopébam spíritum meum.\nNumquid in ætérnum proíciet Deus: * aut non appónet ut complacítior sit adhuc?\nAut in finem misericórdiam suam abscíndet, * a generatióne in generatiónem?\nAut obliviscétur miseréri Deus? * aut continébit in ira sua misericórdias suas?\nEt dixi: Nunc cœpi: * hæc mutátio déxteræ Excélsi.\nMemor fui óperum Dómini: * quia memor ero ab inítio mirabílium tuórum.\nEt meditábor in ómnibus opéribus tuis: * et in adinventiónibus tuis exercébor.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "mit meiner Stimme rief ich zum Herrn, * mit meiner Stimme zu Gott, und er hat mich beachtet.\nAm Tag meiner Drangsal habe ich Gott gesucht, meine Hände des Nachts nach ihm ausgestreckt; * und ich wurde nicht enttäuscht.\nmeine Seele wollte sich nicht trösten lassen; * ich dachte an Gott und ward (zwar) erquickt und (doch) hart geprüft, und mein Geist schwand dahin.\nmeine Augen kamen den Nachtwachen zuvor, * ich bin unruhig und rede nicht.\nich überdachte die uralten Tage, * und die ewigen Jahre hatte ich im Sinn.\nich sann des nachts mit meinem Herzen, * und anhaltend dachte ich nach und härmte meinen Geist.\nWird denn Gott auf ewig verwerfen, * oder wird er nicht fortfahren, weiterhin gnädig zu sein?\nOder wird er vollends seine Barmherzigkeit entziehen * von Geschlecht zu Geschlecht?\nOder wird Gott vergessen, sich zu erbarmen, * oder wird er in seinem Zorn seine Barmherzigkeit zurückhalten?\nund ich sprach: nun beginne ich. * Diese Änderung kommt von der Rechten des Höchsten.\nich gedachte der Werke des Herrn, * denn ich will von Anfang an Deiner Wunder gedenken.\nund bedenken will ich all Deine Werke * und mich vertiefen in Deine Taten.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Voce mea * ad Dóminum clamávi: neque obliviscétur miseréri Deus.",
+        "de": "Ant. Voce mea * ad Dóminum clamávi: neque obliviscétur miseréri Deus."
+      }
+    },
+    {
+      "id": "week-feria6-komplet-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 76 (14-21)",
+        "de": "Psalm 76 (14-21)"
+      },
+      "text": {
+        "la": "Deus, in sancto via tua: quis Deus magnus sicut Deus noster? * tu es Deus qui facis mirabília.\nNotam fecísti in pópulis virtútem tuam: * redemísti in brácchio tuo pópulum tuum, fílios Jacob et Joseph.\nVidérunt te aquæ, Deus, vidérunt te aquæ: * et timuérunt, et turbátæ sunt abýssi.\nMultitúdo sónitus aquárum: * vocem dedérunt nubes.\nÉtenim sagíttæ tuæ tránseunt: * vox tonítrui tui in rota.\nIlluxérunt coruscatiónes tuæ orbi terræ: * commóta est, et contrémuit terra.\nIn mari via tua, et sémitæ tuæ in aquis multis: * et vestígia tua non cognoscéntur.\nDeduxísti sicut oves pópulum tuum, * in manu Móysi et Aaron.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Gott, in Heiligkeit ist Dein Weg! Wer ist ein Gott so groß wie unser Gott? * Du bist Gott, der Wunder tut.\nKundgetan hast Du unter den Völkern Deine Macht, * Du hast mit Deinem Arm Dein Volk erlöst, die Söhne Jakobs und Josephs.\nEs sahen Dich die Wasser, Gott, es sahen Dich die Wasser, * und sie gerieten in Furcht, und es erbebten die Tiefen.\nund Deine Pfeile fliegen vorüber, * der Schall Deines Donners rollt daher.\nund Deine Pfeile fliegen vorüber, * der Schall Deines Donners rollt daher.\nDeine Blitze leuchteten über den Erdkreis, * es bebte und erzitterte die Erde.\nim Meer war Dein Weg, und Deine Pfade in vielen Wassern, * und Deine Spuren werden nicht erkannt.\nWie Schafe hast Du Dein Volk geleitet, * durch die Hand von Moses und Aaron.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria6-komplet-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 85",
+        "de": "Psalm 85"
+      },
+      "text": {
+        "la": "Inclína, Dómine, aurem tuam, et exáudi me: * quóniam inops, et pauper sum ego.\nCustódi ánimam meam, quóniam sanctus sum: * salvum fac servum tuum, Deus meus, sperántem in te.\nMiserére mei, Dómine, quóniam ad te clamávi tota die: * lætífica ánimam servi tui, quóniam ad te, Dómine, ánimam meam levávi.\nQuóniam tu, Dómine, suávis, et mitis: * et multæ misericórdiæ ómnibus invocántibus te.\nÁuribus pércipe, Dómine, oratiónem meam: * et inténde voci deprecatiónis meæ.\nIn die tribulatiónis meæ clamávi ad te: * quia exaudísti me.\nNon est símilis tui in diis, Dómine: * et non est secúndum ópera tua.\nOmnes gentes quascúmque fecísti, vénient, et adorábunt coram te, Dómine: * et glorificábunt nomen tuum.\nQuóniam magnus es tu, et fáciens mirabília: * tu es Deus solus.\nDeduc me, Dómine, in via tua, et ingrédiar in veritáte tua: * lætétur cor meum ut tímeat nomen tuum.\nConfitébor tibi, Dómine, Deus meus, in toto corde meo, * et glorificábo nomen tuum in ætérnum:\nQuia misericórdia tua magna est super me: * et eruísti ánimam meam ex inférno inferióri.\nDeus, iníqui insurrexérunt super me, et synagóga poténtium quæsiérunt ánimam meam: * et non proposuérunt te in conspéctu suo.\nEt tu, Dómine, Deus miserátor et miséricors, * pátiens, et multæ misericórdiæ, et verax,\nRéspice in me, et miserére mei, * da impérium tuum púero tuo: et salvum fac fílium ancíllæ tuæ.\nFac mecum signum in bonum, ut vídeant qui odérunt me, et confundántur: * quóniam tu, Dómine, adjuvísti me, et consolátus es me.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "neige, o Herr, Dein Ohr und erhöre mich, * denn ich bin hilflos und arm.\nbehüte meine Seele, denn ich bin heilig, * rette Deinen Knecht, mein Gott, der auf Dich hofft.\nErbarme Dich meiner, o Herr, denn ich rufe zu Dir den ganzen Tag, * erfreue die Seele Deines Knechtes, denn zu Dir, Herr, erhebe ich meine Seele.\nDenn Du, Herr, bist gütig und milde * und von großer barmherzigkeit für alle, die Dich anrufen.\nVernimm, o Herr, mein Gebet, * und achte auf die Stimme meines Flehens.\nAm Tag meiner Drangsal habe ich zu Dir gerufen, * denn Du hast mich erhört.\nKeiner ist Dir gleich unter den Göttern, Herr, * und nichts entspricht Deinen Werken.\nAlle Völker, die Du gemacht hast, werden kommen und vor Dir anbeten, Herr, * und sie werden Deinen namen verherrlichen.\nDenn groß bist Du und Wunder vollbringend, * Du allein bist Gott.\nGeleite mich, Herr, auf Deinem Weg, und ich will wandeln in Deiner Wahrheit. * Es freue sich mein Herz, damit es Deinen namen fürchte.\nich will Dich preisen, Herr, mein Gott, mit meinem ganzen Herzen * und Deinen namen verherrlichen in Ewigkeit.\nDenn Deine barmherzigkeit ist groß über mir, * und Du hast meine Seele errettet aus tiefster unterwelt.\nGott, Frevler haben sich gegen mich erhoben, und eine rotte von mächtigen trachtet nach meiner Seele, * und sie haben Dich nicht vor ihr Angesicht gestellt.\nund Du, Herr, Gott, bist ein Erbarmer und barmherzig, * geduldig und reich an barmherzigkeit und wahrhaftig.\nSchau auf mich und erbarme Dich meiner, * gib macht Deinem Diener und rette den Sohn Deiner magd.\nTu an mir ein zeichen zum Guten, damit es sehen, die mich hassen, und beschämt werden; * denn Du, Herr, hast mir geholfen und mich getröstet.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria6-komplet-nunc",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Canticum Simeonis (Nunc dimittis)",
+        "de": "Lobgesang des Simeon"
+      },
+      "reference": {
+        "la": "Luc 2, 29-32",
+        "de": "Luc 2, 29-32"
+      },
+      "text": {
+        "la": "Nunc dimíttis servum tuum, Dómine, * secúndum verbum tuum in pace:\nQuia vidérunt óculi mei * salutáre tuum,\nQuod parásti * ante fáciem ómnium populórum,\nLumen ad revelatiónem géntium, * et glóriam plebis tuæ Israël.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Nun entlässest du, Herr, deinen Diener * nach deinem Worte in Frieden;\ndenn meine Augen haben * dein Heil geschaut,\ndas du bereitet hast * vor dem Angesicht aller Völker:\nein Licht zur Erleuchtung der Heiden * und zur Verherrlichung deines Volkes Israel.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

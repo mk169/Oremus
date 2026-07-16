@@ -1,0 +1,87 @@
+{
+  "id": "week-feria4-non",
+  "form": "1962",
+  "hour": "non",
+  "name": {
+    "la": "Ad Nonam",
+    "de": "Non"
+  },
+  "day": {
+    "title": {
+      "la": "Feria IV",
+      "de": "Mittwoch"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-feria4-non-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria4-non-hymnus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Rerum, Deus, tenax vigor, immótus in te pérmanens, lucis diúrnæ témpora succéssibus detérminans.\nLargíre lumen véspere, quo vita nusquam décidat, sed prǽmium mortis sacræ perénnis instet glória.",
+        "de": "Du starke Kraft, die alles hält, o Gott, in dir unwandelbar, der du des Tages Lichteslauf in Stufen ordnest und bestimmst.\nSchenk gnädig Licht am Lebensend, dass unser Leben nie erlischt, dass ewge Herrlichkeit uns folgt als Lohn für einen heilgen Tod."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
+      }
+    },
+    {
+      "id": "week-feria4-non-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 58 (2-11)",
+        "de": "Psalm 58 (2-11)"
+      },
+      "text": {
+        "la": "Éripe me de inimícis meis, Deus meus: * et ab insurgéntibus in me líbera me.\nÉripe me de operántibus iniquitátem: * et de viris sánguinum salva me.\nQuia ecce cepérunt ánimam meam: * irruérunt in me fortes.\nNeque iníquitas mea, neque peccátum meum, Dómine: * sine iniquitáte cucúrri, et diréxi.\nExsúrge in occúrsum meum, et vide: * et tu, Dómine, Deus virtútum, Deus Israël,\nInténde ad visitándas omnes gentes: * non misereáris ómnibus, qui operántur iniquitátem.\nConverténtur ad vésperam: et famem patiéntur ut canes, * et circuíbunt civitátem.\nEcce, loquéntur in ore suo, et gládius in lábiis eórum: * quóniam quis audívit?\nEt tu, Dómine, deridébis eos: * ad níhilum dedúces omnes gentes.\nFortitúdinem meam ad te custódiam, quia, Deus, suscéptor meus es: * Deus meus, misericórdia ejus prævéniet me.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Entreiße mich meinen Feinden, mein Gott, * und von denen, die sich gegen mich erheben, befreie mich.\nEntreiße mich denen, die unrecht tun, * und von männern voll blutschuld rette mich.\nDenn siehe, sie ergriffen meine Seele, * Starke überfielen mich.\nEs ist weder meine missetat noch meine Sünde, Herr; * ohne missetat und gerade bin ich gewandelt.\nachte darauf, alle Völker heimzusuchen, * hab kein Erbarmen mit allen, die unrecht tun.\nachte darauf, alle Völker heimzusuchen, * hab kein Erbarmen mit allen, die unrecht tun.\nzurückkehren werden sie am Abend und Hunger leiden wie Hunde, * und sie werden die Stadt umkreisen.\nSiehe, sie geifern mit ihrem mund und ein Schwert ist auf ihren lippen, * denn wer hat es gehört?\nAber Du, Herr, wirst sie verlachen, * zu nichts wirst Du machen alle Völker.\nmeine Stärke will ich bei Dir bewahren, denn Du, o Gott, bist es, der mich aufnimmt, * mein Gott, seine barmherzigkeit wird mir zuvorkommen.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Deus meus * misericórdia tua prævéniet me."
+      }
+    },
+    {
+      "id": "week-feria4-non-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 58 (12-18)",
+        "de": "Psalm 58 (12-18)"
+      },
+      "text": {
+        "la": "Deus osténdet mihi super inimícos meos, ne occídas eos: * nequándo obliviscántur pópuli mei.\nDispérge illos in virtúte tua: * et depóne eos, protéctor meus, Dómine:\nDelíctum oris eórum, sermónem labiórum ipsórum: * et comprehendántur in supérbia sua.\nEt de exsecratióne et mendácio annuntiabúntur in consummatióne: * in ira consummatiónis, et non erunt.\nEt scient quia Deus dominábitur Jacob: * et fínium terræ.\nConverténtur ad vésperam: et famem patiéntur ut canes, * et circuíbunt civitátem.\nIpsi dispergéntur ad manducándum: * si vero non fúerint saturáti, et murmurábunt.\nEgo autem cantábo fortitúdinem tuam: * et exsultábo mane misericórdiam tuam.\nQuia factus es suscéptor meus, * et refúgium meum, in die tribulatiónis meæ.\nAdjútor meus, tibi psallam, quia, Deus, suscéptor meus es: * Deus meus, misericórdia mea.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "zerstreue sie in Deiner Kraft, * und setze sie herab, mein beschützer, Herr.\nzerstreue sie in Deiner Kraft, * und setze sie herab, mein beschützer, Herr.\num des Fluches und der lüge willen wird man verkünden ihre Vertilgung * durch vertilgenden zorn, und sie werden nicht mehr sein.\num des Fluches und der lüge willen wird man verkünden ihre Vertilgung * durch vertilgenden zorn, und sie werden nicht mehr sein.\nund sie sollen wissen, dass Gott über Jakob herrscht * und über die Enden der Erde.\nzurückkehren werden sie am Abend und Hunger leiden wie Hunde, * und sie werden die Stadt umkreisen.\nSie werden sich zerstreuen um nahrung zu suchen, * wenn sie aber nicht satt werden, werden sie murren.\nDenn Du bist es, der mich aufnimmt, * und meine zuflucht am Tag meiner Trübsal.\nDenn Du bist es, der mich aufnimmt, * und meine zuflucht am Tag meiner Trübsal.\nmein Helfer, Dir will ich spielen, denn Du, Gott, bist es, der mich aufnimmt, * mein Gott, meine barmherzigkeit.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria4-non-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 59",
+        "de": "Psalm 59"
+      },
+      "text": {
+        "la": "Deus, repulísti nos, et destruxísti nos: * irátus es, et misértus es nobis.\nCommovísti terram, et conturbásti eam: * sana contritiónes ejus, quia commóta est.\nOstendísti pópulo tuo dura: * potásti nos vino compunctiónis.\nDedísti metuéntibus te significatiónem: * ut fúgiant a fácie arcus:\nUt liberéntur dilécti tui: * salvum fac déxtera tua, et exáudi me.\nDeus locútus est in sancto suo: * lætábor, et partíbor Síchimam: et convállem tabernaculórum metíbor.\nMeus est Gálaad, et meus est Manásses: * et Éphraim fortitúdo cápitis mei.\nJuda rex meus: * Moab olla spei meæ.\nIn Idumǽam exténdam calceaméntum meum: * mihi alienígenæ súbditi sunt.\nQuis dedúcet me in civitátem munítam? * quis dedúcet me usque in Idumǽam?\nNonne tu, Deus, qui repulísti nos? * et non egrediéris, Deus, in virtútibus nostris?\nDa nobis auxílium de tribulatióne: * quia vana salus hóminis.\nIn Deo faciémus virtútem: * et ipse ad níhilum dedúcet tribulántes nos.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Gott, Du hast uns verstoßen und zerstört, * Du hast gezürnt und erbarmtest Dich unser.\nDu hast das land bewegt und es erschüttert; * heile seine brüche, denn es wankt.\nHartes hast Du Deinem Volk gezeigt, * Du hast uns getränkt mit betäubendem Wein.\nDu gabst denen, die Dich fürchten, ein zeichen, * zu fliehen vor dem bogen.\nDamit befreit werden Deine Geliebten, * schaff Heil mit Deiner rechten und erhöre mich.\nGott sprach in seinem Heiligtum: * ich will mich freuen und Sichem teilen, und das Tal der zelte will ich vermessen.\nJuda ist mein König, * moab ist das becken meiner Hoffnung.\nJuda ist mein König, * moab ist das becken meiner Hoffnung.\nÜber idumäa will ich meinen Schuh ausstrecken, * die Fremdlinge sind mir untertan.\nWer wird mich hinabführen in die befestigte Stadt? * Wer wird mich hinabführen bis nach idumäa?\nnicht Du, o Gott, der Du uns verstoßen hast? * und wirst Du nicht ausziehen, o Gott, mit unseren Heeren?\nGib uns Hilfe aus der bedrängnis, * denn nichtig ist das Heil vom menschen.\nmit Gott werden wir kraftvoll handeln, * und er wird zunichte machen, die uns bedrängen.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

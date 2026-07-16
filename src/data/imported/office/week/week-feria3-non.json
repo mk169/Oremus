@@ -1,0 +1,87 @@
+{
+  "id": "week-feria3-non",
+  "form": "1962",
+  "hour": "non",
+  "name": {
+    "la": "Ad Nonam",
+    "de": "Non"
+  },
+  "day": {
+    "title": {
+      "la": "Feria III",
+      "de": "Dienstag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-feria3-non-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria3-non-hymnus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Rerum, Deus, tenax vigor, immótus in te pérmanens, lucis diúrnæ témpora succéssibus detérminans.\nLargíre lumen véspere, quo vita nusquam décidat, sed prǽmium mortis sacræ perénnis instet glória.",
+        "de": "Du starke Kraft, die alles hält, o Gott, in dir unwandelbar, der du des Tages Lichteslauf in Stufen ordnest und bestimmst.\nSchenk gnädig Licht am Lebensend, dass unser Leben nie erlischt, dass ewge Herrlichkeit uns folgt als Lohn für einen heilgen Tod."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
+      }
+    },
+    {
+      "id": "week-feria3-non-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 43 (2-9)",
+        "de": "Psalm 43 (2-9)"
+      },
+      "text": {
+        "la": "Deus áuribus nostris audívimus: * patres nostri annuntiavérunt nobis.\nOpus, quod operátus es in diébus eórum, * et in diébus antíquis.\nManus tua gentes dispérdidit, et plantásti eos: * afflixísti pópulos, et expulísti eos.\nNec enim in gládio suo possedérunt terram, * et brácchium eórum non salvávit eos:\nSed déxtera tua, et brácchium tuum, et illuminátio vultus tui: * quóniam complacuísti in eis.\nTu es ipse Rex meus et Deus meus: * qui mandas salútes Jacob.\nIn te inimícos nostros ventilábimus cornu: * et in nómine tuo spernémus insurgéntes in nobis.\nNon enim in arcu meo sperábo: * et gládius meus non salvábit me.\nSalvásti enim nos de affligéntibus nos: * et odiéntes nos confudísti.\nIn Deo laudábimur tota die: * et in nómine tuo confitébimur in sǽculum.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "das Werk, das Du vollbracht hast in ihren Tagen * und in uralten Tagen.\ndas Werk, das Du vollbracht hast in ihren Tagen * und in uralten Tagen.\nDeine Hand hat Völker zugrunde gerichtet, und sie hast Du eingepflanzt, * Du hast Völker zerschmettert und vertrieben.\nsondern Deine rechte und Dein Arm und das licht Deines Angesichtes, * denn Du hattest Wohlgefallen an ihnen.\nsondern Deine rechte und Dein Arm und das licht Deines Angesichtes, * denn Du hattest Wohlgefallen an ihnen.\nDu selber bist mein König und mein Gott, * der Du Heil für Jakob entbietest.\nDurch Dich werden wir unsere Feinde mit dem Horn niederschleudern * und in Deinem namen jene verachten, die sich gegen uns erheben.\nDenn ich will nicht auf meinen bogen hoffen, * und mein Schwert wird mich nicht retten.\nDenn Du hast uns gerettet von unseren bedrängern, * und die uns hassen, hast Du verwirrt.\nin Gott wollen wir uns rühmen den ganzen Tag * und Deinen namen bekennen in Ewigkeit.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Salvásti nos, * Dómine, et in nómine tuo confitébimur in sǽcula."
+      }
+    },
+    {
+      "id": "week-feria3-non-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 43 (10-20)",
+        "de": "Psalm 43 (10-20)"
+      },
+      "text": {
+        "la": "Nunc autem repulísti et confudísti nos: * et non egrediéris, Deus, in virtútibus nostris.\nAvertísti nos retrórsum post inimícos nostros: * et qui odérunt nos, diripiébant sibi.\nDedísti nos tamquam oves escárum: * et in géntibus dispersísti nos.\nVendidísti pópulum tuum sine prétio: * et non fuit multitúdo in commutatiónibus eórum.\nPosuísti nos oppróbrium vicínis nostris, * subsannatiónem et derísum his, qui sunt in circúitu nostro.\nPosuísti nos in similitúdinem géntibus: * commotiónem cápitis in pópulis.\nTota die verecúndia mea contra me est, * et confúsio faciéi meæ coopéruit me.\nA voce exprobrántis, et obloquéntis: * a fácie inimíci, et persequéntis.\nHæc ómnia venérunt super nos, nec oblíti sumus te: * et iníque non égimus in testaménto tuo.\nEt non recéssit retro cor nostrum: * et declinásti sémitas nostras a via tua:\nQuóniam humiliásti nos in loco afflictiónis, * et coopéruit nos umbra mortis.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "nun aber hast Du uns verstoßen und zuschanden gemacht, * und Du, o Gott, ziehst nicht aus mit unseren Heeren.\nDu ließest uns weichen vor unseren Feinden, * und die uns hassen, nahmen sich beute.\nDu gabst uns preis wie Schlachtschafe * und hast uns unter die Heiden zerstreut.\nDu hast Dein Volk verkauft ohne Wert, * und kein Gewinn war bei solchem Tausch.\nDu machtest uns zur Schmach für unsere nachbarn, * zum Hohn und Gelächter für alle, die rings um uns sind.\nDu hast uns zum Sprichwort gemacht für die Heiden, * zum Kopfschütteln unter den Völkern.\nDen ganzen Tag steht meine Schmach vor mir, * und die Scham meines Angesichts hat mich bedeckt,\nob der Stimme des Höhnenden und Schimpfenden, * angesichts des Feindes und des Verfolgers.\nDies alles ist über uns gekommen, doch wir haben Dich nicht vergessen * und nicht unrecht gehandelt gegen Deinen bund.\nund unser Herz ist nicht zurückgewichen, * Du aber ließest abweichen unsere Pfade von Deinem Weg.\nDenn Du hast uns erniedrigt am Ort der bedrängnis, * und bedeckt hat uns der Schatten des Todes.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria3-non-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 43 (21-26)",
+        "de": "Psalm 43 (21-26)"
+      },
+      "text": {
+        "la": "Si oblíti sumus nomen Dei nostri, * et si expándimus manus nostras ad deum aliénum:\nNonne Deus requíret ista? * ipse enim novit abscóndita cordis.\nQuóniam propter te mortificámur tota die: * æstimáti sumus sicut oves occisiónis.\nExsúrge, quare obdórmis, Dómine? * exsúrge, et ne repéllas in finem.\nQuare fáciem tuam avértis, * oblivísceris inópiæ nostræ, et tribulatiónis nostræ?\nQuóniam humiliáta est in púlvere ánima nostra: * conglutinátus est in terra venter noster.\nExsúrge, Dómine, ádjuva nos: * et rédime nos propter nomen tuum.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Wenn wir vergessen den namen unseres Gottes * und unsere Hände aus strecken nach einem fremden Gott:\nDenn um Deinetwillen werden wir getötet den ganzen Tag, * werden angesehen wie Schlachtschafe.\nDenn um Deinetwillen werden wir getötet den ganzen Tag, * werden angesehen wie Schlachtschafe.\nErhebe Dich, warum schläfst Du, Herr? * Erhebe Dich und verwirf uns nicht völlig.\nWarum wendest Du Dein Angesicht ab, * vergisst unsere Hilflosigkeit und unsere bedrängnis?\nDenn erniedrigt bis zum Staub ist unsere Seele, * am boden klebt unser leib.\nErhebe Dich, Herr, hilf uns, * und erlöse uns um Deines namens willen!\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

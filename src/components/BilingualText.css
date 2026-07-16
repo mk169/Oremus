@@ -12,6 +12,13 @@
   display: block;
   font-style: italic;
   color: var(--text);
+  /* Psalmverse und mehrzeilige Texte zeilenweise setzen (Zeilenumbrüche
+     aus den Quelldaten erhalten, überflüssige Leerräume zusammenfassen). */
+  white-space: pre-line;
+}
+
+.bilingual--block .bilingual__de {
+  white-space: pre-line;
 }
 
 .bilingual__de {

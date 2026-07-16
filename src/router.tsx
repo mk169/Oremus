@@ -6,6 +6,7 @@ import { MassView } from './features/liturgy/MassView'
 import { ImportedMassView } from './features/liturgy/ImportedMassView'
 import { BreviaryHub } from './features/breviary/BreviaryHub'
 import { HourView } from './features/breviary/HourView'
+import { WeekDayView } from './features/breviary/WeekDayView'
 import { OfficePropersView } from './features/breviary/OfficePropersView'
 import { RosaryPage } from './features/rosary/RosaryPage'
 import { RosarySetView } from './features/rosary/RosarySetView'
@@ -25,6 +26,7 @@ export const router = createBrowserRouter(
     children: [
       { index: true, element: <Dashboard /> },
       { path: 'brevier', element: <BreviaryHub /> },
+      { path: 'brevier/woche/:dayId', element: <WeekDayView /> },
       { path: 'brevier/proprium/:id', element: <OfficePropersView /> },
       { path: 'brevier/:hourId', element: <HourView /> },
       { path: 'liturgie', element: <LiturgyHub /> },

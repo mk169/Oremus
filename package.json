@@ -12,6 +12,7 @@
     "gabc:fetch": "node scripts/fetch-gregobase.mjs",
     "missa:fetch": "node scripts/fetch-divinum-officium.mjs",
     "officium:fetch": "node scripts/fetch-do-office.mjs",
+    "psalter:fetch": "node scripts/fetch-do-psalter.mjs",
     "kyriale:fetch": "node scripts/fetch-kyriale.mjs",
     "gabc:dump": "node scripts/gregobase-from-dump.mjs",
     "propers:fetch": "node scripts/fill-proper-melodies.mjs"

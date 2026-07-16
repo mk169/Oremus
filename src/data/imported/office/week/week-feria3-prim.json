@@ -1,0 +1,88 @@
+{
+  "id": "week-feria3-prim",
+  "form": "1962",
+  "hour": "prim",
+  "name": {
+    "la": "Ad Primam",
+    "de": "Prim"
+  },
+  "day": {
+    "title": {
+      "la": "Feria III",
+      "de": "Dienstag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-feria3-prim-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria3-prim-hymnus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Jam lucis orto sídere, Deum precémur súpplices, ut in diúrnis áctibus nos servet a nocéntibus.\nLinguam refrénans témperet, ne litis horror ínsonet: visum fovéndo cóntegat, ne vanitátes háuriat.",
+        "de": "Da nun das Licht am Himmel steigt, flehn wir zu Gott in Demut still, dass er in allem, was wir tun, uns vor dem Schaden schützen will.\nEr zähme, zügle unsre Zung, dass nicht der Streites Lärm erschallt; er hüte gnädig unsern Blick vor eitler Dinge Trug und Bild."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
+      }
+    },
+    {
+      "id": "week-feria3-prim-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 24 (1-7)",
+        "de": "Psalm 24 (1-7)"
+      },
+      "text": {
+        "la": "Ad te, Dómine, levávi ánimam meam: * Deus meus, in te confído, non erubéscam.\nNeque irrídeant me inimíci mei: * étenim univérsi, qui sústinent te, non confundéntur.\nConfundántur omnes iníqua agéntes * supervácue.\nVias tuas, Dómine, demónstra mihi: * et sémitas tuas édoce me.\nDírige me in veritáte tua, et doce me: * quia tu es, Deus, salvátor meus, et te sustínui tota die.\nReminíscere miseratiónum tuárum, Dómine, * et misericordiárum tuárum, quæ a sǽculo sunt.\nDelícta juventútis meæ, * et ignorántias meas ne memíneris.\nSecúndum misericórdiam tuam meménto mei tu: * propter bonitátem tuam, Dómine.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "zu Dir, o Herr, erhob ich meine Seele; * mein Gott, auf Dich vertraue ich, ich muss nicht erröten.\nund nicht sollen meine Feinde mich verlachen, * denn alle, die auf Dich harren, werden nicht zuschanden.\nDeine Wege, Herr, zeige mir, * und Deine Pfade lehre mich.\nDeine Wege, Herr, zeige mir, * und Deine Pfade lehre mich.\nlenke mich in Deiner Wahrheit und lehre mich, * denn Du, Herr, bist mein retter, und auf Dich harrte ich den ganzen Tag.\nGedenke der Erweise Deines Erbarmens, Herr, * und Deiner Erbarmungen, die seit alters sind.\nGemäß Deiner barmherzigkeit gedenke Du meiner, * um Deiner Güte willen, Herr.\nGemäß Deiner barmherzigkeit gedenke Du meiner, * um Deiner Güte willen, Herr.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Deus meus * in te confído non erubéscam.",
+        "de": "Ant. O mein Gott, * auf dich vertrau ich, lass mich nicht vergeblich bitten."
+      }
+    },
+    {
+      "id": "week-feria3-prim-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 24 (8-14)",
+        "de": "Psalm 24 (8-14)"
+      },
+      "text": {
+        "la": "Dulcis et rectus Dóminus: * propter hoc legem dabit delinquéntibus in via.\nDíriget mansuétos in judício: * docébit mites vias suas.\nUnivérsæ viæ Dómini, misericórdia et véritas, * requiréntibus testaméntum ejus et testimónia ejus.\nPropter nomen tuum, Dómine, propitiáberis peccáto meo: * multum est enim.\nQuis est homo qui timet Dóminum? * legem státuit ei in via, quam elégit.\nÁnima ejus in bonis demorábitur: * et semen ejus hereditábit terram.\nFirmaméntum est Dóminus timéntibus eum: * et testaméntum ipsíus ut manifestétur illis.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Gütig und aufrichtig ist der Herr; * darum gibt er sein Gesetz den Fehlenden auf ihrem Weg.\nleiten wird er die Sanftmütigen im Gericht * und lehren die milden seine Wege.\nAlle Wege des Herrn sind barmherzigkeit und Wahrheit, * für jene, die nach seinem bund und seinen zeugnissen verlangen.\num Deines namens willen, Herr, sei mir gnädig ob meiner Sünde, * denn sie ist groß.\nWer ist der mensch, der den Herrn fürchtet? * Er gab ihm das Gesetz auf dem Weg, den er erwählte.\nSeine Seele wird in Gütern weilen, * und seine nachkommen werden das land erben.\nEine Stütze ist der Herr denen, die ihn fürchten, * und sein bund ist da, damit er ihnen offenbar wird.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria3-prim-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 24 (15-22)",
+        "de": "Psalm 24 (15-22)"
+      },
+      "text": {
+        "la": "Óculi mei semper ad Dóminum: * quóniam ipse evéllet de láqueo pedes meos.\nRéspice in me, et miserére mei: * quia únicus et pauper sum ego.\nTribulatiónes cordis mei multiplicátæ sunt: * de necessitátibus meis érue me.\nVide humilitátem meam, et labórem meum: * et dimítte univérsa delícta mea.\nRéspice inimícos meos quóniam multiplicáti sunt, * et ódio iníquo odérunt me.\nCustódi ánimam meam, et érue me: * non erubéscam quóniam sperávi in te.\nInnocéntes et recti adhæsérunt mihi: * quia sustínui te.\nLíbera, Deus, Israël, * ex ómnibus tribulatiónibus suis.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "meine Augen sind stets auf den Herrn gerichtet, * denn er selbst wird meine Füße aus der Schlinge ziehen.\nSchau auf mich und erbarme Dich meiner, * denn allein bin ich und arm.\nDie Trübsale meines Herzens wurden vermehrt; * aus meinen nöten rette mich!\nSieh an meine Erniedrigung und meine mühsal * und vergib all meine Sünden.\nSchau auf meine Feinde, denn sie sind zahlreich geworden, * und mit ungerechtem Hass hassen sie mich.\nbewahre meine Seele und rette mich, * lass mich nicht erröten, denn ich habe auf Dich gehofft.\nunschuldige und Aufrichtige hangen mir an, * denn ich habe auf Dich geharrt.\nbefreie, Gott, israel * aus all seiner Trübsal.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

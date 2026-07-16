@@ -1,0 +1,104 @@
+{
+  "id": "week-dominica-komplet",
+  "form": "1962",
+  "hour": "komplet",
+  "name": {
+    "la": "Ad Completorium",
+    "de": "Komplet (Nachtgebet)"
+  },
+  "day": {
+    "title": {
+      "la": "Dominica",
+      "de": "Sonntag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-dominica-komplet-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-dominica-komplet-hymnus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Te lucis ante términum, rerum Creátor, póscimus, ut pro tua cleméntia sis præsul et custódia.\nProcul recédant sómnia, et nóctium phantásmata; hostémque nostrum cómprime, ne polluántur córpora.",
+        "de": "Bevor des Tages Licht vergeht, o Herr der Welt, so hören wir: In deiner großen Güte bleib uns Schutz und Wächter für die Nacht.\nWeit weiche jeder böse Traum, weit weiche nächtlich Schreckgebild; bezwinge unsern alten Feind, dass rein der Leib vom Frevel bleibt."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
+      }
+    },
+    {
+      "id": "week-dominica-komplet-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 4",
+        "de": "Psalm 4"
+      },
+      "text": {
+        "la": "Cum invocárem exaudívit me Deus justítiæ meæ: * in tribulatióne dilatásti mihi.\nMiserére mei, * et exáudi oratiónem meam.\nFílii hóminum, úsquequo gravi corde? * ut quid dilígitis vanitátem, et quǽritis mendácium?\nEt scitóte quóniam mirificávit Dóminus sanctum suum: * Dóminus exáudiet me cum clamávero ad eum.\nIrascímini, et nolíte peccáre: ‡ quæ dícitis in córdibus vestris, * in cubílibus vestris compungímini.\nSacrificáte sacrifícium justítiæ, † et speráte in Dómino. * Multi dicunt: Quis osténdit nobis bona?\nSignátum est super nos lumen vultus tui, Dómine: * dedísti lætítiam in corde meo.\nA fructu fruménti, vini, et ólei sui * multiplicáti sunt.\nIn pace in idípsum * dórmiam, et requiéscam;\nQuóniam tu, Dómine, singuláriter in spe * constituísti me.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Als ich rief erhörte mich der Gott meiner Gerechtigkeit, * in der Bedrängnis hast Du mir weiten Raum geschaffen.\nErbarme Dich meiner * und erhöre mein Gebet.\nIhr Menschenkinder, wie lange noch seid ihr schwerfälligen Herzens? * Warum liebt ihr die Nichtigkeit und sucht die Lüge?\nUnd wisset, daß der Herr seinen Heiligen wunderbar verherrlicht hat, * der Herr wird mich erhören, wenn ich zu ihm schreie.\nZürnet (euch selbst), und sündigt nicht, † was ihr sprecht in euren Herzen, * das bereut auf eurem Lager.\nOpfert ein Opfer der Gerechtigkeit † und hofft auf den Herrn! * Viele sagen: „Wer wird uns Gutes zeigen?“\nEs strahlt als Zeichen über uns das Licht Deines Angesichtes, Herr, * Du hast mir Freude in mein Herz gegeben.\nVom Ertrag ihres Getreides, Weines und Öles * haben sie sich vermehrt.\nIn Frieden zugleich * werde ich schlafen und ruhen.\nDenn Du, Herr, hast allein in Hoffnung * mich fest begründet.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Miserére * mihi, Dómine, et exáudi oratiónem meam.",
+        "de": "Ant. Sei mir gnädig * und erhör' mein Bitten."
+      }
+    },
+    {
+      "id": "week-dominica-komplet-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 90",
+        "de": "Psalm 90"
+      },
+      "text": {
+        "la": "Qui hábitat in adjutório Altíssimi, * in protectióne Dei cæli commorábitur.\nDicet Dómino: Suscéptor meus es tu, et refúgium meum: * Deus meus sperábo in eum.\nQuóniam ipse liberávit me de láqueo venántium, * et a verbo áspero.\nScápulis suis obumbrábit tibi: * et sub pennis ejus sperábis.\nScuto circúmdabit te véritas ejus: * non timébis a timóre noctúrno,\nA sagítta volánte in die, † a negótio perambulánte in ténebris: * ab incúrsu, et dæmónio meridiáno.\nCadent a látere tuo mille, † et decem míllia a dextris tuis: * ad te autem non appropinquábit.\nVerúmtamen óculis tuis considerábis: * et retributiónem peccatórum vidébis.\nQuóniam tu es, Dómine, spes mea: * Altíssimum posuísti refúgium tuum.\nNon accédet ad te malum: * et flagéllum non appropinquábit tabernáculo tuo.\nQuóniam Ángelis suis mandávit de te: * ut custódiant te in ómnibus viis tuis.\nIn mánibus portábunt te: * ne forte offéndas ad lápidem pedem tuum.\nSuper áspidem, et basilíscum ambulábis: * et conculcábis leónem et dracónem.\nQuóniam in me sperávit, liberábo eum: * prótegam eum, quóniam cognóvit nomen meum.\nClamábit ad me, et ego exáudiam eum: ‡ cum ipso sum in tribulatióne: * erípiam eum et glorificábo eum.\nLongitúdine diérum replébo eum: * et osténdam illi salutáre meum.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Wer unter dem Beistand des Allerhöchsten wohnt, * wird im Schutz des Gottes des Himmels weilen.\nEr wird zum Herrn sagen: „Mein Hort bist Du und meine Zuflucht! * mein Gott, auf ihn will ich hoffen,\ndenn er hat mich befreit aus der Schlinge der Jäger * und von dem schroffen Wort.“\nMit seinen Schwingen wird er dich überschatten, * und unter seinen Flügeln darfst du hoffen.\nWie ein Schild wird dich seine Wahrheit umgeben, * du mußt nicht bangen vor dem Schrecken der Nacht,\nvor dem Pfeil, der bei Tag fliegt, † vor dem Unheil, das im Finstern schleicht, * vor dem Anschlag und dem mittags Dämon.\nAn deiner Seite werden tausend fallen † und zehntausend zu deiner Rechten, * aber dir wird es nicht nahen.\nDoch mit deinen Augen wirst du es schauen * und die Vergeltung an den Sündern sehen.\nDenn Du, Herr, bist meine Hoffnung. * Den Allerhöchsten hast du zu deiner Zuflucht gemacht.\nKein Unheil wird dir widerfahren, * und keine Plage wird deinem Zelt sich nahen,\ndenn seinen Engeln hat er deinetwegen geboten, * daß sie dich behüten auf all deinen Wegen.\nAuf Händen werden sie dich tragen, * daß du deinen Fuß nicht etwa an einen Stein stößt.\nÜber Natter und Otter wirst du schreiten * und Löwen und Drachen zertreten.\nWeil er auf mich gehofft hat, will ich ihn befreien, * ich will ihn beschützen, denn er kennt meinen Namen.\nEr wird zu mir rufen und ich werde ihn erhören, ‡ ich bin bei ihm in der Bedrängnis, * ich werde ihn retten und ihn verherrlichen.\nMit langem Leben will ich ihn erfüllen * und ihm zeigen mein Heil.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-dominica-komplet-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 133",
+        "de": "Psalm 133"
+      },
+      "text": {
+        "la": "Ecce nunc benedícite Dóminum, * omnes servi Dómini:\nQui statis in domo Dómini, * in átriis domus Dei nostri.\nIn nóctibus extóllite manus vestras in sancta, * et benedícite Dóminum.\nBenedícat te Dóminus ex Sion, * qui fecit cælum et terram.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Wohlan, nun preiset den Herrn, * all ihr Diener des Herrn,\ndie ihr steht im Hause des Herrn, * in den Vorhöfen des Hauses unseres Gottes.\nIn den Nächten erhebt eure Hände zum Heiligtum * und preiset den Herrn.\nEs segne dich der Herr von Sion her, * der Himmel und Erde gemacht hat.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-dominica-komplet-nunc",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Canticum Simeonis (Nunc dimittis)",
+        "de": "Lobgesang des Simeon"
+      },
+      "reference": {
+        "la": "Luc 2, 29-32",
+        "de": "Luc 2, 29-32"
+      },
+      "text": {
+        "la": "Nunc dimíttis servum tuum, Dómine, * secúndum verbum tuum in pace:\nQuia vidérunt óculi mei * salutáre tuum,\nQuod parásti * ante fáciem ómnium populórum,\nLumen ad revelatiónem géntium, * et glóriam plebis tuæ Israël.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Nun entlässest du, Herr, deinen Diener * nach deinem Worte in Frieden;\ndenn meine Augen haben * dein Heil geschaut,\ndas du bereitet hast * vor dem Angesicht aller Völker:\nein Licht zur Erleuchtung der Heiden * und zur Verherrlichung deines Volkes Israel.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

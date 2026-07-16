@@ -1,0 +1,128 @@
+{
+  "id": "week-feria2-laudes",
+  "form": "1962",
+  "hour": "laudes",
+  "name": {
+    "la": "Ad Laudes",
+    "de": "Laudes (Morgenlob)"
+  },
+  "day": {
+    "title": {
+      "la": "Feria II",
+      "de": "Montag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-feria2-laudes-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria2-laudes-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 46",
+        "de": "Psalm 46"
+      },
+      "text": {
+        "la": "Omnes gentes, pláudite mánibus: * jubiláte Deo in voce exsultatiónis.\nQuóniam Dóminus excélsus, terríbilis: * Rex magnus super omnem terram.\nSubjécit pópulos nobis: * et gentes sub pédibus nostris.\nElégit nobis hereditátem suam: * spéciem Jacob, quam diléxit.\nAscéndit Deus in júbilo: * et Dóminus in voce tubæ.\nPsállite Deo nostro, psállite: * psállite Regi nostro, psállite.\nQuóniam Rex omnis terræ Deus: * psállite sapiénter.\nRegnábit Deus super gentes: * Deus sedet super sedem sanctam suam.\nPríncipes populórum congregáti sunt cum Deo Ábraham: * quóniam dii fortes terræ veheménter eleváti sunt.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "All ihr Völker, klatscht in die Hände, * jubelt Gott zu mit jauchzender Stimme,\ndenn der Herr, der Erhabene, ist furchtgebietend, * der große König über die ganze Erde.\nEr hat uns Völker unterworfen * und Volksstämme unter unsere Füße.\nEr hat uns erwählt zu seinem Erbe, * die Schönheit Jakobs, die er liebte.\nEmpor steigt Gott mit Jubel * und der Herr beim Schall der Posaune.\nlobsingt unserem Gott, lobsingt ihm, * lobsingt unserem König, lobsingt ihm!\nDenn König der ganzen Erde ist Gott, * lobsinget weise!\nHerrschen wird Gott über die Heiden, * Gott sitzt auf seinem heiligen Thron.\nDie Fürsten der Völker sind versammelt mit dem Gott Abrahams, * denn der Erde starke Götter sind gar hoch erhaben.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Jubiláte * Deo in voce exsultatiónis.",
+        "de": "Ant. Nun jubelt * vor Gott in fröhlichem Singen."
+      }
+    },
+    {
+      "id": "week-feria2-laudes-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 5",
+        "de": "Psalm 5"
+      },
+      "text": {
+        "la": "Verba mea áuribus pércipe, Dómine, * intéllege clamórem meum.\nInténde voci oratiónis meæ, * Rex meus et Deus meus.\nQuóniam ad te orábo: * Dómine, mane exáudies vocem meam.\nMane astábo tibi et vidébo: * quóniam non Deus volens iniquitátem tu es.\nNeque habitábit juxta te malígnus: * neque permanébunt injústi ante óculos tuos.\nOdísti omnes, qui operántur iniquitátem: * perdes omnes, qui loquúntur mendácium.\nVirum sánguinum et dolósum abominábitur Dóminus: * (8a) ego autem in multitúdine misericórdiæ tuæ.\nIntroíbo in domum tuam: * adorábo ad templum sanctum tuum in timóre tuo.\nDómine, deduc me in justítia tua: * propter inimícos meos dírige in conspéctu tuo viam meam.\nQuóniam non est in ore eórum véritas: * cor eórum vanum est.\nSepúlcrum patens est guttur eórum, † linguis suis dolóse agébant, * júdica illos, Deus.\nDécidant a cogitatiónibus suis, † secúndum multitúdinem impietátum eórum expélle eos, * quóniam irritavérunt te, Dómine.\nEt læténtur omnes, qui sperant in te, * in ætérnum exsultábunt: et habitábis in eis.\nEt gloriabúntur in te omnes, qui díligunt nomen tuum, * (13a) quóniam tu benedíces justo.\nDómine, ut scuto bonæ voluntátis tuæ * coronásti nos.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Meine Worte nimm zu Ohren, Herr, * vernimm mein Schreien.\nAchte auf die Stimme meines Betens, * mein König und mein Gott.\nDenn zu Dir will ich beten, * Herr, früh am morgen wirst Du meine Stimme hören.\nFrüh am morgen will ich zu Dir hintreten und Ausschau halten, * denn Du bist kein Gott, der Unrecht liebt.\nUnd ein Frevler wird nicht bei Dir weilen, * noch werden Ungerechte vor Deinen Augen verbleiben.\nDu hassest alle, die Unrecht tun, * Du wirst alle verderben, die Lüge reden.\nEinen Mann des Blutes und einen Betrüger verabscheut der Herr. * (8a) Ich aber, in der Fülle Deiner Barmherzigkeit,\nwill eintreten in Dein Haus, * will anbetend niederfallen zu Deinem heiligen Tempel hin in Ehrfurcht vor Dir.\nHerr, geleite mich in Deiner Gerechtigkeit, * meiner Feinde wegen lenke vor Deinem Angesicht meinen Weg.\nDenn in ihrem Mund ist keine Wahrheit, * ihr Herz ist eitel.\nEin offenes Grab ist ihre Kehle, † mit ihren Zungen handeln sie listig; * richte sie, o Gott!\nSie mögen abfallen von ihren Vorhaben, † ob der Vielzahl ihrer Frevel verstoße sie, * denn sie haben Dich erzürnt, o Herr.\nUnd freuen sollen sich alle, die auf Dich hoffen, * in Ewigkeit werden sie jubeln, und Du wirst unter ihnen wohnen.\nUnd rühmen werden sich in Dir alle, die Deinen Namen lieben, * (13a) denn Du segnest den Gerechten.\nHerr, wie mit einem Schild Deines guten Willens * hast Du uns gekrönt.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Inténde * voci oratiónis meæ, Rex meus et Deus meus.",
+        "de": "Ant. Gib doch acht * auf mein so dringendes Gebet, o du, mein König und mein Gott du."
+      }
+    },
+    {
+      "id": "week-feria2-laudes-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 28",
+        "de": "Psalm 28"
+      },
+      "text": {
+        "la": "Afférte Dómino, fílii Dei: * afférte Dómino fílios aríetum.\nAfférte Dómino glóriam et honórem, afférte Dómino glóriam nómini ejus: * adoráte Dóminum in átrio sancto ejus.\nVox Dómini super aquas, Deus majestátis intónuit: * Dóminus super aquas multas.\nVox Dómini in virtúte: * vox Dómini in magnificéntia.\nVox Dómini confringéntis cedros: * et confrínget Dóminus cedros Líbani:\nEt commínuet eas tamquam vítulum Líbani: * et diléctus quemádmodum fílius unicórnium.\nVox Dómini intercidéntis flammam ignis: * vox Dómini concutiéntis desértum: et commovébit Dóminus desértum Cades.\nVox Dómini præparántis cervos, et revelábit condénsa: * et in templo ejus omnes dicent glóriam.\nDóminus dilúvium inhabitáre facit: * et sedébit Dóminus Rex in ætérnum.\nDóminus virtútem pópulo suo dabit: * Dóminus benedícet pópulo suo in pace.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "bringt dar dem Herrn, ihr Söhne Gottes, * bringt dar dem Herrn junge Widder.\nbringt dar dem Herrn ruhm und Ehre, bringt dar dem Herrn den ruhm seines namens, * betet an den Herrn in seinem heiligen Hof.\nDie Stimme des Herrn ist über den Wassern, der Gott der Hoheit ließ es donnern, * der Herr über vielen Wassern.\nDie Stimme des Herrn in Kraft, * die Stimme des Herrn in Hoheit.\nDie Stimme des Herrn, der zedern zerschmettert, * und zerschmettern wird der Herr die zedern des libanon.\nund zermalmen wird er sie wie das Kalb des libanon, * und der Geliebte wird sein wie ein Sohn von Einhörnern.\nDie Stimme des Herrn, der die Flamme des Feuers zerteilt, * die Stimme des Herrn, der die Wüste erschüttert: ja, erschüttern wird der Herr die Wüste Kades.\nDie Stimme des Herrn, der Hirsche in Wehen bringt und das Dickicht der Wälder lichtet, * und in seinem Tempel sagen alle lob.\nDer Herr macht die Wasserflut bewohnbar, * und der Herr wird thronen als König in Ewigkeit.\nDer Herr wird Kraft geben seinem Volk, * der Herr wird segnen sein Volk in Frieden.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Deus majestátis * intónuit: afférte glóriam nómini ejus.",
+        "de": "Ant. Majestät Gott * hat sich hören lassen, erweist seiner Majestät gebührende Ehre."
+      }
+    },
+    {
+      "id": "week-feria2-laudes-ps4",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 211",
+        "de": "Canticum"
+      },
+      "text": {
+        "la": "Benedíctus es, Dómine, Deus Israël patris nostri, * ab ætérno in ætérnum.\nTua est, Dómine, magnificéntia, et poténtia, * et glória, atque victória:\nEt tibi laus: * cuncta enim quæ in cælo sunt, et in terra, tua sunt:\nTuum, Dómine, regnum, * et tu es super omnes príncipes.\nTuæ divítiæ, et tua est glória: * tu domináris ómnium,\nIn manu tua virtus et poténtia: * in manu tua magnitúdo, et impérium ómnium.\nNunc ígitur, Deus noster, confitémur tibi, * et laudámus nomen tuum ínclitum.",
+        "de": "Nun sei gepriesen, Herr, Gott unsres Vaters Israel, * in alle Ewigkeiten.\nDir Herr, gehört die höchste Würde und Gewalt; * dir auch gebührt der Ruhm, und dir die Macht und die Ehre.\nDir Herr, gehört die höchste Würde und Gewalt; * dir auch gebührt der Ruhm, und dir die Macht und die Ehre.\nDir Herr, gehört die höchste Würde und Gewalt; * dir auch gebührt der Ruhm, und dir die Macht und die Ehre.\nDein ist der Reichtum, dein ist jede Pracht, * du herrschest über alles.\nDein ist der Reichtum, dein ist jede Pracht, * du herrschest über alles.\nNun also bringen wir, o unser Gott, dir Preis * und singen deiner hehren Majestät ein Loblieb."
+      },
+      "rubric": {
+        "la": "Ant. Laudámus nomen tuum * ínclitum, Deus noster.",
+        "de": "Ant. Wir singen ein Loblied deiner Majestät, * der hehren, o unser Gott"
+      }
+    },
+    {
+      "id": "week-feria2-laudes-ps5",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 116",
+        "de": "Psalm 116"
+      },
+      "text": {
+        "la": "Laudáte Dóminum, omnes gentes: * laudáte eum, omnes pópuli:\nQuóniam confirmáta est super nos misericórdia ejus: * et véritas Dómini manet in ætérnum.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Lobet den Herrn, alle Völker; * lobt ihn, alle Nationen.\nDenn erstarkt ist über uns seine Barmherzigkeit, * und die Wahrheit des Herrn währt in Ewigkeit.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Laudáte * Dóminum omnes gentes.",
+        "de": "Ant. Nun lobt * den Herrn, ihr alle Völker."
+      }
+    },
+    {
+      "id": "week-feria2-laudes-benedictus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Canticum Zachariæ (Benedictus)",
+        "de": "Lobgesang des Zacharias"
+      },
+      "reference": {
+        "la": "Luc 1, 68-79",
+        "de": "Luc 1, 68-79"
+      },
+      "text": {
+        "la": "Benedíctus Dóminus, Deus Israël: * quia visitávit, et fecit redemptiónem plebis suæ:\nEt eréxit cornu salútis nobis: * in domo David, púeri sui.\nSicut locútus est per os sanctórum, * qui a sǽculo sunt, prophetárum ejus:\nSalútem ex inimícis nostris, * et de manu ómnium, qui odérunt nos:\nAd faciéndam misericórdiam cum pátribus nostris: * et memorári testaménti sui sancti:\nJusjurándum, quod jurávit ad Ábraham patrem nostrum, * datúrum se nobis:\nUt sine timóre, de manu inimicórum nostrórum liberáti, * serviámus illi.\nIn sanctitáte, et justítia coram ipso, * ómnibus diébus nostris.\nEt tu, puer, Prophéta Altíssimi vocáberis: * præíbis enim ante fáciem Dómini paráre vias ejus:\nAd dandam sciéntiam salútis plebi ejus: * in remissiónem peccatórum eórum:\nPer víscera misericórdiæ Dei nostri: * in quibus visitávit nos, óriens ex alto:\nIllumináre his, qui in ténebris, et in umbra mortis sedent: * ad dirigéndos pedes nostros in viam pacis.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Gepriesen sei der Herr, der Gott Israels; * denn er hat sein Volk besucht und ihm Erlösung geschaffen;\nund hat uns aufgerichtet ein Horn des Heiles * im Hause Davids, seines Knechtes:\nwie er verheißen hat durch den Mund seiner heiligen Propheten, * die von alters her gewesen:\nErrettung von unsern Feinden * und aus der Hand aller, die uns hassen;\nzu üben Barmherzigkeit an unsern Vätern * und zu gedenken seines heiligen Bundes,\ndes Eides, den er unserm Vater Abraham geschworen, * uns zu verleihen,\ndass wir, befreit aus der Hand unsrer Feinde, ohne Furcht ihm dienen \nin Heiligkeit und Gerechtigkeit vor ihm * alle unsre Tage.\nUnd du, Kind, wirst Prophet des Höchsten heißen; * denn du wirst vor dem Herrn hergehen, ihm den Weg zu bereiten,\nseinem Volke Kunde des Heiles zu geben * zur Vergebung ihrer Sünden,\ndurch die herzliche Barmherzigkeit unsres Gottes, * mit der uns besucht hat der Aufgang aus der Höhe,\nzu erleuchten, die in Finsternis und Todesschatten sitzen, * zu lenken unsre Schritte auf den Weg des Friedens.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

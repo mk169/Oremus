@@ -1,0 +1,88 @@
+{
+  "id": "week-feria2-prim",
+  "form": "1962",
+  "hour": "prim",
+  "name": {
+    "la": "Ad Primam",
+    "de": "Prim"
+  },
+  "day": {
+    "title": {
+      "la": "Feria II",
+      "de": "Montag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-feria2-prim-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria2-prim-hymnus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Jam lucis orto sídere, Deum precémur súpplices, ut in diúrnis áctibus nos servet a nocéntibus.\nLinguam refrénans témperet, ne litis horror ínsonet: visum fovéndo cóntegat, ne vanitátes háuriat.",
+        "de": "Da nun das Licht am Himmel steigt, flehn wir zu Gott in Demut still, dass er in allem, was wir tun, uns vor dem Schaden schützen will.\nEr zähme, zügle unsre Zung, dass nicht der Streites Lärm erschallt; er hüte gnädig unsern Blick vor eitler Dinge Trug und Bild."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
+      }
+    },
+    {
+      "id": "week-feria2-prim-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 23",
+        "de": "Psalm 23"
+      },
+      "text": {
+        "la": "Dómini est terra, et plenitúdo ejus: * orbis terrárum, et univérsi qui hábitant in eo.\nQuia ipse super mária fundávit eum: * et super flúmina præparávit eum.\nQuis ascéndet in montem Dómini? * aut quis stabit in loco sancto ejus?\nÍnnocens mánibus et mundo corde, * qui non accépit in vano ánimam suam, nec jurávit in dolo próximo suo.\nHic accípiet benedictiónem a Dómino: * et misericórdiam a Deo, salutári suo.\nHæc est generátio quæréntium eum, * quæréntium fáciem Dei Jacob.\nAttóllite portas, príncipes, vestras, et elevámini, portæ æternáles: * et introíbit Rex glóriæ.\nQuis est iste Rex glóriæ? * Dóminus fortis et potens: Dóminus potens in prǽlio.\nAttóllite portas, príncipes, vestras, et elevámini, portæ æternáles: * et introíbit Rex glóriæ.\nQuis est iste Rex glóriæ? * Dóminus virtútum ipse est Rex glóriæ.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Des Herrn ist die Erde und ihre Fülle, * der Erdkreis und alle, die darauf wohnen.\nDenn er hat ihn auf meere gegründet * und über Flüssen ihn bereitet.\nWer wird hinaufsteigen auf den berg des Herrn, * oder wer wird stehen an seiner heiligen Stätte?\nWer unschuldig an Händen und rein von Herzen ist, * wer sein leben nicht vergeblich empfing und nicht trügerisch seinem nächsten geschworen hat,\nder wird Segen empfangen vom Herrn * und barmherzigkeit von Gott, seinem retter.\nDies ist das Geschlecht derer, die ihn suchen, * die suchen das Angesicht des Gottes Jakobs.\nrichtet auf, ihr Fürsten, eure Tore, und hebt euch, ihr ewigen Tore, * und eintreten wird der König der Herrlichkeit.\nWer ist dieser König der Herrlichkeit? * Der Herr, stark und mächtig, der Herr, mächtig im Kampf.\nrichtet auf, ihr Fürsten, eure Tore, und hebt euch, ihr ewigen Tore, * und eintreten wird der König der Herrlichkeit.\nWer ist dieser König der Herrlichkeit? * Der Herr der Heerscharen, er ist der König der Herrlichkeit.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Ínnocens mánibus * et mundo corde ascéndet in montem Dómini.",
+        "de": "Ant. Wer ohne Makel die Hände hat * und rein hat das Herz, darf steigen zum Berge des Herrn."
+      }
+    },
+    {
+      "id": "week-feria2-prim-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 18 (2-7b)",
+        "de": "Psalm 18 (2-7b)"
+      },
+      "text": {
+        "la": "Cæli enárrant glóriam Dei: * et ópera mánuum ejus annúntiat firmaméntum.\nDies diéi erúctat verbum, * et nox nocti índicat sciéntiam.\nNon sunt loquélæ, neque sermónes, * quorum non audiántur voces eórum.\nIn omnem terram exívit sonus eórum: * et in fines orbis terræ verba eórum.\nIn sole pósuit tabernáculum suum: * et ipse tamquam sponsus procédens de thálamo suo:\nExsultávit ut gigas ad curréndam viam, * (7a) a summo cælo egréssio ejus:\nEt occúrsus ejus usque ad summum ejus: * nec est qui se abscóndat a calóre ejus.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Die Himmel erzählen die Herrlichkeit Gottes, * und die Werke seiner Hände verkündet das Firmament.\nEin Tag ruft dem anderen das Wort zu, * und eine Nacht tut der anderen Erkenntnis kund.\nEs sind nicht Sprachen und nicht Reden, * deren Stimmen man nicht hört.\nIn alle Welt hinaus ging ihr ruf * und bis an die Grenzen des Erdkreises ihre Worte.\nim Sonnenball hat er (Gott) sein Zelt errichtet, * und er ist wie ein Bräutigam, der hervortritt aus seinem Gemach,\ner frohlockte wie ein Riese, seine Bahn zu ziehen. * (7a) Vom höchsten Himmel ist sein Ausgang\nund seine Rückkehr bis zu dessen Höchstem, * und niemand ist, der sich verbergen kann vor seiner Glut.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria2-prim-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 18 (8-15b)",
+        "de": "Psalm 18 (8-15b)"
+      },
+      "text": {
+        "la": "Lex Dómini immaculáta, convértens ánimas: * testimónium Dómini fidéle, sapiéntiam præstans párvulis.\nJustítiæ Dómini rectæ, lætificántes corda: * præcéptum Dómini lúcidum, illúminans óculos.\nTimor Dómini sanctus, pérmanens in sǽculum sǽculi: * judícia Dómini vera, justificáta in semetípsa.\nDesiderabília super aurum et lápidem pretiósum multum: * et dulcióra super mel et favum.\nÉtenim servus tuus custódit ea, * in custodiéndis illis retribútio multa.\nDelícta quis intéllegit? † ab occúltis meis munda me: * (14a) et ab aliénis parce servo tuo.\nSi mei non fúerint domináti, tunc immaculátus ero: * et emundábor a delícto máximo.\nEt erunt ut compláceant elóquia oris mei: * et meditátio cordis mei in conspéctu tuo semper.\nDómine, adjútor meus, * et redémptor meus.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Das Gesetz des Herrn ist makellos, die Seelen bekehrend, * das Zeugnis des Herrn ist zuverlässig, Weisheit gewährend den Kleinen.\nDie Satzungen des Herrn sind richtig, die Herzen erfreuend, * das Gebot des Herrn ist lichtvoll, die Augen erleuchtend.\nDie Furcht des Herrn ist heilig, dauernd in alle Ewigkeit, * die Urteile des Herrn sind wahr, gerechtfertigt in sich selber,\nbegehrenswerter als Gold und viel Edelstein * und süßer als Honig und Wabe.\nUnd auch Dein Knecht bewahrt sie, * in ihrer Befolgung liegt reiche Vergeltung.\nDie Sünden wer erkennt sie? † Von meinen verborgenen reinige mich * (14a) und von fremden verschone Deinen Knecht!\nWenn sie nicht über mich herrschen, dann werde ich makellos sein, * und ich werde rein von größter Sünde.\nund die Aussprüche meines Mundes werden so sein, daß sie Dir wohlgefallen, * und das Sinnen meines Herzens ist immer vor Deinem Angesicht.\nHerr, Du bist mein Helfer * und mein Erlöser.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

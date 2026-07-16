@@ -1,0 +1,88 @@
+{
+  "id": "week-feria3-sext",
+  "form": "1962",
+  "hour": "sext",
+  "name": {
+    "la": "Ad Sextam",
+    "de": "Sext"
+  },
+  "day": {
+    "title": {
+      "la": "Feria III",
+      "de": "Dienstag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-feria3-sext-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria3-sext-hymnus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Rector potens, verax Deus, qui témperas rerum vices, splendóre mane ínstruis, et ígnibus merídiem.\nExstíngue flammas lítium, aufer calórem nóxium, confer salútem córporum, verámque pacem córdium.",
+        "de": "Allmächtger Lenker, wahrer Gott, der du der Dinge Wechsel führst: du schmückst den Morgen mit dem Glanz und gibst dem Mittag Feuerglut.\nLösch aus die Flammen bösen Streits, nimm weg die Glut, die schädlich brennt, verleih dem Leibe Wohlergehn und wahren Frieden unserm Herz."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
+      }
+    },
+    {
+      "id": "week-feria3-sext-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 40",
+        "de": "Psalm 40"
+      },
+      "text": {
+        "la": "Beátus qui intéllegit super egénum, et páuperem: * in die mala liberábit eum Dóminus.\nDóminus consérvet eum, et vivíficet eum, et beátum fáciat eum in terra: * et non tradat eum in ánimam inimicórum ejus.\nDóminus opem ferat illi super lectum dolóris ejus: * univérsum stratum ejus versásti in infirmitáte ejus.\nEgo dixi: Dómine, miserére mei: * sana ánimam meam, quia peccávi tibi.\nInimíci mei dixérunt mala mihi: * Quando moriétur, et períbit nomen ejus?\nEt si ingrediebátur ut vidéret, vana loquebátur: * cor ejus congregávit iniquitátem sibi.\nEgrediebátur foras, * et loquebátur in idípsum.\nAdvérsum me susurrábant omnes inimíci mei: * advérsum me cogitábant mala mihi.\nVerbum iníquum constituérunt advérsum me: * Numquid qui dormit non adíciet ut resúrgat?\nÉtenim homo pacis meæ, in quo sperávi: * qui edébat panes meos, magnificávit super me supplantatiónem.\nTu autem, Dómine, miserére mei, et resúscita me: * et retríbuam eis.\nIn hoc cognóvi quóniam voluísti me: * quóniam non gaudébit inimícus meus super me.\nMe autem propter innocéntiam suscepísti: * et confirmásti me in conspéctu tuo in ætérnum.\nBenedíctus Dóminus, Deus Israël, a sǽculo et usque in sǽculum: * fiat, fiat.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Selig, wer des bedürftigen und Armen gedenkt, * am Tag des unheils wird der Herr ihn befreien.\nDer Herr bewahre ihn und erhalte ihn am leben, er mache ihn selig auf Erden * und überliefere ihn nicht dem Übermut seiner Feinde.\nDer Herr bringe ihm Hilfe auf seinem Schmerzensbett; * sein ganzes lager hast Du umgewälzt in seiner Krankheit.\nich sprach: Herr, erbarme Dich meiner, * heile meine Seele, denn ich habe gegen Dich gesündigt.\nmeine Feinde redeten böses wider mich: * Wann wird er sterben und sein name untergehen?\nEr ging hinaus * und sprach mit seinen Genossen.\nEr ging hinaus * und sprach mit seinen Genossen.\nGegen mich zischelten all meine Feinde, * gegen mich ersannen sie böses.\nEin ruchloses Wort setzten sie gegen mich: * Der jetzt schläft, wird sich doch nicht wieder erheben?\nJa, auch der mann meines Friedens, auf den ich hoffte, * der mein brot aß, trieb große Arglist wider mich.\nDu aber, Herr, erbarme Dich meiner und richte mich wieder auf, * und ich werde ihnen vergelten.\nDaran erkannte ich, dass Du Wohlgefallen an mir hast, * weil mein Feind sich nicht freuen wird über mich.\nmich aber hast Du um der unschuld willen angenommen * und mich gestärkt vor Deinem Angesicht in Ewigkeit.\nGepriesen sei der Herr, der Gott israels, von Ewigkeit zu Ewigkeit: * So sei es! So sei es!\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Suscepísti me, Dómine: * et confirmásti me in conspéctu tuo.",
+        "de": "Ant. Du hast mich in deinen Schutz genommen, o Herr, * und mich vor deinem Angesicht stark gemacht."
+      }
+    },
+    {
+      "id": "week-feria3-sext-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 41 (2-6)",
+        "de": "Psalm 41 (2-6)"
+      },
+      "text": {
+        "la": "Quemádmodum desíderat cervus ad fontes aquárum: * ita desíderat ánima mea ad te, Deus.\nSitívit ánima mea ad Deum fortem vivum: * quando véniam, et apparébo ante fáciem Dei?\nFuérunt mihi lácrimæ meæ panes die ac nocte: * dum dícitur mihi cotídie: Ubi est Deus tuus?\nHæc recordátus sum, et effúdi in me ánimam meam: * quóniam transíbo in locum tabernáculi admirábilis, usque ad domum Dei.\nIn voce exsultatiónis, et confessiónis: * sonus epulántis.\nQuare tristis es, ánima mea? * et quare contúrbas me?\nSpera in Deo, quóniam adhuc confitébor illi: * salutáre vultus mei, et Deus meus.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Gleich wie ein Hirsch verlangt nach Wasserquellen, * so verlangt meine Seele nach Dir, o Gott.\nmeine Seele dürstet nach dem starken, dem lebendigen Gott; * wann werde ich kommen und erscheinen vor Gottes Angesicht?\nmeine Tränen wurden mir zum brot bei Tag und nacht, * während man mir täglich sagte: Wo ist dein Gott?\nim Schall von Jubel und lobpreis, * beim Klang des Feiernden.\nim Schall von Jubel und lobpreis, * beim Klang des Feiernden.\nHoffe auf Gott, denn ich werde ihn noch preisen; * er ist das Heil meines Angesichts und mein Gott.\nHoffe auf Gott, denn ich werde ihn noch preisen; * er ist das Heil meines Angesichts und mein Gott.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria3-sext-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 41 (7-12)",
+        "de": "Psalm 41 (7-12)"
+      },
+      "text": {
+        "la": "Ad meípsum ánima mea conturbáta est: * proptérea memor ero tui de terra Jordánis, et Hermóniim a monte módico.\nAbýssus abýssum ínvocat, * in voce cataractárum tuárum.\nÓmnia excélsa tua, et fluctus tui * super me transiérunt.\nIn die mandávit Dóminus misericórdiam suam: * et nocte cánticum ejus.\nApud me orátio Deo vitæ meæ, * dicam Deo: Suscéptor meus es.\nQuare oblítus es mei? * et quare contristátus incédo, dum afflígit me inimícus?\nDum confringúntur ossa mea, * exprobravérunt mihi qui tríbulant me inimíci mei.\nDum dicunt mihi per síngulos dies: Ubi est Deus tuus? * quare tristis es, ánima mea? et quare contúrbas me?\nSpera in Deo, quóniam adhuc confitébor illi: * salutáre vultus mei, et Deus meus.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "bei mir selbst ist meine Seele verwirrt, * darum werde ich Deiner gedenken vom land am Jordan aus und vom Hermon her, dem kleinen berg.\nAll Deine Wogen und Deine Fluten * gingen über mich hinweg.\nAll Deine Wogen und Deine Fluten * gingen über mich hinweg.\nbei mir ist ein Gebet zum Gott meines lebens; * ich werde zu Gott sagen: Du bist es, der mich annimmt.\nbei mir ist ein Gebet zum Gott meines lebens; * ich werde zu Gott sagen: Du bist es, der mich annimmt.\nWarum hast Du mich vergessen? * und warum muss ich traurig einhergehen, während mich der Feind bedrängt?\nda sie mir alle Tage sagten: Wo ist dein Gott? * Warum bist du traurig, meine Seele, und warum verwirrst du mich?\nda sie mir alle Tage sagten: Wo ist dein Gott? * Warum bist du traurig, meine Seele, und warum verwirrst du mich?\nHoffe auf Gott, denn ich werde ihn noch preisen; * er ist das Heil meines Angesichts und mein Gott.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

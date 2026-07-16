@@ -1,0 +1,88 @@
+{
+  "id": "week-sabbato-prim",
+  "form": "1962",
+  "hour": "prim",
+  "name": {
+    "la": "Ad Primam",
+    "de": "Prim"
+  },
+  "day": {
+    "title": {
+      "la": "Sabbato",
+      "de": "Samstag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-sabbato-prim-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-sabbato-prim-hymnus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Jam lucis orto sídere, Deum precémur súpplices, ut in diúrnis áctibus nos servet a nocéntibus.\nLinguam refrénans témperet, ne litis horror ínsonet: visum fovéndo cóntegat, ne vanitátes háuriat.",
+        "de": "Da nun das Licht am Himmel steigt, flehn wir zu Gott in Demut still, dass er in allem, was wir tun, uns vor dem Schaden schützen will.\nEr zähme, zügle unsre Zung, dass nicht der Streites Lärm erschallt; er hüte gnädig unsern Blick vor eitler Dinge Trug und Bild."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
+      }
+    },
+    {
+      "id": "week-sabbato-prim-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 93 (1-11)",
+        "de": "Psalm 93 (1-11)"
+      },
+      "text": {
+        "la": "Deus ultiónum Dóminus: * Deus ultiónum líbere egit.\nExaltáre, qui júdicas terram: * redde retributiónem supérbis.\nÚsquequo peccatóres, Dómine, * úsquequo peccatóres gloriabúntur:\nEffabúntur, et loquéntur iniquitátem: * loquéntur omnes, qui operántur injustítiam?\nPópulum tuum, Dómine, humiliavérunt: * et hereditátem tuam vexavérunt.\nVíduam, et ádvenam interfecérunt: * et pupíllos occidérunt.\nEt dixérunt: Non vidébit Dóminus, * nec intélleget Deus Jacob.\nIntellégite, insipiéntes in pópulo: * et stulti, aliquándo sápite.\nQui plantávit aurem, non áudiet? * aut qui finxit óculum, non consíderat?\nQui córripit gentes, non árguet: * qui docet hóminem sciéntiam?\nDóminus scit cogitatiónes hóminum, * quóniam vanæ sunt.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Ein Gott der Vergeltung ist der Herr, * der Gott der Vergeltung handelt frei.\nErhebe Dich, der Du die Erde richtest: * Übe Vergeltung an den Hochmütigen!\nWie lange noch sollen die Sünder, Herr, * wie lange noch sollen die Sünder sich rühmen,\nsollen sie sprechen und unrecht reden, * sollen reden all jene, die ungerechtigkeit verüben?\nDein Volk, o Herr, haben sie erniedrigt, * und Dein Erbe haben sie geplagt.\nDie Witwe und den Fremden haben sie getötet, * und Waisen haben sie ermordet.\nund sie sagten: Der Herr wird es nicht sehen, * noch wird es verstehen der Gott Jakobs.\nVersteht doch, ihr Törichten im Volk, * und ihr Dummen, nehmt endlich Verstand an.\nDer das Ohr gepflanzt hat, hört der etwa nicht? * Oder der das Auge gemacht hat, sieht der etwa nicht?\nDer die Völker züchtigt, wird er etwa nicht strafen, * er, der den menschen Erkenntnis lehrt?\nDer Herr kennt die Gedanken der menschen, * dass sie nichtig sind.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Exaltáre, Dómine, * qui júdicas terram: redde retributiónem supérbis.",
+        "de": "Ant. Exaltáre, Dómine, * qui júdicas terram: redde retributiónem supérbis."
+      }
+    },
+    {
+      "id": "week-sabbato-prim-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 93 (12-23)",
+        "de": "Psalm 93 (12-23)"
+      },
+      "text": {
+        "la": "Beátus homo, quem tu erudíeris, Dómine: * et de lege tua docúeris eum,\nUt mítiges ei a diébus malis: * donec fodiátur peccatóri fóvea.\nQuia non repéllet Dóminus plebem suam: * et hereditátem suam non derelínquet.\nQuoadúsque justítia convertátur in judícium: * et qui juxta illam omnes qui recto sunt corde.\nQuis consúrget mihi advérsus malignántes? * aut quis stabit mecum advérsus operántes iniquitátem?\nNisi quia Dóminus adjúvit me: * paulo minus habitásset in inférno ánima mea.\nSi dicébam: Motus est pes meus: * misericórdia tua, Dómine, adjuvábat me.\nSecúndum multitúdinem dolórum meórum in corde meo: * consolatiónes tuæ lætificavérunt ánimam meam.\nNumquid adhǽret tibi sedes iniquitátis: * qui fingis labórem in præcépto?\nCaptábunt in ánimam justi: * et sánguinem innocéntem condemnábunt.\nEt factus est mihi Dóminus in refúgium: * et Deus meus in adjutórium spei meæ.\nEt reddet illis iniquitátem ipsórum: et in malítia eórum dispérdet eos: * dispérdet illos Dóminus, Deus noster.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Selig der mensch, den Du unterweist, o Herr, * und ihn belehrst nach Deinem Gesetz,\num ihm linderung zu verschaffen in bösen Tagen, * bis dem Sünder die Grube gegraben wird.\nDenn der Herr wird sein Volk nicht verstoßen, * und sein Erbe wird er nicht verlassen,\nbis Gerechtigkeit sich wendet zum Gericht, * und mit ihr alle, die aufrichtigen Herzens sind.\nWer wird sich für mich erheben gegen die Übeltäter? * Oder wer wird mir beistehen gegen jene, die Frevel verüben?\nHätte nicht der Herr mir geholfen, * hätte beinahe meine Seele in der unterwelt gewohnt.\nWenn ich sprach: Es wankt mein Fuß, * so half mir, o Herr, Deine barmherzigkeit.\nnach der menge meiner Schmerzen in meinem Herzen, * haben Deine Tröstungen meine Seele erfreut.\nHangt Dir etwa der Thron des unrechts an, * der Du mühe machst im Gebot?\nSie werden jagen nach der Seele des Gerechten * und unschuldiges blut verdammen.\nDoch der Herr ist mir zur zuflucht geworden * und mein Gott zur Stütze meiner Hoffnung.\nund er wird ihnen ihr unrecht vergelten und in ihrer bosheit sie vernichten; * vernichten wird sie der Herr, unser Gott.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-sabbato-prim-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 107",
+        "de": "Psalm 107"
+      },
+      "text": {
+        "la": "Parátum cor meum, Deus, parátum cor meum: * cantábo, et psallam in glória mea.\nExsúrge, glória mea, exsúrge, psaltérium et cíthara: * exsúrgam dilúculo.\nConfitébor tibi in pópulis, Dómine: * et psallam tibi in natiónibus.\nQuia magna est super cælos misericórdia tua: * et usque ad nubes véritas tua:\nExaltáre super cælos, Deus, et super omnem terram glória tua: * ut liberéntur dilécti tui.\nSalvum fac déxtera tua, et exáudi me: * Deus locútus est in sancto suo:\nExsultábo, et dívidam Síchimam, * et convállem tabernaculórum dimétiar.\nMeus est Gálaad, et meus est Manásses: * et Éphraim suscéptio cápitis mei.\nJuda rex meus: * Moab lebes spei meæ.\nIn Idumǽam exténdam calceaméntum meum: * mihi alienígenæ amíci facti sunt.\nQuis dedúcet me in civitátem munítam? * quis dedúcet me usque in Idumǽam?\nNonne tu, Deus, qui repulísti nos, * et non exíbis, Deus, in virtútibus nostris?\nDa nobis auxílium de tribulatióne: * quia vana salus hóminis.\nIn Deo faciémus virtútem: * et ipse ad níhilum dedúcet inimícos nostros.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "bereit ist mein Herz, o Gott, bereit ist mein Herz, * ich will singen und spielen in meiner Ehre.\nErhebe dich, meine Ehre, er hebe dich, Harfe und zither! * ich will mich erheben am frühen morgen.\nPreisen will ich Dich bei den Völkern, o Herr, * und Dir spielen bei den nationen,\ndenn groß über die Himmel ist Deine barmherzigkeit * und bis zu den Wolken Deine Wahrheit.\nErhebe Dich über die Himmel, o Gott, und über die ganze Erde komme Deine Herrlichkeit, * damit befreit werden Deine Geliebten.\nHilf nun mit Deiner rechten und erhöre mich. * Gott sprach in seinem Heiligtum:\nich will frohlocken und Sichem teilen * und das Tal der zelte vermessen.\nmein ist Galaad und mein ist manasse * und Ephraim die Schutzwehr meines Hauptes.\nÜber Edom will ich meinen Schuh ausstrecken, * Fremdgeborene sind mir zu Freunden geworden.\nÜber Edom will ich meinen Schuh ausstrecken, * Fremdgeborene sind mir zu Freunden geworden.\nWer wird mich geleiten in die befestigte Stadt? * Wer wird mich geleiten bis nach Edom?\nnicht etwa Du, o Gott, der Du uns verstoßen hast? * und wirst Du nicht ausziehen, o Gott, mit unseren Heeren?\nSchaff uns Hilfe aus der Drangsal, * denn nichtig ist das Heil von menschen.\nin Gott werden wir Kraftvolles tun, * und er selbst wird unsere Feinde zunichte machen.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

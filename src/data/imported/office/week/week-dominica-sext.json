@@ -1,0 +1,88 @@
+{
+  "id": "week-dominica-sext",
+  "form": "1962",
+  "hour": "sext",
+  "name": {
+    "la": "Ad Sextam",
+    "de": "Sext"
+  },
+  "day": {
+    "title": {
+      "la": "Dominica",
+      "de": "Sonntag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-dominica-sext-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-dominica-sext-hymnus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Rector potens, verax Deus, qui témperas rerum vices, splendóre mane ínstruis, et ígnibus merídiem.\nExstíngue flammas lítium, aufer calórem nóxium, confer salútem córporum, verámque pacem córdium.",
+        "de": "Allmächtger Lenker, wahrer Gott, der du der Dinge Wechsel führst: du schmückst den Morgen mit dem Glanz und gibst dem Mittag Feuerglut.\nLösch aus die Flammen bösen Streits, nimm weg die Glut, die schädlich brennt, verleih dem Leibe Wohlergehn und wahren Frieden unserm Herz."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
+      }
+    },
+    {
+      "id": "week-dominica-sext-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 118 (81-96)",
+        "de": "Psalm 118 (81-96)"
+      },
+      "text": {
+        "la": "(Caph) Defécit in salutáre tuum ánima mea: * et in verbum tuum supersperávi.\nDefecérunt óculi mei in elóquium tuum, * dicéntes: Quando consoláberis me?\nQuia factus sum sicut uter in pruína: * justificatiónes tuas non sum oblítus.\nQuot sunt dies servi tui? * quando fácies de persequéntibus me judícium?\nNarravérunt mihi iníqui fabulatiónes: * sed non ut lex tua.\nÓmnia mandáta tua véritas: * iníque persecúti sunt me, ádjuva me.\nPaulo minus consummavérunt me in terra: * ego autem non derelíqui mandáta tua.\nSecúndum misericórdiam tuam vivífica me: * et custódiam testimónia oris tui.\n(Lamed) In ætérnum, Dómine, * verbum tuum pérmanet in cælo.\nIn generatiónem et generatiónem véritas tua: * fundásti terram, et pérmanet.\nOrdinatióne tua persevérat dies: * quóniam ómnia sérviunt tibi.\nNisi quod lex tua meditátio mea est: * tunc forte periíssem in humilitáte mea.\nIn ætérnum non oblivíscar justificatiónes tuas: * quia in ipsis vivificásti me.\nTuus sum ego, salvum me fac: * quóniam justificatiónes tuas exquisívi.\nMe exspectavérunt peccatóres ut pérderent me: * testimónia tua intelléxi.\nOmnis consummatiónis vidi finem: * latum mandátum tuum nimis.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "(Caph) Es schmachtet nach deiner Hilfe meine Seele, * und auf dein Wort hoffe ich.\nEs schmachten meine Augen nach deinem Worte; sie sagen: * Wann willst du mich trösten?\nDenn ich bin geworden wie ein Schlauch im Reif: * deine Satzungen hab ich nicht vergessen.\nWie viel sind der Tage deines Knechtes, * wann wirst du Gericht halten über meine Verfolger?\nDie Gottlosen schwatzten mir eitle Dinge vor: * aber sie sind nicht wie dein Gesetz.\nAlle deine Gebote sind Wahrheit: * sie haben mich verfolgt ohne Ursach, hilf mir.\nSie haben mich schier umgebracht auf Erden: * aber ich verließ deine Satzungen nicht.\nNach deiner Barmherzigkeit belebe mich: * so will ich die Zeugnisse deines Mundes bewahren.\n(Laméd) In Ewigkeit, o Herr, * bleibt dein Wort im Himmel.\nVon Geschlecht zu Geschlecht geht deine Wahrheit: * du hast die Erde gegründet, und sie bleibt.\nDurch deine Anordnung bleibet der Tag: * denn Alles dienet dir.\nWäre nicht dein Gesetz meine Betrachtung: * so würde ich wohl umkommen in meinem Elende.\nIch will ewig nicht vergessen deine Satzungen: * denn durch sie belebst du mich.\nDein bin ich, hilf mir: * denn deinen Satzungen strebe ich nach.\nDie Sünder lauern auf mich, um mich zu Grunde zu richten: * aber ich habe Acht auf deine Zeugnisse.\nIch habe jeglichen Dinges Ende gesehen: * aber dein Gebot geht sehr weit.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Allelúja, * tuus sum ego, salvum me fac, Dómine, allelúja, allelúja.",
+        "de": "Ant. Alleluja. * Dein bin ich, bleib doch mein Erhalter, alleluja, alleluja."
+      }
+    },
+    {
+      "id": "week-dominica-sext-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 118 (97-112)",
+        "de": "Psalm 118 (97-112)"
+      },
+      "text": {
+        "la": "(Mem) Quómodo diléxi legem tuam, Dómine? * tota die meditátio mea est.\nSuper inimícos meos prudéntem me fecísti mandáto tuo: * quia in ætérnum mihi est.\nSuper omnes docéntes me intelléxi: * quia testimónia tua meditátio mea est.\nSuper senes intelléxi: * quia mandáta tua quæsívi.\nAb omni via mala prohíbui pedes meos: * ut custódiam verba tua.\nA judíciis tuis non declinávi: * quia tu legem posuísti mihi.\nQuam dúlcia fáucibus meis elóquia tua, * super mel ori meo!\nA mandátis tuis intelléxi: * proptérea odívi omnem viam iniquitátis.\n(Nun) Lucérna pédibus meis verbum tuum, * et lumen sémitis meis.\nJurávi, et státui * custodíre judícia justítiæ tuæ.\nHumiliátus sum usquequáque, Dómine: * vivífica me secúndum verbum tuum.\nVoluntária oris mei beneplácita fac, Dómine: * et judícia tua doce me.\nÁnima mea in mánibus meis semper: * et legem tuam non sum oblítus.\nPosuérunt peccatóres láqueum mihi: * et de mandátis tuis non errávi.\nHereditáte acquisívi testimónia tua in ætérnum: * quia exsultátio cordis mei sunt.\nInclinávi cor meum ad faciéndas justificatiónes tuas in ætérnum, * propter retributiónem.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "(Mem) Wie hab ich dein Gesetz so lieb, o Herr! * Den ganzen Tag ist es meine Betrachtung.\nWeiser als meine Feinde hast du mich durch dein Gebot gemacht: * denn ewiglich bleibet es bei mir.\nWeiser bin ich als Alle, die mich lehrten: * denn deine Zeugnisse sind meine Betrachtung.\nWeiser bin ich als die Alten; * denn deinen Geboten hab ich nachgestrebt.\nVon jedem bösen Wege halt ich zurück meine Füße: * damit ich deine Gebote halte.\nIch weiche nicht zurück von deiner Rechten: * denn du hast mir ein Gesetz gegeben.\nWie süß sind deine Worte meinem Gaumen, * sie sind süßer meinem Munde als Honig!\nAus deinen Geboten ward ich weise: * darum hasse ich jeden Weg der Ungerechtigkeit.\n(Nun) Dein Wort ist eine Leuchte meinen Füßen, * und ein Licht auf meinen Wegen.\nIch habe geschworen und beschlossen, * deine gerechten Gesetze zu halten.\nSo lange mich, o Herr, so schwer bedrückt mein Elend, * gib neues Leben mir, wie dein Gesetz es bietet.\nDas Flehen meines Mundes laß dir, o Herr, gefallen, * und lehr mich deine Entscheide.\nMeine Seele ist stets in deinen Händen, * doch dein Gesetz hab ich nicht vergessen.\nDie Sünder legten mir Schlingen, * doch ich bin von deinen Geboten nicht abgeirrt.\nAls liebste Erbschaft nehm ich deine Lehre an für immer, * ja, sie ist meines Herzens Jubel.\nDrum lenke ich mein Herz, daß immer es befolge deine Regeln, * um Segen zu verdienen.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-dominica-sext-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 118 (113-128)",
+        "de": "Psalm 118 (113-128)"
+      },
+      "text": {
+        "la": "(Samech) Iníquos ódio hábui: * et legem tuam diléxi.\nAdjútor et suscéptor meus es tu: * et in verbum tuum supersperávi.\nDeclináte a me, malígni: * et scrutábor mandáta Dei mei.\nSúscipe me secúndum elóquium tuum, et vivam: * et non confúndas me ab exspectatióne mea.\nÁdjuva me, et salvus ero: * et meditábor in justificatiónibus tuis semper.\nSprevísti omnes discedéntes a judíciis tuis: * quia injústa cogitátio eórum.\nPrævaricántes reputávi omnes peccatóres terræ: * ídeo diléxi testimónia tua.\nConfíge timóre tuo carnes meas: * a judíciis enim tuis tímui.\n(Ain) Feci judícium et justítiam: * non tradas me calumniántibus me.\nSúscipe servum tuum in bonum: * non calumniéntur me supérbi.\nÓculi mei defecérunt in salutáre tuum: * et in elóquium justítiæ tuæ.\nFac cum servo tuo secúndum misericórdiam tuam: * et justificatiónes tuas doce me.\nServus tuus sum ego: * da mihi intelléctum, ut sciam testimónia tua.\nTempus faciéndi, Dómine: * dissipavérunt legem tuam.\nÍdeo diléxi mandáta tua, * super aurum et topázion.\nProptérea ad ómnia mandáta tua dirigébar: * omnem viam iníquam ódio hábui.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "(Samech) Die Sünder hasse ich, * doch dein Gesetz liebe ich.\nDu bist doch Helfer mir und Anwalt, * daß ich mein Glück nur such' in deiner Lehre.\nIhr aber, weicht von mir, Verführer, * da ich nur achten will auf die Gebote meines Gottes.\nNimm mich an nach deinem Wort und ich werde leben, * und täusch mich nicht in deiner Hoffnung.\nO sei mir Helfer, daß ich heil heraus komm', * und immer bei der Sorge bleib um deine Regeln.\nDu verwirfst alle, die von deinen gerechten Entscheiden weichen: * denn ihre Gedanken sind ungerecht.\nFür Übertreter halte ich alle Sünder auf Erden: * darum liebe ich deine Zeugnisse.\nDurchbohre mein Fleisch mit der Furcht vor dir: * denn ich fürchte mich vor deinen Gerichten.\n(Ain) Ich tue Recht und Gerechtigkeit: * überlaß mich nicht meinen Verleumdern.\nNimm auf deinen Knecht zum Heile, * daß mich nicht verleumden die Stolzen.\nMeine Augen schmachten nach deinem Heile, * und nach dem Worte deiner Gerechtigkeit.\nHandle an deinem Knechte nach deiner Barmherzigkeit, * und deine Satzungen lehre mich.\nIch bin dein Knecht: * gib mir Verstand, daß ich deine Zeugnisse erkenne.\nZeit ist's, zu handeln, o Herr: * sie haben aufgehoben dein Gesetz.\nDarum liebe ich deine Gebote * mehr als Gold und Edelgestein.\nDarum richte ich mich nach allen deinen Geboten, * hasse alle ungerechten Wege.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

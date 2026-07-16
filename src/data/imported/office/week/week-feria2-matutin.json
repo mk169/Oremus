@@ -1,0 +1,264 @@
+{
+  "id": "week-feria2-matutin",
+  "form": "1962",
+  "hour": "matutin",
+  "name": {
+    "la": "Ad Matutinum",
+    "de": "Matutin (Nachtwache)"
+  },
+  "day": {
+    "title": {
+      "la": "Feria II",
+      "de": "Montag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-feria2-matutin-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria2-matutin-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 13",
+        "de": "Psalm 13"
+      },
+      "text": {
+        "la": "Dixit insípiens in corde suo: * non est Deus.\nCorrúpti sunt, et abominábiles facti sunt in stúdiis suis: * non est qui fáciat bonum, non est usque ad unum.\nDóminus de cælo prospéxit super fílios hóminum, * ut vídeat si est intéllegens, aut requírens Deum.\nOmnes declinavérunt, simul inútiles facti sunt: * non est qui fáciat bonum, non est usque ad unum.\nSepúlcrum patens est guttur eórum: † linguis suis dolóse agébant * venénum áspidum sub lábiis eórum.\nQuorum os maledictióne et amaritúdine plenum est: * velóces pedes eórum ad effundéndum sánguinem.\nContrítio et infelícitas in viis eórum, † et viam pacis non cognovérunt: * non est timor Dei ante óculos eórum.\nNonne cognóscent omnes qui operántur iniquitátem, * qui dévorant plebem meam sicut escam panis?\nDóminum non invocavérunt, * illic trepidavérunt timóre, ubi non erat timor.\nQuóniam Dóminus in generatióne justa est, † consílium ínopis confudístis: * quóniam Dóminus spes ejus est.\nQuis dabit ex Sion salutáre Israël? * cum avérterit Dóminus captivitátem plebis suæ, exsultábit Jacob, et lætábitur Israël.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Es sprach der Tor in seinem Herzen: * Es gibt keinen Gott.\nVerdorben sind sie und abscheulich geworden in ihren Ränken. * Keiner ist, der Gutes tut, auch nicht einer.\nDer Herr schaut vom Himmel her auf die Menschenkinder, * um zu sehen, ob es einen gibt, der Einsicht hat, oder einen, der Gott sucht.\nAlle sind abgewichen, allesamt unnütz geworden. * Keiner ist, der Gutes tut, auch nicht einer.\nEin offenes Grab ist ihre Kehle, † mit ihren Zungen haben sie betrogen, * Natterngift ist unter ihren Lippen.\nIhr Mund ist voll von Fluch und Bitterkeit, * schnell sind ihre Füße zum Blutvergießen.\nVerderben und Unglück sind auf ihren Wegen, † und den Weg des Friedens kennen sie nicht, * nicht ist Gottesfurcht vor ihren Augen.\nWerden sie nicht zur Einsicht kommen, alle die Unrecht verüben, * die mein Volk verschlingen wie einen bissen Brot?\nDen Herrn riefen sie nicht an, * dort zitterten sie vor Furcht, wo nichts zu fürchten war,\ndenn der Herr ist mit dem Geschlecht der Gerechten; † den Plan des Armen habt ihr zuschanden gemacht, * denn der Herr ist seine Hoffnung.\nWer wird von Sion Heil bringen für Israel? * Wenn der Herr die Gefangenschaft seines Volkes abwendet, wird Jakob jubeln und Israel sich freuen.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Dóminus de cælo * prospéxit super fílios hóminum.",
+        "de": "Ant. Der Herr vom Himmel, * der schaut auf die Menschenmassen."
+      }
+    },
+    {
+      "id": "week-feria2-matutin-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 14",
+        "de": "Psalm 14"
+      },
+      "text": {
+        "la": "Dómine, quis habitábit in tabernáculo tuo? * aut quis requiéscet in monte sancto tuo?\nQui ingréditur sine mácula, * et operátur justítiam:\nQui lóquitur veritátem in corde suo, * qui non egit dolum in lingua sua:\nNec fecit próximo suo malum, * et oppróbrium non accépit advérsus próximos suos.\nAd níhilum dedúctus est in conspéctu ejus malígnus: * timéntes autem Dóminum gloríficat:\nQui jurat próximo suo, et non décipit, * (5a) qui pecúniam suam non dedit ad usúram, et múnera super innocéntem non accépit.\nQui facit hæc: * non movébitur in ætérnum.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Herr, wer wird wohnen in Deinem Zelt? * Oder wer wird ruhen auf Deinem heiligen Berg?\nWer einhergeht ohne Makel * und Gerechtigkeit übt,\nwer Wahrheit spricht in seinem Herzen, * wer nicht Trug geübt hat mit seiner Zunge\nNoch seinem nächsten Böses tat * und keine Schmähung annahm wider seine Nächsten.\nNichts gilt in seinen Augen der Bösewicht, * die aber den Herrn fürchten, die rühmt er,\nder seinem Nächsten schwört und nicht betrügt, * (5a) der sein Geld nicht auf Wucher gegeben hat und Geschenke gegen den Unschuldigen nicht annahm.\nWer das tut, * wird nicht wanken in Ewigkeit.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Qui operátur justítiam * requiéscet in monte sancto tuo, Dómine.",
+        "de": "Ant. Wer nach Gerechtigkeit handelt, * darf weilen auf deinem heiligen Berge, o Herr."
+      }
+    },
+    {
+      "id": "week-feria2-matutin-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 16",
+        "de": "Psalm 16"
+      },
+      "text": {
+        "la": "Exáudi, Dómine, justítiam meam: * inténde deprecatiónem meam.\nÁuribus pércipe oratiónem meam, * non in lábiis dolósis.\nDe vultu tuo judícium meum pródeat: * óculi tui vídeant æquitátes.\nProbásti cor meum, et visitásti nocte: * igne me examinásti, et non est invénta in me iníquitas.\nUt non loquátur os meum ópera hóminum: * propter verba labiórum tuórum ego custodívi vias duras.\nPérfice gressus meos in sémitis tuis: * ut non moveántur vestígia mea.\nEgo clamávi, quóniam exaudísti me, Deus: * inclína aurem tuam mihi, et exáudi verba mea.\nMirífica misericórdias tuas, * qui salvos facis sperántes in te.\nA resisténtibus déxteræ tuæ custódi me, * ut pupíllam óculi.\nSub umbra alárum tuárum prótege me: * (9a) a fácie impiórum qui me afflixérunt.\nInimíci mei ánimam meam circumdedérunt, † (10) ádipem suum conclusérunt: * os eórum locútum est supérbiam.\nProiciéntes me nunc circumdedérunt me: * óculos suos statuérunt declináre in terram.\nSuscepérunt me sicut leo parátus ad prædam: * et sicut cátulus leónis hábitans in ábditis.\nExsúrge, Dómine, prǽveni eum, et supplánta eum: * éripe ánimam meam ab ímpio, frámeam tuam (14a) ab inimícis manus tuæ.\nDómine, a paucis de terra dívide eos in vita eórum: * de abscónditis tuis adimplétus est venter eórum.\nSaturáti sunt fíliis: * et dimisérunt relíquias suas párvulis suis.\nEgo autem in justítia apparébo conspéctui tuo: * satiábor cum apparúerit glória tua.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Erhöre, Herr, meine Gerechtigkeit, * achte auf mein Flehen.\nNimm zu Ohren mein Gebet, * das nicht von trügerischen Lippen kommt.\nVon Deinem Angesicht laß ausgehen mein Urteil, * Deine Augen mögen schauen auf das, was recht ist.\nGeprüft hast Du mein Herz und es heimgesucht bei Nacht, * im Feuer hast Du mich erprobt, und nicht ward Missetat an mir gefunden.\nDamit mein Mund nicht rede die Werke von Menschen, * habe ich, um der Worte Deiner Lippen willen, harte Wege befolgt.\nMach vollkommen meine Schritte auf Deinen Pfaden, * damit meine Tritte nicht wanken.\nIch habe geschrien, denn Du hast mich erhört, o Gott; * neige Dein Ohr mir zu, und erhöre meine Worte.\nErzeige wunderbar Deine Barmherzigkeit, * der Du die rettest, die auf Dich hoffen.\nVor denen, die sich Deiner Rechten widersetzen, beschütze mich, * wie Deinen Augapfel.\nUnter dem Schatten Deiner Flügel beschirme mich, * (9a) vor dem Angesicht der Gottlosen, die mich bedrängen.\nMeine Feinde umringen meine Seele, † (10) das Fett (ihres Herzens) haben sie verschlossen, * ihr Mund hat hochmütig gesprochen.\nDie mich hinausstießen, sie haben mich jetzt umringt, * sie beschlossen, ihre Augen zur Erde zu senken.\nSie empfingen mich wie ein Löwe, begierig auf Beute, * wie ein Junglöwe, der im Verborgenen haust.\nErhebe Dich, Herr, komm ihm zuvor und wirf ihn nieder, * entreiße meine Seele (14a) dem Gottlosen, Deinen Speer den Feinden Deiner Hand.\nHerr, vom Wenigen des Landes teile ihnen zu in ihrem Leben; * mit dem, was Du gespeichert hast, hat sich ihr Bauch gefüllt.\nGesättigt sind sie mit Söhnen, * und ihren Überfluß hinterlassen sie ihren Kindern.\nIch aber will in Gerechtigkeit erscheinen vor Deinem Angesicht, * ich werde gesättigt werden, wenn Deine Herrlichkeit erscheint.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Inclína, Dómine, * aurem tuam mihi, et exáudi verba mea.",
+        "de": "Ant. Neige mir, o Herr, * dein Ohr, und erhör, um was ich bitte."
+      }
+    },
+    {
+      "id": "week-feria2-matutin-v1",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "V. Mirífica Dómine misericórdias tuas.",
+        "de": "V. Zeig in deiner wunderbaren Größe, Herr, dein Erbarmen."
+      }
+    },
+    {
+      "id": "week-feria2-matutin-v2",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "R. Qui salvos facis sperántes in te.",
+        "de": "R. Der du schützest solche, die auf dich vertrauen."
+      }
+    },
+    {
+      "id": "week-feria2-matutin-ps4",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 17 (2-16b)",
+        "de": "Psalm 17 (2-16b)"
+      },
+      "text": {
+        "la": "Díligam te, Dómine, fortitúdo mea: * (3a) Dóminus firmaméntum meum, et refúgium meum, et liberátor meus.\nDeus meus adjútor meus, * et sperábo in eum.\nProtéctor meus, et cornu salútis meæ, * et suscéptor meus.\nLaudans invocábo Dóminum: * et ab inimícis meis salvus ero.\nCircumdedérunt me dolóres mortis: * et torréntes iniquitátis conturbavérunt me.\nDolóres inférni circumdedérunt me: * præoccupavérunt me láquei mortis.\nIn tribulatióne mea invocávi Dóminum, * et ad Deum meum clamávi.\nEt exaudívit de templo sancto suo vocem meam: * et clamor meus in conspéctu ejus, introívit in aures ejus.\nCommóta est, et contrémuit terra: * fundaménta móntium conturbáta sunt, et commóta sunt, quóniam irátus est eis.\nAscéndit fumus in ira ejus: † et ignis a fácie ejus exársit: * carbónes succénsi sunt ab eo.\nInclinávit cælos, et descéndit: * et calígo sub pédibus ejus.\nEt ascéndit super Chérubim, et volávit: * volávit super pennas ventórum.\nEt pósuit ténebras latíbulum suum, † in circúitu ejus tabernáculum ejus: * tenebrósa aqua in núbibus áëris.\nPræ fulgóre in conspéctu ejus nubes transiérunt, * grando et carbónes ignis.\nEt intónuit de cælo Dóminus, † et Altíssimus dedit vocem suam: * grando et carbónes ignis.\nEt misit sagíttas suas, et dissipávit eos: * fúlgura multiplicávit, et conturbávit eos.\nEt apparuérunt fontes aquárum, * et reveláta sunt fundaménta orbis terrárum:\nAb increpatióne tua, Dómine, * ab inspiratióne spíritus iræ tuæ.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Ich will Dich lieben, Herr, meine Stärke, * (3a) Herr, meine Feste, meine Zuflucht und mein Befreier.\nMein Gott ist mein Helfer, * und auf ihn will ich hoffen.\nMein Beschützer und das Horn meines Heiles * und der mich aufnimmt.\nLobend will ich anrufen den Herrn, * und von meinen Feinden werde ich errettet.\nEs umgaben mich Wehen des Todes, * und Ströme der Bosheit verwirrten mich.\nDie Wehen der Unterwelt umfingen mich, * es überraschten mich die Schlingen des Todes.\nIn meiner Bedrängnis rief ich zum Herrn, * und zu meinem Gott habe ich geschrien.\nUnd er erhörte aus seinem heiligen Tempel meine Stimme, * und mein Schreien vor seinem Angesicht drang in seine Ohren.\nEs wankte und bebte die Erde, * die Grundfesten der Berge wurden erschüttert und wankten, weil er ihnen zürnte.\nEs stieg Rauch auf in seinem Zorn, † und Feuer loderte auf von seinem Angesicht her, * Glutkohlen brannten von ihm hervor.\nEr neigte die Himmel und stieg herab, * und Dunkel war unter seinen Füßen.\nUnd er stieg auf Cherubim und flog dahin, * er flog auf den Flügeln der Winde.\nUnd er machte Finsternis zu seinem Versteck, † rings um ihn als sein Zelt, * das finstere Wasser in den Wolken der Luft.\nVor dem Glanz seines Angesichts gingen Wolken her, * Hagel und feurige Kohlen.\nUnd es donnerte vom Himmel der Herr, † und der Höchste ließ seine Stimme erschallen, * Hagel und feurige Kohlen.\nUnd er schoß seine Pfeile und zerstreute sie, * er vermehrte die Blitze und verwirrte sie.\nUnd es zeigten sich Quellen von Wasser, * und enthüllt wurden die Grundfesten des Erdkreises\nvon Deinem Schelten, Herr, * von dem schnaubenden Hauch Deines Zornes.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Díligam te, * Dómine, virtus mea.",
+        "de": "Ant. Ich muss dich lieben, * o Herr, du meine Stärke."
+      }
+    },
+    {
+      "id": "week-feria2-matutin-ps5",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 17 (17-35)",
+        "de": "Psalm 17 (17-35)"
+      },
+      "text": {
+        "la": "Misit de summo, et accépit me: * et assúmpsit me de aquis multis.\nErípuit me de inimícis meis fortíssimis, † et ab his qui odérunt me: * quóniam confortáti sunt super me.\nPrævenérunt me in die afflictiónis meæ: * et factus est Dóminus protéctor meus.\nEt edúxit me in latitúdinem: * salvum me fecit, quóniam vóluit me.\nEt retríbuet mihi Dóminus secúndum justítiam meam: * et secúndum puritátem mánuum meárum retríbuet mihi:\nQuia custodívi vias Dómini, * nec ímpie gessi a Deo meo.\nQuóniam ómnia judícia ejus in conspéctu meo: * et justítias ejus non répuli a me.\nEt ero immaculátus cum eo: * et observábo me ab iniquitáte mea.\nEt retríbuet mihi Dóminus secúndum justítiam meam: * et secúndum puritátem mánuum meárum in conspéctu oculórum ejus.\nCum sancto sanctus eris, * et cum viro innocénte ínnocens eris:\nEt cum elécto eléctus eris: * et cum pervérso pervertéris.\nQuóniam tu pópulum húmilem salvum fácies: * et óculos superbórum humiliábis.\nQuóniam tu illúminas lucérnam meam, Dómine: * Deus meus, illúmina ténebras meas.\nQuóniam in te erípiar a tentatióne, * et in Deo meo transgrédiar murum.\nDeus meus, impollúta via ejus: † elóquia Dómini igne examináta: * protéctor est ómnium sperántium in se.\nQuóniam quis Deus præter Dóminum? * aut quis Deus præter Deum nostrum?\nDeus, qui præcínxit me virtúte: * et pósuit immaculátam viam meam.\nQui perfécit pedes meos tamquam cervórum, * et super excélsa státuens me.\nQui docet manus meas ad prǽlium: * et posuísti, ut arcum ǽreum, brácchia mea.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Er sandte aus der Höhe und faßte mich, * und er zog mich aus vielen Wassern.\nEr hat mich errettet von meinen überstarken Feinden † und von denen, die mich hassen, * denn sie sind stark geworden, mehr als ich.\nSie überraschten mich am Tag meiner Bedrängnis, * und der Herr ist mein Schützer geworden.\nUnd er führte mich hinaus ins Weite, * er hat mich gerettet, weil er Wohlgefallen an mir hat.\nUnd vergelten wird mir der Herr gemäß meiner Gerechtigkeit, * und gemäß der Reinheit meiner Hände wird er mir vergelten,\ndenn ich habe die Wege des Herrn bewahrt * und nicht gottlos gehandelt, weg von meinem Gott,\ndenn all seine Rechtssprüche sind vor meinem Angesicht, * und seine Satzungen stieß ich nicht von mir.\nUnd ich will makellos sein bei ihm * und mich hüten vor meiner Bosheit.\nUnd vergelten wird mir der Herr gemäß meiner Gerechtigkeit, * und gemäß der Reinheit meiner Hände vor seinen Augen.\nMit dem Heiligen wirst Du heilig sein, * und mit dem unschuldigen Mann unschuldig.\nUnd mit dem Auserwählten wirst Du auserwählt sein * und mit dem Verkehrten verkehrt.\nDenn ein demütiges Volk wirst Du retten * und die Augen der Stolzen demütigen.\nDenn Du machst hell meine Leuchte, Herr; * mein Gott, mach hell meine Finsternis!\nDenn durch Dich werde ich herausgerissen aus der Versuchung, * und mit meinem Gott übersteige ich jede Mauer.\nMein Gott, unbefleckt ist sein Weg: † Die Aussprüche des Herrn sind im Feuer erprobt, * ein Beschützer ist er allen, die auf ihn hoffen.\nDenn wer ist Gott außer dem Herrn? * Oder wer ist Gott außer unserem Gott?\nGott ist es, der mich umgürtete mit Kraft * und der makellos gemacht meinen Weg,\nder meine Füße machte wie die der Hirsche * und mich auf Höhen stellte.\nEr lehrt meine Hände den Kampf; * und gleich wie einen ehernen Bogen hast Du meine Arme gemacht.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Retríbuet mihi Dóminus * secúndum justítiam meam.",
+        "de": "Ant. Du lohnest mir, o Herr, * nach meinem lautern Wandel."
+      }
+    },
+    {
+      "id": "week-feria2-matutin-ps6",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 17 (36a-51)",
+        "de": "Psalm 17 (36a-51)"
+      },
+      "text": {
+        "la": "Et dedísti mihi protectiónem salútis tuæ: * et déxtera tua suscépit me:\nEt disciplína tua corréxit me in finem: * et disciplína tua ipsa me docébit.\nDilatásti gressus meos subtus me: * et non sunt infirmáta vestígia mea:\nPérsequar inimícos meos et comprehéndam illos: * et non convértar, donec defíciant.\nConfríngam illos, nec póterunt stare: * cadent subtus pedes meos.\nEt præcinxísti me virtúte ad bellum: * et supplantásti insurgéntes in me subtus me.\nEt inimícos meos dedísti mihi dorsum, * et odiéntes me disperdidísti.\nClamavérunt, nec erat qui salvos fáceret ad Dóminum: * nec exaudívit eos.\nEt commínuam eos, ut púlverem ante fáciem venti: * ut lutum plateárum delébo eos.\nErípies me de contradictiónibus pópuli: * constítues me in caput géntium.\nPópulus quem non cognóvi servívit mihi: * in audítu auris obedívit mihi.\nFílii aliéni mentíti sunt mihi, * fílii aliéni inveteráti sunt, et claudicavérunt a sémitis suis.\nVivit Dóminus, et benedíctus Deus meus: * et exaltétur Deus salútis meæ.\nDeus, qui das vindíctas mihi, et subdis pópulos sub me: * liberátor meus de inimícis meis iracúndis.\nEt ab insurgéntibus in me exaltábis me: * a viro iníquo erípies me.\nProptérea confitébor tibi in natiónibus, Dómine: * et nómini tuo psalmum dicam.\nMagníficans salútes Regis ejus, † et fáciens misericórdiam Christo suo David: * et sémini ejus usque in sǽculum.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Und Du gabst mir den Schutz Deines Heiles, * und Deine Rechte nahm mich auf.\nDeine Unterweisung hat mich vollends gebessert, * und Deine Unterweisung, sie selbst wird mich lehren.\nWeit gemacht hast Du meine Schritte unter mir, * und meine Tritte sind nicht ermattet.\nVerfolgen will ich meine Feinde und sie ergreifen * und mich nicht abwenden, bis sie erliegen.\nZerbrechen will ich sie, so daß sie nicht mehr stehen können, * zu meinen Füßen sollen sie niedersinken.\nUnd Du hast mich umgürtet mit Kraft für den Krieg * und hast alle, die sich gegen mich erhoben, unter mir zu Fall gebracht.\nUnd meine Feinde schlugst Du in die Flucht (wörtlich: gabst Du mir als Rücken), * und die mich haßten, hast Du vertilgt.\nSie schrien zum Herrn, und es gab keinen, der half, * und er hat sie nicht erhört.\nUnd zermalmen will ich sie wie Staub vor dem Angesicht des Windes, * wie den Schlamm der Gassen will ich sie vernichten.\nDu rettest mich vom Aufbegehren des Volkes, * Du wirst mich einsetzen zum Haupt der Völker.\nEin Volk, das ich nicht kannte, diente mir, * sobald sein Ohr es hörte, gehorchte es mir.\nDie fremden Söhne heuchelten mir Ergebung, * die fremden Söhne wurden altersschwach und hinkten fort von ihren Pfaden.\nEs lebt der Herr, und gepriesen sei mein Gott, * und es werde erhöht der Gott meines Heiles.\nGott, der Du mir Vergeltung verschaffst und mir Völker unterwirfst, * mein Befreier von meinen zornigen Feinden.\nUnd vor denen, die sich gegen mich erheben, wirst Du mich erhöhen, * vor dem ungerechten Mann wirst Du mich retten.\nDarum will ich Dich preisen bei den Völkern, Herr, * und Deinem Namen einen Psalm singen,\nder groß macht das Heil seines Königs † und Erbarmen schafft seinem Gesalbten David * und seinen Nachkommen bis in Ewigkeit.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Vivit Dóminus * et benedíctus Deus salútis meæ.",
+        "de": "Ant. Du, Herr, sollst leben * und gepriesen sein, o Gott, du meines Glückes Quelle."
+      }
+    },
+    {
+      "id": "week-feria2-matutin-v3",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "V. Confitébor tibi in natiónibus, Dómine.",
+        "de": "V. Ich will dich preisen, Herr, dass es die Völker hören."
+      }
+    },
+    {
+      "id": "week-feria2-matutin-v4",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "R. Et nómini tuo psalmum dicam.",
+        "de": "R. Und deiner Majestät ein Danklied singen."
+      }
+    },
+    {
+      "id": "week-feria2-matutin-ps7",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 19",
+        "de": "Psalm 19"
+      },
+      "text": {
+        "la": "Exáudiat te Dóminus in die tribulatiónis: * prótegat te nomen Dei Jacob.\nMittat tibi auxílium de sancto: * et de Sion tueátur te.\nMemor sit omnis sacrifícii tui: * et holocáustum tuum pingue fiat.\nTríbuat tibi secúndum cor tuum: * et omne consílium tuum confírmet.\nLætábimur in salutári tuo: * et in nómine Dei nostri magnificábimur.\nÍmpleat Dóminus omnes petitiónes tuas: * nunc cognóvi quóniam salvum fecit Dóminus Christum suum.\nExáudiet illum de cælo sancto suo: * in potentátibus salus déxteræ ejus.\nHi in cúrribus, et hi in equis: * nos autem in nómine Dómini, Dei nostri invocábimus.\nIpsi obligáti sunt, et cecidérunt: * nos autem surréximus et erécti sumus.\nDómine, salvum fac regem: * et exáudi nos in die, qua invocavérimus te.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Es erhöre dich der Herr am Tag der Drangsal, * es beschirme dich der Name des Gottes Jakobs.\nEr sende dir Hilfe vom Heiligtum, * und von Sion her beschütze er dich.\nEr gedenke jedes deiner Opfer, * und dein Ganzopfer werde fett.\nEr gebe dir nach deinem Herzen * und bestätige jeden deiner Pläne.\nFreuen werden wir uns über Dein Heil * und im Namen unseres Gottes uns rühmen.\nErfüllen möge der Herr all deine Bitten. * Jetzt weiß ich, daß der Herr seinen Gesalbten gerettet hat.\nEr wird ihn erhören von seinem heiligen Himmel her; * in mächtigen Taten (offenbart sich) das Heil seiner rechten.\nDiese (vertrauen) auf Wagen und jene auf Rosse, * wir aber werden anrufen den Namen des Herrn, unseres Gottes.\nSie haben sich verstrickt und sind gefallen, * wir aber sind aufgestanden und aufgerichtet worden.\nHerr, rette den König * und erhöre uns an dem Tag, an dem wir zu Dir rufen.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Exáudiat te * Dóminus in die tribulatiónis.",
+        "de": "Ant. Mag erhören dich * der Herr, wenn die Gefahren kommen."
+      }
+    },
+    {
+      "id": "week-feria2-matutin-ps8",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 20",
+        "de": "Psalm 20"
+      },
+      "text": {
+        "la": "Dómine, in virtúte tua lætábitur rex: * et super salutáre tuum exsultábit veheménter.\nDesidérium cordis ejus tribuísti ei: * et voluntáte labiórum ejus non fraudásti eum.\nQuóniam prævenísti eum in benedictiónibus dulcédinis: * posuísti in cápite ejus corónam de lápide pretióso.\nVitam pétiit a te: * et tribuísti ei longitúdinem diérum in sǽculum, et in sǽculum sǽculi.\nMagna est glória ejus in salutári tuo: * glóriam et magnum decórem impónes super eum.\nQuóniam dabis eum in benedictiónem in sǽculum sǽculi: * lætificábis eum in gáudio cum vultu tuo.\nQuóniam rex sperat in Dómino: * et in misericórdia Altíssimi non commovébitur.\nInveniátur manus tua ómnibus inimícis tuis: * déxtera tua invéniat omnes, qui te odérunt.\nPones eos ut clíbanum ignis in témpore vultus tui: * Dóminus in ira sua conturbábit eos, et devorábit eos ignis.\nFructum eórum de terra perdes: * et semen eórum a fíliis hóminum.\nQuóniam declinavérunt in te mala: * cogitavérunt consília, quæ non potuérunt stabilíre.\nQuóniam pones eos dorsum: * in relíquiis tuis præparábis vultum eórum.\nExaltáre, Dómine, in virtúte tua: * cantábimus et psallémus virtútes tuas.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Herr, in Deiner Kraft erfreut sich der König, * und über Dein Heil frohlockt er gar sehr.\nWas sein Herz ersehnte, hast Du ihm gewährt * und den Wunsch seiner Lippen ihm nicht versagt.\nDenn Du kamst ihm zuvor mit Segnungen voll Lieblichkeit, * setztest auf sein Haupt eine Krone von kostbarem Stein.\nLeben erbat er von Dir, * und Du gabst ihm die Fülle der Tage auf immer und ewig.\nGroß ist sein ruhm in Deinem Heil, * ruhm und große Pracht wirst Du auf ihn legen.\nDenn Du wirst ihn zum Segen machen in alle Ewigkeit, * Du wirst ihn erfreuen mit Wonne vor Deinem Angesicht.\nDenn der König hofft auf den Herrn, * und durch die barmherzigkeit des Höchsten wird er nicht wanken.\nGefunden werde Deine Hand auf all Deinen Feinden, * Deine rechte soll alle finden, die Dich hassen.\nDu wirst sie machen wie einen Feuerofen zur zeit Deines Anblicks, * der Herr wird in seinem zorn sie verwirren, und Feuer wird sie verzehren.\nihre Frucht wirst Du von der Erde vertilgen, * und ihre nachkommenschaft aus den Menschen kindern.\nDenn böses neigten sie auf Dich, * ersannen Pläne, die sie nicht ausführen konnten.\nDenn Du jagst sie in die Flucht [wörtlich: Du wirst sie zum rücken machen]; * mit denen, die Dir bleiben, wirst Du ihr Angesicht zurichten.\nErhebe Dich, Herr, in Deiner Kraft. * Wir wollen singen und Deine Machttaten preisen.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Dómine, * in virtúte tua lætábitur rex.",
+        "de": "Ant. O Herr, * wie jubelt ob deiner so mächtigen Hilfe der König."
+      }
+    },
+    {
+      "id": "week-feria2-matutin-ps9",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 29",
+        "de": "Psalm 29"
+      },
+      "text": {
+        "la": "Exaltábo te, Dómine, quóniam suscepísti me: * nec delectásti inimícos meos super me.\nDómine, Deus meus, clamávi ad te, * et sanásti me.\nDómine, eduxísti ab inférno ánimam meam: * salvásti me a descendéntibus in lacum.\nPsállite Dómino, sancti ejus: * et confitémini memóriæ sanctitátis ejus.\nQuóniam ira in indignatióne ejus: * et vita in voluntáte ejus.\nAd vésperum demorábitur fletus: * et ad matutínum lætítia.\nEgo autem dixi in abundántia mea: * Non movébor in ætérnum.\nDómine, in voluntáte tua, * præstitísti decóri meo virtútem.\nAvertísti fáciem tuam a me, * et factus sum conturbátus.\nAd te, Dómine, clamábo: * et ad Deum meum deprecábor.\nQuæ utílitas in sánguine meo, * dum descéndo in corruptiónem?\nNumquid confitébitur tibi pulvis, * aut annuntiábit veritátem tuam?\nAudívit Dóminus, et misértus est mei: * Dóminus factus est adjútor meus.\nConvertísti planctum meum in gáudium mihi: * conscidísti saccum meum, et circumdedísti me lætítia:\nUt cantet tibi glória mea, et non compúngar: * Dómine, Deus meus, in ætérnum confitébor tibi.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "ich will Dich erheben, Herr, denn Du hast mich aufgenommen * und meine Feinde sich nicht freuen lassen über mich.\nHerr, mein Gott, ich rief zu Dir, * und Du hast mich geheilt.\nHerr, Du hast meine Seele heraus geführt aus der Unterwelt, * hast mich gerettet aus denen, die herabfahren in die Grube.\nSpielt dem Herrn, ihr, seine Heiligen, * und preist das Gedenken seiner Heiligkeit.\nAm Abend kehrt Weinen ein * und am Morgen Freude.\nAm Abend kehrt Weinen ein * und am Morgen Freude.\nich aber sprach in meines Glückes Fülle: * ich werde nicht wanken in Ewigkeit.\nDu (aber) wandtest Dein Angesicht von mir ab, * und ich war verwirrt.\nDu (aber) wandtest Dein Angesicht von mir ab, * und ich war verwirrt.\nzu Dir, Herr, will ich rufen, * und zu meinem Gott will ich flehen.\nWird denn der Staub Dich preisen * oder Deine Wahrheit verkünden?\nWird denn der Staub Dich preisen * oder Deine Wahrheit verkünden?\nEs hörte der Herr und erbarmte sich meiner, * der Herr ist mein Helfer geworden.\nDu hast mir mein Weinen in Freude verwandelt, * zerrissen mein Trauergewand und mich umgeben mit Freude,\nauf dass Dir singe meine Herrlichkeit, und ich nicht reue empfinde. * Herr, mein Gott, in Ewigkeit will ich Dich preisen!\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Exaltábo te, * Dómine, quóniam suscepísti me.",
+        "de": "Ant. Ich muss dich preisen, * Herr, da du dich meiner angenommen."
+      }
+    },
+    {
+      "id": "week-feria2-matutin-v5",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "V. Psállite Dómino sancti ejus.",
+        "de": "V. O singt dem Herrn, ihr seine Schutzbefohlenen."
+      }
+    },
+    {
+      "id": "week-feria2-matutin-v6",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "R. Et confitémini memóriæ sanctitátis ejus.",
+        "de": "R. Preist ihn, behaltet seine heil'ge Majestät euch im Gedächtnis."
+      }
+    },
+    {
+      "id": "week-feria2-matutin-tedeum",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus Te Deum",
+        "de": "Te Deum"
+      },
+      "rubric": {
+        "la": "Post lectiones (extra Adventum et Quadragesimam)",
+        "de": "Nach den Lesungen (außer Advent und Fastenzeit)"
+      },
+      "text": {
+        "la": "Te Deum laudámus: * te Dóminum confitémur. Te ætérnum Patrem * omnis terra venerátur. Tibi omnes Ángeli, * tibi Cæli, et univérsæ Potestátes: Tibi Chérubim et Séraphim * incessábili voce proclámant: Sanctus, Sanctus, Sanctus * Dóminus Deus Sábaoth.",
+        "de": "Dich, Gott, loben wir, * dich, Herr, bekennen wir. Dich, den ewigen Vater, * verehrt die ganze Erde. Dir rufen alle Engel, * dir Himmel und alle Mächte, dir Cherubim und Seraphim * mit unaufhörlicher Stimme zu: Heilig, heilig, heilig * der Herr, der Gott der Heerscharen."
+      }
+    }
+  ]
+}

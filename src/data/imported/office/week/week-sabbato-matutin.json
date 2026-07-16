@@ -1,0 +1,264 @@
+{
+  "id": "week-sabbato-matutin",
+  "form": "1962",
+  "hour": "matutin",
+  "name": {
+    "la": "Ad Matutinum",
+    "de": "Matutin (Nachtwache)"
+  },
+  "day": {
+    "title": {
+      "la": "Sabbato",
+      "de": "Samstag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-sabbato-matutin-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-sabbato-matutin-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 104 (1-15)",
+        "de": "Psalm 104 (1-15)"
+      },
+      "text": {
+        "la": "Confitémini Dómino, et invocáte nomen ejus: * annuntiáte inter gentes ópera ejus.\nCantáte ei, et psállite ei: * narráte ómnia mirabília ejus.\nLaudámini in nómine sancto ejus: * lætétur cor quæréntium Dóminum.\nQuǽrite Dóminum, et confirmámini: * quǽrite fáciem ejus semper.\nMementóte mirabílium ejus, quæ fecit: * prodígia ejus, et judícia oris ejus.\nSemen Ábraham, servi ejus: * fílii Jacob, elécti ejus.\nIpse Dóminus Deus noster: * in univérsa terra judícia ejus.\nMemor fuit in sǽculum testaménti sui: * verbi, quod mandávit in mille generatiónes:\nQuod dispósuit ad Ábraham: * et juraménti sui ad Isaac:\nEt státuit illud Jacob in præcéptum: * et Israël in testaméntum ætérnum:\nDicens: Tibi dabo terram Chánaan, * funículum hereditátis vestræ.\nCum essent número brevi, * paucíssimi et íncolæ ejus:\nEt pertransiérunt de gente in gentem, * et de regno ad pópulum álterum.\nNon relíquit hóminem nocére eis: * et corrípuit pro eis reges.\nNolíte tángere christos meos: * et in prophétis meis nolíte malignári.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Preiset den Herrn und ruft seinen namen an, * verkündet bei den Völkern seine Werke.\nSingt ihm und spielt ihm, * erzählt all seine Wunder.\nrühmt euch seines heiligen namens, * es freue sich das Herz derer, die den Herrn suchen.\nSuchet den Herrn, und ihr werdet gestärkt, * suchet sein Angesicht immerdar.\nGedenkt seiner Wunder, die er getan, * seiner zeichen und der Urteile seines Mundes,\nihr nachkommen Abrahams, seine Knechte, * ihr Söhne Jakobs, seine Erwählten.\nEr ist der Herr, unser Gott, * auf der ganzen Erde gelten seine Urteile.\nEingedenk war er auf ewig seines bundes, * des Wortes, das er entboten auf tausend Geschlechter hin,\nden er angeordnet für Abraham, * und seines Eides an isaak.\nUnd er gab ihn Jakob als Gebot * und für israel als ewigen bund,\nda er sprach: Dir will ich das Land Kanaan geben * als das zugemessene Land eures Erbes.\nAls sie an zahl gering waren, * sehr wenige und Fremdlinge in ihm,\nund da sie zogen von Volk zu Volk, * und von einem reich zu einem anderen Volk,\nließ er keinen Menschen, der ihnen schade, * und ihret wegen strafte er Könige.\nTastet nicht an meine Gesalbten, * und an meinen Propheten handelt nicht schlecht!\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Memor fuit in sǽculum * testaménti sui Dóminus Deus noster.",
+        "de": "Ant. Es bleibt auf ewig eingedenk * unser Herr und Gott des einst geschlossenen Bundes."
+      }
+    },
+    {
+      "id": "week-sabbato-matutin-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 104 (16-27)",
+        "de": "Psalm 104 (16-27)"
+      },
+      "text": {
+        "la": "Et vocávit famem super terram: * et omne firmaméntum panis contrívit.\nMisit ante eos virum: * in servum venúmdatus est Joseph.\nHumiliavérunt in compédibus pedes ejus, ferrum pertránsiit ánimam ejus * donec veníret verbum ejus.\nElóquium Dómini inflammávit eum: * misit rex, et solvit eum; princeps populórum, et dimísit eum.\nConstítuit eum dóminum domus suæ: * et príncipem omnis possessiónis suæ:\nUt erudíret príncipes ejus sicut semetípsum: * et senes ejus prudéntiam docéret.\nEt intrávit Israël in Ægýptum: * et Jacob áccola fuit in terra Cham.\nEt auxit pópulum suum veheménter: * et firmávit eum super inimícos ejus.\nConvértit cor eórum ut odírent pópulum ejus: * et dolum fácerent in servos ejus.\nMisit Móysen, servum suum: * Aaron, quem elégit ipsum.\nPósuit in eis verba signórum suórum: * et prodigiórum in terra Cham.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Und er rief Hungersnot über das Land, * und jegliche Stütze an brot zerbrach er.\nEr sandte einen Mann vor ihnen her: * Als Sklave wurde Joseph verkauft.\nSie erniedrigten mit Fesseln sei ne Füße, Eisen durchdrang seine Seele, * bis eintraf sein Wort.\nDer Spruch des Herrn hat ihn entflammt; * der König sandte hin und befreite ihn, der Fürst der Völker, und er ließ ihn heraus.\nEr machte ihn zum Herrn seines Hauses * und zum Herrscher über seinen ganzen besitz,\ndass er seine Fürsten bilde wie sich selbst * und seine Greise Klugheit lehre.\nUnd israel zog nach ägypten, * und Jakob wurde Anwohner im Lande Chams.\nUnd vermehrt hat er sein Volk gar sehr * und es stärker gemacht als seine Feinde.\nDeren Herz verkehrte er, sodass sie hassten sein Volk, * und List gebrauchten gegen seine Diener.\nEr sandte Moses, seinen Knecht, * Aaron, den er selbst erwählt hat.\nDurch sie richtete er die Worte seiner zeichen auf * und der Wundertaten im Lande Chams.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Auxit Dóminus * pópulum suum: et firmávit eum super inimícos ejus.",
+        "de": "Ant. Es ließ der Herr sich mehren * ungemein sein Volk und machte es stärker als die Feinde."
+      }
+    },
+    {
+      "id": "week-sabbato-matutin-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 104 (28-45)",
+        "de": "Psalm 104 (28-45)"
+      },
+      "text": {
+        "la": "Misit ténebras, et obscurávit: * et non exacerbávit sermónes suos.\nConvértit aquas eórum in sánguinem: * et occídit pisces eórum.\nÉdidit terra eórum ranas: * in penetrálibus regum ipsórum.\nDixit, et venit cœnomyía: * et cínifes in ómnibus fínibus eórum.\nPósuit plúvias eórum grándinem: * ignem comburéntem in terra ipsórum.\nEt percússit víneas eórum, et ficúlneas eórum: * et contrívit lignum fínium eórum.\nDixit, et venit locústa, et bruchus, * cujus non erat númerus:\nEt comédit omne fænum in terra eórum: * et comédit omnem fructum terræ eórum.\nEt percússit omne primogénitum in terra eórum: * primítias omnis labóris eórum.\nEt edúxit eos cum argénto et auro: * et non erat in tríbubus eórum infírmus.\nLætáta est Ægýptus in profectióne eórum: * quia incúbuit timor eórum super eos.\nExpándit nubem in protectiónem eórum: * et ignem ut lucéret eis per noctem.\nPetiérunt, et venit cotúrnix: * et pane cæli saturávit eos.\nDirúpit petram et fluxérunt aquæ: * abiérunt in sicco flúmina;\nQuóniam memor fuit verbi sancti sui: * quod hábuit ad Ábraham, púerum suum.\nEt edúxit pópulum suum in exsultatióne, * et eléctos suos in lætítia.\nEt dedit illis regiónes géntium: * et labóres populórum possedérunt:\nUt custódiant justificatiónes ejus, * et legem ejus requírant.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Er sandte Finsternis, und es wurde dunkel, * und ließ seine Worte nicht zunichte werden.\nEr verwandelte ihre Gewässer in blut * und tötete ihre Fische.\nihr Land brachte Frösche hervor * (selbst) in den Gemächern ihrer Könige.\nEr sprach, und es kam die Fliege, * und die Stechmücke in ihrem ganzen Gebiet.\nihren regen machte er zu Hagel, * gab verzehrendes Feuer in ihr Land.\nUnd er zerschlug ihre Weinstöcke und ihre Feigenbäume * und zerbrach das Gehölz ihres Gebietes.\nEr sprach, und es kam die Heuschrecke und die Grille, * die zahllos war.\nUnd sie fraß alles Gras in ihrem Land, * und sie fraß alle Frucht ihres Landes.\nUnd er schlug alle Erstgeburt in ihrem Land, * die Erstlinge all ihrer Wehen.\nUnd er führte sie heraus mit Silber und Gold, * und in all ihren Stämmen war kein Schwacher.\nägypten freute sich bei ihrem Auszug, * denn ihr Schrecken war auf sie gefallen.\nEr breitete eine Wolke aus zu ihrem Schutz * und Feuer, um ihnen zu leuchten in der nacht.\nSie baten, und es kam die Wachtel, * und mit dem brot des Himmels hat er sie gesättigt.\nEr ließ bersten den Felsen und es flossen Wasser, * im dürren Land flossen Ströme dahin.\nDenn er war eingedenk seines heiligen Wortes, * das er gerichtet an Abraham, seinen Knecht.\nUnd er führte sein Volk heraus in Jubel * und seine Auserwählen in Freude.\nUnd er gab ihnen die Länder der Heiden, * und worum die Völker sich abgemüht, das nahmen sie in besitz,\nauf dass sie seine Satzungen bewahren * und sein Gesetz eifrig beobachten.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Edúxit Deus * pópulum suum in exsultatióne, et eléctos suos in lætítia.",
+        "de": "Ant. Es führte Gott heraus * sein Volk in Jubel, seine auserwählte Schar in großer Freude."
+      }
+    },
+    {
+      "id": "week-sabbato-matutin-v1",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "V. Memor fuit Dóminus verbi sancti sui.",
+        "de": "V. Der Herr zeigt eingedenk sich seines heiligen Wortes."
+      }
+    },
+    {
+      "id": "week-sabbato-matutin-v2",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "R. Quod locútus est ad Ábraham, púerum suum.",
+        "de": "R. Das er zu Abraham gesprochen, seinem Knechte."
+      }
+    },
+    {
+      "id": "week-sabbato-matutin-ps4",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 105 (1-15)",
+        "de": "Psalm 105 (1-15)"
+      },
+      "text": {
+        "la": "Confitémini Dómino, quóniam bonus: * quóniam in sǽculum misericórdia ejus.\nQuis loquétur poténtias Dómini, * audítas fáciet omnes laudes ejus?\nBeáti, qui custódiunt judícium, * et fáciunt justítiam in omni témpore.\nMeménto nostri, Dómine, in beneplácito pópuli tui: * vísita nos in salutári tuo:\nAd vidéndum in bonitáte electórum tuórum, ad lætándum in lætítia gentis tuæ: * ut laudéris cum hereditáte tua.\nPeccávimus cum pátribus nostris: * injúste égimus, iniquitátem fécimus.\nPatres nostri in Ægýpto non intellexérunt mirabília tua: * non fuérunt mémores multitúdinis misericórdiæ tuæ.\nEt irritavérunt ascendéntes in mare, * Mare Rubrum.\nEt salvávit eos propter nomen suum: * ut notam fáceret poténtiam suam.\nEt incrépuit Mare Rubrum, et exsiccátum est, * et dedúxit eos in abýssis sicut in desérto.\nEt salvávit eos de manu odiéntium: * et redémit eos de manu inimíci.\nEt opéruit aqua tribulántes eos: * unus ex eis non remánsit.\nEt credidérunt verbis ejus: * et laudavérunt laudem ejus.\nCito fecérunt, oblíti sunt óperum ejus: * et non sustinuérunt consílium ejus.\nEt concupiérunt concupiscéntiam in desérto: * et tentavérunt Deum in inaquóso.\nEt dedit eis petitiónem ipsórum: * et misit saturitátem in ánimas eórum.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Preiset den Herrn, denn er ist gut, * denn in Ewigkeit währt seine barmherzigkeit.\nWer wird nennen die Machttaten des Herrn, * hören lassen all sein Lob?\nSelig, die das recht wahren * und Gerechtigkeit üben zu jeder zeit.\nGedenke unser, Herr, im Wohlgefallen an Deinem Volk, * suche uns heim mit Deinem Heil,\ndamit man es schaue an dem Glück, das Deinen Auserwählten zuteil wurde, damit man sich freue an der Freude Deines Volkes, * dass Du gepriesen werdest mit Deinem Erbe.\nWir haben gesündigt mitsamt unseren Vätern, * unrecht gehandelt, böses getan.\nund reizten Dich als sie hinaufzogen zum Meer, * zum roten Meer.\nund reizten Dich als sie hinaufzogen zum Meer, * zum roten Meer.\nUnd er hat sie gerettet um seines namens willen, * um kundzutun seine Macht.\nUnd er schalt das rote Meer, und es trocknete aus, * und er führte sie in den Meerestiefen wie in der Wüste.\nUnd er rettete sie aus der Hand der Hasser * und erlöste sie aus der Hand des Feindes.\nUnd das Wasser bedeckte die, die sie bedrängten, * nicht einer von ihnen blieb übrig.\nUnd sie glaubten seinen Worten * und sangen sein Lob.\nSie beeilten sich, vergaßen seine Werke * und harrten nicht auf seinen ratschluss.\nUnd sie begehrten begierde in der Wüste * und versuchten Gott im wasserlosen Land.\nUnd er gewährte ihre bitte * und sandte Sättigung in ihre Seelen.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Salvávit eos Dóminus * propter nomen suum.",
+        "de": "Ant. Der Herr hat sie gerettet * um seines Namens willen."
+      }
+    },
+    {
+      "id": "week-sabbato-matutin-ps5",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 105 (16-31)",
+        "de": "Psalm 105 (16-31)"
+      },
+      "text": {
+        "la": "Et irritavérunt Móysen in castris: * Aaron, sanctum Dómini.\nApérta est terra, et deglutívit Dathan: * et opéruit super congregatiónem Abíron.\nEt exársit ignis in synagóga eórum * flamma combússit peccatóres.\nEt fecérunt vítulum in Horeb * et adoravérunt scúlptile.\nEt mutavérunt glóriam suam * in similitúdinem vítuli comedéntis fænum.\nOblíti sunt Deum, qui salvávit eos, * qui fecit magnália in Ægýpto, mirabília in terra Cham: terribília in Mari Rubro.\nEt dixit ut dispérderet eos: * si non Móyses, eléctus ejus, stetísset in confractióne in conspéctu ejus:\nUt avérteret iram ejus ne dispérderet eos: * et pro níhilo habuérunt terram desiderábilem:\nNon credidérunt verbo ejus, et murmuravérunt in tabernáculis suis: * non exaudiérunt vocem Dómini.\nEt elevávit manum suam super eos: * ut prostérneret eos in desérto:\nEt ut deíceret semen eórum in natiónibus: * et dispérgeret eos in regiónibus.\nEt initiáti sunt Beélphegor: * et comedérunt sacrifícia mortuórum.\nEt irritavérunt eum in adinventiónibus suis: * et multiplicáta est in eis ruína.\nEt stetit Phínees, et placávit: * et cessávit quassátio.\nEt reputátum est ei in justítiam: * in generatiónem et generatiónem usque in sempitérnum.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Und sie reizten den Moses im Lager, * Aron, den Heiligen des Herrn.\nDa tat sich die Erde auf und verschlang Dathan * und bedeckte die rotte Abirons.\nUnd Feuer entbrannte in ihrer Versammlung, * die Flamme verzehrte die Sünder.\nUnd sie machten ein Kalb am Horeb * und beteten das Gußbild an.\nUnd sie vertauschten ihre Herrlichkeit * mit dem Abbild eines Kalbes, das Gras frisst.\nSie vergaßen Gott, der sie gerettet hat, * der Großes getan in ägypten, Wunderbares im Land Cham, Schreckliches am roten Meer.\nUnd er sprach, sie zu vertilgen * wenn nicht Moses, sein Auserwählter, in die bresche getreten wäre vor seinem Angesicht,\num seinen zorn abzuwenden, damit er sie nicht verderbe. * Und sie verachteten das begehrenswerte Land;\nsie glaubten nicht seinem Wort und murrten in ihren zelten, * und sie hörten nicht auf die Stimme des Herrn.\nUnd er erhob seine Hand über sie, * um sie niederzu strecken in der Wüste\nund um hinzuwerfen ihre nachkommen unter die Völker * und sie in den Ländern zu zerstreuen.\nUnd sie weihten sich dem beel phegor * und aßen die Opfer von Toten.\nUnd sie reizten ihn durch ihre Einfälle * und groß wurde unter ihnen das Verderben.\nDoch Phinees stand auf und schaffte Sühne, * und die Plage hörte auf,\nund es wurde ihm angerechnet zur Gerechtigkeit * von Geschlecht zu Geschlecht bis in Ewigkeit.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Oblíti sunt Deum * qui salvávit eos.",
+        "de": "Ant. Sie vergaßen Gott, * der sie gerettet."
+      }
+    },
+    {
+      "id": "week-sabbato-matutin-ps6",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 105 (32-48)",
+        "de": "Psalm 105 (32-48)"
+      },
+      "text": {
+        "la": "Et irritavérunt eum ad aquas contradictiónis: * et vexátus est Móyses propter eos: quia exacerbavérunt spíritum ejus.\nEt distínxit in lábiis suis: * non disperdidérunt gentes, quas dixit Dóminus illis.\nEt commísti sunt inter gentes, et didicérunt ópera eórum: et serviérunt sculptílibus eórum: * et factum est illis in scándalum.\nEt immolavérunt fílios suos, * et fílias suas dæmóniis.\nEt effudérunt sánguinem innocéntem: * sánguinem filiórum suórum et filiárum suárum, quas sacrificavérunt sculptílibus Chánaan.\nEt infécta est terra in sanguínibus, et contamináta est in opéribus eórum: * et fornicáti sunt in adinventiónibus suis.\nEt irátus est furóre Dóminus in pópulum suum: * et abominátus est hereditátem suam.\nEt trádidit eos in manus géntium: * et domináti sunt eórum qui odérunt eos.\nEt tribulavérunt eos inimíci eórum, et humiliáti sunt sub mánibus eórum: * sæpe liberávit eos.\nIpsi autem exacerbavérunt eum in consílio suo: * et humiliáti sunt in iniquitátibus suis.\nEt vidit, cum tribularéntur: * et audívit oratiónem eórum.\nEt memor fuit testaménti sui: * et pœnítuit eum secúndum multitúdinem misericórdiæ suæ.\nEt dedit eos in misericórdias * in conspéctu ómnium qui céperant eos.\nSalvos nos fac, Dómine, Deus noster: * et cóngrega nos de natiónibus:\nUt confiteámur nómini sancto tuo: * et gloriémur in laude tua.\nBenedíctus Dóminus, Deus Israël, a sǽculo et usque in sǽculum: * et dicet omnis pópulus: Fiat, fiat.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Und sie reizten ihn bei den Wassern des Widerspruchs, * und ihretwegen wurde Moses geplagt, denn sie erbitterten seinen Geist,\nund er sprach unbedacht mit seinen Lippen. * Sie vertilgten nicht die Völker, die der Herr ihnen genannt hatte.\nUnd sie mischten sich unter die Heiden und lernten deren Werke und dienten deren Götzenbildern, * und es wurde ihnen zum Fallstrick.\nUnd sie opferten ihre Söhne * und ihre Töchter den Dämonen\nund vergossen unschuldiges blut, * das blut ihrer Söhne und Töchter, die sie den Götzen Kanaans geopfert.\nUnd getränkt wurde das Land mit blut und verunreinigt durch ihre Werke, * und sie trieben Unzucht nach ihren Einfällen.\nUnd der Herr entbrannte im zorn über sein Volk * und verabscheute sein Erbe.\nUnd er lieferte sie aus in die Hände der Heiden, * und die sie hassten, herrschten über sie.\nUnd es bedrängten sie ihre Feinde, und sie wurden gebeugt unter deren Hände, * oftmals hat er sie befreit.\nSie aber erbitterten ihn durch ihren ratschluss, * und sie wurden erniedrigt durch ihre Missetaten.\nUnd er sah, wie sie bedrängt wurden, * und hörte ihr Gebet.\nUnd er gedachte seines bundes, * und es reute ihn nach der Fülle seiner barmherzigkeit.\nUnd er ließ sie barmherzigkeit finden * vor dem Angesicht aller, die sie gefangengenommen hatten.\ndamit wir Deinen heiligen namen preisen * und uns rühmen Deines Lobes.\ndamit wir Deinen heiligen namen preisen * und uns rühmen Deines Lobes.\nGepriesen sei der Herr, der Gott israels, von Ewigkeit und bis in Ewigkeit, * und alles Volk soll sprechen: So sei es! So sei es!\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Cum tribularéntur * vidit Dóminus: et audívit oratiónem eórum.",
+        "de": "Ant. Als sie gepeinigt wurden, * hat's der Herr gesehen und hat gehört auf ihre Bitten."
+      }
+    },
+    {
+      "id": "week-sabbato-matutin-v3",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "V. Salvos nos fac, Dómine, Deus noster.",
+        "de": "V. Erhalt am Leben uns, o Herr, unser Gott du."
+      }
+    },
+    {
+      "id": "week-sabbato-matutin-v4",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "R. Ut confiteámur nómini sancto tuo.",
+        "de": "R. Dass deine heil'ge Majestät wir preisen können."
+      }
+    },
+    {
+      "id": "week-sabbato-matutin-ps7",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 106 (1-14)",
+        "de": "Psalm 106 (1-14)"
+      },
+      "text": {
+        "la": "Confitémini Dómino quóniam bonus: * quóniam in sǽculum misericórdia ejus.\nDicant qui redémpti sunt a Dómino, quos redémit de manu inimíci: * et de regiónibus congregávit eos:\nA solis ortu, et occásu: * ab aquilóne, et mari.\nErravérunt in solitúdine in inaquóso: * viam civitátis habitáculi non invenérunt.\nEsuriéntes, et sitiéntes: * ánima eórum in ipsis defécit.\nEt clamavérunt ad Dóminum cum tribularéntur: * et de necessitátibus eórum erípuit eos.\nEt dedúxit eos in viam rectam: * ut irent in civitátem habitatiónis.\nConfiteántur Dómino misericórdiæ ejus: * et mirabília ejus fíliis hóminum.\nQuia satiávit ánimam inánem: * et ánimam esuriéntem satiávit bonis.\nSedéntes in ténebris, et umbra mortis: * vinctos in mendicitáte et ferro.\nQuia exacerbavérunt elóquia Dei: * et consílium Altíssimi irritavérunt.\nEt humiliátum est in labóribus cor eórum: * infirmáti sunt, nec fuit qui adjuváret.\nEt clamavérunt ad Dóminum cum tribularéntur: * et de necessitátibus eórum liberávit eos.\nEt edúxit eos de ténebris, et umbra mortis: * et víncula eórum disrúpit.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Preiset den Herrn, denn er ist gut, * denn in Ewigkeit währt seine barmherzigkeit.\nSo sollen sprechen, die erlöst sind vom Herrn, die er erlöst hat aus der Hand des Feindes, * und aus allen Gegenden hat er sie zusammengeführt.\nVom Aufgang der Sonne und vom niedergang, * vom norden und vom Meer.\nSie irrten umher in der Wüste, im wasserlosen Land, * den Weg zur Stadt des Wohnorts fanden sie nicht.\nSie litten Hunger und Durst, * ihre Seele in ihnen verschmachtete.\nUnd sie schrien zum Herrn, als sie bedrängt waren, * und aus ihren nöten hat er sie errettet.\nUnd er führte sie auf den rechten Weg, * damit sie zur Stadt des Wohnorts gelangten.\nPreisen sollen den Herrn die Erweise seiner barmherzigkeit * und seine Wunder an den Menschenkindern!\nDenn er sättigte die leere Seele, * und die hungernde Seele hat er gesättigt mit Gütern.\nDie saßen in Finsternis und Todesschatten, * gefesselt in Armut und Eisen,\nweil sie den Worten Gottes getrotzt * und verachteten den ratschluss des Höchsten.\nUnd gebeugt wurde durch Mühsal ihr Herz, * sie wurden kraftlos, und keinen gab es, der half.\nUnd sie schrien zum Herrn, als sie bedrängt wurden, * und aus ihren nöten hat er sie befreit,\nund er hat sie herausgeführt aus Finsternis und Todesschatten * und ihre Fesseln zerbrochen.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Clamavérunt ad Dóminum * et de necessitátibus eórum liberávit eos.",
+        "de": "Ant. Sie riefen zu dem Herrn, * und der hat sie befreit aus ihren Nöten."
+      }
+    },
+    {
+      "id": "week-sabbato-matutin-ps8",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 106 (15-30)",
+        "de": "Psalm 106 (15-30)"
+      },
+      "text": {
+        "la": "Confiteántur Dómino misericórdiæ ejus: * et mirabília ejus fíliis hóminum.\nQuia contrívit portas ǽreas: * et vectes férreos confrégit.\nSuscépit eos de via iniquitátis eórum: * propter injustítias enim suas humiliáti sunt.\nOmnem escam abomináta est ánima eórum: * et appropinquavérunt usque ad portas mortis.\nEt clamavérunt ad Dóminum cum tribularéntur: * et de necessitátibus eórum liberávit eos.\nMisit verbum suum, et sanávit eos: * et erípuit eos de interitiónibus eórum.\nConfiteántur Dómino misericórdiæ ejus: * et mirabília ejus fíliis hóminum.\nEt sacríficent sacrifícium laudis: * et annúntient ópera ejus in exsultatióne.\nQui descéndunt mare in návibus, * faciéntes operatiónem in aquis multis.\nIpsi vidérunt ópera Dómini, * et mirabília ejus in profúndo.\nDixit, et stetit spíritus procéllæ: * et exaltáti sunt fluctus ejus.\nAscéndunt usque ad cælos, et descéndunt usque ad abýssos: * ánima eórum in malis tabescébat.\nTurbáti sunt, et moti sunt sicut ébrius: * et omnis sapiéntia eórum devoráta est.\nEt clamavérunt ad Dóminum cum tribularéntur: * et de necessitátibus eórum edúxit eos.\nEt státuit procéllam ejus in auram: * et siluérunt fluctus ejus.\nEt lætáti sunt quia siluérunt: * et dedúxit eos in portum voluntátis eórum.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Preisen sollen den Herrn die Erweise seiner barmherzigkeit * und seine Wunder an den Menschenkindern!\nDenn er zermalmte eherne Tore * und zerbrach eiserne riegel.\nEr nahm sie zu sich vom Weg ihrer Sünde, * denn wegen ihrer Ungerechtigkeit hat er sie erniedrigt.\nJegliche Speise verabscheute ihre Seele, * und sie näherten sich bis an die Pforten des Todes.\nUnd sie schrien zum Herrn, als sie bedrängt wurden, * und aus ihren nöten befreite er sie.\nEr sandte sein Wort und heilte sie, * und er entriss sie ihrem vielfachen Untergang.\nPreisen sollen den Herrn die Erweise seiner barmherzigkeit * und seine Wunder an den Menschenkindern!\nUnd opfern sollen sie ein Opfer des Lobes * und verkünden seine Werke mit Jubel.\nDie mit Schiffen hinabsteigen aufs Meer, * Handel treiben auf vielen Wassern,\nsie schauten die Werke des Herrn * und seine Wunder in der Tiefe.\nEr sprach, und es erhob sich ein Sturmwind, * und seine Wogen gingen hoch.\nSie türmen sich auf bis zu den Himmeln und sinken hinab bis in die Abgründe, * ihre Seele verzagte im Unglück.\nSie wurden verwirrt und wankten wie ein betrunkener * und all ihre Weisheit wurde verschlungen.\nUnd sie schrien zum Herrn, als sie bedrängt wurden, * und aus ihren nöten hat er sie herausgeführt.\nUnd er machte seinen Sturm zur sanften brise, * und stille wurden seine Wogen.\nUnd sie freuten sich, weil sie stille wurden, * und er führte sie zum Hafen ihrer Sehnsucht.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Ipsi vidérunt * ópera Dei et mirabília ejus.",
+        "de": "Ant. Sie erkannten * die Werke des Herrn und seine Wundertaten."
+      }
+    },
+    {
+      "id": "week-sabbato-matutin-ps9",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 106 (31-43)",
+        "de": "Psalm 106 (31-43)"
+      },
+      "text": {
+        "la": "Confiteántur Dómino misericórdiæ ejus: * et mirabília ejus fíliis hóminum.\nEt exáltent eum in ecclésia plebis: * et in cáthedra seniórum laudent eum.\nPósuit flúmina in desértum: * et éxitus aquárum in sitim.\nTerram fructíferam in salsúginem: * a malítia inhabitántium in ea.\nPósuit desértum in stagna aquárum: * et terram sine aqua in éxitus aquárum.\nEt collocávit illic esuriéntes: * et constituérunt civitátem habitatiónis.\nEt seminavérunt agros, et plantavérunt víneas: * et fecérunt fructum nativitátis.\nEt benedíxit eis, et multiplicáti sunt nimis: * et juménta eórum non minorávit.\nEt pauci facti sunt: * et vexáti sunt a tribulatióne malórum, et dolóre.\nEffúsa est contémptio super príncipes: * et erráre fecit eos in ínvio, et non in via.\nEt adjúvit páuperem de inópia: * et pósuit sicut oves famílias.\nVidébunt recti, et lætabúntur: * et omnis iníquitas oppilábit os suum.\nQuis sápiens et custódiet hæc? * et intélleget misericórdias Dómini.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Preisen sollen den Herrn die Erweise seiner barmherzigkeit * und seine Wunder an den Menschenkindern!\nUnd erheben soll man ihn in der Versammlung des Volkes * und im rat der ältesten ihn loben.\nEr machte Flüsse zur Wüste * und Wasserquellen zum dürstenden Land,\nfruchtbares Land zur salzigen Steppe * wegen der bosheit derer, die in ihm wohnen.\nEr machte die Wüste zu Teichen von Wasser * und Land ohne Wasser zu Wasserquellen.\nUnd er ließ die Hungernden dort wohnen, * und sie gründeten dort die Stadt des Wohnorts.\nUnd sie besäten äcker und pflanzten Weinberge, * und diese brachten die Frucht des Ertrags.\nUnd er segnete sie und sie vermehrten sich sehr, * und ihr Vieh verringerte sich nicht.\nUnd sie wurden wenige, * und sie wurden geplagt durch bedrängnis von bösen und Schmerz.\nAusgegossen war Verachtung über die Fürsten, * und er ließ sie umherirren in unwegsamem Gebiet und nicht auf einem Weg.\nUnd er half dem Armen aus der not * und machte die Hausgenossen wie Schafe.\nDie redlichen werden es sehen und sich freuen, * und alle Ungerechtigkeit wird ihren Mund verschließen.\nWer ist weise und wird es bewahren * und erkennen die barmherzigkeit des Herrn?\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Vidébunt recti * et lætabúntur, et intéllegent misericórdias Dómini.",
+        "de": "Ant. Sein treues Volk soll es sehen * und sich freuen und des Herrn Erbarmungen verstehen."
+      }
+    },
+    {
+      "id": "week-sabbato-matutin-v5",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "V. Exáltent Dóminum in ecclésia plebis.",
+        "de": "V. Man soll ihn feiern, wo sich Volk versammelt."
+      }
+    },
+    {
+      "id": "week-sabbato-matutin-v6",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "R. Et in cáthedra seniórum laudent eum.",
+        "de": "R. Und wo die Ältesten zusammensitzen, sollen sie ihn loben."
+      }
+    },
+    {
+      "id": "week-sabbato-matutin-tedeum",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus Te Deum",
+        "de": "Te Deum"
+      },
+      "rubric": {
+        "la": "Post lectiones (extra Adventum et Quadragesimam)",
+        "de": "Nach den Lesungen (außer Advent und Fastenzeit)"
+      },
+      "text": {
+        "la": "Te Deum laudámus: * te Dóminum confitémur. Te ætérnum Patrem * omnis terra venerátur. Tibi omnes Ángeli, * tibi Cæli, et univérsæ Potestátes: Tibi Chérubim et Séraphim * incessábili voce proclámant: Sanctus, Sanctus, Sanctus * Dóminus Deus Sábaoth.",
+        "de": "Dich, Gott, loben wir, * dich, Herr, bekennen wir. Dich, den ewigen Vater, * verehrt die ganze Erde. Dir rufen alle Engel, * dir Himmel und alle Mächte, dir Cherubim und Seraphim * mit unaufhörlicher Stimme zu: Heilig, heilig, heilig * der Herr, der Gott der Heerscharen."
+      }
+    }
+  ]
+}

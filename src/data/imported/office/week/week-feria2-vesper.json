@@ -1,0 +1,128 @@
+{
+  "id": "week-feria2-vesper",
+  "form": "1962",
+  "hour": "vesper",
+  "name": {
+    "la": "Ad Vesperas",
+    "de": "Vesper (Abendlob)"
+  },
+  "day": {
+    "title": {
+      "la": "Feria II",
+      "de": "Montag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-feria2-vesper-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria2-vesper-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 114",
+        "de": "Psalm 114"
+      },
+      "text": {
+        "la": "Diléxi, quóniam exáudiet Dóminus * vocem oratiónis meæ.\nQuia inclinávit aurem suam mihi: * et in diébus meis invocábo.\nCircumdedérunt me dolóres mortis: * et perícula inférni invenérunt me.\nTribulatiónem et dolórem invéni: * (4a) et nomen Dómini invocávi.\nO Dómine, líbera ánimam meam: ‡ (5) miséricors Dóminus, et justus, * et Deus noster miserétur.\nCustódiens párvulos Dóminus: * humiliátus sum, et liberávit me.\nConvértere, ánima mea, in réquiem tuam: * quia Dóminus benefécit tibi.\nQuia erípuit ánimam meam de morte: ‡ óculos meos a lácrimis, * pedes meos a lapsu.\nPlacébo Dómino * in regióne vivórum.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Ich liebe, denn der Herr erhört * die Stimme meines Betens,\ndenn sein Ohr hat er mir zugeneigt, * und in meinen Tagen will ich ihn anrufen.\nMich umfingen Wehen des Todes, * und Gefahren der Unterwelt trafen mich.\nTrübsal und Schmerz habe ich gefunden, * (4a) da rief ich den Namen des Herrn an.\nO Herr, befreie meine Seele! ‡ (5) Barmherzig ist der Herr und gerecht, * und unser Gott erbarmt sich.\nEs bewahrt die Kleinen der Herr; * ich wurde erniedrigt, und er hat mich befreit.\nKehre zurück, meine Seele, zu deiner Ruhe, * denn der Herr hat dir wohlgetan,\ndenn er hat meine Seele vom Tod errettet, ‡ meine Augen von den Tränen, * meine Füße vom Fall.\nIch will gefallen dem Herrn * im Lande der Lebendigen.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Inclinávit Dóminus * aurem suam mihi.",
+        "de": "Ant. Es hat der Herr zugeneigt * sein Ohr mir."
+      }
+    },
+    {
+      "id": "week-feria2-vesper-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 115",
+        "de": "Psalm 115"
+      },
+      "text": {
+        "la": "Crédidi, propter quod locútus sum: * ego autem humiliátus sum nimis.\nEgo dixi in excéssu meo: * Omnis homo mendax.\nQuid retríbuam Dómino, * pro ómnibus, quæ retríbuit mihi?\nCálicem salutáris accípiam: * et nomen Dómini invocábo.\nVota mea Dómino reddam coram omni pópulo ejus: * (6) pretiósa in conspéctu Dómini mors sanctórum ejus:\nO Dómine, quia ego servus tuus: * ego servus tuus, et fílius ancíllæ tuæ.\nDirupísti víncula mea: ‡ (8) tibi sacrificábo hóstiam laudis, * et nomen Dómini invocábo.\nVota mea Dómino reddam in conspéctu omnis pópuli ejus: * (10) in átriis domus Dómini, in médio tui, Jerúsalem.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Ich glaube, darum habe ich geredet; * doch ich ward sehr erniedrigt.\nich sprach in meiner Bestürzung: * „Jeder Mensch ist ein Lügner.“\nWas soll ich dem Herrn vergelten * für alles, was er mir erwiesen hat?\nDen Kelch des Heils will ich ergreifen * und anrufen den Namen des Herrn.\nMeine Gelübde will ich dem Herrn erfüllen vor seinem ganzen Volk; * (6) kostbar ist in den Augen des Herrn der Tod seiner Heiligen.\nO Herr, ich bin ja Dein Knecht, * Dein Knecht bin ich und der Sohn Deiner Magd.\nZerrissen hast Du meine Fesseln, ‡ (8) Dir weihe ich ein Opfer des Lobes * und will anrufen den Namen des Herrn.\nMeine Gelübde will ich dem Herrn erfüllen im Angesicht seines ganzen Volkes, * (10) in den Vorhöfen des Hauses des Herrn, in deiner Mitte, Jerusalem.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Vota mea * Dómino reddam coram omni pópulo ejus.",
+        "de": "Ant. Die Gefühle meines Innern * will ich dir, o Herr, kundtun vor deinem ganzen Volke."
+      }
+    },
+    {
+      "id": "week-feria2-vesper-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 119",
+        "de": "Psalm 119"
+      },
+      "text": {
+        "la": "Ad Dóminum cum tribulárer clamávi: * et exaudívit me.\nDómine, líbera ánimam meam a lábiis iníquis, * et a lingua dolósa.\nQuid detur tibi, aut quid apponátur tibi * ad linguam dolósam?\nSagíttæ poténtis acútæ, * cum carbónibus desolatóriis.\nHeu mihi, quia incolátus meus prolongátus est: † habitávi cum habitántibus Cedar: * (6) multum íncola fuit ánima mea.\nCum his, qui odérunt pacem, eram pacíficus: * cum loquébar illis, impugnábant me gratis.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Zum Herrn habe ich gerufen, da ich bedrängt war, * und er hat mich erhört.\nHerr, befreie meine Seele von ungerechten Lippen * und von trügerischer Zunge.\nWas gibt man dir, oder was wird dir hinzugefügt * zur trügerischen Zunge?\nScharfe Pfeile eines Mächtigen * mit zerstörerischen Kohlen.\nWehe mir, denn meine Verbannung ist verlängert worden, † ich wohnte bei den Einwohnern Kedars; * (6) zum Fremdling ist meine Seele geworden gar sehr.\nMit denen, die den Frieden haßten, war ich friedlich, * als ich zu ihnen sprach, bekämpften sie mich ohne Grund.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Clamávi * et Dóminus exaudívit me.",
+        "de": "Ant. Wenn ich ruf zu dir, * o Herr, pflegst du mich zu erhören."
+      }
+    },
+    {
+      "id": "week-feria2-vesper-ps4",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 120",
+        "de": "Psalm 120"
+      },
+      "text": {
+        "la": "Levávi óculos meos in montes, * unde véniet auxílium mihi.\nAuxílium meum a Dómino, * qui fecit cælum et terram.\nNon det in commotiónem pedem tuum: * neque dormítet qui custódit te.\nEcce, non dormitábit neque dórmiet, * qui custódit Israël.\nDóminus custódit te, Dóminus protéctio tua, * super manum déxteram tuam.\nPer diem sol non uret te: * neque luna per noctem.\nDóminus custódit te ab omni malo: * custódiat ánimam tuam Dóminus.\nDóminus custódiat intróitum tuum, et éxitum tuum: * ex hoc nunc, et usque in sǽculum.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Ich erhebe meine Augen zu den Bergen, * von wo mir Hilfe kommt.\nMeine Hilfe kommt vom Herrn, * der Himmel und Erde erschaffen hat.\nEr läßt nicht wanken deinen Fuß * und nicht schläfrig wird, der dich bewacht.\nSiehe, er wird nicht schlummern und nicht schlafen, * der Israel behütet.\nDer Herr behütet dich, der Herr ist dein Schutz * mehr als deine rechte Hand.\nBei Tag wird die Sonne dich nicht versehren, * noch der Mond bei Nacht.\nDer Herr behütet dich vor allem Übel, * behüten möge deine Seele der Herr.\nDer Herr behüte deinen Eingang und deinen Ausgang * von nun an bis in Ewigkeit.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Auxílium meum * a Dómino, qui fecit cælum et terram.",
+        "de": "Ant. Meine Hilfe * kommt von der Majestät des Herrn, der gemacht den Himmel und die Erde."
+      }
+    },
+    {
+      "id": "week-feria2-vesper-ps5",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 121",
+        "de": "Psalm 121"
+      },
+      "text": {
+        "la": "Lætátus sum in his, quæ dicta sunt mihi: * In domum Dómini íbimus.\nStantes erant pedes nostri, * in átriis tuis, Jerúsalem.\nJerúsalem, quæ ædificátur ut cívitas: * cujus participátio ejus in idípsum.\nIlluc enim ascendérunt tribus, tribus Dómini: * testimónium Israël ad confiténdum nómini Dómini.\nQuia illic sedérunt sedes in judício, * sedes super domum David.\nRogáte quæ ad pacem sunt Jerúsalem: * et abundántia diligéntibus te:\nFiat pax in virtúte tua: * et abundántia in túrribus tuis.\nPropter fratres meos, et próximos meos, * loquébar pacem de te:\nPropter domum Dómini, Dei nostri, * quæsívi bona tibi.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Ich freute mich an dem, was man mir sagte: * „Zum Haus des Herrn wollen wir gehen.“\nEs standen unsere Füße * in deinen Vorhöfen, Jerusalem.\nJerusalem, das gebaut ist wie eine Stadt, * deren Teilhabe in sich selbst gefügt ist.\nDenn dort hinauf zogen die Stämme, die Stämme des Herrn, * als Zeugnis für Israel, um den Namen des Herrn zu preisen.\nDenn dort standen die Throne zum Gericht, * die Throne für das Haus David.\nErbittet das, was Jerusalem zum Frieden dient, * und Überfluß sei denen, die dich lieben.\nFriede sei in deiner Festung * und Überfülle in deinen Türmen.\nUm meiner Brüder und meiner Nächsten willen * sprach ich Frieden aus über dich.\nUm des Hauses des Herrn, unseres Gottes, willen * habe ich Gutes für dich begehrt.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Lætátus sum * in his, quæ dicta sunt mihi.",
+        "de": "Ant. Wie freu'n wir uns, * wenn man uns meldet: Zum Haus des Herrn lasst uns nun pilgern."
+      }
+    },
+    {
+      "id": "week-feria2-vesper-nunc",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Canticum B. Mariæ Virginis (Magnificat)",
+        "de": "Lobgesang der seligen Jungfrau Maria"
+      },
+      "reference": {
+        "la": "Luc 1, 46-55",
+        "de": "Luc 1, 46-55"
+      },
+      "text": {
+        "la": "Magníficat * ánima mea Dóminum.\nEt exsultávit spíritus meus * in Deo, salutári meo.\nQuia respéxit humilitátem ancíllæ suæ: * ecce enim ex hoc beátam me dicent omnes generatiónes.\nQuia fecit mihi magna qui potens est: * et sanctum nomen ejus.\nEt misericórdia ejus a progénie in progénies * timéntibus eum.\nFecit poténtiam in bráchio suo: * dispérsit supérbos mente cordis sui.\nDepósuit poténtes de sede, * et exaltávit húmiles.\nEsuriéntes implévit bonis: * et dívites dimísit inánes.\nSuscépit Israël púerum suum, * recordátus misericórdiæ suæ.\nSicut locútus est ad patres nostros, * Ábraham, et sémini ejus in sǽcula.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Meine Seele preist die Größe des Herrn, * und mein Geist frohlockt in Gott, meinem Heile.\nDenn er hat auf die Niedrigkeit seiner Magd geschaut; * siehe, von nun an preisen mich selig alle Geschlechter.\nDenn Großes hat an mir getan, der mächtig ist, * und heilig ist sein Name.\nUnd sein Erbarmen währt von Geschlecht zu Geschlecht * für alle, die ihn fürchten.\nEr wirkt mit Macht in seinem Arm, * er zerstreut, die hoffärtig sind im Sinne ihres Herzens.\nEr stürzt die Mächtigen vom Thron * und erhöht die Niedrigen.\nDie Hungernden erfüllt er mit Gütern * und lässt die Reichen leer ausgehn.\nEr nimmt sich Israels an, seines Knechtes, * eingedenk seiner Barmherzigkeit,\nwie er geredet hat zu unsern Vätern, * zu Abraham und seinen Nachkommen auf ewig.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

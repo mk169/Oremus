@@ -1,0 +1,128 @@
+{
+  "id": "week-dominica-vesper",
+  "form": "1962",
+  "hour": "vesper",
+  "name": {
+    "la": "Ad Vesperas",
+    "de": "Vesper (Abendlob)"
+  },
+  "day": {
+    "title": {
+      "la": "Dominica",
+      "de": "Sonntag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-dominica-vesper-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-dominica-vesper-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 109",
+        "de": "Psalm 109"
+      },
+      "text": {
+        "la": "Dixit Dóminus Dómino meo: * Sede a dextris meis:\nDonec ponam inimícos tuos, * scabéllum pedum tuórum.\nVirgam virtútis tuæ emíttet Dóminus ex Sion: * domináre in médio inimicórum tuórum.\nTecum princípium in die virtútis tuæ in splendóribus sanctórum: * ex útero ante lucíferum génui te.\nJurávit Dóminus, et non pœnitébit eum: * Tu es sacérdos in ætérnum secúndum órdinem Melchísedech.\nDóminus a dextris tuis, * confrégit in die iræ suæ reges.\nJudicábit in natiónibus, implébit ruínas: * conquassábit cápita in terra multórum.\nDe torrénte in via bibet: * proptérea exaltábit caput.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Es sprach der Herr zu meinem Herrn: * „Setze Dich zu meiner Rechten,\nbis ich Deine Feinde hinlege * als Schemel Deiner Füße.“\nDen Stab Deiner Macht wird der Herr aussenden von Sion: * „Herrsche inmitten Deiner Feinde!\nBei Dir ist die Herrschaft am Tag Deiner Macht im Lichtglanz der Heiligen. * Aus meinem Schoß, noch vor dem Morgenstern, habe ich Dich gezeugt.“\nGeschworen hat der Herr, und es wird ihn nicht reuen: * „Du bist Priester in Ewigkeit nach der Ordnung des Melchisedech.“\nDer Herr zu Deiner Rechten * hat am Tag seines Zornes Könige zerschmettert.\nEr wird Gericht halten unter den Völkern, die Niederlage vollenden, * er wird im Land die Häupter vieler zerschmettern.\nAus dem Bach am Weg wird er trinken, * darum wird er das Haupt erheben.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Dixit Dóminus * Dómino meo: Sede a dextris meis.",
+        "de": "Ant. Es spricht der Herr * zu meinem Herrn: Nimm ein den Thron zu meiner Rechten."
+      }
+    },
+    {
+      "id": "week-dominica-vesper-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 110",
+        "de": "Psalm 110"
+      },
+      "text": {
+        "la": "Confitébor tibi, Dómine, in toto corde meo: * in consílio justórum, et congregatióne.\nMagna ópera Dómini: * exquisíta in omnes voluntátes ejus.\nConféssio et magnificéntia opus ejus: * et justítia ejus manet in sǽculum sǽculi.\nMemóriam fecit mirabílium suórum, † miséricors et miserátor Dóminus: * (5a) escam dedit timéntibus se.\nMemor erit in sǽculum testaménti sui: * (6) virtútem óperum suórum annuntiábit pópulo suo:\nUt det illis hereditátem géntium: * ópera mánuum ejus véritas, et judícium.\nFidélia ómnia mandáta ejus: † confirmáta in sǽculum sǽculi, * facta in veritáte et æquitáte.\nRedemptiónem misit pópulo suo: * mandávit in ætérnum testaméntum suum.\n(fit reverentia) Sanctum, et terríbile nomen ejus: * (10a) inítium sapiéntiæ timor Dómini.\nIntelléctus bonus ómnibus faciéntibus eum: * laudátio ejus manet in sǽculum sǽculi.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Ich will Dich preisen, Herr, aus meinem ganzen Herzen, * im Rat der Gerechten und in der Versammlung.\nGroß sind die Werke des Herrn, * erlesen nach all seinem Wohlgefallen.\nLobpreis und Hoheit sind sein Werk, * und seine Gerechtigkeit bleibt in alle Ewigkeit.\nEin Gedächtnis seiner Wundertaten hat er gestiftet, † barmherzig und ein Erbarmer ist der Herr, * (5a) Speise gab er denen, die ihn fürchten.\nAuf ewig wird er seines Bundes gedenken, * (6) die macht seiner Werke wird er verkünden seinem Volk,\ndaß er ihnen gebe das Erbe der Völker, * die Werke seiner Hände sind Wahrheit und Recht.\nZuverlässig sind all seine Gebote, † bestätigt auf immer und ewig, * erlassen in Wahrheit und Gerechtigkeit.\nErlösung hat er seinem Volk gesandt, * seinen Bund hat er eingesetzt auf ewig.\n(mit Kopfverneigung) Heilig und furchterregend ist sein Name, * (10a) Anfang der Weisheit ist die Furcht des Herrn.\nGute Einsicht ist bei allen, die sie üben, * ihr Lob bleibt immer und ewig.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Magna ópera Dómini: * exquisíta in omnes voluntátes ejus.",
+        "de": "Ant. Groß ist, o Herr, was du getan, * erdacht mit deiner ganzen großen Güte."
+      }
+    },
+    {
+      "id": "week-dominica-vesper-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 111",
+        "de": "Psalm 111"
+      },
+      "text": {
+        "la": "Beátus vir, qui timet Dóminum: * in mandátis ejus volet nimis.\nPotens in terra erit semen ejus: * generátio rectórum benedicétur.\nGlória, et divítiæ in domo ejus: * et justítia ejus manet in sǽculum sǽculi.\nExórtum est in ténebris lumen rectis: * miséricors, et miserátor, et justus.\nJucúndus homo qui miserétur et cómmodat, † dispónet sermónes suos in judício: * (6) quia in ætérnum non commovébitur.\nIn memória ætérna erit justus: * ab auditióne mala non timébit.\nParátum cor ejus speráre in Dómino, † (8) confirmátum est cor ejus: * non commovébitur donec despíciat inimícos suos.\nDispérsit, dedit paupéribus: † justítia ejus manet in sǽculum sǽculi, * cornu ejus exaltábitur in glória.\nPeccátor vidébit, et irascétur, † déntibus suis fremet et tabéscet: * desidérium peccatórum períbit.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Selig der Mann, der den Herrn fürchtet, * der an seinen Geboten große Freude hat.\nMächtig auf Erden wird seine Nachkommenschaft sein, * das Geschlecht der Redlichen wird gesegnet.\nEhre und Reichtum sind in seinem Haus, * und seine Gerechtigkeit währt in alle Ewigkeit.\nAufgegangen ist in der Finsternis ein Licht den Redlichen: * der Barmherzige und Erbarmer und Gerechte.\nLiebenswert ist ein Mensch, der sich erbarmt und gerne gibt, † der wohl ordnet seine Worte vor Gericht, * (6) denn auf ewig wird er nicht wanken.\nIn ewiger Erinnerung bleibt der Gerechte, * vor bösem Gerücht wird er sich nicht fürchten.\nBereit ist sein Herz, auf den Herrn zu hoffen, † (8) fest steht sein Herz, * er wird nicht wanken, bis er her abschaut auf seine Feinde.\nVerteilt hat er, den Armen gegeben, † seine Gerechtigkeit bleibt in alle Ewigkeit, * sein Horn wird erhöht in Herrlichkeit.\nDer Sünder wird es sehen und zürnen, † mit seinen Zähnen wird er knirschen und vergehen; * das begehren der Sünder wird vergehen.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Qui timet Dóminum, * in mandátis ejus cupit nimis.",
+        "de": "Ant. Wer Erfurcht vor dem Herrn hat, * hat seine ganze Freude an den Vorschriften desselben."
+      }
+    },
+    {
+      "id": "week-dominica-vesper-ps4",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 112",
+        "de": "Psalm 112"
+      },
+      "text": {
+        "la": "Laudáte, púeri, Dóminum: * laudáte nomen Dómini.\n(fit reverentia) Sit nomen Dómini benedíctum, * ex hoc nunc, et usque in sǽculum.\nA solis ortu usque ad occásum, * laudábile nomen Dómini.\nExcélsus super omnes gentes Dóminus, * et super cælos glória ejus.\nQuis sicut Dóminus, Deus noster, qui in altis hábitat, * (6) et humília réspicit in cælo et in terra?\nSúscitans a terra ínopem, * et de stércore érigens páuperem:\nUt cóllocet eum cum princípibus, * cum princípibus pópuli sui.\nQui habitáre facit stérilem in domo, * matrem filiórum lætántem.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Lobet, ihr Kinder, den Herrn, * lobet den Namen des Herrn.\n(mit Kopfverneigung) Der Name des Herrn sei gepriesen, * von nun an und bis in Ewigkeit.\nVom Aufgang der Sonne bis zum Untergang, * ist lobwürdig der Name des Herrn.\nErhaben über alle Völker ist der Herr * und über die Himmel seine Herrlichkeit.\nWer ist wie der Herr, unser Gott, der in den Höhen wohnt * (6) und auf das Kleine schaut im Himmel und auf Erden?\nDer den Hilflosen von der Erde aufrichtet * und aus dem Schmutz den Armen erhebt,\ndaß er ihn aufstelle mit Fürsten, * mit den Fürsten seines Volkes.\nEr läßt die Unfruchtbare im Haus wohnen * als frohe Mutter von Kindern.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Sit nomen Dómini * benedíctum in sǽcula.",
+        "de": "Ant. Es sei die Majestät des Herrn * hochgerühmt in Ewigkeit."
+      }
+    },
+    {
+      "id": "week-dominica-vesper-ps5",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 113",
+        "de": "Psalm 113"
+      },
+      "text": {
+        "la": "In éxitu Israël de Ægýpto, * domus Jacob de pópulo bárbaro:\nFacta est Judǽa sanctificátio ejus, * Israël potéstas ejus.\nMare vidit, et fugit: * Jordánis convérsus est retrórsum.\nMontes exsultavérunt ut aríetes, * et colles sicut agni óvium.\nQuid est tibi, mare, quod fugísti: * et tu, Jordánis, quia convérsus es retrórsum?\nMontes, exsultástis sicut aríetes, * et colles, sicut agni óvium.\nA fácie Dómini mota est terra, * a fácie Dei Jacob.\nQui convértit petram in stagna aquárum, * et rupem in fontes aquárum.\nNon nobis, Dómine, non nobis: * sed nómini tuo da glóriam.\nSuper misericórdia tua, et veritáte tua: * nequándo dicant gentes: Ubi est Deus eórum?\nDeus autem noster in cælo: * ómnia quæcúmque vóluit, fecit.\nSimulácra géntium argéntum, et aurum, * ópera mánuum hóminum.\nOs habent, et non loquéntur: * óculos habent, et non vidébunt.\nAures habent, et non áudient: * nares habent, et non odorábunt.\nManus habent, et non palpábunt: † pedes habent, et non ambulábunt: * non clamábunt in gútture suo.\nSímiles illis fiant qui fáciunt ea: * et omnes qui confídunt in eis.\nDomus Israël sperávit in Dómino: * adjútor eórum et protéctor eórum est,\nDomus Aaron sperávit in Dómino: * adjútor eórum et protéctor eórum est,\nQui timent Dóminum, speravérunt in Dómino: * adjútor eórum et protéctor eórum est.\nDóminus memor fuit nostri: * et benedíxit nobis:\nBenedíxit dómui Israël: * benedíxit dómui Aaron.\nBenedíxit ómnibus, qui timent Dóminum, * pusíllis cum majóribus.\nAdíciat Dóminus super vos: * super vos, et super fílios vestros.\nBenedícti vos a Dómino, * qui fecit cælum, et terram.\nCælum cæli Dómino: * terram autem dedit fíliis hóminum.\nNon mórtui laudábunt te, Dómine: * neque omnes, qui descéndunt in inférnum.\nSed nos qui vívimus, benedícimus Dómino, * ex hoc nunc et usque in sǽculum.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Beim Auszug Israels aus Ägypten, * des Hauses Jakob aus einem fremden Volk,\nda wurde Judäa sein Heiligtum, * Israel seine Herrschaft.\nDas Meer sah es und floh, * der Jordan wandte sich zurück.\nDie Berge hüpften wie Widder, * und die Hügel wie die Lämmer von Schafen.\nWas ist mit dir, Meer, daß du flohest? * Und mit dir, Jordan, daß du dich zurückgewandt?\nIhr Berge, ihr hüpftet wie Widder, * und ihr Hügel wie Lämmer von Schafen.\nVor dem Angesicht des Herrn erbebte die Erde, * vor dem Angesicht des Gottes Jakobs.\nDer den Felsen verwandelt hat in Seen von Wasser * und das Gestein in Wasserquellen.\nNicht uns, o Herr, nicht uns, * sondern Deinem Namen gib die Ehre.\nWegen Deiner Barmherzigkeit und Deiner Wahrheit, * damit die Heiden nicht etwa sagen: „Wo ist denn ihr Gott?“\nUnser Gott aber ist im Himmel, * alles, was immer er wollte, hat er gemacht.\nDie Götzenbilder der Heiden sind Silber und Gold, * Machwerke von Menschenhänden.\nEinen Mund haben sie und werden nicht reden, * Augen haben sie und werden nicht sehen.\nOhren haben sie und werden nicht hören, * Nasen haben sie und werden nicht riechen.\nHände haben sie und werden nicht tasten, † Füße haben sie und werden nicht wandeln, * nicht werden sie schreien mit ihrer Kehle.\nMögen die ihnen gleich werden, die sie machen, * und alle, die auf sie vertrauen.\nDas Haus Israel hat seine Hoffnung auf den Herrn gesetzt, * er ist ihr Helfer und ihr Beschützer.\nDas Haus Aaron hat seine Hoffnung auf den Herrn gesetzt, * er ist ihr Helfer und ihr Beschützer.\nDie den Herrn fürchten, haben ihre Hoffnung auf den Herrn gesetzt, * er ist ihr Helfer und ihr Beschützer.\nDer Herr hat unser gedacht, * und hat uns gesegnet.\nGesegnet hat er das Haus Israel, * gesegnet hat er das Haus Aaron.\nGesegnet hat er alle, die den Herrn fürchten, * die Kleinen mit den Großen.\nDer Herr mehre euch, * euch und eure Söhne.\nGesegnet seid ihr vom Herrn, * der Himmel und Erde gemacht hat.\nDer Himmel des Himmels gehört dem Herrn, * die Erde aber gab er den Menschenkindern.\nNicht die Toten werden Dich loben, o Herr, * auch die alle nicht, die in die Unterwelt hinabsteigen.\nAber wir, die leben, preisen den Herrn, * von nun an und bis in Ewigkeit.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Deus autem noster * in cælo: ómnia quæcúmque vóluit, fecit.",
+        "de": "Ant. Du bist doch, unser Gott, im Himmel * und wirkst nach deinem Willen alles."
+      }
+    },
+    {
+      "id": "week-dominica-vesper-nunc",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Canticum B. Mariæ Virginis (Magnificat)",
+        "de": "Lobgesang der seligen Jungfrau Maria"
+      },
+      "reference": {
+        "la": "Luc 1, 46-55",
+        "de": "Luc 1, 46-55"
+      },
+      "text": {
+        "la": "Magníficat * ánima mea Dóminum.\nEt exsultávit spíritus meus * in Deo, salutári meo.\nQuia respéxit humilitátem ancíllæ suæ: * ecce enim ex hoc beátam me dicent omnes generatiónes.\nQuia fecit mihi magna qui potens est: * et sanctum nomen ejus.\nEt misericórdia ejus a progénie in progénies * timéntibus eum.\nFecit poténtiam in bráchio suo: * dispérsit supérbos mente cordis sui.\nDepósuit poténtes de sede, * et exaltávit húmiles.\nEsuriéntes implévit bonis: * et dívites dimísit inánes.\nSuscépit Israël púerum suum, * recordátus misericórdiæ suæ.\nSicut locútus est ad patres nostros, * Ábraham, et sémini ejus in sǽcula.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Meine Seele preist die Größe des Herrn, * und mein Geist frohlockt in Gott, meinem Heile.\nDenn er hat auf die Niedrigkeit seiner Magd geschaut; * siehe, von nun an preisen mich selig alle Geschlechter.\nDenn Großes hat an mir getan, der mächtig ist, * und heilig ist sein Name.\nUnd sein Erbarmen währt von Geschlecht zu Geschlecht * für alle, die ihn fürchten.\nEr wirkt mit Macht in seinem Arm, * er zerstreut, die hoffärtig sind im Sinne ihres Herzens.\nEr stürzt die Mächtigen vom Thron * und erhöht die Niedrigen.\nDie Hungernden erfüllt er mit Gütern * und lässt die Reichen leer ausgehn.\nEr nimmt sich Israels an, seines Knechtes, * eingedenk seiner Barmherzigkeit,\nwie er geredet hat zu unsern Vätern, * zu Abraham und seinen Nachkommen auf ewig.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "id": "week-feria3-matutin",
+  "form": "1962",
+  "hour": "matutin",
+  "name": {
+    "la": "Ad Matutinum",
+    "de": "Matutin (Nachtwache)"
+  },
+  "day": {
+    "title": {
+      "la": "Feria III",
+      "de": "Dienstag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-feria3-matutin-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria3-matutin-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 34 (1-10)",
+        "de": "Psalm 34 (1-10)"
+      },
+      "text": {
+        "la": "Júdica, Dómine, nocéntes me, * expúgna impugnántes me.\nApprehénde arma et scutum: * et exsúrge in adjutórium mihi.\nEffúnde frámeam, et conclúde advérsus eos, qui persequúntur me: * dic ánimæ meæ: Salus tua ego sum.\nConfundántur et revereántur, * quæréntes ánimam meam.\nAvertántur retrórsum, et confundántur * cogitántes mihi mala.\nFiant tamquam pulvis ante fáciem venti: * et Ángelus Dómini coárctans eos.\nFiat via illórum ténebræ et lúbricum: * et Ángelus Dómini pérsequens eos.\nQuóniam gratis abscondérunt mihi intéritum láquei sui: * supervácue exprobravérunt ánimam meam.\nVéniat illi láqueus, quem ignórat: et cáptio, quam abscóndit, apprehéndat eum: * et in láqueum cadat in ipsum.\nÁnima autem mea exsultábit in Dómino: * et delectábitur super salutári suo.\nÓmnia ossa mea dicent: * Dómine, quis símilis tibi?\nErípiens ínopem de manu fortiórum ejus: * egénum et páuperem a diripiéntibus eum.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "richte, Herr, die mir schaden, * bezwinge jene, die gegen mich kämpfen.\nErgreife die Waffen und den Schild * und steh auf, mir zu helfen.\nSchwinge den Speer und riegle ab wider die, die mich verfolgen; * sprich zu meiner Seele: Dein Heil bin ich.\nzurückweichen sollen und zuschanden werden, * die böses für mich ersinnen.\nzurückweichen sollen und zuschanden werden, * die böses für mich ersinnen.\nSie sollen werden wie Staub vor dem Angesicht des Windes, * und der Engel des Herrn bedränge sie.\nihr Weg soll finster und schlüpfrig werden, * und der Engel des Herrn verfolge sie.\nDenn ohne Grund legten sie mir heimlich ihre verderbenbringende Schlinge, * grundlos schmähten sie meine Seele.\nEs komme über ihn die Schlinge, die er nicht ahnt; und die Falle, die er verborgen hat, erfasse ihn selbst, * und in die Schlinge, in die falle er.\nMeine Seele aber wird jubeln im Herrn * und frohlocken über sein Heil.\nDer Du den Hilflosen entreißt aus der Hand derer, die stärker sind als er, * den bedürftigen und Armen denen, die ihn berauben.\nDer Du den Hilflosen entreißt aus der Hand derer, die stärker sind als er, * den bedürftigen und Armen denen, die ihn berauben.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Expúgna, Dómine, * impugnántes me.",
+        "de": "Ant. Bezwinge die, o Herr, * die mich bekämpfen."
+      }
+    },
+    {
+      "id": "week-feria3-matutin-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 34 (11-17)",
+        "de": "Psalm 34 (11-17)"
+      },
+      "text": {
+        "la": "Surgéntes testes iníqui, * quæ ignorábam interrogábant me.\nRetribuébant mihi mala pro bonis: * sterilitátem ánimæ meæ.\nEgo autem cum mihi molésti essent, * induébar cilício.\nHumiliábam in jejúnio ánimam meam: * et orátio mea in sinu meo convertétur.\nQuasi próximum, et quasi fratrem nostrum, sic complacébam: * quasi lugens et contristátus, sic humiliábar.\nEt advérsum me lætáti sunt, et convenérunt: * congregáta sunt super me flagélla, et ignorávi.\nDissipáti sunt, nec compúncti, tentavérunt me, subsannavérunt me subsannatióne: * frenduérunt super me déntibus suis.\nDómine, quando respícies? * restítue ánimam meam a malignitáte eórum, a leónibus únicam meam.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Es standen ungerechte zeugen auf, * man verhörte mich über Dinge, die ich nicht weiß.\nSie vergalten mir böses für Gutes, * machten dürre meine Seele.\nich demütigte mit Fasten meine Seele, * und mein Gebet wird sich wenden [es wiederholt sich] in meiner brust.\nich demütigte mit Fasten meine Seele, * und mein Gebet wird sich wenden [es wiederholt sich] in meiner brust.\nGleich wie dem nächsten und wie unserem bruder, so war ich ihnen gefällig, * wie ein Trauernder und betrübter, so wurde ich gebeugt.\nDoch sie machten sich lustig über mich und kamen zusammen, * gehäuft wurden Geißeln über mir, und ich wusste von nichts.\nSie wurden zerstreut, doch sie empfanden keine reue, sie versuchten mich und verhöhnten mich mit Hohn, * sie knirschten wider mich mit ihren zähnen.\nHerr, wann wirst Du hersehen? * rette meine Seele vor ihrer bosheit, vor den Löwen meine Einzige!\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Restítue ánimam meam * a malefáctis eórum, Dómine.",
+        "de": "Ant. O mach mich frei * von ihrer Schändlichkeit, o Herr."
+      }
+    },
+    {
+      "id": "week-feria3-matutin-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 34 (18-28)",
+        "de": "Psalm 34 (18-28)"
+      },
+      "text": {
+        "la": "Confitébor tibi in ecclésia magna, * in pópulo gravi laudábo te.\nNon supergáudeant mihi qui adversántur mihi iníque: * qui odérunt me gratis et ánnuunt óculis.\nQuóniam mihi quidem pacífice loquebántur: * et in iracúndia terræ loquéntes, dolos cogitábant.\nEt dilatavérunt super me os suum: * dixérunt: Euge, euge, vidérunt óculi nostri.\nVidísti, Dómine, ne síleas: * Dómine, ne discédas a me.\nExsúrge et inténde judício meo: * Deus meus, et Dóminus meus in causam meam.\nJúdica me secúndum justítiam tuam, Dómine, Deus meus, * et non supergáudeant mihi.\nNon dicant in córdibus suis: Euge, euge, ánimæ nostræ: * nec dicant: Devorávimus eum.\nErubéscant et revereántur simul, * qui gratulántur malis meis.\nInduántur confusióne et reveréntia * qui magna loquúntur super me.\nExsúltent et læténtur qui volunt justítiam meam: * et dicant semper: Magnificétur Dóminus qui volunt pacem servi ejus.\nEt lingua mea meditábitur justítiam tuam, * tota die laudem tuam.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "ich will Dich preisen in großer Versammlung, * unter zahlreichem Volk Dich loben.\nnicht sollen sich freuen über mich, die zu Unrecht mich befeinden, * die ohne Grund mich hassen und mit den Augen zwinkern.\nDenn sie redeten zwar friedlich zu mir, * doch, im zorn der Erde redend, ersannen sie Trug.\nUnd weit sperrten sie gegen mich ihren Mund auf, * sie sprachen: Wohlan, wohlan, unsere Augen haben es gesehen.\nDu hast es gesehen, Herr, schweige nicht! * Herr, weiche nicht von mir!\nSteh auf und achte auf mein recht, * mein Gott und mein Herr, auf meine Sache!\nrichte mich nach Deiner Gerechtigkeit, Herr, mein Gott, * und sie sollen sich nicht freuen über mich.\nnicht sollen sie sprechen in ihren Herzen: Wohlan, wohlan, unsere Seelengier! * nicht sollen sie sagen: Wir haben ihn verschlungen.\nSie sollen bedeckt werden mit Verwirrung und Scham, * die gegen mich prahlen.\nSie sollen bedeckt werden mit Verwirrung und Scham, * die gegen mich prahlen.\nJubeln und sich freuen sollen, die Gerechtigkeit für mich wollen, * und sie sollen allezeit sprechen: „Hochgelobt sei der Herr!“, sie, die den Frieden seines Knechtes wünschen.\nUnd meine zunge wird bedenken Deine Gerechtigkeit, * den ganzen Tag Dein Lob.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Exsúrge, Dómine, * et inténde judício meo.",
+        "de": "Ant. Auf, o Herr, * nimm an dich meines Rechtes."
+      }
+    },
+    {
+      "id": "week-feria3-matutin-v1",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "V. Lingua mea meditábitur justítiam tuam.",
+        "de": "V. Es wird meine Zunge deine Güte preisen."
+      }
+    },
+    {
+      "id": "week-feria3-matutin-v2",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "R. Tota die laudem tuam, Dómine.",
+        "de": "R. Den ganzen Tag dein Lob besingen."
+      }
+    },
+    {
+      "id": "week-feria3-matutin-ps4",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 36 (1-15)",
+        "de": "Psalm 36 (1-15)"
+      },
+      "text": {
+        "la": "Noli æmulári in malignántibus: * neque zeláveris faciéntes iniquitátem.\nQuóniam tamquam fænum velóciter aréscent: * et quemádmodum ólera herbárum cito décident.\nSpera in Dómino, et fac bonitátem: * et inhábita terram, et pascéris in divítiis ejus.\nDelectáre in Dómino: * et dabit tibi petitiónes cordis tui.\nRevéla Dómino viam tuam, et spera in eo: * et ipse fáciet.\nEt edúcet quasi lumen justítiam tuam: et judícium tuum tamquam merídiem: * súbditus esto Dómino, et ora eum.\nNoli æmulári in eo, qui prosperátur in via sua: * in hómine faciénte injustítias.\nDésine ab ira, et derelínque furórem: * noli æmulári ut malignéris.\nQuóniam qui malignántur, exterminabúntur: * sustinéntes autem Dóminum, ipsi hereditábunt terram.\nEt adhuc pusíllum, et non erit peccátor: * et quæres locum ejus et non invénies.\nMansuéti autem hereditábunt terram: * et delectabúntur in multitúdine pacis.\nObservábit peccátor justum: * et stridébit super eum déntibus suis.\nDóminus autem irridébit eum: * quóniam próspicit quod véniet dies ejus.\nGládium evaginavérunt peccatóres: * intendérunt arcum suum,\nUt deíciant páuperem et ínopem: * ut trucídent rectos corde.\nGládius eórum intret in corda ipsórum: * et arcus eórum confringátur.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Ereifere dich nicht über die bösen, * und beneide nicht die Übeltäter,\ndenn wie Gras werden sie rasch verdorren * und wie das Grünzeug der Kräuter schnell abfallen.\nHoffe auf den Herrn und tue Gutes, * und bewohne das Land, und du wirst dich nähren von seinen Schätzen.\nErfreue dich am Herrn, * und er wird dir das Verlangen deines Herzens erfüllen.\nEnthülle dem Herrn deinen Weg und hoffe auf ihn, * und er wird handeln.\nUnd er wird hervorbringen wie das Licht deine Gerechtigkeit und dein recht wie die Mittagshelle. * Sei untertan dem Herrn und bete zu ihm.\nEreifere dich nicht über den, dem es gut geht auf seinem Weg, * über den Menschen, der Unrecht tut.\nLass ab vom zorn und gib auf den Grimm, * ereifere dich nicht, so dass du böses tust.\nDenn die böses tun, werden vernichtet werden, * die aber harren auf den Herrn, sie werden das Land erben.\nUnd noch ein klein wenig, und der Sünder wird nicht mehr sein, * und du wirst seinen Ort suchen und ihn nicht finden.\nDie Sanftmütigen aber werden das Land erben * und sich freuen an der Fülle des Friedens.\nbeobachten wird der Sünder den Gerechten * und gegen ihn mit seinen zähnen knirschen.\nDer Herr aber wird seiner lachen, * denn er sieht voraus, dass sein Tag kommen wird.\num den Armen und den bedürftigen zu stürzen, * um zu morden, die aufrechten Herzens sind.\num den Armen und den bedürftigen zu stürzen, * um zu morden, die aufrechten Herzens sind.\nihr Schwert möge eindringen in ihr eigenes Herz, * und ihr bogen werde zerbrochen.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Noli æmulári * in eo qui prosperátur et facit iniquitátem.",
+        "de": "Ant. Sei niemals neidisch * gegen den, der Glück hat und Unrecht tut."
+      }
+    },
+    {
+      "id": "week-feria3-matutin-ps5",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 36 (16-29)",
+        "de": "Psalm 36 (16-29)"
+      },
+      "text": {
+        "la": "Mélius est módicum justo, * super divítias peccatórum multas.\nQuóniam brácchia peccatórum conteréntur: * confírmat autem justos Dóminus.\nNovit Dóminus dies immaculatórum: * et heréditas eórum in ætérnum erit.\nNon confundéntur in témpore malo, et in diébus famis saturabúntur: * quia peccatóres períbunt.\nInimíci vero Dómini mox ut honorificáti fúerint et exaltáti: * deficiéntes, quemádmodum fumus defícient.\nMutuábitur peccátor, et non solvet: * justus autem miserétur et tríbuet.\nQuia benedicéntes ei hereditábunt terram: * maledicéntes autem ei disperíbunt.\nApud Dóminum gressus hóminis dirigéntur: * et viam ejus volet.\nCum cecíderit non collidétur: * quia Dóminus suppónit manum suam.\nJúnior fui, étenim sénui: * et non vidi justum derelíctum, nec semen ejus quærens panem.\nTota die miserétur et cómmodat: * et semen illíus in benedictióne erit.\nDeclína a malo, et fac bonum: * et inhábita in sǽculum sǽculi.\nQuia Dóminus amat judícium, et non derelínquet sanctos suos: * in ætérnum conservabúntur.\nInjústi puniéntur: * et semen impiórum períbit.\nJusti autem hereditábunt terram: * et inhabitábunt in sǽculum sǽculi super eam.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "besser ist das Wenige für den Gerechten * als die vielen reichtümer der Sünder.\nDenn die Arme der Sünder werden zerbrochen, * doch die Gerechten macht stark der Herr.\nDer Herr kennt die Tage der Makellosen, * und ihr Erbe wird bleiben in Ewigkeit.\nSie werden nicht zuschanden in böser zeit, und in Tagen des Hungers werden sie gesättigt, * denn die Sünder werden zugrunde gehen.\nDie Feinde des Herrn aber, kaum dass sie geehrt und erhöht werden, * schwinden dahin, gleich wie rauch schwinden sie dahin.\nEs wird borgen der Sünder und nicht zurückzahlen, * der Gerechte aber erbarmt sich und teilt aus.\nDenn die ihn segnen, werden das Land erben, * jene aber, die ihm fluchen, werden zugrunde gehen.\nbeim Herrn werden die Schritte des Menschen gelenkt, * und an seinem Weg hat er Gefallen.\nWenn er fällt, wird er nicht anschlagen, * denn der Herr legt seine Hand unter ihn.\nJung war ich und bin nun alt geworden, * und den Gerechten sah ich nicht verlassen, noch seine nachkommen nach brot suchen.\nDen ganzen Tag erbarmt er sich und leiht aus, * und seine nachkommen werden gesegnet sein.\nWende dich ab vom bösen und tue Gutes, * und nimm Wohnung in alle Ewigkeit.\nDie Ungerechten aber werden bestraft, * und die nachkommen der Gottlosen gehen zugrunde.\nDie Ungerechten aber werden bestraft, * und die nachkommen der Gottlosen gehen zugrunde.\nDie Gerechten aber werden das Land erben, * und wohnen in ihm auf ewig.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Brácchia peccatórum * conteréntur, confírmat autem justos Dóminus.",
+        "de": "Ant. Der Frevler Arme * brechen; doch eine Stütze wird der Herr den Guten."
+      }
+    },
+    {
+      "id": "week-feria3-matutin-ps6",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 36 (30-40)",
+        "de": "Psalm 36 (30-40)"
+      },
+      "text": {
+        "la": "Os justi meditábitur sapiéntiam, * et lingua ejus loquétur judícium.\nLex Dei ejus in corde ipsíus, * et non supplantabúntur gressus ejus.\nConsíderat peccátor justum: * et quærit mortificáre eum.\nDóminus autem non derelínquet eum in mánibus ejus: * nec damnábit eum, cum judicábitur illi.\nExspécta Dóminum, et custódi viam ejus: et exaltábit te ut hereditáte cápias terram: * cum períerint peccatóres vidébis.\nVidi ímpium superexaltátum, * et elevátum sicut cedros Líbani.\nEt transívi, et ecce non erat: * et quæsívi eum, et non est invéntus locus ejus.\nCustódi innocéntiam, et vide æquitátem: * quóniam sunt relíquiæ hómini pacífico.\nInjústi autem disperíbunt simul: * relíquiæ impiórum interíbunt.\nSalus autem justórum a Dómino: * et protéctor eórum in témpore tribulatiónis.\nEt adjuvábit eos Dóminus et liberábit eos: * et éruet eos a peccatóribus, et salvábit eos: quia speravérunt in eo.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Der Mund des Gerechten wird Weisheit erwägen, * und seine zunge redet recht.\nDas Gesetz seines Gottes ist in seinem Herzen, * und seine Schritte werden nicht zu Fall gebracht.\nEs beobachtet der Sünder den Gerechten * und sucht ihn zu töten.\nDer Herr aber lässt ihn nicht in seinen Händen, * und er wird ihn nicht verurteilen, wenn man über ihn Gericht halten wird.\nErwarte den Herrn und bewahre seinen Weg, und er wird dich erhöhen, damit du als Erbe das Land in besitz nimmst; * wenn die Sünder zugrunde gehen, wirst du es sehen.\nich sah einen Gottlosen hoch erhöht * und erhaben wie die zedern des Libanon.\nUnd ich ging vorüber, und siehe, er war nicht mehr. * Und ich suchte ihn, und sein Ort war nicht zu finden.\nbewahre die Unschuld und achte auf Gerechtigkeit, * denn ein friedlicher Mensch hat nachkommen.\nDie Ungerechten aber werden miteinander umkommen, * die nachkommenschaft der Gottlosen wird untergehen.\nDas Heil der Gerechten aber wird kommen vom Herrn, * und er wird ihr beschützer sein zur zeit der bedrängnis.\nUnd helfen wird ihnen der Herr und sie befreien * und sie entreißen den Sündern und sie erlösen, denn sie haben auf ihn gehofft.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Custódi innocéntiam * et vide æquitátem.",
+        "de": "Ant. Achte darauf, den andern nie zu schaden * und freu dich, Gutes tun zu können."
+      }
+    },
+    {
+      "id": "week-feria3-matutin-v3",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "V. Exspécta Dóminum, et custódi viam ejus.",
+        "de": "V. Sei doch dem Herrn egeben und achte auf den Weg, den er dir vorschreibt."
+      }
+    },
+    {
+      "id": "week-feria3-matutin-v4",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "R. Exaltábit te, ut hereditáte cápias terram.",
+        "de": "R. Und er wird dich segnen, dass du ständiger Besitzer bleibst im Lande."
+      }
+    },
+    {
+      "id": "week-feria3-matutin-ps7",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 37 (2-11)",
+        "de": "Psalm 37 (2-11)"
+      },
+      "text": {
+        "la": "Dómine, ne in furóre tuo árguas me, * neque in ira tua corrípias me.\nQuóniam sagíttæ tuæ infíxæ sunt mihi: * et confirmásti super me manum tuam.\nNon est sánitas in carne mea a fácie iræ tuæ: * non est pax óssibus meis a fácie peccatórum meórum.\nQuóniam iniquitátes meæ supergréssæ sunt caput meum: * et sicut onus grave gravátæ sunt super me.\nPutruérunt et corrúptæ sunt cicatríces meæ, * a fácie insipiéntiæ meæ.\nMiser factus sum, et curvátus sum usque in finem: * tota die contristátus ingrediébar.\nQuóniam lumbi mei impléti sunt illusiónibus: * et non est sánitas in carne mea.\nAfflíctus sum, et humiliátus sum nimis: * rugiébam a gémitu cordis mei.\nDómine, ante te omne desidérium meum: * et gémitus meus a te non est abscónditus.\nCor meum conturbátum est, derelíquit me virtus mea: * et lumen oculórum meórum, et ipsum non est mecum.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Herr, in Deinem Grimm stelle mich nicht bloß * und in Deinem zorn züchtige mich nicht,\ndenn Deine Pfeile sind in mich eingedrungen, * und schwer hast Du Deine Hand auf mich gelegt.\nnichts Heiles ist in meinem Fleisch angesichts Deines zornes, * und keinen Frieden gibt es für meine Gebeine angesichts meiner Sünden,\ndenn meine Ungerechtigkeiten haben mein Haupt überstiegen, * und wie eine schwere bürde lasten sie auf mir.\nEs faulten und verwesten meine Striemen * angesichts meiner Torheit.\nich wurde elend und gebeugt bis zum äußersten, * den ganzen Tag ging ich traurig einher,\ndenn meine Lenden sind erfüllt von Täuschungen * und nichts Heiles ist in meinem Fleisch.\nbedrängt bin ich und sehr gebeugt, * ich stöhnte laut in der beklemmung meines Herzens.\nHerr, vor Dir ist all mein Sehnen, * und mein Stöhnen ist vor Dir nicht verborgen.\nMein Herz ist aufgewühlt, verlassen hat mich meine Kraft, * und das Licht meiner Augen, auch es ist nicht mehr bei mir.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Ne in ira tua * corrípias me, Dómine.",
+        "de": "Ant. O nicht in deinem Zorne * strafe mich, o Herr."
+      }
+    },
+    {
+      "id": "week-feria3-matutin-ps8",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 37 (12-23)",
+        "de": "Psalm 37 (12-23)"
+      },
+      "text": {
+        "la": "Amíci mei, et próximi mei * advérsum me appropinquavérunt, et stetérunt.\nEt qui juxta me erant, de longe stetérunt: * et vim faciébant qui quærébant ánimam meam.\nEt qui inquirébant mala mihi, locúti sunt vanitátes: * et dolos tota die meditabántur.\nEgo autem tamquam surdus non audiébam: * et sicut mutus non apériens os suum.\nEt factus sum sicut homo non áudiens: * et non habens in ore suo redargutiónes.\nQuóniam in te, Dómine, sperávi: * tu exáudies me, Dómine, Deus meus.\nQuia dixi: Nequándo supergáudeant mihi inimíci mei: * et dum commovéntur pedes mei, super me magna locúti sunt.\nQuóniam ego in flagélla parátus sum: * et dolor meus in conspéctu meo semper.\nQuóniam iniquitátem meam annuntiábo: * et cogitábo pro peccáto meo.\nInimíci autem mei vivunt, et confirmáti sunt super me: * et multiplicáti sunt qui odérunt me iníque.\nQui retríbuunt mala pro bonis, detrahébant mihi: * quóniam sequébar bonitátem.\nNe derelínquas me, Dómine, Deus meus: * ne discésseris a me.\nInténde in adjutórium meum, * Dómine, Deus, salútis meæ.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "und die bei mir waren, standen von ferne, * und Gewalt haben angewandt, die nach meiner Seele trachteten;\nund die bei mir waren, standen von ferne, * und Gewalt haben angewandt, die nach meiner Seele trachteten;\nund die mir böses wollten, haben nichtiges gesprochen * und den ganzen Tag auf Trug gesonnen.\nich aber, gleich wie ein Tauber, habe nichts gehört * und war wie ein Stummer, der seinen Mund nicht öffnet.\nich wurde wie ein Mensch, der nicht hört * und der in seinem Mund keine Entgegnung hat,\ndenn auf Dich, Herr, habe ich meine Hoffnung gesetzt, * Du wirst mich erhören, Herr, mein Gott.\nDenn ich sprach: Dass doch meine Feinde sich nicht freuen über mich; * und während meine Füße wanken, haben sie prahlerisch über mich geredet.\nDenn zu Geißeln bin ich bereit, * und mein Schmerz ist allzeit vor meinem Angesicht.\nDenn meine Ungerechtigkeit will ich kundtun * und meiner Sünde gedenken.\nMeine Feinde aber leben und sind stärker geworden als ich, * und vermehrt haben sich, die mich ungerecht hassen.\nDie böses vergelten für Gutes, haben mich verleumdet, * weil ich nach dem Guten strebte.\nVerlass mich nicht, Herr, mein Gott, * weiche nicht von mir.\nAchte darauf, mir zu helfen, * Herr, Du Gott meines Heiles.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Inténde in adjutórium meum, * Dómine, virtus salútis meæ.",
+        "de": "Ant. Sei bedacht drauf, mir zu helfen, * o Herr und Gott, du Quelle meines Segens"
+      }
+    },
+    {
+      "id": "week-feria3-matutin-ps9",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 38",
+        "de": "Psalm 38"
+      },
+      "text": {
+        "la": "Dixi: Custódiam vias meas: * ut non delínquam in lingua mea.\nPósui ori meo custódiam, * cum consísteret peccátor advérsum me.\nObmútui, et humiliátus sum, et sílui a bonis: * et dolor meus renovátus est.\nConcáluit cor meum intra me: * et in meditatióne mea exardéscet ignis.\nLocútus sum in lingua mea: * Notum fac mihi, Dómine, finem meum.\nEt númerum diérum meórum quis est: * ut sciam quid desit mihi.\nEcce mensurábiles posuísti dies meos: * et substántia mea tamquam níhilum ante te.\nVerúmtamen univérsa vánitas, * omnis homo vivens.\nVerúmtamen in imágine pertránsit homo: * sed et frustra conturbátur.\nThesaurízat: * et ignórat cui congregábit ea.\nEt nunc quæ est exspectátio mea? Nonne Dóminus? * Et substántia mea apud te est.\nAb ómnibus iniquitátibus meis érue me: * oppróbrium insipiénti dedísti me.\nObmútui, et non apérui os meum, quóniam tu fecísti: * ámove a me plagas tuas.\nA fortitúdine manus tuæ ego deféci in increpatiónibus: * propter iniquitátem corripuísti hóminem.\nEt tabéscere fecísti sicut aráneam ánimam ejus: * verúmtamen vane conturbátur omnis homo.\nExáudi oratiónem meam, Dómine, et deprecatiónem meam: * áuribus pércipe lácrimas meas.\nNe síleas: quóniam ádvena ego sum apud te, et peregrínus, * sicut omnes patres mei.\nRemítte mihi, ut refrígerer priúsquam ábeam, * et ámplius non ero.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Vor meinen Mund setzte ich eine Wache, * als der Sünder sich gegen mich aufstellte.\nVor meinen Mund setzte ich eine Wache, * als der Sünder sich gegen mich aufstellte.\nich verstummte und demütigte mich, und ich schwieg selbst vom Guten, * und mein Schmerz wurde erneuert.\nEs erglühte mein Herz in mir, * und in meinem nachsinnen entbrennt Feuer.\nund welches die zahl meiner Tage ist, * damit ich weiß, was mir fehlt.\nund welches die zahl meiner Tage ist, * damit ich weiß, was mir fehlt.\nWahrlich, alles ist nichtigkeit, * ein jeder Mensch, der lebt.\nWahrlich, alles ist nichtigkeit, * ein jeder Mensch, der lebt.\nEr häuft Schätze an * und weiß nicht, für wen er sie sammelt.\nEr häuft Schätze an * und weiß nicht, für wen er sie sammelt.\nUnd nun, was ist meine Sehnsucht? ist es nicht der Herr? * Und der Grund meines Lebens ist bei Dir.\nAus all meinen Missetaten reiße mich heraus, * zum Hohn hast Du mich für den Toren gemacht.\nich verstummte und tat meinen Mund nicht auf, denn Du hast es getan. * nimm weg von mir Deine Plagen!\nund Du ließest seine Seele verschmachten wie eine Spinne; * wahrlich, umsonst beunruhigt sich jeder Mensch.\nund Du ließest seine Seele verschmachten wie eine Spinne; * wahrlich, umsonst beunruhigt sich jeder Mensch.\nSchweige nicht, denn ein Fremdling bin ich bei Dir und ein Pilger, * wie alle meine Väter.\nSchweige nicht, denn ein Fremdling bin ich bei Dir und ein Pilger, * wie alle meine Väter.\nLass ab von mir, damit ich erquickt werde, bevor ich hinweggehe * und nicht mehr sein werde.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Ámove, Dómine, * a me plagas tuas.",
+        "de": "Ant. Hör doch auf, o Herr, * mit deinen Schlägen"
+      }
+    },
+    {
+      "id": "week-feria3-matutin-v5",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "V. Deus, ne síleas a me, remítte mihi.",
+        "de": "V. Bleib nicht länger teilnahmslos, mildere mein Elend."
+      }
+    },
+    {
+      "id": "week-feria3-matutin-v6",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "R. Quóniam íncola ego sum apud te et peregrínus.",
+        "de": "R. Da ich Gastrecht bei dir hab und aufgenommener Fremdling bin."
+      }
+    },
+    {
+      "id": "week-feria3-matutin-tedeum",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus Te Deum",
+        "de": "Te Deum"
+      },
+      "rubric": {
+        "la": "Post lectiones (extra Adventum et Quadragesimam)",
+        "de": "Nach den Lesungen (außer Advent und Fastenzeit)"
+      },
+      "text": {
+        "la": "Te Deum laudámus: * te Dóminum confitémur. Te ætérnum Patrem * omnis terra venerátur. Tibi omnes Ángeli, * tibi Cæli, et univérsæ Potestátes: Tibi Chérubim et Séraphim * incessábili voce proclámant: Sanctus, Sanctus, Sanctus * Dóminus Deus Sábaoth.",
+        "de": "Dich, Gott, loben wir, * dich, Herr, bekennen wir. Dich, den ewigen Vater, * verehrt die ganze Erde. Dir rufen alle Engel, * dir Himmel und alle Mächte, dir Cherubim und Seraphim * mit unaufhörlicher Stimme zu: Heilig, heilig, heilig * der Herr, der Gott der Heerscharen."
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "week-dominica-prim",
+  "form": "1962",
+  "hour": "prim",
+  "name": {
+    "la": "Ad Primam",
+    "de": "Prim"
+  },
+  "day": {
+    "title": {
+      "la": "Dominica",
+      "de": "Sonntag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-dominica-prim-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-dominica-prim-hymnus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Jam lucis orto sídere, Deum precémur súpplices, ut in diúrnis áctibus nos servet a nocéntibus.\nLinguam refrénans témperet, ne litis horror ínsonet: visum fovéndo cóntegat, ne vanitátes háuriat.",
+        "de": "Da nun das Licht am Himmel steigt, flehn wir zu Gott in Demut still, dass er in allem, was wir tun, uns vor dem Schaden schützen will.\nEr zähme, zügle unsre Zung, dass nicht der Streites Lärm erschallt; er hüte gnädig unsern Blick vor eitler Dinge Trug und Bild."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
+      }
+    },
+    {
+      "id": "week-dominica-prim-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 117",
+        "de": "Psalm 117"
+      },
+      "text": {
+        "la": "Confitémini Dómino quóniam bonus: * quóniam in sǽculum misericórdia ejus.\nDicat nunc Israël quóniam bonus: * quóniam in sǽculum misericórdia ejus.\nDicat nunc domus Aaron: * quóniam in sǽculum misericórdia ejus.\nDicant nunc qui timent Dóminum: * quóniam in sǽculum misericórdia ejus.\nDe tribulatióne invocávi Dóminum: * et exaudívit me in latitúdine Dóminus.\nDóminus mihi adjútor: * non timébo quid fáciat mihi homo.\nDóminus mihi adjútor: * et ego despíciam inimícos meos.\nBonum est confídere in Dómino, * quam confídere in hómine:\nBonum est speráre in Dómino, * quam speráre in princípibus.\nOmnes gentes circuiérunt me: * et in nómine Dómini quia ultus sum in eos.\nCircumdántes circumdedérunt me: * et in nómine Dómini quia ultus sum in eos.\nCircumdedérunt me sicut apes, † et exarsérunt sicut ignis in spinis: * et in nómine Dómini quia ultus sum in eos.\nImpúlsus evérsus sum ut cáderem: * et Dóminus suscépit me.\nFortitúdo mea, et laus mea Dóminus: * et factus est mihi in salútem.\nVox exsultatiónis, et salútis * in tabernáculis justórum.\nDéxtera Dómini fecit virtútem: † déxtera Dómini exaltávit me, * déxtera Dómini fecit virtútem.\nNon móriar, sed vivam: * et narrábo ópera Dómini.\nCastígans castigávit me Dóminus: * et morti non trádidit me.\nAperíte mihi portas justítiæ, † ingréssus in eas confitébor Dómino: * (20) hæc porta Dómini, justi intrábunt in eam.\nConfitébor tibi quóniam exaudísti me: * et factus es mihi in salútem.\nLápidem, quem reprobavérunt ædificántes: * hic factus est in caput ánguli.\nA Dómino factum est istud: * et est mirábile in óculis nostris.\nHæc est dies, quam fecit Dóminus: * exsultémus, et lætémur in ea.\nO Dómine, salvum me fac, † o Dómine, bene prosperáre: * (26a) benedíctus qui venit in nómine Dómini.\nBenedíximus vobis de domo Dómini: * (27a) Deus Dóminus, et illúxit nobis.\nConstitúite diem solémnem in condénsis, * usque ad cornu altáris.\nDeus meus es tu, et confitébor tibi: * Deus meus es tu, et exaltábo te.\nConfitébor tibi quóniam exaudísti me * et factus es mihi in salútem.\nConfitémini Dómino quóniam bonus: * quóniam in sǽculum misericórdia ejus.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Preiset den Herrn, denn er ist gut, * denn ewig währt seine Barmherzigkeit.\nSo spreche nun Israel, denn er ist gut, * denn ewig währt seine Barmherzigkeit.\nSo spreche nun das Haus Aaron, * denn ewig währt seine Barmherzigkeit.\nSo sollen nun sprechen, die den Herrn fürchten, * denn ewig währt seine Barmherzigkeit.\nAus der Drangsal rief ich zum Herrn, * und der Herr hat mich erhört in Weite.\nDer Herr ist mein Helfer, * ich werde nicht fürchten, was ein Mensch mir antut.\nDer Herr ist mein Helfer, * ich werde herabschauen auf meine Feinde.\nBesser ist es, auf den Herrn zu vertrauen, * als auf einen Menschen zu vertrauen.\nBesser ist es, auf den Herrn zu hoffen, * als auf Fürsten zu hoffen.\nAlle Völker umringten mich, * und im Namen des Herrn nahm ich Rache an ihnen.\nSie umzingelten, ja sie umzingelten mich, * doch im Namen des Herrn nahm ich Rache an ihnen.\nSie umschwirrten mich wie Bienen † und loderten auf wie Feuer in Dornen, * doch im Namen des Herrn nahm ich Rache an ihnen.\nIch ward hart gestoßen, damit ich falle, * doch der Herr hat mich angenommen.\nMeine Stärke und mein Lob ist der Herr, * und er ist mir zum Heil geworden.\nEine Stimme des Jubels und des Heils * ertönt in den Zelten der Gerechten.\nDie Rechte des Herrn hat kraftvoll gewirkt, † die Rechte des Herrn hat mich erhöht, * die Rechte des Herrn hat kraftvoll gewirkt.\nIch werde nicht sterben, sondern leben, * und ich werde die Taten des Herrn verkünden.\nGezüchtigt, ja, gezüchtigt hat mich der Herr, * doch dem Tod hat er mich nicht übergeben.\nÖffnet mir die Tore der Gerechtigkeit; † durch sie will ich eintreten und den Herrn preisen. * Dies ist das Tor des Herrn, Gerechte werden durch es eintreten.\nich will Dich preisen, denn Du hast mich erhört, * und Du bist mir zum Heil geworden.\nDer Stein, den die Bauleute verwarfen, * er ist zum Eckstein geworden.\nVom Herrn ist dies geschehen, * und wunderbar ist es in unseren Augen.\nDies ist der Tag, den der Herr gemacht hat, * laßt uns jubeln und an ihm uns freuen.\nO Herr, schaffe mir Heil, † o Herr, gib gutes Gelingen, * gesegnet sei, der da kommt im Namen des Herrn.\nWir segnen euch vom Haus des Herrn her, * Gott ist der Herr, und er hat uns erleuchtet.\nHaltet einen Festtag mit dichtbelaubten Zweigen * bis zu den Hörnern des Altares.\nMein Gott bist Du, und ich will Dich preisen, * mein Gott bist Du, und ich will Dich erheben.\nIch will Dich preisen, denn Du hast mich erhört, * und Du bist mir zum Heil geworden.\nPreiset den Herrn, denn er ist gut, * denn ewig währt seine Barmherzigkeit.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Allelúja, * confitémini Dómino, quóniam in sǽculum misericórdia ejus, allelúja, allelúja.",
+        "de": "Ant. Alleluja, * o preist den Herrn; denn ewig dauert sein Erbarmen."
+      }
+    },
+    {
+      "id": "week-dominica-prim-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 118 (1-16)",
+        "de": "Psalm 118 (1-16)"
+      },
+      "text": {
+        "la": "(Aleph) Beáti immaculáti in via: * qui ámbulant in lege Dómini.\nBeáti, qui scrutántur testimónia ejus: * in toto corde exquírunt eum.\nNon enim qui operántur iniquitátem, * in viis ejus ambulavérunt.\nTu mandásti * mandáta tua custodíri nimis.\nÚtinam dirigántur viæ meæ, * ad custodiéndas justificatiónes tuas!\nTunc non confúndar, * cum perspéxero in ómnibus mandátis tuis.\nConfitébor tibi in directióne cordis: * in eo quod dídici judícia justítiæ tuæ.\nJustificatiónes tuas custódiam: * non me derelínquas usquequáque.\n(Beth) In quo córrigit adolescéntior viam suam? * In custodiéndo sermónes tuos.\nIn toto corde meo exquisívi te: * ne repéllas me a mandátis tuis.\nIn corde meo abscóndi elóquia tua: * ut non peccem tibi.\nBenedíctus es, Dómine: * doce me justificatiónes tuas.\nIn lábiis meis, * pronuntiávi ómnia judícia oris tui.\nIn via testimoniórum tuórum delectátus sum, * sicut in ómnibus divítiis.\nIn mandátis tuis exercébor: * et considerábo vias tuas.\nIn justificatiónibus tuis meditábor: * non oblivíscar sermónes tuos.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "(Aleph) Wohl denen, deren Lebensweg ist ohne Sünde, * die wandeln, wie es dein Gesetz, o Herr, verordnet.\nWohl denen, die beachten deine Offenbarung, * von ganzem Herzen sich bemüh'n, dir zu gefallen.\nDie niemals Unrecht tuen * und stets auf deinen Wegen wandeln.\nDu hast uns das Gesetz verordnet, * was du verordnest, muß genau gehalten werden.\nO wenn doch all mein Handeln fest verankert würde * in der Befolgung deiner Regeln.\nDann würd ich eine Täuschung nie erleben * in der Beachtung dessen, was du forderst.\nIch könnte danken dir aufricht'gen Herzens, * daß ich erlernen konnte die Dekrete deines Rechtssinns.\nDenn wenn ich folge deinen Regeln, * wirst du mich niemals ohne Segen lassen.\n(Beth) Wodurch kann fehlerlos erhalten seinen Lebensweg ein Unerfahr'ner? * Wenn er befolgt, was du ihm aufgetragen.\nIch bitte dich deshalb von ganzem Herzen, * laß mich von dem, was du befiehlst, nicht abgehn.\nIn meinem Herzen will ich deine Worte gut verbergen, * daß ich mir ja nicht einen Schaden zuzieh.\nO hochgepries'ner Herr du, * o lehr mich deine Regeln kennen.\nWenn ich imstande bin, mit meinen Lippen aufzusagen * all die Dekrete deines Mundes:\nDann habe ich in deiner Offenbarung eine Freude, * als hätt ich allen Reichtum.\nIch will deshalb auf das, was du gebietest, eifrig achten, * mich ganz nach deinen Plänen richten.\nAls meine Sorge die Befolgung deiner Regeln anseh'n * und nie vergessen, was du mir verordnest.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-dominica-prim-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 118 (17-32)",
+        "de": "Psalm 118 (17-32)"
+      },
+      "text": {
+        "la": "(Ghimel) Retríbue servo tuo, vivífica me: * et custódiam sermónes tuos:\nRevéla óculos meos: * et considerábo mirabília de lege tua.\nÍncola ego sum in terra: * non abscóndas a me mandáta tua.\nConcupívit ánima mea desideráre justificatiónes tuas, * in omni témpore.\nIncrepásti supérbos: * maledícti qui declínant a mandátis tuis.\nAufer a me oppróbrium, et contémptum: * quia testimónia tua exquisívi.\nÉtenim sedérunt príncipes, et advérsum me loquebántur: * servus autem tuus exercebátur in justificatiónibus tuis.\nNam et testimónia tua meditátio mea est: * et consílium meum justificatiónes tuæ.\n(Daleth) Adhǽsit paviménto ánima mea: * vivífica me secúndum verbum tuum.\nVias meas enuntiávi, et exaudísti me: * doce me justificatiónes tuas.\nViam justificatiónum tuárum ínstrue me: * et exercébor in mirabílibus tuis.\nDormitávit ánima mea præ tǽdio: * confírma me in verbis tuis.\nViam iniquitátis ámove a me: * et de lege tua miserére mei.\nViam veritátis elégi: * judícia tua non sum oblítus.\nAdhǽsi testimóniis tuis, Dómine: * noli me confúndere.\nViam mandatórum tuórum cucúrri, * cum dilatásti cor meum.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "(Ghimel) Sei deinem Knecht gefällig, mach mich kräftig, * daß ich befolgen kann, was du mir aufträgst.\nNimm meinen Augen weg die Hülle, * daß ich erkenne, welch wunderbarer Segen quillt aus deiner Lehre.\nEin Fremdling bin ich hier im Lande; * verdeck mir nicht, was an Geboten du gegeben.\nEs lechzt mein Geist vor Sehnsucht, deine Regeln zu beachten * zu jeder Stunde.\nDu mußt sie gründlich schelten, die Bedrücker, * die Unglückseligen, die sich um dein Gebot nicht kümmern.\nNimm weg von mir und lade jenen auf, was sie mich schmähen und verlachen, * dann kann ich ganz um deine Offenbarung mich bekümmern.\nSo lange aber, wie vom Richterstuhl die Wächter gegen mich Dekrete machen, * bleibt sehr besorgt dein Knecht um deine Regeln.\nUnd doch ist deine Offenbarung meine Freude, * und Zeiger für den Weg mir deine Regeln.\n(Daleth) Wo ich so elend lieg am Boden, * mach stärker mich durch die Befolgung deiner Lehre.\nSo oft ich meine Sorgen klage, pflegst du mich zu hören; * so lehre mich auch deine Regeln.\nWie man nach deinen Regeln wandelt, zeig mir, * daß ich mit allem Eifer dies dein Meisterwerk umfasse.\nIch bin ganz krank vor Kummer, * mach mich gesund durch die Befolgung deiner Lehren.\nWend ab von mir das Quälen seitens der Bedrücker * und mache dein Gesetz mir leichter.\nDas richt'ge Handeln habe ich erwählt mir, * ich lasse die Entscheidungen, die du gefällt, nicht aus dem Sinne schwinden.\nIch häng mich fest, o Herr, an deine Offenbarung, * laß keine Täuschung mich erleben.\nWenn schnell ich vorwärts komme auf dem Weg, den dein Gesetz weist, * dann machst du große Freude meinem Herzen.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

@@ -1,0 +1,401 @@
+[
+  {
+    "id": "dominica",
+    "la": "Dominica",
+    "de": "Sonntag",
+    "it": "domenica",
+    "n": 0,
+    "hours": [
+      {
+        "id": "week-dominica-matutin",
+        "hour": "matutin",
+        "la": "Ad Matutinum",
+        "de": "Matutin (Nachtwache)"
+      },
+      {
+        "id": "week-dominica-laudes",
+        "hour": "laudes",
+        "la": "Ad Laudes",
+        "de": "Laudes (Morgenlob)"
+      },
+      {
+        "id": "week-dominica-prim",
+        "hour": "prim",
+        "la": "Ad Primam",
+        "de": "Prim"
+      },
+      {
+        "id": "week-dominica-terz",
+        "hour": "terz",
+        "la": "Ad Tertiam",
+        "de": "Terz"
+      },
+      {
+        "id": "week-dominica-sext",
+        "hour": "sext",
+        "la": "Ad Sextam",
+        "de": "Sext"
+      },
+      {
+        "id": "week-dominica-non",
+        "hour": "non",
+        "la": "Ad Nonam",
+        "de": "Non"
+      },
+      {
+        "id": "week-dominica-vesper",
+        "hour": "vesper",
+        "la": "Ad Vesperas",
+        "de": "Vesper (Abendlob)"
+      },
+      {
+        "id": "week-dominica-komplet",
+        "hour": "komplet",
+        "la": "Ad Completorium",
+        "de": "Komplet (Nachtgebet)"
+      }
+    ]
+  },
+  {
+    "id": "feria2",
+    "la": "Feria II",
+    "de": "Montag",
+    "it": "lunedì",
+    "n": 1,
+    "hours": [
+      {
+        "id": "week-feria2-matutin",
+        "hour": "matutin",
+        "la": "Ad Matutinum",
+        "de": "Matutin (Nachtwache)"
+      },
+      {
+        "id": "week-feria2-laudes",
+        "hour": "laudes",
+        "la": "Ad Laudes",
+        "de": "Laudes (Morgenlob)"
+      },
+      {
+        "id": "week-feria2-prim",
+        "hour": "prim",
+        "la": "Ad Primam",
+        "de": "Prim"
+      },
+      {
+        "id": "week-feria2-terz",
+        "hour": "terz",
+        "la": "Ad Tertiam",
+        "de": "Terz"
+      },
+      {
+        "id": "week-feria2-sext",
+        "hour": "sext",
+        "la": "Ad Sextam",
+        "de": "Sext"
+      },
+      {
+        "id": "week-feria2-non",
+        "hour": "non",
+        "la": "Ad Nonam",
+        "de": "Non"
+      },
+      {
+        "id": "week-feria2-vesper",
+        "hour": "vesper",
+        "la": "Ad Vesperas",
+        "de": "Vesper (Abendlob)"
+      },
+      {
+        "id": "week-feria2-komplet",
+        "hour": "komplet",
+        "la": "Ad Completorium",
+        "de": "Komplet (Nachtgebet)"
+      }
+    ]
+  },
+  {
+    "id": "feria3",
+    "la": "Feria III",
+    "de": "Dienstag",
+    "it": "martedì",
+    "n": 2,
+    "hours": [
+      {
+        "id": "week-feria3-matutin",
+        "hour": "matutin",
+        "la": "Ad Matutinum",
+        "de": "Matutin (Nachtwache)"
+      },
+      {
+        "id": "week-feria3-laudes",
+        "hour": "laudes",
+        "la": "Ad Laudes",
+        "de": "Laudes (Morgenlob)"
+      },
+      {
+        "id": "week-feria3-prim",
+        "hour": "prim",
+        "la": "Ad Primam",
+        "de": "Prim"
+      },
+      {
+        "id": "week-feria3-terz",
+        "hour": "terz",
+        "la": "Ad Tertiam",
+        "de": "Terz"
+      },
+      {
+        "id": "week-feria3-sext",
+        "hour": "sext",
+        "la": "Ad Sextam",
+        "de": "Sext"
+      },
+      {
+        "id": "week-feria3-non",
+        "hour": "non",
+        "la": "Ad Nonam",
+        "de": "Non"
+      },
+      {
+        "id": "week-feria3-vesper",
+        "hour": "vesper",
+        "la": "Ad Vesperas",
+        "de": "Vesper (Abendlob)"
+      },
+      {
+        "id": "week-feria3-komplet",
+        "hour": "komplet",
+        "la": "Ad Completorium",
+        "de": "Komplet (Nachtgebet)"
+      }
+    ]
+  },
+  {
+    "id": "feria4",
+    "la": "Feria IV",
+    "de": "Mittwoch",
+    "it": "mercoledì",
+    "n": 3,
+    "hours": [
+      {
+        "id": "week-feria4-matutin",
+        "hour": "matutin",
+        "la": "Ad Matutinum",
+        "de": "Matutin (Nachtwache)"
+      },
+      {
+        "id": "week-feria4-laudes",
+        "hour": "laudes",
+        "la": "Ad Laudes",
+        "de": "Laudes (Morgenlob)"
+      },
+      {
+        "id": "week-feria4-prim",
+        "hour": "prim",
+        "la": "Ad Primam",
+        "de": "Prim"
+      },
+      {
+        "id": "week-feria4-terz",
+        "hour": "terz",
+        "la": "Ad Tertiam",
+        "de": "Terz"
+      },
+      {
+        "id": "week-feria4-sext",
+        "hour": "sext",
+        "la": "Ad Sextam",
+        "de": "Sext"
+      },
+      {
+        "id": "week-feria4-non",
+        "hour": "non",
+        "la": "Ad Nonam",
+        "de": "Non"
+      },
+      {
+        "id": "week-feria4-vesper",
+        "hour": "vesper",
+        "la": "Ad Vesperas",
+        "de": "Vesper (Abendlob)"
+      },
+      {
+        "id": "week-feria4-komplet",
+        "hour": "komplet",
+        "la": "Ad Completorium",
+        "de": "Komplet (Nachtgebet)"
+      }
+    ]
+  },
+  {
+    "id": "feria5",
+    "la": "Feria V",
+    "de": "Donnerstag",
+    "it": "giovedì",
+    "n": 4,
+    "hours": [
+      {
+        "id": "week-feria5-matutin",
+        "hour": "matutin",
+        "la": "Ad Matutinum",
+        "de": "Matutin (Nachtwache)"
+      },
+      {
+        "id": "week-feria5-laudes",
+        "hour": "laudes",
+        "la": "Ad Laudes",
+        "de": "Laudes (Morgenlob)"
+      },
+      {
+        "id": "week-feria5-prim",
+        "hour": "prim",
+        "la": "Ad Primam",
+        "de": "Prim"
+      },
+      {
+        "id": "week-feria5-terz",
+        "hour": "terz",
+        "la": "Ad Tertiam",
+        "de": "Terz"
+      },
+      {
+        "id": "week-feria5-sext",
+        "hour": "sext",
+        "la": "Ad Sextam",
+        "de": "Sext"
+      },
+      {
+        "id": "week-feria5-non",
+        "hour": "non",
+        "la": "Ad Nonam",
+        "de": "Non"
+      },
+      {
+        "id": "week-feria5-vesper",
+        "hour": "vesper",
+        "la": "Ad Vesperas",
+        "de": "Vesper (Abendlob)"
+      },
+      {
+        "id": "week-feria5-komplet",
+        "hour": "komplet",
+        "la": "Ad Completorium",
+        "de": "Komplet (Nachtgebet)"
+      }
+    ]
+  },
+  {
+    "id": "feria6",
+    "la": "Feria VI",
+    "de": "Freitag",
+    "it": "venerdì",
+    "n": 5,
+    "hours": [
+      {
+        "id": "week-feria6-matutin",
+        "hour": "matutin",
+        "la": "Ad Matutinum",
+        "de": "Matutin (Nachtwache)"
+      },
+      {
+        "id": "week-feria6-laudes",
+        "hour": "laudes",
+        "la": "Ad Laudes",
+        "de": "Laudes (Morgenlob)"
+      },
+      {
+        "id": "week-feria6-prim",
+        "hour": "prim",
+        "la": "Ad Primam",
+        "de": "Prim"
+      },
+      {
+        "id": "week-feria6-terz",
+        "hour": "terz",
+        "la": "Ad Tertiam",
+        "de": "Terz"
+      },
+      {
+        "id": "week-feria6-sext",
+        "hour": "sext",
+        "la": "Ad Sextam",
+        "de": "Sext"
+      },
+      {
+        "id": "week-feria6-non",
+        "hour": "non",
+        "la": "Ad Nonam",
+        "de": "Non"
+      },
+      {
+        "id": "week-feria6-vesper",
+        "hour": "vesper",
+        "la": "Ad Vesperas",
+        "de": "Vesper (Abendlob)"
+      },
+      {
+        "id": "week-feria6-komplet",
+        "hour": "komplet",
+        "la": "Ad Completorium",
+        "de": "Komplet (Nachtgebet)"
+      }
+    ]
+  },
+  {
+    "id": "sabbato",
+    "la": "Sabbato",
+    "de": "Samstag",
+    "it": "sabato",
+    "n": 6,
+    "hours": [
+      {
+        "id": "week-sabbato-matutin",
+        "hour": "matutin",
+        "la": "Ad Matutinum",
+        "de": "Matutin (Nachtwache)"
+      },
+      {
+        "id": "week-sabbato-laudes",
+        "hour": "laudes",
+        "la": "Ad Laudes",
+        "de": "Laudes (Morgenlob)"
+      },
+      {
+        "id": "week-sabbato-prim",
+        "hour": "prim",
+        "la": "Ad Primam",
+        "de": "Prim"
+      },
+      {
+        "id": "week-sabbato-terz",
+        "hour": "terz",
+        "la": "Ad Tertiam",
+        "de": "Terz"
+      },
+      {
+        "id": "week-sabbato-sext",
+        "hour": "sext",
+        "la": "Ad Sextam",
+        "de": "Sext"
+      },
+      {
+        "id": "week-sabbato-non",
+        "hour": "non",
+        "la": "Ad Nonam",
+        "de": "Non"
+      },
+      {
+        "id": "week-sabbato-vesper",
+        "hour": "vesper",
+        "la": "Ad Vesperas",
+        "de": "Vesper (Abendlob)"
+      },
+      {
+        "id": "week-sabbato-komplet",
+        "hour": "komplet",
+        "la": "Ad Completorium",
+        "de": "Komplet (Nachtgebet)"
+      }
+    ]
+  }
+]

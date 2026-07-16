@@ -1,0 +1,88 @@
+{
+  "id": "week-feria2-sext",
+  "form": "1962",
+  "hour": "sext",
+  "name": {
+    "la": "Ad Sextam",
+    "de": "Sext"
+  },
+  "day": {
+    "title": {
+      "la": "Feria II",
+      "de": "Montag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-feria2-sext-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria2-sext-hymnus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Rector potens, verax Deus, qui témperas rerum vices, splendóre mane ínstruis, et ígnibus merídiem.\nExstíngue flammas lítium, aufer calórem nóxium, confer salútem córporum, verámque pacem córdium.",
+        "de": "Allmächtger Lenker, wahrer Gott, der du der Dinge Wechsel führst: du schmückst den Morgen mit dem Glanz und gibst dem Mittag Feuerglut.\nLösch aus die Flammen bösen Streits, nimm weg die Glut, die schädlich brennt, verleih dem Leibe Wohlergehn und wahren Frieden unserm Herz."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
+      }
+    },
+    {
+      "id": "week-feria2-sext-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 30 (2-9)",
+        "de": "Psalm 30 (2-9)"
+      },
+      "text": {
+        "la": "In te, Dómine, sperávi, non confúndar in ætérnum: * in justítia tua líbera me.\nInclína ad me aurem tuam, * accélera ut éruas me.\nEsto mihi in Deum protectórem, et in domum refúgii: * ut salvum me fácias.\nQuóniam fortitúdo mea, et refúgium meum es tu: * et propter nomen tuum dedúces me, et enútries me.\nEdúces me de láqueo hoc, quem abscondérunt mihi: * quóniam tu es protéctor meus.\nIn manus tuas comméndo spíritum meum: * redemísti me, Dómine, Deus veritátis.\nOdísti observántes vanitátes, * supervácue.\nEgo autem in Dómino sperávi: * exsultábo, et lætábor in misericórdia tua.\nQuóniam respexísti humilitátem meam, * salvásti de necessitátibus ánimam meam.\nNec conclusísti me in mánibus inimíci: * statuísti in loco spatióso pedes meos.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Auf Dich, Herr, habe ich meine Hoffnung gesetzt, lass mich nicht zuschanden werden in Ewigkeit; * in Deiner Gerechtigkeit befreie mich.\nSei mir ein Schützergott und ein Haus der zuflucht, * um mich heil zu machen.\nSei mir ein Schützergott und ein Haus der zuflucht, * um mich heil zu machen.\nDenn meine Stärke und meine zuflucht bist Du, * und um Deines namens willen wirst Du mich leiten und ernähren.\nDu wirst mich aus dieser Schlinge ziehen, die sie für mich verborgen haben, * denn Du bist mein beschützer.\nin Deine Hände befehle ich meinen Geist; * Du hast mich erlöst, Herr, Gott der Wahrheit.\nich aber habe auf den Herrn meine Hoffnung gesetzt, * ich will jubeln und mich freuen über Deine barmherzigkeit.\nich aber habe auf den Herrn meine Hoffnung gesetzt, * ich will jubeln und mich freuen über Deine barmherzigkeit.\nDenn Du hast auf meine niedrigkeit geschaut, * aus nöten hast Du meine Seele errettet.\nDu hast mich nicht ein geschlossen in die Hände des Feindes, * hast auf weiten raum meine Füße gestellt.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. In tua justítia * líbera me, Dómine.",
+        "de": "Ant. Auf Grund deiner Güte * schaff, o Herr, mir Rettung."
+      }
+    },
+    {
+      "id": "week-feria2-sext-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 30 (10-19)",
+        "de": "Psalm 30 (10-19)"
+      },
+      "text": {
+        "la": "Miserére mei, Dómine, quóniam tríbulor: * conturbátus est in ira óculus meus, ánima mea, et venter meus:\nQuóniam defécit in dolóre vita mea: * et anni mei in gemítibus.\nInfirmáta est in paupertáte virtus mea: * et ossa mea conturbáta sunt.\nSuper omnes inimícos meos factus sum oppróbrium et vicínis meis valde: * et timor notis meis.\nQui vidébant me, foras fugérunt a me: * oblivióni datus sum, tamquam mórtuus a corde.\nFactus sum tamquam vas pérditum: * quóniam audívi vituperatiónem multórum commorántium in circúitu.\nIn eo dum convenírent simul advérsum me, * accípere ánimam meam consiliáti sunt.\nEgo autem in te sperávi, Dómine: * dixi: Deus meus es tu: in mánibus tuis sortes meæ.\nÉripe me de manu inimicórum meórum, * et a persequéntibus me.\nIllústra fáciem tuam super servum tuum, salvum me fac in misericórdia tua: * Dómine, non confúndar, quóniam invocávi te.\nErubéscant ímpii, et deducántur in inférnum: * muta fiant lábia dolósa.\nQuæ loquúntur advérsus justum iniquitátem: * in supérbia, et in abusióne.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Erbarme Dich meiner, o Herr, denn ich werde bedrängt; * verstört ist in Erbitterung mein Auge, meine Seele und mein leib,\nSchwach geworden ist in Armut meine Kraft, * und meine Gebeine sind erschüttert.\nSchwach geworden ist in Armut meine Kraft, * und meine Gebeine sind erschüttert.\nDie mich sahen, flohen vor mir hinaus, * dem Vergessen ward ich übergeben, einem Toten gleich, aus dem Herzen geschwunden.\nDie mich sahen, flohen vor mir hinaus, * dem Vergessen ward ich übergeben, einem Toten gleich, aus dem Herzen geschwunden.\nich bin geworden wie ein zerbrochenes Gefäß, * denn ich hörte die Schelte vieler, die ringsum weilen.\nDa sie sich zugleich gegen mich versammelten, * hielten sie rat, mir das leben zu nehmen.\nich aber habe auf Dich meine Hoffnung gesetzt, o Herr, * ich sprach: mein Gott bist Du, in Deinen Händen liegt mein Geschick.\nEntreiße mich der Hand meiner Feinde * und denen, die mich verfolgen.\nlass leuchten Dein Angesicht über Deinem Knecht, schaffe mir Heil durch Deine barmherzigkeit, * Herr, ich möge nicht zuschanden werden, denn ich habe Dich angerufen.\nVor Scham erröten sollen die Gottlosen, und sie sollen hinabgeführt werden in die unterwelt; * verstummen sollen die trügerischen lippen,\ndie wider den Gerechten unrecht reden * in Hochmut und Verachtung.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria2-sext-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 30 (20-25)",
+        "de": "Psalm 30 (20-25)"
+      },
+      "text": {
+        "la": "Quam magna multitúdo dulcédinis tuæ, Dómine, * quam abscondísti timéntibus te.\nPerfecísti eis, qui sperant in te, * in conspéctu filiórum hóminum.\nAbscóndes eos in abscóndito faciéi tuæ * a conturbatióne hóminum.\nPróteges eos in tabernáculo tuo * a contradictióne linguárum.\nBenedíctus Dóminus: * quóniam mirificávit misericórdiam suam mihi in civitáte muníta.\nEgo autem dixi in excéssu mentis meæ: * Projéctus sum a fácie oculórum tuórum.\nÍdeo exaudísti vocem oratiónis meæ, * dum clamárem ad te.\nDilígite Dóminum omnes sancti ejus: * quóniam veritátem requíret Dóminus, et retríbuet abundánter faciéntibus supérbiam.\nViríliter ágite, et confortétur cor vestrum, * omnes, qui sperátis in Dómino.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Du vollendest sie für die, die auf Dich hoffen, * im Angesicht der menschenkinder.\nDu vollendest sie für die, die auf Dich hoffen, * im Angesicht der menschenkinder.\nDu wirst sie schützen in Deinem zelt * vor dem Widerspruch der zungen.\nDu wirst sie schützen in Deinem zelt * vor dem Widerspruch der zungen.\nGepriesen sei der Herr, * denn wunderbar hat er mir seine barmherzigkeit erwiesen in der befestigten Stadt.\nDarum hast Du die Stimme meines betens erhört, * als ich zu Dir schrie.\nDarum hast Du die Stimme meines betens erhört, * als ich zu Dir schrie.\nliebt den Herrn, all seine Heiligen, * denn Wahrheit sucht der Herr, und jenen, die Hochmut üben, zahlt er reichlich heim.\nHandelt mannhaft, und erstarken soll euer Herz, * alle, die ihr hofft auf den Herrn.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

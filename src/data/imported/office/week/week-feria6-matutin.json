@@ -1,0 +1,264 @@
+{
+  "id": "week-feria6-matutin",
+  "form": "1962",
+  "hour": "matutin",
+  "name": {
+    "la": "Ad Matutinum",
+    "de": "Matutin (Nachtwache)"
+  },
+  "day": {
+    "title": {
+      "la": "Feria VI",
+      "de": "Freitag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-feria6-matutin-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria6-matutin-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 77 (1-8)",
+        "de": "Psalm 77 (1-8)"
+      },
+      "text": {
+        "la": "Atténdite, pópule meus, legem meam: * inclináte aurem vestram in verba oris mei.\nApériam in parábolis os meum: * loquar propositiónes ab inítio.\nQuanta audívimus et cognóvimus ea: * et patres nostri narravérunt nobis.\nNon sunt occultáta a fíliis eórum: * in generatióne áltera.\nNarrántes laudes Dómini, et virtútes ejus: * et mirabília ejus, quæ fecit.\nEt suscitávit testimónium in Jacob: * et legem pósuit in Israël.\nQuanta mandávit pátribus nostris nota fácere ea fíliis suis: * ut cognóscat generátio áltera.\nFílii qui nascéntur, et exsúrgent, * et narrábunt fíliis suis.\nUt ponant in Deo spem suam, et non obliviscántur óperum Dei: * et mandáta ejus exquírant.\nNe fiant sicut patres eórum: * generátio prava et exásperans.\nGenerátio, quæ non diréxit cor suum: * et non est créditus cum Deo spíritus ejus.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Achte, mein Volk, auf mein Gesetz, * neigt euer Ohr zu den Worten meines Mundes.\nin Gleichnissen will ich öffnen meinen Mund, * Rätsel reden vom Anfang her,\nwas Großes wir gehört und erfahren * und unsere Väter uns erzählt haben.\nSie verkündeten das Lob des Herrn und seine Macht * und seine Wunder, die er getan hat.\nSie verkündeten das Lob des Herrn und seine Macht * und seine Wunder, die er getan hat.\nwas Großes er unseren Väter geboten, es bekannt zu machen ihren Kindern, * damit die nächste Generation es erfahre,\nwas Großes er unseren Väter geboten, es bekannt zu machen ihren Kindern, * damit die nächste Generation es erfahre,\ndie Kinder, die geboren werden und sich erheben * und es ihren Kindern erzählen werden,\ndamit sie auf Gott ihre Hoffnung setzen und die Werke Gottes nicht vergessen * und nach seinen Geboten fragen,\nein Geschlecht, das sein Herz nicht gerade ausrichtet * und dessen Geist nicht treu hielt an Gott.\nein Geschlecht, das sein Herz nicht gerade ausrichtet * und dessen Geist nicht treu hielt an Gott.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Suscitávit Dóminus * testimónium in Jacob: et legem pósuit in Israël.",
+        "de": "Ant. Der Herr hat selbst erlassen * ein Gebot für Jakobs Land, für Israel verordnet die Bestimmung."
+      }
+    },
+    {
+      "id": "week-feria6-matutin-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 77 (9-16)",
+        "de": "Psalm 77 (9-16)"
+      },
+      "text": {
+        "la": "Fílii Ephrem intendéntes et mitténtes arcum: * convérsi sunt in die belli.\nNon custodiérunt testaméntum Dei: * et in lege ejus noluérunt ambuláre.\nEt oblíti sunt benefactórum ejus: * et mirabílium ejus quæ osténdit eis.\nCoram pátribus eórum fecit mirabília in terra Ægýpti: * in campo Táneos.\nInterrúpit mare, et perdúxit eos: * et státuit aquas quasi in utre.\nEt dedúxit eos in nube diéi: * et tota nocte in illuminatióne ignis.\nInterrúpit petram in erémo: * et adaquávit eos velut in abýsso multa.\nEt edúxit aquam de petra: * et dedúxit tamquam flúmina aquas.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Als die Söhne Ephraims den bogen spannten und schossen, * wandten sie sich um am Tag des Krieges.\nSie bewahrten nicht den Bund Gottes, * und in seinem Gesetz wollten sie nicht wandeln.\nUnd sie vergaßen seine Wohltaten * und seine Wunder, die er ihnen gezeigt hat.\nVor ihren Vätern tat er Wunder im Land Ägypten, * im Gefilde von Tanis.\nEr spaltete das Meer und führte sie hindurch * und ließ die Wasser stehen wie in einem Schlauch.\nUnd er führte sie mit der Wolke des Tages * und die ganze Nacht durch das Leuchten des Feuers.\nEr spaltete den Felsen in der Wüste * und tränkte sie wie aus großer Tiefe,\nund er ließ Wasser hervorströmen aus dem Felsen * und Gewässer rinnen wie Flüsse.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Coram pátribus eórum * fecit Deus mirabília.",
+        "de": "Ant. Vor ihren Vätern * wirkte Gott Wunder."
+      }
+    },
+    {
+      "id": "week-feria6-matutin-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 77 (17-31)",
+        "de": "Psalm 77 (17-31)"
+      },
+      "text": {
+        "la": "Et apposuérunt adhuc peccáre ei: * in iram excitavérunt Excélsum in inaquóso.\nEt tentavérunt Deum in córdibus suis, * ut péterent escas animábus suis.\nEt male locúti sunt de Deo: * dixérunt: Numquid póterit Deus paráre mensam in desérto?\nQuóniam percússit petram, et fluxérunt aquæ: * et torréntes inundavérunt.\nNumquid et panem póterit dare, * aut paráre mensam pópulo suo?\nÍdeo audívit Dóminus, et dístulit: * et ignis accénsus est in Jacob, et ira ascéndit in Israël.\nQuia non credidérunt in Deo: * nec speravérunt in salutári ejus:\nEt mandávit núbibus désuper: * et jánuas cæli apéruit.\nEt pluit illis manna ad manducándum: * et panem cæli dedit eis.\nPanem Angelórum manducávit homo, * cibária misit eis in abundántia.\nTránstulit Austrum de cælo: * et indúxit in virtúte sua Áfricum.\nEt pluit super eos sicut púlverem carnes: * et sicut arénam maris volatília pennáta.\nEt cecidérunt in médio castrórum eórum: * circa tabernácula eórum.\nEt manducavérunt, et saturáti sunt nimis, et desidérium eórum áttulit eis: * non sunt fraudáti a desidério suo.\nAdhuc escæ eórum erant in ore ipsórum: * et ira Dei ascéndit super eos.\nEt occídit pingues eórum, * et eléctos Israël impedívit.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Und sie fuhren fort, gegen ihn zu sündigen, * reizten zum Zorn den Höchsten in der wasserlosen Öde.\nUnd sie versuchten Gott in ihren Herzen, * indem sie Speise verlangten für ihre Gelüste.\nUnd übel sprachen sie über Gott, * sie sagten: Kann etwa Gott einen Tisch bereiten in der Wüste?\naber kann er auch Brot geben * oder einen Tisch bereiten seinem Volk?\naber kann er auch Brot geben * oder einen Tisch bereiten seinem Volk?\nSo hörte es der Herr und hielt sie hin, * und Feuer entbrannte gegen Jakob, und Zorn stieg auf gegen Israel,\nweil sie nicht glaubten an Gott, * noch hofften auf sein Heil.\nUnd er gebot den Wolken von oben her, * und die Pforten des Himmels öffnete er.\nUnd er ließ für sie Manna regnen zum essen * und gab ihnen das Brot des Himmels.\nDas Brot der Engel aß der Mensch, * Nahrung sandte er ihnen im Überfluss.\nEr nahm den Südwind vom Himmel weg * und führte in seiner Kraft den Nordwind herbei.\nUnd er ließ Fleisch auf sie regnen wie Staub * und wie den Sand des Meeres gefiederte Vögel.\nUnd sie fielen mitten in ihr Lager, * rings um ihre Zelte.\nUnd sie aßen und wurden übersatt, und was sie begehrt hatten, brachte er ihnen, * nicht wurden sie beraubt ihrer Gelüste.\nnoch war ihre Speise in ihrem Mund, * und der Zorn Gottes stieg über sie empor,\nund er tötete ihre Fetten * und lähmte die Auserwählten Israels.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Jánuas cæli apéruit * Dóminus, et pluit illis manna ad manducándum.",
+        "de": "Ant. Es öffnete des Himmels Schleusen * der Herr und ließ das Manna ihnen regnen, dass sie Speise hatten."
+      }
+    },
+    {
+      "id": "week-feria6-matutin-v1",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "V. Deus percússit petram et fluxérunt aquæ.",
+        "de": "V. Gott schlug auf den Felsen und heraus kam Wasser."
+      }
+    },
+    {
+      "id": "week-feria6-matutin-v2",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "R. Et torréntes inundavérunt.",
+        "de": "R. Dass ganze Bäche flossen."
+      }
+    },
+    {
+      "id": "week-feria6-matutin-ps4",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 77 (32-41)",
+        "de": "Psalm 77 (32-41)"
+      },
+      "text": {
+        "la": "In ómnibus his peccavérunt adhuc: * et non credidérunt in mirabílibus ejus.\nEt defecérunt in vanitáte dies eórum: * et anni eórum cum festinatióne.\nCum occíderet eos, quærébant eum: * et revertebántur, et dilúculo veniébant ad eum.\nEt rememoráti sunt quia Deus adjútor est eórum: * et Deus excélsus redémptor eórum est.\nEt dilexérunt eum in ore suo, * et lingua sua mentíti sunt ei.\nCor autem eórum non erat rectum cum eo: * nec fidéles hábiti sunt in testaménto ejus.\nIpse autem est miséricors, et propítius fiet peccátis eórum: * et non dispérdet eos.\nEt abundávit ut avérteret iram suam: * et non accéndit omnem iram suam:\nEt recordátus est quia caro sunt: * spíritus vadens et non rédiens.\nQuóties exacerbavérunt eum in desérto, * in iram concitavérunt eum in inaquóso?\nEt convérsi sunt, et tentavérunt Deum: * et Sanctum Israël exacerbavérunt.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "bei all dem sündigten sie noch immer * und glaubten nicht an seine Wunder.\nUnd es vergingen ihre Tage in Nichtigkeit * und ihre Jahre in Eile.\nWenn er sie tötete, dann suchten sie ihn * und kehrten um und kamen früh am Morgen zu ihm.\nUnd sie erinnerten sich daran, dass Gott ihr Helfer * und der erhabene Gott ihr Erlöser ist.\nUnd sie liebten ihn mit ihrem Mund, * und mit ihrer Zunge heuchelten sie ihm.\nihr Herz aber war nicht aufrichtig bei ihm, * noch wurden sie treu erfunden in seinem Bund.\nUnd vielmals wandte er ab seinen Zorn * und ließ nicht entbrennen all seinen Zorn.\nUnd vielmals wandte er ab seinen Zorn * und ließ nicht entbrennen all seinen Zorn.\nUnd er gedachte, dass sie Fleisch sind, * ein Hauch, der dahingeht und nicht wiederkehrt.\nWie oft erbitterten sie ihn in der Wüste, * reizten ihn zum Zorn im wasserlosen Land?\nUnd sie machten kehrt und versuchten Gott, * und den Heiligen Israels haben sie erbittert.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Deus adjútor * est eórum: et Excélsus redémptor eórum est.",
+        "de": "Ant. Gott ist ihr Helfer, * und Gottes höchste Majestät ihr Retter."
+      }
+    },
+    {
+      "id": "week-feria6-matutin-ps5",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 77 (42-58)",
+        "de": "Psalm 77 (42-58)"
+      },
+      "text": {
+        "la": "Non sunt recordáti manus ejus, * die qua redémit eos de manu tribulántis.\nSicut pósuit in Ægýpto signa sua, * et prodígia sua in campo Táneos.\nEt convértit in sánguinem flúmina eórum: * et imbres eórum, ne bíberent.\nMisit in eos cœnomyíam, et comédit eos: * et ranam, et dispérdidit eos.\nEt dedit ærúgini fructus eórum: * et labóres eórum locústæ.\nEt occídit in grándine víneas eórum: * et moros eórum in pruína.\nEt trádidit grándini juménta eórum: * et possessiónem eórum igni.\nMisit in eos iram indignatiónis suæ: * indignatiónem, et iram, et tribulatiónem: immissiónes per ángelos malos.\nViam fecit sémitæ iræ suæ, non pepércit a morte animábus eórum: * et juménta eórum in morte conclúsit.\nEt percússit omne primogénitum in terra Ægýpti: * primítias omnis labóris eórum in tabernáculis Cham.\nEt ábstulit sicut oves pópulum suum: * et perdúxit eos tamquam gregem in desérto.\nEt dedúxit eos in spe, et non timuérunt: * et inimícos eórum opéruit mare.\nEt indúxit eos in montem sanctificatiónis suæ: * montem, quem acquisívit déxtera ejus.\nEt ejécit a fácie eórum gentes: * et sorte divísit eis terram in funículo distributiónis.\nEt habitáre fecit in tabernáculis eórum: * tribus Israël.\nEt tentavérunt, et exacerbavérunt Deum excélsum: * et testimónia ejus non custodiérunt.\nEt avertérunt se, et non servavérunt pactum: * quemádmodum patres eórum convérsi sunt in arcum pravum.\nIn iram concitavérunt eum in cóllibus suis: * et in sculptílibus suis ad æmulatiónem eum provocavérunt.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Sie gedachten nicht seiner Hand * am Tag, an dem er sie erlöste aus der Hand des Bedrängers,\nwie er in Ägypten seine Zeichen setzte * und seine Wunder im Gefilde von Tanis,\nund er verwandelte in Blut ihre Flüsse * und ihre Regengüsse, dass sie nicht trinken konnten.\nEr sandte zu ihnen die Fliege und die fraß sie auf * und den Frosch, und der zerstörte sie.\nUnd er gab ihre Früchte dem Mehltau preis * und ihre Mühen der Heuschrecke.\nUnd er zerschlug mit Hagel ihre Weinstöcke * und ihre Maulbeerbäume mit Frost.\nUnd er lieferte ihr Vieh dem Hagel aus * und ihren Besitz dem Feuer.\nEr sandte über sie den Zorn seines Unmuts, * Unmut und Zorn und Bedrängnis, Einwirkungen durch böse Engel.\nEinen Weg bahnte er dem Lauf seines Zornes, nicht verschonte er ihre Seelen vor dem Tod, * und ihr Vieh beschloss er im Tod.\nUnd er erschlug alle Erstgeburt im Land Ägypten, * die Erstlinge all ihrer Mühen in den zelten Chams.\nUnd er nahm heraus wie Schafe sein Volk * und führte sie wie eine Herde durch die Wüste.\nUnd er leitete sie in Hoffnung, und sie fürchteten sich nicht, * und ihre Feinde bedeckte das Meer.\nUnd er vertrieb vor ihrem Angesicht die Völker, * und durch das Los teilte er ihnen das Land mit der Messschnur.\nUnd er vertrieb vor ihrem Angesicht die Völker, * und durch das Los teilte er ihnen das Land mit der Messschnur.\nUnd er ließ wohnen in deren zelten * die Stämme Israels.\nUnd sie versuchten und erbitterten den erhabenen Gott * und bewahrten nicht seine Zeugnisse.\nUnd sie wandten sich ab und hielten nicht den Bund; * wie schon ihre Väter, wandelten sie sich in einen krummen bogen.\nzum Zorn reizten sie ihn mit ihren Kulthöhen, * und durch ihre Schnitzbilder forderten sie ihn heraus zum Eifer.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Redémit eos * Dóminus de manu tribulántis.",
+        "de": "Ant. Es hat sie herausgeführt * der Herr aus der Gewalt der Quäler."
+      }
+    },
+    {
+      "id": "week-feria6-matutin-ps6",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 77 (59-72)",
+        "de": "Psalm 77 (59-72)"
+      },
+      "text": {
+        "la": "Audívit Deus, et sprevit: * et ad níhilum redégit valde Israël.\nEt répulit tabernáculum Silo: * tabernáculum suum, ubi habitávit in homínibus.\nEt trádidit in captivitátem virtútem eórum: * et pulchritúdinem eórum in manus inimíci.\nEt conclúsit in gládio pópulum suum: * et hereditátem suam sprevit.\nJúvenes eórum comédit ignis: * et vírgines eórum non sunt lamentátæ.\nSacerdótes eórum in gládio cecidérunt: * et víduæ eórum non plorabántur.\nEt excitátus est tamquam dórmiens Dóminus: * tamquam potens crapulátus a vino.\nEt percússit inimícos suos in posterióra: * oppróbrium sempitérnum dedit illis.\nEt répulit tabernáculum Joseph: * et tribum Éphraim non elégit.\nSed elégit tribum Juda, * montem Sion quem diléxit.\nEt ædificávit sicut unicórnium sanctifícium suum in terra, * quam fundávit in sǽcula.\nEt elégit David, servum suum, et sústulit eum de grégibus óvium: * de post fœtántes accépit eum,\nPáscere Jacob, servum suum, * et Israël, hereditátem suam:\nEt pavit eos in innocéntia cordis sui: * et in intelléctibus mánuum suárum dedúxit eos.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Gott hörte es und verschmähte sie * und machte Israel sehr zunichte.\nUnd er verwarf das Zelt von Silo, * sein Zelt, wo er Wohnung genommen unter den Menschen.\nUnd er lieferte ihre Stärke in die Gefangenschaft aus * und ihre Schönheit in die Hände des Feindes.\nUnd er schloss ein mit dem Schwert sein Volk * und verschmähte sein Erbe.\nihre Jünglinge fraß das Feuer, * und ihre Jungfrauen wurden nicht betrauert.\nihre Priester fielen durch das Schwert, * und ihre Witwen wurden nicht beweint.\nUnd es erwachte wie ein Schlafender der Herr, * wie ein Mächtiger, trunken von Wein.\nUnd er schlug ihre Feinde zurück, * ewige Schmach gab er ihnen.\nUnd er verwarf das Zelt Josephs, * und den Stamm Ephrai m erwählte er nicht,\nsondern er erwählte den Stamm Juda, * den Berg Sion, den er liebte.\nUnd er erbaute wie (ein Horn) von Einhörnern sein Heiligtum im Land, * das er begründet hat für immer.\nUnd er erwählte David, seinen Knecht, und nahm ihn fort von den Herden der Schafe, * von den Mutterschafen nahm er ihn weg,\nzu weiden Jakob, seinen Knecht, * und Israel, sein Erbe.\nUnd er weidete sie in der Unschuld seines Herzens, * und durch die Einsicht seiner Hände leitete er sie.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Ædificávit * Deus sanctifícium suum in terra.",
+        "de": "Ant. Es baute Gott * sein Heiligtum im Lande."
+      }
+    },
+    {
+      "id": "week-feria6-matutin-v3",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "V. Elégit Dóminus tribum Juda.",
+        "de": "V. Es erwählte sich der Herr den Stamm Juda."
+      }
+    },
+    {
+      "id": "week-feria6-matutin-v4",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "R. Montem Sion quem diléxit.",
+        "de": "R. Den Berg Sion, den er liebte."
+      }
+    },
+    {
+      "id": "week-feria6-matutin-ps7",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 78",
+        "de": "Psalm 78"
+      },
+      "text": {
+        "la": "Deus, venérunt gentes in hereditátem tuam, polluérunt templum sanctum tuum: * posuérunt Jerúsalem in pomórum custódiam.\nPosuérunt morticína servórum tuórum, escas volatílibus cæli: * carnes sanctórum tuórum béstiis terræ.\nEffudérunt sánguinem eórum tamquam aquam in circúitu Jerúsalem: * et non erat qui sepelíret.\nFacti sumus oppróbrium vicínis nostris: * subsannátio et illúsio his, qui in circúitu nostro sunt.\nÚsquequo, Dómine, irascéris in finem: * accendétur velut ignis zelus tuus?\nEffúnde iram tuam in gentes, quæ te non novérunt: * et in regna quæ nomen tuum non invocavérunt:\nQuia comedérunt Jacob: * et locum ejus desolavérunt.\nNe memíneris iniquitátum nostrárum antiquárum, cito antícipent nos misericórdiæ tuæ: * quia páuperes facti sumus nimis.\nÁdjuva nos, Deus, salutáris noster: et propter glóriam nóminis tui, Dómine, líbera nos: * et propítius esto peccátis nostris, propter nomen tuum:\nNe forte dicant in géntibus: Ubi est Deus eórum? * et innotéscat in natiónibus coram óculis nostris.\nÚltio sánguinis servórum tuórum, qui effúsus est: * intróeat in conspéctu tuo gémitus compeditórum.\nSecúndum magnitúdinem brácchii tui, * pósside fílios mortificatórum.\nEt redde vicínis nostris séptuplum in sinu eórum: * impropérium ipsórum, quod exprobravérunt tibi, Dómine.\nNos autem pópulus tuus, et oves páscuæ tuæ, * confitébimur tibi in sǽculum.\nIn generatiónem et generatiónem * annuntiábimus laudem tuam.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Gott, Heiden sind in Dein Erbe gekommen, sie haben Deinen heiligen Tempel befleckt, * Jerusalem zur Wachthütte von Obstbäumen gemacht.\nSie gaben die Leichen Deiner Knechte zum Fraß für die Vögel des Himmels, * das Fleisch Deiner Heiligen für die Tiere des Landes.\nSie vergossen ihr blut wie Wasser rings um Jerusalem, * und keinen gab es, der sie begraben hätte.\nWir sind unseren nachbarn zur Schmach geworden, * zu Hohn und Spott für die, die um uns herum sind.\nWie lange, Herr, wirst Du immer fort zürnen, * wird wie Feuer Dein Eifer entbrennen?\nGieße aus Deinen zorn über die Heiden, die Dich nicht kennen, * und über die Königreiche, die Deinen namen nicht anriefen,\ndenn sie haben Jakob vertilgt * und seine Stätte verwüstet.\nGedenke nicht unserer alten Missetaten, eilends mögen uns zuvorkommen diese Erweise Deiner barmherzigkeit, * denn arm geworden sind wir gar sehr.\nHilf uns, Gott, unser retter, und um der Ehre Deines namens willen, Herr, befreie uns, * und sei gnädig mit unseren Sünden um Deines namens willen,\ndie Vergeltung für das blut Deiner Knechte, das vergossen worden ist. * Es komme vor Dein Angesicht das Seufzen der Gefesselten.\ndie Vergeltung für das blut Deiner Knechte, das vergossen worden ist. * Es komme vor Dein Angesicht das Seufzen der Gefesselten.\nnach der Größe Deines Armes * nimm als Dein Eigen an die Söhne der Getöteten\nund vergilt unseren nachbarn siebenfach in ihren Schoß * ihre Schmähung, mit der sie Dich verhöhnt haben, Herr.\nvon Geschlecht zu Geschlecht * verkünden Dein Lob.\nvon Geschlecht zu Geschlecht * verkünden Dein Lob.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Ádjuva nos, * Deus, salutáris noster: et propítius esto peccátis nostris.",
+        "de": "Ant. Hilf uns, * o Gott, du Quelle unseres Segens und sei doch gnädig unsern Sünden."
+      }
+    },
+    {
+      "id": "week-feria6-matutin-ps8",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 80",
+        "de": "Psalm 80"
+      },
+      "text": {
+        "la": "Exsultáte Deo, adjutóri nostro: * jubiláte Deo Jacob.\nSúmite psalmum, et date týmpanum: * psaltérium jucúndum cum cíthara.\nBuccináte in Neoménia tuba, * in insígni die solemnitátis vestræ.\nQuia præcéptum in Israël est: * et judícium Deo Jacob.\nTestimónium in Joseph pósuit illud, cum exíret de terra Ægýpti: * linguam, quam non nóverat, audívit.\nDivértit ab onéribus dorsum ejus: * manus ejus in cóphino serviérunt.\nIn tribulatióne invocásti me, et liberávi te: * exaudívi te in abscóndito tempestátis: probávi te apud aquam contradictiónis.\nAudi, pópulus meus, et contestábor te: * Israël, si audíeris me, non erit in te deus recens, neque adorábis deum aliénum.\nEgo enim sum Dóminus Deus tuus, qui edúxi te de terra Ægýpti: * diláta os tuum, et implébo illud.\nEt non audívit pópulus meus vocem meam: * et Israël non inténdit mihi.\nEt dimísi eos secúndum desidéria cordis eórum: * ibunt in adinventiónibus suis.\nSi pópulus meus audísset me: * Israël si in viis meis ambulásset:\nPro níhilo fórsitan inimícos eórum humiliássem: * et super tribulántes eos misíssem manum meam.\nInimíci Dómini mentíti sunt ei: * et erit tempus eórum in sǽcula.\nEt cibávit eos ex ádipe fruménti: * et de petra, melle saturávit eos.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Jubelt Gott zu, unserem Helfer, * jauchzt dem Gott Jakobs!\nnehmt einen Psalm und gebt her die Trommel, * die liebliche Harfe mit der zither.\nStoßt am neumond in die Posaune, * am hohen Tag eures Festes,\ndenn es ist Gebot in israel * und ein Gesetz vom Gott Jakobs.\nAls zeugnis hat er es festgesetzt in Joseph, als er auszog aus dem Land ägypten, * eine Sprache, die er nicht kannte, hat er gehört.\nEr befreite von den Lasten seinen rücken, * seine Hände dienten am Lastkorb.\nin der bedrängnis hast du mich angerufen, und ich habe dich befreit, * ich habe dich erhört im Dunkel des Sturms, dich geprüft beim Wasser des Widerspruchs.\nHöre, mein Volk, und ich will dir bezeugen: * israel, wenn du mich hören willst, soll bei dir kein neuer Gott sein, noch sollst du anbeten einen fremden Gott.\nDenn ich bin der Herr, dein Gott, der dich herausgeführt aus dem Land ägypten. * Mach deinen Mund weit auf, und ich will ihn füllen.\nUnd mein Volk hörte nicht auf meine Stimme, * und israel hat nicht auf mich geachtet.\nUnd ich entließ sie nach den begierden ihres Herzens, * sie werden dahingehen nach ihren Plänen.\nHätte mein Volk auf mich gehört, * wäre israel auf meinen Wegen gewandelt,\nhätte ich im nu ihre Feinde erniedrigt, * und meine Hand hätte ich dreinfahren lassen über jene, die sie bedrängten.\nDie Feinde des Herrn schmeichelten ihm, * und ihre zeit währt ewig.\nUnd er hat sie genährt mit dem Mark des Weizens * und aus dem Felsen sie mit Honig gesättigt.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Ego sum Dóminus * Deus tuus Israël, qui edúxi te de terra Ægýpti.",
+        "de": "Ant. Ich bin der Herr * dein Gott, der dich herausgeführt hat aus Ägypten."
+      }
+    },
+    {
+      "id": "week-feria6-matutin-ps9",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 82",
+        "de": "Psalm 82"
+      },
+      "text": {
+        "la": "Deus, quis símilis erit tibi? * Ne táceas, neque compescáris, Deus.\nQuóniam ecce inimíci tui sonuérunt: * et qui odérunt te extulérunt caput.\nSuper pópulum tuum malignavérunt consílium: * et cogitavérunt advérsus sanctos tuos.\nDixérunt: Veníte, et disperdámus eos de gente: * et non memorétur nomen Israël ultra.\nQuóniam cogitavérunt unanímiter: * simul advérsum te testaméntum disposuérunt, tabernácula Idumæórum et Ismahelítæ:\nMoab, et Agaréni, Gebal, et Ammon, et Ámalec: * alienígenæ cum habitántibus Tyrum.\nÉtenim Assur venit cum illis: * facti sunt in adjutórium fíliis Lot.\nFac illis sicut Mádian, et Sísaræ: * sicut Jabin in torrénte Cisson.\nDisperiérunt in Endor: * facti sunt ut stercus terræ.\nPone príncipes eórum sicut Oreb, et Zeb, * et Zébee, et Sálmana:\nOmnes príncipes eórum: * qui dixérunt: Hereditáte possideámus Sanctuárium Dei.\nDeus meus, pone illos ut rotam: * et sicut stípulam ante fáciem venti.\nSicut ignis, qui combúrit silvam: * et sicut flamma combúrens montes:\nIta persequéris illos in tempestáte tua: * et in ira tua turbábis eos.\nImple fácies eórum ignomínia: * et quærent nomen tuum, Dómine.\nErubéscant, et conturbéntur in sǽculum sǽculi: * et confundántur, et péreant.\nEt cognóscant quia nomen tibi Dóminus: * tu solus Altíssimus in omni terra.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Gott, wer ist Dir gleich? * Schweige nicht und halte Dich nicht zurück, o Gott!\nDenn siehe, Deine Feinde lärmten, * und die Dich hassten, erhoben ihr Haupt.\nGegen Dein Volk fassten sie einen boshaften Plan * und haben beratschlagt gegen Deine Heiligen.\nSie sagten: Kommt, lasst uns sie austilgen aus der Völkerschaft, * und nicht mehr soll gedacht werden des namens israels.\nDenn sie beratschlagten einmütig, * zugleich schlossen sie gegen Dich einen bund, die zelte der idumäer und ismaeliter,\nMoab und die Agarener, Gebal und Ammon und Amalek, * die Fremdgeborenen mit den bewohnern von Tyrus.\nJa, auch Assur kam mit ihnen, * sie wurden zum beistand für die Söhne Lots.\nTu mit ihnen wie Madian und Sisara, * wie Jabin am bach Cisson.\nSie kamen um bei Endor, * sie wurden wie der Mist für die Erde.\nMach ihre Fürsten wie Oreb und zeb * und zebee und Salmana.\nAll ihre Fürsten, * die sprachen: Als Erbe lasst uns in besitz nehmen das Heiligtum Gottes.\nMein Gott, mach sie wie ein rad * und wie Stroh vor dem Angesicht des Windes.\nWie ein Feuer, das den Wald niederbrennt, * und wie eine Flamme, die berge versengt,\nso wirst Du sie verfolgen in Deinem Sturm, * und in Deinem zorn sie verwirren.\nErfülle ihr Angesicht mit Schande, * und sie werden Deinen namen suchen, Herr.\nSie sollen sich schämen und verwirrt werden in alle Ewigkeit * und zuschanden werden und zugrunde gehen.\nUnd sie sollen erkennen, dass Dein name ‚Herr‘ ist, * dass Du allein der Höchste bist auf der ganzen Erde.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Ne táceas Deus * quóniam inimíci tui extulérunt caput.",
+        "de": "Ant. Schweige nicht, o Gott, * denn übermütig prahlen deine Hasser."
+      }
+    },
+    {
+      "id": "week-feria6-matutin-v5",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "V. Cognóscant quia nomen tibi Dóminus.",
+        "de": "V. Sie sollen erkennen, dass dein Name „der Herr“ ist."
+      }
+    },
+    {
+      "id": "week-feria6-matutin-v6",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "R. Tu solus Altíssimus super omnem terram.",
+        "de": "R. Dass nur du der Höchstgebietende bist im ganzen Weltall."
+      }
+    },
+    {
+      "id": "week-feria6-matutin-tedeum",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus Te Deum",
+        "de": "Te Deum"
+      },
+      "rubric": {
+        "la": "Post lectiones (extra Adventum et Quadragesimam)",
+        "de": "Nach den Lesungen (außer Advent und Fastenzeit)"
+      },
+      "text": {
+        "la": "Te Deum laudámus: * te Dóminum confitémur. Te ætérnum Patrem * omnis terra venerátur. Tibi omnes Ángeli, * tibi Cæli, et univérsæ Potestátes: Tibi Chérubim et Séraphim * incessábili voce proclámant: Sanctus, Sanctus, Sanctus * Dóminus Deus Sábaoth.",
+        "de": "Dich, Gott, loben wir, * dich, Herr, bekennen wir. Dich, den ewigen Vater, * verehrt die ganze Erde. Dir rufen alle Engel, * dir Himmel und alle Mächte, dir Cherubim und Seraphim * mit unaufhörlicher Stimme zu: Heilig, heilig, heilig * der Herr, der Gott der Heerscharen."
+      }
+    }
+  ]
+}

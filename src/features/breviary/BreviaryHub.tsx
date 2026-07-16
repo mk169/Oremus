@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
 import { PageHeader } from '../../components/PageHeader'
-import { hoursByForm, FORM_LABEL, importedOfficeList } from '../../data/registry'
+import { hoursByForm, FORM_LABEL, importedOfficeList, weekOfficeDays } from '../../data/registry'
 import type { LiturgicalForm } from '../../data/types'
 import './BreviaryHub.css'
 
@@ -23,6 +23,27 @@ export function BreviaryHub() {
         latin="Liturgia Horarum"
         subtitle="Stundengebet – wähle Form und Hore. Text Latein/Deutsch, Gesang vorbereitet."
       />
+
+      <section className="brev-form">
+        <h2 className="brev-form__title">
+          Wochenpsalter (1962)
+          <span className="brev-form__la smallcaps"> · Psalterium per hebdomadam, Latein/Deutsch</span>
+        </h2>
+        <p className="brev-note" style={{ marginTop: '0.2rem' }}>
+          Die vollständigen Horen für jeden Wochentag – Matutin bis Komplet, mit vollem
+          Psalmtext, Antiphonen und Cantica.
+        </p>
+        <ul className="brev-hours">
+          {weekOfficeDays.map((d) => (
+            <li key={d.id}>
+              <Link to={`/brevier/woche/${d.id}`} className="brev-hours__link">
+                <span className="brev-hours__name">{d.de}</span>
+                <span className="brev-hours__la">{d.la}</span>
+              </Link>
+            </li>
+          ))}
+        </ul>
+      </section>
 
       {FORMS.map((form) => (
         <section key={form} className="brev-form">

@@ -1,0 +1,104 @@
+{
+  "id": "week-feria3-komplet",
+  "form": "1962",
+  "hour": "komplet",
+  "name": {
+    "la": "Ad Completorium",
+    "de": "Komplet (Nachtgebet)"
+  },
+  "day": {
+    "title": {
+      "la": "Feria III",
+      "de": "Dienstag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-feria3-komplet-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria3-komplet-hymnus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Te lucis ante términum, rerum Creátor, póscimus, ut pro tua cleméntia sis præsul et custódia.\nProcul recédant sómnia, et nóctium phantásmata; hostémque nostrum cómprime, ne polluántur córpora.",
+        "de": "Bevor des Tages Licht vergeht, o Herr der Welt, so hören wir: In deiner großen Güte bleib uns Schutz und Wächter für die Nacht.\nWeit weiche jeder böse Traum, weit weiche nächtlich Schreckgebild; bezwinge unsern alten Feind, dass rein der Leib vom Frevel bleibt."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
+      }
+    },
+    {
+      "id": "week-feria3-komplet-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 11",
+        "de": "Psalm 11"
+      },
+      "text": {
+        "la": "Salvum me fac, Dómine, quóniam defécit sanctus: * quóniam diminútæ sunt veritátes a fíliis hóminum.\nVana locúti sunt unusquísque ad próximum suum: * lábia dolósa, in corde et corde locúti sunt.\nDispérdat Dóminus univérsa lábia dolósa, * et linguam magníloquam.\nQui dixérunt: Linguam nostram magnificábimus, † lábia nostra a nobis sunt, * quis noster Dóminus est?\nPropter misériam ínopum, et gémitum páuperum, * nunc exsúrgam, dicit Dóminus.\nPonam in salutári: * fiduciáliter agam in eo.\nElóquia Dómini, elóquia casta: * argéntum igne examinátum, probátum terræ purgátum séptuplum.\nTu, Dómine, servábis nos: et custódies nos * a generatióne hac in ætérnum.\nIn circúitu ímpii ámbulant: * secúndum altitúdinem tuam multiplicásti fílios hóminum.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Rette mich, Herr, denn der Heilige ist dahin, * denn geschwunden ist die Wahrheit unter den Menschenkindern.\nNichtiges redete ein jeder zu seinem nächsten, * ihre Lippen sind trügerisch, mit zwiespältigem Herzen redeten sie.\nVertilgen möge der Herr alle trügerischen Lippen * und die prahlerische Zunge,\ndie da sprachen: „Unsere Zunge wollen wir groß machen, † unsere Lippen sind unser. * Wer ist unser Herr?“\nWegen des Elends der Hilflosen und des Seufzens der Armen * will ich mich nun erheben, spricht der Herr.\nIch will Heil schaffen * und getreu darin handeln.\nDie Worte des Herrn sind lautere Worte, * sie sind wie Silber, das im Feuer geläutert ist, erprobt in der Erde, sieben fach gereinigt.\nDu, o Herr, wirst uns bewahren und uns beschützen * vor diesem Geschlecht in Ewigkeit.\nRingsum wandeln die Gottlosen. * Gemäß Deiner Hoheit hast Du die Menschenkinder vermehrt.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Tu, Dómine, * servábis nos: et custódies nos in ætérnum.",
+        "de": "Ant. Tu, Dómine, * servábis nos: et custódies nos in ætérnum."
+      }
+    },
+    {
+      "id": "week-feria3-komplet-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 12",
+        "de": "Psalm 12"
+      },
+      "text": {
+        "la": "Úsquequo, Dómine, obliviscéris me in finem? * Úsquequo avértis fáciem tuam a me?\nQuámdiu ponam consília in ánima mea, * dolórem in corde meo per diem?\nÚsquequo exaltábitur inimícus meus super me? * (4a) réspice, et exáudi me, Dómine, Deus meus.\nIllúmina óculos meos ne umquam obdórmiam in morte: * (5a) nequándo dicat inimícus meus: Præválui advérsus eum.\nQui tríbulant me, exsultábunt si motus fúero: * (6a) ego autem in misericórdia tua sperávi.\nExsultábit cor meum in salutári tuo: † cantábo Dómino qui bona tríbuit mihi: * et psallam nómini Dómini altíssimi.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Bis wann, Herr, wirst Du mich gänzlich vergessen? * Bis wann wendest Du Dein Antlitz von mir ab?\nWie lange muß ich Sorgen tragen in meiner Seele, * Kummer haben in meinem Herzen des Tags?\nBis wann wird mein Feind sich über mich erheben? * (4a) Schau her und erhöre mich, Herr, mein Gott!\nErleuchte meine Augen, damit ich nicht im Tod entschlafe, * (5a) damit mein Feind nicht sagen kann: ich habe ihn überwältigt.\nDie mich bedrängen werden jubeln, wenn ich wanke; * (6a) ich aber habe auf Deine Barmherzigkeit meine Hoffnung gesetzt.\nFrohlocken wird mein Herz über Dein Heil; † ich will singen dem Herrn, der mir Gutes getan, * und spielen dem Namen des Herrn, des Höchsten.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria3-komplet-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 15",
+        "de": "Psalm 15"
+      },
+      "text": {
+        "la": "Consérva me, Dómine, quóniam sperávi in te. ‡ (2) Dixi Dómino: Deus meus es tu, * quóniam bonórum meórum non eges.\nSanctis, qui sunt in terra ejus, * mirificávit omnes voluntátes meas in eis.\nMultiplicátæ sunt infirmitátes eórum: * póstea acceleravérunt.\nNon congregábo conventícula eórum de sanguínibus, * nec memor ero nóminum eórum per lábia mea.\nDóminus pars hereditátis meæ, et cálicis mei: * tu es, qui restítues hereditátem meam mihi.\nFunes cecidérunt mihi in præcláris: * étenim heréditas mea præclára est mihi.\nBenedícam Dóminum, qui tríbuit mihi intelléctum: * ínsuper et usque ad noctem increpuérunt me renes mei.\nProvidébam Dóminum in conspéctu meo semper: * quóniam a dextris est mihi, ne commóvear.\nPropter hoc lætátum est cor meum, et exsultávit lingua mea: * ínsuper et caro mea requiéscet in spe.\nQuóniam non derelínques ánimam meam in inférno: * nec dabis sanctum tuum vidére corruptiónem.\nNotas mihi fecísti vias vitæ, † adimplébis me lætítia cum vultu tuo: * delectatiónes in déxtera tua usque in finem.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Behüte mich, Herr, denn ich habe meine Hoffnung auf Dich gesetzt. † (2) Ich sprach zum Herrn: „Mein Gott bist Du, * denn meiner Güter bedarfst Du nicht.“\nAn den Heiligen, die da sind in seinem Land, * hat er alles, was ich wünschte, wunderbar erfüllt.\nEs mehrten sich ihre Schwächen, * danach eilten sie herbei.\nNicht werde ich zusammenrufen ihre Zusammenkünfte zu Blutopfern, * noch werde ich ihrer Namen gedenken mit meinen Lippen.\nDer Herr ist der Anteil meines Erbes und meines Kelches, * Du bist es, der mir mein Erbe erstatten wird.\nDie Lose sind mir auf Herrliches gefallen, * denn wahrlich, mein Erbe ist mir herrlich.\nPreisen will ich den Herrn, der mir Einsicht verliehen hat, * dazu mahnten mich noch bis in die Nacht meine Nieren.\nIch sah den Herrn stets vor meinem Angesicht, * denn er steht mir zur rechten, damit ich nicht wanke.\nDarum freut sich mein Herz und es frohlockt meine Zunge, * und auch mein Fleisch wird ruhen in Hoffnung.\nDenn Du wirst meine Seele nicht der Unterwelt überlassen, * noch gibst Du Deinem Heiligen die Verwesung zu schauen.\nKundgetan hast Du mir die Wege des Lebens, † Du wirst mich mit Freude erfüllen durch Dein Angesicht, * Wonnen sind zu Deiner Rechten für immer.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria3-komplet-nunc",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Canticum Simeonis (Nunc dimittis)",
+        "de": "Lobgesang des Simeon"
+      },
+      "reference": {
+        "la": "Luc 2, 29-32",
+        "de": "Luc 2, 29-32"
+      },
+      "text": {
+        "la": "Nunc dimíttis servum tuum, Dómine, * secúndum verbum tuum in pace:\nQuia vidérunt óculi mei * salutáre tuum,\nQuod parásti * ante fáciem ómnium populórum,\nLumen ad revelatiónem géntium, * et glóriam plebis tuæ Israël.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Nun entlässest du, Herr, deinen Diener * nach deinem Worte in Frieden;\ndenn meine Augen haben * dein Heil geschaut,\ndas du bereitet hast * vor dem Angesicht aller Völker:\nein Licht zur Erleuchtung der Heiden * und zur Verherrlichung deines Volkes Israel.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

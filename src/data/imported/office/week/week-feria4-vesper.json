@@ -1,0 +1,128 @@
+{
+  "id": "week-feria4-vesper",
+  "form": "1962",
+  "hour": "vesper",
+  "name": {
+    "la": "Ad Vesperas",
+    "de": "Vesper (Abendlob)"
+  },
+  "day": {
+    "title": {
+      "la": "Feria IV",
+      "de": "Mittwoch"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-feria4-vesper-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria4-vesper-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 127",
+        "de": "Psalm 127"
+      },
+      "text": {
+        "la": "Beáti, omnes, qui timent Dóminum, * qui ámbulant in viis ejus.\nLabóres mánuum tuárum quia manducábis: * beátus es, et bene tibi erit.\nUxor tua sicut vitis abúndans, * in latéribus domus tuæ.\nFílii tui sicut novéllæ olivárum, * in circúitu mensæ tuæ.\nEcce, sic benedicétur homo, * qui timet Dóminum.\nBenedícat tibi Dóminus ex Sion: * et vídeas bona Jerúsalem ómnibus diébus vitæ tuæ.\nEt vídeas fílios filiórum tuórum, * pacem super Israël.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Selig alle, die fürchten den Herrn, * die wandeln auf seinen Wegen.\nDenn was deine Hände erarbeitet, wirst du genießen; * selig bist du, und gut wird es dir gehen.\nDeine Frau gleicht einem üppigen Weinstock * an den Wänden deines Hauses.\nDeine Söhne sind wie junge Ölbäume * rings um deinen Tisch.\nSiehe, so wird der Mensch gesegnet, * der den Herrn fürchtet.\nEs segne dich der Herr von Sion aus, * und schauen sollst du die Güter Jerusalems alle Tage deines Lebens,\nund sehen sollst du die Kinder deiner Kinder, * den Frieden über Israel.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Beáti omnes * qui timent Dóminum.",
+        "de": "Ant. Wie glücklich ist doch jeder, * der dem Herrn bleibt treu ergeben."
+      }
+    },
+    {
+      "id": "week-feria4-vesper-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 128",
+        "de": "Psalm 128"
+      },
+      "text": {
+        "la": "Sæpe expugnavérunt me a juventúte mea, * dicat nunc Israël.\nSæpe expugnavérunt me a juventúte mea: * étenim non potuérunt mihi.\nSupra dorsum meum fabricavérunt peccatóres: * prolongavérunt iniquitátem suam.\nDóminus justus concídit cervíces peccatórum: * (5) confundántur et convertántur retrórsum omnes, qui odérunt Sion.\nFiant sicut fænum tectórum: * quod priúsquam evellátur, exáruit:\nDe quo non implévit manum suam qui metit, * et sinum suum qui manípulos cólligit.\nEt non dixérunt qui præteríbant: Benedíctio Dómini super vos: * benedíximus vobis in nómine Dómini.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Oft haben sie mich bestürmt von meiner Jugend an, * so sage nun Israel,\noft haben sie mich bestürmt von meiner Jugend an, * doch nichts vermochten sie gegen mich.\nAuf meinem Rücken schmiedeten die Sünder, * lange trieben sie ihre Bosheit.\nDer Herr, der Gerechte, zerschlug die Nacken der Sünder, * (5) zuschanden sollen werden und zurückweichen alle, die Sion hassen.\nSie sollen werden wie das Gras auf den Dächern, * das welkt, bevor man es ausreißt,\nmit dem der Schnitter seine Hand nicht füllt, * noch der, der Garben sammelt, seinen Schoß.\nUnd nicht sprachen, die vorüber gingen: „Der Segen des Herrn sei über euch, * wir segnen euch im Namen des Herrn.“\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Confundántur omnes * qui odérunt Sion.",
+        "de": "Ant. Lass beschämt davon gehen alle, * die Sion hassen."
+      }
+    },
+    {
+      "id": "week-feria4-vesper-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 129",
+        "de": "Psalm 129"
+      },
+      "text": {
+        "la": "De profúndis clamávi ad te, Dómine: * (2a) Dómine, exáudi vocem meam:\nFiant aures tuæ intendéntes, * in vocem deprecatiónis meæ.\nSi iniquitátes observáveris, Dómine: * Dómine, quis sustinébit?\nQuia apud te propitiátio est: * et propter legem tuam sustínui te, Dómine.\nSustínuit ánima mea in verbo ejus: * (5) sperávit ánima mea in Dómino.\nA custódia matutína usque ad noctem: * speret Israël in Dómino.\nQuia apud Dóminum misericórdia: * et copiósa apud eum redémptio.\nEt ipse rédimet Israël, * ex ómnibus iniquitátibus ejus.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Aus den Tiefen schrie ich zu Dir, o Herr. * (2a) Herr, höre meine Stimme!\nDeine Ohren seien zugewandt * der Stimme meines Flehens.\nWürdest Du die Missetaten beachten, o Herr, * Herr, wer würde dann bestehen?\nDenn bei Dir ist Vergebung, * und Deines Gesetzes wegen harre ich auf Dich, o Herr.\nMeine Seele harrt auf sein Wort, * (5) meine Seele hofft auf den Herrn.\nVon der Morgenwache bis zur Nacht * soll Israel hoffen auf den Herrn,\ndenn beim Herrn ist Barmherzigkeit, * und bei ihm ist reiche Erlösung.\nUnd er selbst wird Israel erlösen * von all seinen Missetaten.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. De profúndis * clamávi ad te, Dómine.",
+        "de": "Ant. Aus dem Abgrund * flehe ich, o Herr, zu dir."
+      }
+    },
+    {
+      "id": "week-feria4-vesper-ps4",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 130",
+        "de": "Psalm 130"
+      },
+      "text": {
+        "la": "Dómine, non est exaltátum cor meum: * neque eláti sunt óculi mei.\nNeque ambulávi in magnis: * neque in mirabílibus super me.\nSi non humíliter sentiébam: * sed exaltávi ánimam meam:\nSicut ablactátus est super matre sua, * ita retribútio in ánima mea.\nSperet Israël in Dómino, * ex hoc nunc et usque in sǽculum.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Herr, mein Herz hat sich nicht überhoben, * und nicht wurden stolz meine Augen.\nund ich erging mich nicht in großen Dingen * und nicht in solchen, die zu wunderbar für mich sind.\nWenn ich nicht demütig gefühlt * sondern überhoben hätte meine Seele!\nWie ein mit Milch Gesättigter an seiner Mutter, * so ist Zuwendung in meiner Seele.\nIsrael soll hoffen auf den Herrn, * von nun an und bis in Ewigkeit!\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Dómine, * non est exaltátum cor meum.",
+        "de": "Ant. O Herr, * nicht strebt mein Herz nach hohen Dingen."
+      }
+    },
+    {
+      "id": "week-feria4-vesper-ps5",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 131",
+        "de": "Psalm 131"
+      },
+      "text": {
+        "la": "Meménto, Dómine, David, * et omnis mansuetúdinis ejus:\nSicut jurávit Dómino, * votum vovit Deo Jacob:\nSi introíero in tabernáculum domus meæ, * si ascéndero in lectum strati mei:\nSi dédero somnum óculis meis, * et pálpebris meis dormitatiónem:\nEt réquiem tempóribus meis: donec invéniam locum Dómino, * tabernáculum Deo Jacob.\nEcce, audívimus eam in Éphrata: * invénimus eam in campis silvæ.\nIntroíbimus in tabernáculum ejus: * adorábimus in loco, ubi stetérunt pedes ejus.\nSurge, Dómine, in réquiem tuam, * tu et arca sanctificatiónis tuæ.\nSacerdótes tui induántur justítiam: * et sancti tui exsúltent.\nPropter David, servum tuum, * non avértas fáciem Christi tui.\nJurávit Dóminus David veritátem, et non frustrábitur eam: * De fructu ventris tui ponam super sedem tuam.\nSi custodíerint fílii tui testaméntum meum, * et testimónia mea hæc, quæ docébo eos:\nEt fílii eórum usque in sǽculum, * sedébunt super sedem tuam.\nQuóniam elégit Dóminus Sion: * elégit eam in habitatiónem sibi.\nHæc réquies mea in sǽculum sǽculi: * hic habitábo quóniam elégi eam.\nVíduam ejus benedícens benedícam: * páuperes ejus saturábo pánibus.\nSacerdótes ejus índuam salutári: * et sancti ejus exsultatióne exsultábunt.\nIlluc prodúcam cornu David, * parávi lucérnam Christo meo.\nInimícos ejus índuam confusióne: * super ipsum autem efflorébit sanctificátio mea.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Gedenke, o Herr! Davids * und alle seiner Geduld,\nwie er dem Herrn geschworen, * dem Gott Jakobs gelobt hat:\nNicht will ich in das Gezelt meines Hauses treten, * will nicht das Lager meines Bettes besteigen,\nwill meinen Augen keinen Schlaf gönnen * noch meinen Augenlidern Schlummer\nund meinen Schläfen keine Ruhe, bis ich eine Stätte gefunden für den Herrn, * eine Wohnung für den Gott Jakobs.\nSiehe, wir hörten von ihr in Ephrata; * wir fanden sie im Waldgefilde.\nLasset uns in sein Zelt eingehen, * anbeten an dem Orte, wo seine Füße stehen.\nErhebe dich, Herr! zu deiner Ruhe, * du und die Lade deiner Heiligkeit!\nDeine Priester mögen sich in Gerechtigkeit kleiden, * deine Heiligen frohlocken!\nUm Davids, deines Dieners, willen * weise das Antlitz deines Gesalbten nicht ab!\nDer Herr schwor David getreue Verheißung und wird sie nicht brechen: * „Von deines Leibes Frucht werde ich auf deinen Thron setzen.“\nWenn deine Söhne meinen Bund bewahren * und diese meine Zeugnisse, welche ich sie lehre,\nso sollen auch ihre Söhne für und für * auf deinem Throne sitzen.\nJa, der Herr hat Sion auserwählt, * hat es auserwählt zu seiner Wohnung.\nDies ist meine Ruhestätte auf ewig, * hier will ich wohnen, denn ich habe sie erkoren.\nSeine Witwen will ich reichlich segnen, * seine Armen mit Brot sättigen.\nSeine Priester will ich mit Heil kleiden, * seine Heiligen sollen frohlockend jubeln.\nDort will ich Davids Horn wachsen lassen, * eine Leuchte zurichten meinem Gesalbten.\nSeine Feinde will ich in Schmach hüllen, * über ihm aber soll meine Heiligung erblühen.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Elégit Dóminus * Sion in habitatiónem sibi.",
+        "de": "Ant. Erkoren hat der Herr * sich zu seiner Wohnung Sion."
+      }
+    },
+    {
+      "id": "week-feria4-vesper-nunc",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Canticum B. Mariæ Virginis (Magnificat)",
+        "de": "Lobgesang der seligen Jungfrau Maria"
+      },
+      "reference": {
+        "la": "Luc 1, 46-55",
+        "de": "Luc 1, 46-55"
+      },
+      "text": {
+        "la": "Magníficat * ánima mea Dóminum.\nEt exsultávit spíritus meus * in Deo, salutári meo.\nQuia respéxit humilitátem ancíllæ suæ: * ecce enim ex hoc beátam me dicent omnes generatiónes.\nQuia fecit mihi magna qui potens est: * et sanctum nomen ejus.\nEt misericórdia ejus a progénie in progénies * timéntibus eum.\nFecit poténtiam in bráchio suo: * dispérsit supérbos mente cordis sui.\nDepósuit poténtes de sede, * et exaltávit húmiles.\nEsuriéntes implévit bonis: * et dívites dimísit inánes.\nSuscépit Israël púerum suum, * recordátus misericórdiæ suæ.\nSicut locútus est ad patres nostros, * Ábraham, et sémini ejus in sǽcula.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Meine Seele preist die Größe des Herrn, * und mein Geist frohlockt in Gott, meinem Heile.\nDenn er hat auf die Niedrigkeit seiner Magd geschaut; * siehe, von nun an preisen mich selig alle Geschlechter.\nDenn Großes hat an mir getan, der mächtig ist, * und heilig ist sein Name.\nUnd sein Erbarmen währt von Geschlecht zu Geschlecht * für alle, die ihn fürchten.\nEr wirkt mit Macht in seinem Arm, * er zerstreut, die hoffärtig sind im Sinne ihres Herzens.\nEr stürzt die Mächtigen vom Thron * und erhöht die Niedrigen.\nDie Hungernden erfüllt er mit Gütern * und lässt die Reichen leer ausgehn.\nEr nimmt sich Israels an, seines Knechtes, * eingedenk seiner Barmherzigkeit,\nwie er geredet hat zu unsern Vätern, * zu Abraham und seinen Nachkommen auf ewig.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

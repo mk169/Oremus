@@ -1,0 +1,128 @@
+{
+  "id": "week-feria3-vesper",
+  "form": "1962",
+  "hour": "vesper",
+  "name": {
+    "la": "Ad Vesperas",
+    "de": "Vesper (Abendlob)"
+  },
+  "day": {
+    "title": {
+      "la": "Feria III",
+      "de": "Dienstag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-feria3-vesper-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria3-vesper-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 122",
+        "de": "Psalm 122"
+      },
+      "text": {
+        "la": "Ad te levávi óculos meos, * qui hábitas in cælis.\nEcce, sicut óculi servórum * in mánibus dominórum suórum,\nSicut óculi ancíllæ in mánibus dóminæ suæ: * ita óculi nostri ad Dóminum, Deum nostrum, donec misereátur nostri.\nMiserére nostri, Dómine, miserére nostri: * quia multum repléti sumus despectióne:\nQuia multum repléta est ánima nostra: * oppróbrium abundántibus, et despéctio supérbis.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Zu Dir erhebe ich meine Augen, * der Du im Himmel wohnst.\nSiehe, wie die Augen der Knechte * auf die Hände ihrer Herren,\nwie die Augen der Magd auf die Hände ihrer Herrin, * so schauen unsere Augen auf den Herrn, unseren Gott, bis er sich unser erbarmt.\nErbarme Dich unser, o Herr, erbarme Dich unser, * denn ganz voll sind wir von Verachtung,\ndenn übervoll ist unsere Seele. * Zum Gespött sind wir den Reichen und zur Verachtung den Hochmütigen.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Qui hábitas in cælis, * miserére nobis.",
+        "de": "Ant. Der du im Himmel wohnest, * erbarme dich unser."
+      }
+    },
+    {
+      "id": "week-feria3-vesper-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 123",
+        "de": "Psalm 123"
+      },
+      "text": {
+        "la": "Nisi quia Dóminus erat in nobis, dicat nunc Israël: * (2a) nisi quia Dóminus erat in nobis,\nCum exsúrgerent hómines in nos, * (3a) forte vivos deglutíssent nos:\nCum irascerétur furor eórum in nos, * (4) fórsitan aqua absorbuísset nos.\nTorréntem pertransívit ánima nostra: * fórsitan pertransísset ánima nostra aquam intolerábilem.\nBenedíctus Dóminus * qui non dedit nos in captiónem déntibus eórum.\nÁnima nostra sicut passer erépta est * de láqueo venántium:\nLáqueus contrítus est, * et nos liberáti sumus.\nAdjutórium nostrum in nómine Dómini, * qui fecit cælum et terram.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Wäre nicht der Herr mit uns gewesen, so sage nun Israel: * (2a) „Wäre nicht der Herr mit uns gewesen,\nals Menschen sich gegen uns erhoben, * (3a) dann hätten sie uns wohl lebendig verschlungen.“\nAls ihr Zorn gegen uns wütete, * (4) hätte wohl Wasser uns fortgerissen.\nEinen reißenden Strom durchschritt unsere Seele; * wohl hätte unsere Seele unerträgliches Gewässer durchschritten.\nGepriesen sei der Herr, * der uns nicht ihren Zähnen zur Beute gab.\nUnsere Seele ist errettet wie ein Sperling * aus der Schlinge der Jäger.\nDie Schlinge ist zerrissen, * und wir wurden befreit.\nUnsere Hilfe ist im Namen des Herrn, * der Himmel und Erde erschaffen hat.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Adjutórium nostrum * in nómine Dómini.",
+        "de": "Ant. Unsere Hilfe kommt * von der Majestät des Herrn."
+      }
+    },
+    {
+      "id": "week-feria3-vesper-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 124",
+        "de": "Psalm 124"
+      },
+      "text": {
+        "la": "Qui confídunt in Dómino, sicut mons Sion: * non commovébitur in ætérnum, qui hábitat (2a) in Jerúsalem.\nMontes in circúitu ejus: ‡ et Dóminus in circúitu pópuli sui, * ex hoc nunc et usque in sǽculum.\nQuia non relínquet Dóminus virgam peccatórum super sortem justórum: * ut non exténdant justi ad iniquitátem manus suas.\nBénefac, Dómine, bonis, * et rectis corde.\nDeclinántes autem in obligatiónes addúcet Dóminus cum operántibus iniquitátem: * pax super Israël.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Die auf den Herrn vertrauen, sind wie der Berg Sion: * nicht wanken wird in Ewigkeit, wer wohnt (2a) in Jerusalem.\nBerge sind rings um es, ‡ und der Herr ist rings um sein Volk, * von nun an und bis in Ewigkeit.\nDenn nicht lassen wird der Herr die Rute der Sünder auf dem Erbteil der Gerechten, * auf daß die Gerechten ihre Hände nicht ausstrecken zur Ungerechtigkeit.\nTu Gutes, o Herr, den Guten * und denen, die aufrichtigen Herzens sind.\nDie sich aber abwenden in Verstrickungen, wird der Herr zusammenführen mit denen, die unrecht tun. * Friede sei über Israel!\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. In circúitu pópuli sui * Dóminus, ex hoc nunc et usque in sǽculum.",
+        "de": "Ant. Rings um sein Volk * ist der Herr, jetzt und in ewige Zeiten."
+      }
+    },
+    {
+      "id": "week-feria3-vesper-ps4",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 125",
+        "de": "Psalm 125"
+      },
+      "text": {
+        "la": "In converténdo Dóminus captivitátem Sion: * facti sumus sicut consoláti:\nTunc replétum est gáudio os nostrum: * et lingua nostra exsultatióne.\nTunc dicent inter gentes: * Magnificávit Dóminus fácere cum eis.\nMagnificávit Dóminus fácere nobíscum: * facti sumus lætántes.\nConvérte, Dómine, captivitátem nostram, * sicut torrens in Austro.\nQui séminant in lácrimis, * in exsultatióne metent.\nEúntes ibant et flebant, * mitténtes sémina sua.\nVeniéntes autem vénient cum exsultatióne, * portántes manípulos suos.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Als der Herr die Gefangenschaft Sions wendete, * wurden wir wie Getröstete.\nDa war voll Freude unser Mund * und unsere Zunge voll Jubel.\nDa wird man sagen unter den Völkern: * „Großes hat der Herr an ihnen getan.“\nGroßes hat der Herr an uns getan, * wir sind froh geworden.\nWende, o Herr, unsere Gefangenschaft, * gleich dem Sturzbach im Süden.\nDie mit Tränen säen, * werden mit Jubel ernten.\nDie Gehenden gingen und weinten, * ihre Samen ausstreuend.\nDie Kommenden aber werden kommen mit Jubel, * tragend ihre Garben.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Magnificávit Dóminus * fácere nobíscum: facti sumus lætántes.",
+        "de": "Ant. Großes hast du, Herr, * getan uns, wir sind wirklich froh geworden."
+      }
+    },
+    {
+      "id": "week-feria3-vesper-ps5",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 126",
+        "de": "Psalm 126"
+      },
+      "text": {
+        "la": "Nisi Dóminus ædificáverit domum, * in vanum laboravérunt qui ædíficant eam.\nNisi Dóminus custodíerit civitátem, * frustra vígilat qui custódit eam.\nVanum est vobis ante lucem súrgere: * súrgite postquam sedéritis, qui manducátis panem dolóris.\nCum déderit diléctis suis somnum: * (3) ecce heréditas Dómini fílii: merces, fructus ventris.\nSicut sagíttæ in manu poténtis: * ita fílii excussórum.\nBeátus vir, qui implévit desidérium suum ex ipsis: * non confundétur cum loquétur inimícis suis in porta.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Wenn nicht der Herr das Haus baut, * dann mühen sich jene, die es bauen, umsonst.\nWenn nicht der Herr die Stadt bewacht, * dann wacht der, der sie bewacht, vergeblich.\nVergeblich ist es für euch, vor dem Tageslicht aufzustehen; * steht nur auf, nachdem ihr euch gesetzt habt, die ihr das Brot der Schmerzen eßt,\nwährend er seinen Lieblingen Schlaf gab. * (3) Siehe, das Erbe des Herrn sind Söhne, ein Lohn die Frucht des Leibes.\nWie Pfeile in der Hand eines Mächtigen, * so sind die Söhne der Vertriebenen.\nSelig der Mann, der sein Verlangen an ihnen erfüllt, * er wird nicht zuschanden werden, wenn er spricht mit seinen Feinden im Tor.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Dóminus ædíficet * nobis domum, et custódiat civitátem.",
+        "de": "Ant. Mag der Herr erbauen * uns das Haus und die Stadt beschützen."
+      }
+    },
+    {
+      "id": "week-feria3-vesper-nunc",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Canticum B. Mariæ Virginis (Magnificat)",
+        "de": "Lobgesang der seligen Jungfrau Maria"
+      },
+      "reference": {
+        "la": "Luc 1, 46-55",
+        "de": "Luc 1, 46-55"
+      },
+      "text": {
+        "la": "Magníficat * ánima mea Dóminum.\nEt exsultávit spíritus meus * in Deo, salutári meo.\nQuia respéxit humilitátem ancíllæ suæ: * ecce enim ex hoc beátam me dicent omnes generatiónes.\nQuia fecit mihi magna qui potens est: * et sanctum nomen ejus.\nEt misericórdia ejus a progénie in progénies * timéntibus eum.\nFecit poténtiam in bráchio suo: * dispérsit supérbos mente cordis sui.\nDepósuit poténtes de sede, * et exaltávit húmiles.\nEsuriéntes implévit bonis: * et dívites dimísit inánes.\nSuscépit Israël púerum suum, * recordátus misericórdiæ suæ.\nSicut locútus est ad patres nostros, * Ábraham, et sémini ejus in sǽcula.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Meine Seele preist die Größe des Herrn, * und mein Geist frohlockt in Gott, meinem Heile.\nDenn er hat auf die Niedrigkeit seiner Magd geschaut; * siehe, von nun an preisen mich selig alle Geschlechter.\nDenn Großes hat an mir getan, der mächtig ist, * und heilig ist sein Name.\nUnd sein Erbarmen währt von Geschlecht zu Geschlecht * für alle, die ihn fürchten.\nEr wirkt mit Macht in seinem Arm, * er zerstreut, die hoffärtig sind im Sinne ihres Herzens.\nEr stürzt die Mächtigen vom Thron * und erhöht die Niedrigen.\nDie Hungernden erfüllt er mit Gütern * und lässt die Reichen leer ausgehn.\nEr nimmt sich Israels an, seines Knechtes, * eingedenk seiner Barmherzigkeit,\nwie er geredet hat zu unsern Vätern, * zu Abraham und seinen Nachkommen auf ewig.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

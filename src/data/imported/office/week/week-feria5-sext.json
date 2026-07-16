@@ -1,0 +1,88 @@
+{
+  "id": "week-feria5-sext",
+  "form": "1962",
+  "hour": "sext",
+  "name": {
+    "la": "Ad Sextam",
+    "de": "Sext"
+  },
+  "day": {
+    "title": {
+      "la": "Feria V",
+      "de": "Donnerstag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-feria5-sext-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria5-sext-hymnus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Rector potens, verax Deus, qui témperas rerum vices, splendóre mane ínstruis, et ígnibus merídiem.\nExstíngue flammas lítium, aufer calórem nóxium, confer salútem córporum, verámque pacem córdium.",
+        "de": "Allmächtger Lenker, wahrer Gott, der du der Dinge Wechsel führst: du schmückst den Morgen mit dem Glanz und gibst dem Mittag Feuerglut.\nLösch aus die Flammen bösen Streits, nimm weg die Glut, die schädlich brennt, verleih dem Leibe Wohlergehn und wahren Frieden unserm Herz."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
+      }
+    },
+    {
+      "id": "week-feria5-sext-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 73 (1-9)",
+        "de": "Psalm 73 (1-9)"
+      },
+      "text": {
+        "la": "Ut quid, Deus, repulísti in finem: * irátus est furor tuus super oves páscuæ tuæ?\nMemor esto congregatiónis tuæ, * quam possedísti ab inítio.\nRedemísti virgam hereditátis tuæ: * mons Sion, in quo habitásti in eo.\nLeva manus tuas in supérbias eórum in finem: * quanta malignátus est inimícus in sancto!\nEt gloriáti sunt qui odérunt te: * in médio solemnitátis tuæ.\nPosuérunt signa sua, signa: * et non cognovérunt sicut in éxitu super summum.\nQuasi in silva lignórum secúribus excidérunt jánuas ejus in idípsum: * in secúri et áscia dejecérunt eam.\nIncendérunt igni Sanctuárium tuum: * in terra polluérunt tabernáculum nóminis tui.\nDixérunt in corde suo cognátio eórum simul: * Quiéscere faciámus omnes dies festos Dei a terra.\nSigna nostra non vídimus, jam non est prophéta: * et nos non cognóscet ámplius.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Warum, o Gott, hast Du uns für immer verstoßen, * ist Dein Grimm entbrannt gegen die Schafe Deiner Weide?\nDu hast sie erlöst als Stab Deines Erbes, * der Berg Sion ist es, auf dem Du Wohnung genommen hast.\nDu hast sie erlöst als Stab Deines Erbes, * der Berg Sion ist es, auf dem Du Wohnung genommen hast.\nErhebe Deine Hände gegen ihren Hochmut für immer; * wie viel Bosheit hat der Feind verübt im Heiligtum!\nund geprahlt haben, die Dich hassen * inmitten Deines Festes.\nSie stellten ihre Zeichen als Trophäen auf, * ohne Einsicht, wie im Ausgang, so auf der Zinne.\nWie in einem Wald von Bäumen haben sie mit Äxten seine Türen allesamt aufgebrochen, * mit Beil und Axt sie hinabgestürzt.\nmit Feuer entzündet haben sie Dein Heiligtum, * bis auf den Grund das Zelt Deines Namens geschändet.\nSie sprachen in ihrem Herzen, ihre ganze Brut zugleich: * Verstummen lassen wollen wir alle Festtage Gottes auf Erden.\nunsere Zeichen sehen wir nicht, kein Prophet ist mehr da, * und uns wird er nicht mehr kennen.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Memor esto * congregatiónis tuæ, Dómine, quam possedísti ab inítio.",
+        "de": "Ant. Memor esto * congregatiónis tuæ, Dómine, quam possedísti ab inítio."
+      }
+    },
+    {
+      "id": "week-feria5-sext-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 73 (10-17)",
+        "de": "Psalm 73 (10-17)"
+      },
+      "text": {
+        "la": "Úsquequo, Deus, improperábit inimícus: * irrítat adversárius nomen tuum in finem?\nUt quid avértis manum tuam, et déxteram tuam, * de médio sinu tuo in finem?\nDeus autem Rex noster ante sǽcula: * operátus est salútem in médio terræ.\nTu confirmásti in virtúte tua mare: * contribulásti cápita dracónum in aquis.\nTu confregísti cápita dracónis: * dedísti eum escam pópulis Æthíopum.\nTu dirupísti fontes, et torréntes: * tu siccásti flúvios Ethan.\nTuus est dies, et tua est nox: * tu fabricátus es auróram et solem.\nTu fecísti omnes términos terræ: * æstátem et ver tu plasmásti ea.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Wie lange noch, Gott, soll schmähen der Feind, * soll der Widersacher Deinen Namen reizen bis zum Äußersten?\nWarum ziehst Du Deine Hand zurück und Deine Rechte * von der Mitte Deiner Brust ganz und gar?\nGott aber ist unser König vor aller Zeit, * er hat Heil gewirkt inmitten der Erde.\nbefestigt hast Du in Deiner Kraft das Meer, * zermalmt hast Du die Köpfe der Drachen in den Wassern.\nzerschmettert hast Du die Köpfe des Drachens, * ihn den Stämmen der Äthiopier zum Fraß gegeben.\nAufgebrochen hast Du Quellen und Ströme, * vertrocknen ließest Du die Flüsse von Ethan.\nDein ist der Tag, und Dein ist die Nacht, * Du hast das Morgenrot und die Sonne geschaffen.\nDu schufst alle Enden der Erde, * Sommer und Frühling hast Du gebildet.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria5-sext-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 73 (18-23)",
+        "de": "Psalm 73 (18-23)"
+      },
+      "text": {
+        "la": "Memor esto hujus, inimícus improperávit Dómino: * et pópulus insípiens incitávit nomen tuum.\nNe tradas béstiis ánimas confiténtes tibi, * et ánimas páuperum tuórum ne obliviscáris in finem.\nRéspice in testaméntum tuum: * quia repléti sunt, qui obscuráti sunt terræ dómibus iniquitátum.\nNe avertátur húmilis factus confúsus: * pauper et inops laudábunt nomen tuum.\nExsúrge, Deus, júdica causam tuam: * memor esto improperiórum tuórum, eórum quæ ab insipiénte sunt tota die.\nNe obliviscáris voces inimicórum tuórum: * supérbia eórum, qui te odérunt, ascéndit semper.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Sei eingedenk dessen: Der Feind hat den Herrn geschmäht, * und ein törichtes Volk hat erzürnt Deinen Namen.\nÜbergib nicht den Bestien die Seelen derer, die Dich bekennen, * und die Seelen Deiner Armen vergiss nicht vollends.\nSchau auf Deinen Bund, * denn die verfinstert sind im Land sind reich an Häusern von Unrecht.\nDer Demütige soll nicht abgewiesen werden mit Schande, * der Arme und der Hilflose werden loben Deinen Namen.\nErhebe Dich, Gott, entscheide Deine Sache, * sei eingedenk der Schmähungen gegen Dich von denen, die von Torheit sind den ganzen Tag.\nVergiss nicht die Stimmen Deiner Feinde; * der Hochmut derer, die Dich hassen, steigt ständig empor.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

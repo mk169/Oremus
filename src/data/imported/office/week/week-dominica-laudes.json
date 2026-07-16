@@ -1,0 +1,128 @@
+{
+  "id": "week-dominica-laudes",
+  "form": "1962",
+  "hour": "laudes",
+  "name": {
+    "la": "Ad Laudes",
+    "de": "Laudes (Morgenlob)"
+  },
+  "day": {
+    "title": {
+      "la": "Dominica",
+      "de": "Sonntag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-dominica-laudes-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-dominica-laudes-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 92",
+        "de": "Psalm 92"
+      },
+      "text": {
+        "la": "Dóminus regnávit, decórem indútus est: * indútus est Dóminus fortitúdinem, et præcínxit se.\nÉtenim firmávit orbem terræ, * qui non commovébitur.\nParáta sedes tua ex tunc: * a sǽculo tu es.\nElevavérunt flúmina, Dómine: * elevavérunt flúmina vocem suam.\nElevavérunt flúmina fluctus suos, * (4a) a vócibus aquárum multárum.\nMirábiles elatiónes maris: * mirábilis in altis Dóminus.\nTestimónia tua credibília facta sunt nimis: * domum tuam decet sanctitúdo, Dómine, in longitúdinem diérum.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Der Herr hat das Königtum erlangt, er hat sich mit Schönheit bekleidet; * bekleidet hat sich der Herr mit macht, und er hat sich umgürtet.\nDenn er hat den Erdkreis befestigt, * daß er nicht wanke.\nBereitet ist Dein Thron seit jeher, * seit Ewigkeit bist Du.\nEs erhoben die Ströme, o Herr, * es erhoben die Ströme ihr brausen.\nEs erhoben die Ströme ihre Fluten * (4a) beim Tosen vieler Wasser.\nWunderbar sind die Brandungen des Meeres, * wunderbar ist in den Höhen der Herr.\nDeine Zeugnisse sind überaus glaubwürdig, * Deinem Haus gebührt Heiligkeit, o Herr, für die Länge der Tage.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Allelúja, * Dóminus regnávit, decórem índuit, allelúja, allelúja.",
+        "de": "Ant. Alleluja, * Du, Herr, bist König, bist mit Herrlichkeit umkleidet."
+      }
+    },
+    {
+      "id": "week-dominica-laudes-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 99",
+        "de": "Psalm 99"
+      },
+      "text": {
+        "la": "Jubiláte Deo, omnis terra: * servíte Dómino in lætítia.\nIntroíte in conspéctu ejus, * in exsultatióne.\nScitóte quóniam Dóminus ipse est Deus: * ipse fecit nos, et non ipsi nos.\nPópulus ejus, et oves páscuæ ejus: ‡ (4a) introíte portas ejus in confessióne, * átria ejus in hymnis: confitémini illi.\nLaudáte nomen ejus: (5) quóniam suávis est Dóminus, † in ætérnum misericórdia ejus, * et usque in generatiónem et generatiónem véritas ejus.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Jubelt Gott, alle Lande, * dient dem Herrn in Freude.\nTretet ein vor sein Angesicht * mit Jubel.\nErkennt, daß der Herr selbst Gott ist; * er hat uns gemacht und nicht wir uns selbst.\nSein Volk und die Schafe seiner Weide, ‡ (4a) tretet ein in seine Tore mit Lobpreis, * in seine Vorhöfe mit Hymnen, preiset ihn.\nLobt seinen Namen, (5) denn gütig ist der Herr, † auf ewig währt seine Barmherzigkeit * und von Geschlecht zu Geschlecht seine Wahrheit.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Jubiláte * Deo omnis terra, allelúja.",
+        "de": "Ant. Nun jubelt * Gott dem Herrn hier, alle Landesteile, alleluja."
+      }
+    },
+    {
+      "id": "week-dominica-laudes-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 62",
+        "de": "Psalm 62"
+      },
+      "text": {
+        "la": "Deus, Deus meus, * ad te de luce vígilo.\nSitívit in te ánima mea, * quam multiplíciter tibi caro mea.\nIn terra desérta, et ínvia, et inaquósa: ‡ sic in sancto appárui tibi, * ut vidérem virtútem tuam, et glóriam tuam.\nQuóniam mélior est misericórdia tua super vitas: * lábia mea laudábunt te.\nSic benedícam te in vita mea: * et in nómine tuo levábo manus meas.\nSicut ádipe et pinguédine repleátur ánima mea: * et lábiis exsultatiónis laudábit os meum.\nSi memor fui tui super stratum meum, † in matutínis meditábor in te: * (8a) quia fuísti adjútor meus.\nEt in velaménto alárum tuárum exsultábo, † (9) adhǽsit ánima mea post te: * me suscépit déxtera tua.\nIpsi vero in vanum quæsiérunt ánimam meam, † introíbunt in inferióra terræ: * (11) tradéntur in manus gládii, partes vúlpium erunt.\nRex vero lætábitur in Deo, † laudabúntur omnes qui jurant in eo: * quia obstrúctum est os loquéntium iníqua.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Gott, mein Gott, * zu Dir hin wache ich mit dem Morgenlicht.\nEs dürstet nach Dir meine Seele, * gar sehr nach Dir mein Fleisch\nim verlassenen, unwegsamen und wasserlosen Land. ‡ So erschien ich vor Dir im Heiligtum, * um Deine Macht und Deine Herrlichkeit zu schauen,\ndenn Deine Barmherzigkeit ist besser als das Leben; * meine Lippen werden Dich loben.\nSo will ich Dich preisen in meinem Leben, * und in Deinem Namen erhebe ich meine Hände.\nWie von Mark und Fett werde satt meine Seele, * und mit Lippen des Jubels wird mein Mund lobsingen.\nGedenke ich Deiner auf meinem Lager, † so sinne ich noch am Morgen über Dich, * (8a) denn Du warst mein Helfer,\nund im Schutz Deiner Flügel will ich jubeln. † (9) Meine Seele hängt an Dir, * Deine Rechte nahm mich auf.\nJene aber suchten vergeblich meine Seele, † sie werden hinabfahren in die Tiefen der Erde, * (11) sie werden der Gewalt des Schwertes preisgegeben, eine Beute der Füchse werden sie sein.\nDer König aber wird sich freuen in Gott, † gepriesen ein jeder, der bei ihm schwört, * denn verstopft wurde der Mund derer, die unrecht reden.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Benedícam te * in vita mea, Dómine: et in nómine tuo levábo manus meas, allelúja.",
+        "de": "Ant. Ich will dich preisen * mein Leben lang, o Herr, zum Preise deiner Majestät die Hände falten, alleluja."
+      }
+    },
+    {
+      "id": "week-dominica-laudes-ps4",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 210",
+        "de": "Canticum"
+      },
+      "text": {
+        "la": "Benedícite, ómnia ópera Dómini, Dómino: * laudáte et superexaltáte eum in sǽcula.\nBenedícite, Ángeli Dómini, Dómino: * benedícite, cæli, Dómino.\nBenedícite, aquæ omnes, quæ super cælos sunt, Dómino: * benedícite, omnes virtútes Dómini, Dómino.\nBenedícite, sol et luna, Dómino: * benedícite, stellæ cæli, Dómino.\nBenedícite, omnis imber et ros, Dómino: * benedícite, omnes spíritus Dei, Dómino.\nBenedícite, ignis et æstus, Dómino: * benedícite, frigus et æstus, Dómino.\nBenedícite, rores et pruína, Dómino: * benedícite, gelu et frigus, Dómino.\nBenedícite, glácies et nives, Dómino: * benedícite, noctes et dies, Dómino.\nBenedícite, lux et ténebræ, Dómino: * benedícite, fúlgura et nubes, Dómino.\nBenedícat terra Dóminum: * laudet et superexáltet eum in sǽcula.\nBenedícite, montes et colles, Dómino: * benedícite, univérsa germinántia in terra, Dómino.\nBenedícite, fontes, Dómino: * benedícite, mária et flúmina, Dómino.\nBenedícite, cete, et ómnia, quæ movéntur in aquis, Dómino: * benedícite, omnes vólucres cæli, Dómino.\nBenedícite, omnes béstiæ et pécora, Dómino: * benedícite, fílii hóminum, Dómino.\nBenedícat Israël Dóminum: * laudet et superexáltet eum in sǽcula.\nBenedícite, sacerdótes Dómini, Dómino: * benedícite, servi Dómini, Dómino.\nBenedícite, spíritus, et ánimæ justórum, Dómino: * benedícite, sancti, et húmiles corde, Dómino.\nBenedícite, Ananía, Azaría, Mísaël, Dómino: * laudáte et superexaltáte eum in sǽcula.\n(Fit reverentia:) Benedicámus Patrem et Fílium cum Sancto Spíritu: * laudémus et superexaltémus eum in sǽcula.\nBenedíctus es, Dómine, in firmaménto cæli: * et laudábilis, et gloriósus, et superexaltátus in sǽcula.",
+        "de": "Lobet den Herrn, ihr alle Geschöpfe des Herrn; * ja lobt und erhebet in alle Ewigkeit ihn.\nLobet den Herrn, ihr sämtlichen Engel des Herrn; * lobe, du Himmel, den Herrn.\nLobet, ihr Wassermassen, die oben am Himmel ihr schwebet, den Herrn; * o lobet, ihr alle vom Herrn gebauten Fundamente der Welten, den Herrn.\nLobe, du Mond und Sonne, den Herrn; * o lobet, ihr Sterne am Himmel, den Herrn.\nLobe, du sämtlicher Regen und Nebel den Herrn; * o lobet auch, sämtliche Winde Gottes, den Herrn.\nLobe, du Feuer und Hitze, den Herrn; * o lobe, du Winter und Sommer, den Herrn.\nLobe, du Reif und ihr Tautropfen, den Herrn; * o lobe, du Frost und Kälte, den Herrn.\nLobe, du Eis und ihr Schneemassen, den Herrn; * o lobet, ihr Nächte und Tage, den Herrn.\nLobe, du Licht und Dunkel, den Herrn; * o lobet, ihr Blitze und Wolken den Herrn.\nO lobe, du Erde, den Herrn; * ja, lob' und erhebe in Ewigkeit ihn.\nLobet, ihr Berge und ihr Fluren, den Herrn; * o lobet, all ihr keimenden Wesen der Erde, den Herrn.\nLobet, ihr Quellen den Herrn; * o lobet, ihr Meere und Flüsse, den Herrn.\nLobet, ihr Haie und alles, was sich im Wasser beweget, den Herrn; * o lobet, ihr sämtlichen Vögel des Himmels, den Herrn.\nLobe, du Wild und alle ihr zahmen Tiere, den Herrn; * o lobet auch ihr, o Menschenkinder, den Herrn.\nGanz Israel lobe den Herrn; * es lobe und erhebe in Ewigkeit ihn.\nLobet den Herrn, ihr Priester des Herrn; * o lobet den Herrn, ihr Diener des Herrn.\nLobet, ihr Herzen und Seelen der Kinder Gottes, den Herrn; * o lobet, dem Herrn Geweihte und ihm von Herzen Ergebene, alle den Herrn.\nAnanias, Asarias und Misael, lobet den Herrn; * o lobt und erhebet in Ewigkeit ihn.\n(Verbeugung) Lasst loben uns den Vater und den Sohn und auch den Heiligen Geist: * lasst loben uns und über alles preisen ihn in Ewigkeit.\nGelobt seist du auf deinem Himmelsthron, * dir kommt ja Lob und Preis und Ehre zu in Ewigkeit."
+      },
+      "rubric": {
+        "la": "Ant. Tres púeri * jussu regis in fornácem missi sunt, non timéntes flammam ignis, dicéntes: Benedíctus Deus, allelúja.",
+        "de": "Ant. Die drei Jünglinge * sind auf Befehl des Königs in den Feuerofen geworfen worden, ohne die Feuerflammen zu fürchten, und sie sangen: Gepriesen sei der Herr, alleluja."
+      }
+    },
+    {
+      "id": "week-dominica-laudes-ps5",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 148",
+        "de": "Psalm 148"
+      },
+      "text": {
+        "la": "Laudáte Dóminum de cælis: * laudáte eum in excélsis.\nLaudáte eum, omnes Ángeli ejus: * laudáte eum, omnes virtútes ejus.\nLaudáte eum, sol et luna: * laudáte eum, omnes stellæ et lumen.\nLaudáte eum, cæli cælórum: * et aquæ omnes, quæ super cælos sunt, laudent nomen Dómini.\nQuia ipse dixit, et facta sunt: * ipse mandávit, et creáta sunt.\nStátuit ea in ætérnum, et in sǽculum sǽculi: * præcéptum pósuit, et non præteríbit.\nLaudáte Dóminum de terra, * dracónes, et omnes abýssi.\nIgnis, grando, nix, glácies, spíritus procellárum: * quæ fáciunt verbum ejus:\nMontes, et omnes colles: * ligna fructífera, et omnes cedri.\nBéstiæ, et univérsa pécora: * serpéntes, et vólucres pennátæ:\nReges terræ, et omnes pópuli: * príncipes, et omnes júdices terræ.\nJúvenes, et vírgines: † senes cum junióribus laudent nomen Dómini: * (13) quia exaltátum est nomen ejus solíus.\nConféssio ejus super cælum et terram: * et exaltávit cornu pópuli sui.\nHymnus ómnibus sanctis ejus: * fíliis Israël, pópulo appropinquánti sibi.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Lobet den Herrn vom Himmel her, * lobt ihn in den Höhen!\nLobt ihn, all seine Engel, * lobt ihn, all seine Heerscharen!\nLobt ihn, Sonne und Mond, * lobt ihn, alle Sterne und Licht!\nLobt ihn, ihr Himmel der Himmel; * und alle Wasser, die über den Himmeln sind, sollen loben den Namen des Herrn,\ndenn er sprach, und sie sind geworden, * er befahl, und sie wurden geschaffen.\nEr hat sie hingestellt auf immer und ewig, * ein Gebot hat er gesetzt, und es wird nicht vergehen.\nLobet den Herrn von der Erde her, * ihr Drachen und alle Abgründe!\nFeuer, Hagel, Schnee, Eis, Sturmwind, * die sein Wort vollziehen,\nihr Berge und alle Hügel, * fruchtbringende Bäume und alle Zedern,\nihr wilden Tiere und alles Vieh, * ihr Kriechtiere und gefiederte Vögel,\nihr Könige der Erde und alle Völker, * ihr Herrscher und alle Richter der Erde,\nihr Jünglinge und Jungfrauen, † die Alten mit den Jüngeren, sie sollen loben den Namen des Herrn, * (13) denn hoch erhaben ist sein Name allein!\nSein Bekenntnis überragt Himmel und Erde, * und erhöht hat er das Horn seines Volkes.\nEin Loblied ziemt all seinen Heiligen, * den Söhnen Israels, dem Volk, das sich ihm naht.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Allelúja, * laudáte Dóminum de cælis, allelúja, allelúja.",
+        "de": "Ant. Alleluja, * lobt den Herrn, ihr in dem Himmel, alleluja, alleluja."
+      }
+    },
+    {
+      "id": "week-dominica-laudes-benedictus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Canticum Zachariæ (Benedictus)",
+        "de": "Lobgesang des Zacharias"
+      },
+      "reference": {
+        "la": "Luc 1, 68-79",
+        "de": "Luc 1, 68-79"
+      },
+      "text": {
+        "la": "Benedíctus Dóminus, Deus Israël: * quia visitávit, et fecit redemptiónem plebis suæ:\nEt eréxit cornu salútis nobis: * in domo David, púeri sui.\nSicut locútus est per os sanctórum, * qui a sǽculo sunt, prophetárum ejus:\nSalútem ex inimícis nostris, * et de manu ómnium, qui odérunt nos:\nAd faciéndam misericórdiam cum pátribus nostris: * et memorári testaménti sui sancti:\nJusjurándum, quod jurávit ad Ábraham patrem nostrum, * datúrum se nobis:\nUt sine timóre, de manu inimicórum nostrórum liberáti, * serviámus illi.\nIn sanctitáte, et justítia coram ipso, * ómnibus diébus nostris.\nEt tu, puer, Prophéta Altíssimi vocáberis: * præíbis enim ante fáciem Dómini paráre vias ejus:\nAd dandam sciéntiam salútis plebi ejus: * in remissiónem peccatórum eórum:\nPer víscera misericórdiæ Dei nostri: * in quibus visitávit nos, óriens ex alto:\nIllumináre his, qui in ténebris, et in umbra mortis sedent: * ad dirigéndos pedes nostros in viam pacis.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Gepriesen sei der Herr, der Gott Israels; * denn er hat sein Volk besucht und ihm Erlösung geschaffen;\nund hat uns aufgerichtet ein Horn des Heiles * im Hause Davids, seines Knechtes:\nwie er verheißen hat durch den Mund seiner heiligen Propheten, * die von alters her gewesen:\nErrettung von unsern Feinden * und aus der Hand aller, die uns hassen;\nzu üben Barmherzigkeit an unsern Vätern * und zu gedenken seines heiligen Bundes,\ndes Eides, den er unserm Vater Abraham geschworen, * uns zu verleihen,\ndass wir, befreit aus der Hand unsrer Feinde, ohne Furcht ihm dienen \nin Heiligkeit und Gerechtigkeit vor ihm * alle unsre Tage.\nUnd du, Kind, wirst Prophet des Höchsten heißen; * denn du wirst vor dem Herrn hergehen, ihm den Weg zu bereiten,\nseinem Volke Kunde des Heiles zu geben * zur Vergebung ihrer Sünden,\ndurch die herzliche Barmherzigkeit unsres Gottes, * mit der uns besucht hat der Aufgang aus der Höhe,\nzu erleuchten, die in Finsternis und Todesschatten sitzen, * zu lenken unsre Schritte auf den Weg des Friedens.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

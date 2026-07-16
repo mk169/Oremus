@@ -9,6 +9,7 @@ import { vesper1962, vesperNeu } from './office/vesper'
 import { komplet1962, kompletNeu } from './office/komplet'
 import importedMassIndex from './imported/mass/index.json'
 import importedOfficeIndex from './imported/office/index.json'
+import weekIndexJson from './imported/office/week/week-index.json'
 import type { Hour, LiturgicalForm, MassFormulary } from './types'
 
 export const massByForm: Record<LiturgicalForm, MassFormulary> = {
@@ -43,6 +44,28 @@ export const importedOfficeById: Record<string, MassFormulary> = Object.fromEntr
   Object.values(importedOfficeModules).map((m) => [m.default.id, m.default]),
 )
 export const importedOfficeList = importedOfficeIndex as { id: string; titleLa: string; titleDe: string; color: string }[]
+
+// Ferialer Wochenpsalter (Psalterium per hebdomadam, 1962), Tag für Tag aus dem
+// Datenbestand von Divinum Officium zusammengesetzt – mit vollem Psalmtext
+// (Latein/Deutsch), Antiphonen und Cantica. Siehe scripts/fetch-do-psalter.mjs.
+const weekOfficeModules = import.meta.glob<{ default: Hour }>(
+  './imported/office/week/week-*-*.json',
+  { eager: true },
+)
+export const weekOfficeById: Record<string, Hour> = Object.fromEntries(
+  Object.values(weekOfficeModules).map((m) => [m.default.id, m.default]),
+)
+
+/** Ein Wochentag mit seinen Horen (Reihenfolge des Tagesablaufs). */
+export interface WeekDayEntry {
+  id: string
+  la: string
+  de: string
+  it: string
+  n: number
+  hours: { id: string; hour: string; la: string; de: string }[]
+}
+export const weekOfficeDays = weekIndexJson as WeekDayEntry[]
 
 // Horen in der natürlichen Tagesordnung (Nachtwache/Morgen … Abend/Nacht).
 // 1962: Matutin, Laudes, Prim, Terz, Sext, Non, Vesper, Komplet.

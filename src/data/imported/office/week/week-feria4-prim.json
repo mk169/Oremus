@@ -1,0 +1,88 @@
+{
+  "id": "week-feria4-prim",
+  "form": "1962",
+  "hour": "prim",
+  "name": {
+    "la": "Ad Primam",
+    "de": "Prim"
+  },
+  "day": {
+    "title": {
+      "la": "Feria IV",
+      "de": "Mittwoch"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-feria4-prim-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria4-prim-hymnus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Jam lucis orto sídere, Deum precémur súpplices, ut in diúrnis áctibus nos servet a nocéntibus.\nLinguam refrénans témperet, ne litis horror ínsonet: visum fovéndo cóntegat, ne vanitátes háuriat.",
+        "de": "Da nun das Licht am Himmel steigt, flehn wir zu Gott in Demut still, dass er in allem, was wir tun, uns vor dem Schaden schützen will.\nEr zähme, zügle unsre Zung, dass nicht der Streites Lärm erschallt; er hüte gnädig unsern Blick vor eitler Dinge Trug und Bild."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
+      }
+    },
+    {
+      "id": "week-feria4-prim-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 25",
+        "de": "Psalm 25"
+      },
+      "text": {
+        "la": "Júdica me, Dómine, quóniam ego in innocéntia mea ingréssus sum: * et in Dómino sperans non infirmábor.\nProba me, Dómine, et tenta me: * ure renes meos et cor meum.\nQuóniam misericórdia tua ante óculos meos est: * et complácui in veritáte tua.\nNon sedi cum concílio vanitátis: * et cum iníqua geréntibus non introíbo.\nOdívi ecclésiam malignántium: * et cum ímpiis non sedébo.\nLavábo inter innocéntes manus meas: * et circúmdabo altáre tuum, Dómine:\nUt áudiam vocem laudis, * et enárrem univérsa mirabília tua.\nDómine, diléxi decórem domus tuæ, * et locum habitatiónis glóriæ tuæ.\nNe perdas cum ímpiis, Deus, ánimam meam, * et cum viris sánguinum vitam meam:\nIn quorum mánibus iniquitátes sunt: * déxtera eórum repléta est munéribus.\nEgo autem in innocéntia mea ingréssus sum: * rédime me, et miserére mei.\nPes meus stetit in dirécto: * in ecclésiis benedícam te, Dómine.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "richte mich, Herr, denn in meiner unschuld bin ich gewandelt, * und weil ich auf den Herrn hoffe, werde ich nicht schwach.\nPrüfe mich, Herr, und erprobe mich, * durchglühe meine nieren und mein Herz.\nDenn Deine barmherzigkeit steht mir vor Augen, * und an Deiner Wahrheit habe ich Wohlgefallen.\nich saß nicht im rat der nichtigkeit * und werde bei missetätern nicht eintreten.\nich hasse die Versammlung der bösen, * und bei den Gott losen werde ich nicht sitzen.\nunter unschuldigen will ich meine Hände waschen * und Deinen Altar umschreiten, o Herr,\num die Stimme des lobes zu hören * und all Deine Wunder zu erzählen.\nich liebe, Herr, die Schönheit Deines Hauses * und den Wohnort Deiner Herrlichkeit.\nVerdirb nicht mit den Frevlern, Gott, meine Seele * und mit männern voller blutschuld mein leben,\nin deren Händen unrecht ist, * ihre rechte aber ist voll von Geschenken.\nich aber bin in meiner unschuld gewandelt, * erlöse mich und erbarme Dich meiner.\nmein Fuß stand auf geradem Weg, * in den Versammlungen will ich Dich loben, Herr.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Misericórdia tua, * Dómine, ante óculos meos: et complácui in veritáte tua.",
+        "de": "Ant. Dein Erbarmen * steht, o Herr, stets vor meinen Augen, und glücklich fühl ich mich in deinem heiligen Willen."
+      }
+    },
+    {
+      "id": "week-feria4-prim-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 51",
+        "de": "Psalm 51"
+      },
+      "text": {
+        "la": "Quid gloriáris in malítia, * qui potens es in iniquitáte?\nTota die injustítiam cogitávit lingua tua: * sicut novácula acúta fecísti dolum.\nDilexísti malítiam super benignitátem: * iniquitátem magis quam loqui æquitátem.\nDilexísti ómnia verba præcipitatiónis, * lingua dolósa.\nProptérea Deus déstruet te in finem, * evéllet te, et emigrábit te de tabernáculo tuo: et radícem tuam de terra vivéntium.\nVidébunt justi, et timébunt, et super eum ridébunt, et dicent: * Ecce homo, qui non pósuit Deum adjutórem suum:\nSed sperávit in multitúdine divitiárum suárum: * et præváluit in vanitáte sua.\nEgo autem, sicut olíva fructífera in domo Dei, * sperávi in misericórdia Dei in ætérnum: et in sǽculum sǽculi.\nConfitébor tibi in sǽculum, quia fecísti: * et exspectábo nomen tuum, quóniam bonum est in conspéctu sanctórum tuórum.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Was rühmst du dich der Bosheit, * der du mächtig bist in Ungerechtigkeit?\nDen ganzen Tag ersann deine Zunge unrecht, * wie ein scharfes Schermesser übtest du Trug.\nDu liebtest Bosheit mehr als Güte, * das Unrecht mehr als Recht zu reden.\nDu liebtest alle Worte, die ins Verderben stürzen, * du trügerische Zunge.\nDeshalb wird Gott dich gänzlich vernichten, * er wird dich ausreißen und dich vertreiben aus deinem Zelt und deine Wurzel aus dem Land der Lebenden.\nDie Gerechten werden es sehen und sich fürchten, und sie werden ihn verlachen und sagen: * Seht, das ist der Mensch, der Gott nicht zu seinem Helfer gemacht,\nsondern der seine Hoffnung auf die Menge seiner Reichtümer gesetzt * und sich stark dünkte in seiner Nichtigkeit.\nich aber bin wie ein fruchttragender Ölbaum im Haus Gottes, * ich habe meine Hoffnung gesetzt auf Gottes Barmherzigkeit in Ewigkeit und von Ewigkeit zu Ewigkeit.\nich will Dich preisen immerdar, denn Du hast es vollbracht, * und ich werde auf Deinen Namen harren, denn gut ist er im Angesicht Deiner Heiligen.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria4-prim-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 52",
+        "de": "Psalm 52"
+      },
+      "text": {
+        "la": "Dixit insípiens in corde suo: * Non est Deus.\nCorrúpti sunt, et abominábiles facti sunt in iniquitátibus: * non est qui fáciat bonum.\nDeus de cælo prospéxit super fílios hóminum: * ut vídeat si est intéllegens, aut requírens Deum.\nOmnes declinavérunt, simul inútiles facti sunt: * non est qui fáciat bonum, non est usque ad unum.\nNonne scient omnes qui operántur iniquitátem, * qui dévorant plebem meam ut cibum panis?\nDeum non invocavérunt: * illic trepidavérunt timóre, ubi non erat timor.\nQuóniam Deus dissipávit ossa eórum qui homínibus placent: * confúsi sunt, quóniam Deus sprevit eos.\nQuis dabit ex Sion salutáre Israël? * cum convérterit Deus captivitátem plebis suæ, exsultábit Jacob, et lætábitur Israël.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Es sprach der Tor in seinem Herzen: * Es gibt keinen Gott.\nVerdorben sind sie und abscheulich geworden in ihren Sünden; * keiner ist, der Gutes tut.\nGott schaut vom Himmel auf die menschenkinder, * um zu sehen, ob es einen gibt, der Einsicht hat, oder einen, der Gott sucht.\nAlle sind abgewichen, sind allesamt unnütz geworden, * keiner ist, der Gutes tut, auch nicht ein einziger.\nWerden nicht alle es einsehen, die unrecht tun, * die mein Volk verschlingen wie einen bissen brot?\ndenn Gott zerstreut die Gebeine derer, die menschen zu gefallen suchen; * sie werden zuschanden, denn Gott hat sie verworfen.\ndenn Gott zerstreut die Gebeine derer, die menschen zu gefallen suchen; * sie werden zuschanden, denn Gott hat sie verworfen.\nWer wird von Sion Heil bringen für israel? * Wenn Gott die Gefangenschaft seines Volkes wendet, wird Jakob jubeln und israel sich freuen.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

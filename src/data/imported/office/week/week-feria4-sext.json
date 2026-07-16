@@ -1,0 +1,88 @@
+{
+  "id": "week-feria4-sext",
+  "form": "1962",
+  "hour": "sext",
+  "name": {
+    "la": "Ad Sextam",
+    "de": "Sext"
+  },
+  "day": {
+    "title": {
+      "la": "Feria IV",
+      "de": "Mittwoch"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-feria4-sext-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria4-sext-hymnus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Rector potens, verax Deus, qui témperas rerum vices, splendóre mane ínstruis, et ígnibus merídiem.\nExstíngue flammas lítium, aufer calórem nóxium, confer salútem córporum, verámque pacem córdium.",
+        "de": "Allmächtger Lenker, wahrer Gott, der du der Dinge Wechsel führst: du schmückst den Morgen mit dem Glanz und gibst dem Mittag Feuerglut.\nLösch aus die Flammen bösen Streits, nimm weg die Glut, die schädlich brennt, verleih dem Leibe Wohlergehn und wahren Frieden unserm Herz."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
+      }
+    },
+    {
+      "id": "week-feria4-sext-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 55",
+        "de": "Psalm 55"
+      },
+      "text": {
+        "la": "Miserére mei, Deus, quóniam conculcávit me homo: * tota die impúgnans tribulávit me.\nConculcavérunt me inimíci mei tota die: * quóniam multi bellántes advérsum me.\nAb altitúdine diéi timébo: * ego vero in te sperábo.\nIn Deo laudábo sermónes meos, in Deo sperávi: * non timébo quid fáciat mihi caro.\nTota die verba mea exsecrabántur: * advérsum me omnes cogitatiónes eórum in malum.\nInhabitábunt et abscóndent: * ipsi calcáneum meum observábunt.\nSicut sustinuérunt ánimam meam, pro níhilo salvos fácies illos: * in ira pópulos confrínges.\nDeus, vitam meam annuntiávi tibi: * posuísti lácrimas meas in conspéctu tuo.\nSicut et in promissióne tua: * tunc converténtur inimíci mei retrórsum:\nIn quacúmque die invocávero te: * ecce, cognóvi, quóniam Deus meus es.\nIn Deo laudábo verbum, in Dómino laudábo sermónem: * in Deo sperávi, non timébo quid fáciat mihi homo.\nIn me sunt, Deus, vota tua, * quæ reddam, laudatiónes tibi.\nQuóniam eripuísti ánimam meam de morte, et pedes meos de lapsu: * ut pláceam coram Deo in lúmine vivéntium.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Erbarme Dich meiner, o Gott, denn ein mensch trat mich nieder, * den ganzen Tag bekämpfte und bedrängte er mich.\nmeine Feinde traten mich nieder den ganzen Tag, * denn viele sind es, die Krieg führen gegen mich.\nVor der Höhe des Tages fürchte ich mich, * ich aber will auf Dich meine Hoffnung setzen.\nin Gott will ich rühmen meine rede, auf Gott habe ich meine Hoffnung gesetzt, * ich werde nicht fürchten, was das Fleisch mir antut.\nDen ganzen Tag verwünschten sie meine Worte, * gegen mich sind all ihre Gedanken zum bösen.\nSie werden lagern und sich verbergen, * sie selber werden auf meine Ferse lauern.\nWie sie nach meinem leben trachteten, wirst Du sie keinesfalls retten, * im zorn wirst Du Völker zerbrechen.\nwie es auch hieß in Deiner Verheißung. * Dann werden rückwärts weichen meine Feinde,\nwie es auch hieß in Deiner Verheißung. * Dann werden rückwärts weichen meine Feinde,\nan welchem Tag auch immer ich zu Dir rufe. * Siehe, ich habe erkannt, dass Du mein Gott bist.\nin Gott will ich rühmen sein Wort, im Herrn will ich rühmen seine rede, * auf Gott habe ich meine Hoffnung gesetzt, ich will nicht fürchten, was ein mensch mir antut.\nin mir, o Gott, sind Deine Gelübde, * die ich erfüllen will zu Deinem lob,\ndenn Du hast meine Seele dem Tod entrissen und meine Füße dem Fall, * damit ich Wohlgefallen finde vor Gott im licht der lebenden.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. In Deo sperávi * non timébo quid fáciat mihi homo.",
+        "de": "Ant. Auf Gott vertraue ich; * ich fürchte nichts, was mir die Feinde tun können."
+      }
+    },
+    {
+      "id": "week-feria4-sext-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 56",
+        "de": "Psalm 56"
+      },
+      "text": {
+        "la": "Miserére mei, Deus, miserére mei: * quóniam in te confídit ánima mea.\nEt in umbra alárum tuárum sperábo, * donec tránseat iníquitas.\nClamábo ad Deum altíssimum: * Deum qui benefécit mihi.\nMisit de cælo, et liberávit me: * dedit in oppróbrium conculcántes me.\nMisit Deus misericórdiam suam, et veritátem suam, * et erípuit ánimam meam de médio catulórum leónum: dormívi conturbátus.\nFílii hóminum dentes eórum arma et sagíttæ: * et lingua eórum gládius acútus.\nExaltáre super cælos, Deus, * et in omnem terram glória tua.\nLáqueum paravérunt pédibus meis: * et incurvavérunt ánimam meam.\nFodérunt ante fáciem meam fóveam: * et incidérunt in eam.\nParátum cor meum, Deus, parátum cor meum: * cantábo, et psalmum dicam.\nExsúrge, glória mea, exsúrge, psaltérium et cíthara: * exsúrgam dilúculo.\nConfitébor tibi in pópulis, Dómine: * et psalmum dicam tibi in géntibus:\nQuóniam magnificáta est usque ad cælos misericórdia tua, * et usque ad nubes véritas tua.\nExaltáre super cælos, Deus: * et super omnem terram glória tua.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "und im Schatten Deiner Flügel will ich hoffen, * bis das unrecht vorüber geht.\nund im Schatten Deiner Flügel will ich hoffen, * bis das unrecht vorüber geht.\nSchreien will ich zu Gott, dem Allerhöchsten, * zu Gott, der mir Gutes getan hat.\nGott sandte seine barmherzigkeit und seine Wahrheit, * und er riss heraus meine Seele aus der mitte junger löwen; ich schlief voll unruhe.\nGott sandte seine barmherzigkeit und seine Wahrheit, * und er riss heraus meine Seele aus der mitte junger löwen; ich schlief voll unruhe.\nDer menschenkinder zähne sind Waffen und Pfeile * und ihre zunge ein scharfes Schwert.\nErhebe Dich über die Himmel, o Gott, * und über die ganze Erde Deine Herrlichkeit.\nSie gruben vor meinem Angesicht eine Grube * und fielen in sie hinein.\nSie gruben vor meinem Angesicht eine Grube * und fielen in sie hinein.\nbereit ist mein Herz, o Gott, bereit ist mein Herz, * singen will ich und einen Psalm sprechen.\nSteh auf, mein ruhm, steht auf, Psalter und zither, * in der morgendämmerung will ich mich erheben.\nPreisen will ich Dich bei den Völkern, o Herr, * und einen Psalm Dir singen unter den Heiden,\ndenn groß bis zum Himmel ist Deine barmherzigkeit * und bis zu den Wolken Deine Wahrheit.\nErhebe Dich über die Himmel, o Gott, * und über die ganze Erde Deine Herrlichkeit.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria4-sext-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 57",
+        "de": "Psalm 57"
+      },
+      "text": {
+        "la": "Si vere útique justítiam loquímini: * recta judicáte, fílii hóminum.\nÉtenim in corde iniquitátes operámini: * in terra injustítias manus vestræ concínnant.\nAlienáti sunt peccatóres a vulva, erravérunt ab útero: * locúti sunt falsa.\nFuror illis secúndum similitúdinem serpéntis: * sicut áspidis surdæ, et obturántis aures suas,\nQuæ non exáudiet vocem incantántium: * et venéfici incantántis sapiénter.\nDeus cónteret dentes eórum in ore ipsórum: * molas leónum confrínget Dóminus.\nAd níhilum devénient tamquam aqua decúrrens: * inténdit arcum suum donec infirméntur.\nSicut cera, quæ fluit, auferéntur: * supercécidit ignis, et non vidérunt solem.\nPriúsquam intellégerent spinæ vestræ rhamnum: * sicut vivéntes, sic in ira absórbet eos.\nLætábitur justus cum víderit vindíctam: * manus suas lavábit in sánguine peccatóris.\nEt dicet homo: Si útique est fructus justo: * útique est Deus júdicans eos in terra.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Wenn ihr denn wahrhaft Gerechtigkeit sprecht, * so urteilt was recht ist, ihr menschenkinder.\nDoch im Herzen verübt ihr ungerechtigkeit, * eure Hände stiften unrecht im land.\nAbtrünnig sind die Sünder vom mutterschoß an, abgeirrt vom mutterleib an, * sie redeten lüge.\nihr giftiger Grimm gleicht einer Schlange, * wie der einer tauben natter, die ihre Ohren verstopft,\ndie nicht hören will die Stimme der beschwörer * und des zauberers, der weise seine Sprüche sagt.\nGott wird ihre zähne in ihrem maul zerschmettern, * die backenzähne der löwen wird zerbrechen der Herr.\nSie werden zu nichts, wie Wasser, das zerrinnt, * er spannt seinen bogen, bis sie kraftlos hinsinken.\nWie Wachs, das zerfließt, werden sie dahinschwinden, * Feuer fiel auf sie herab, und nicht sahen sie die Sonne.\nbevor eure Dornen den Strauch erkennen, * wird er sie wie lebendig im zorn verschlingen.\nFreuen wird sich der Gerechte, wenn er die Strafe sieht, * seine Hände wird er waschen im blut des Sünders.\nund sagen wird der mensch: Ja, wahrlich hat lohn der Gerechte, * gar wohl gibt es Gott, der sie richtet auf Erden.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

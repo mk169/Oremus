@@ -1,0 +1,87 @@
+{
+  "id": "week-feria2-non",
+  "form": "1962",
+  "hour": "non",
+  "name": {
+    "la": "Ad Nonam",
+    "de": "Non"
+  },
+  "day": {
+    "title": {
+      "la": "Feria II",
+      "de": "Montag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-feria2-non-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria2-non-hymnus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Rerum, Deus, tenax vigor, immótus in te pérmanens, lucis diúrnæ témpora succéssibus detérminans.\nLargíre lumen véspere, quo vita nusquam décidat, sed prǽmium mortis sacræ perénnis instet glória.",
+        "de": "Du starke Kraft, die alles hält, o Gott, in dir unwandelbar, der du des Tages Lichteslauf in Stufen ordnest und bestimmst.\nSchenk gnädig Licht am Lebensend, dass unser Leben nie erlischt, dass ewge Herrlichkeit uns folgt als Lohn für einen heilgen Tod."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
+      }
+    },
+    {
+      "id": "week-feria2-non-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 31",
+        "de": "Psalm 31"
+      },
+      "text": {
+        "la": "Beáti quorum remíssæ sunt iniquitátes: * et quorum tecta sunt peccáta.\nBeátus vir, cui non imputávit Dóminus peccátum, * nec est in spíritu ejus dolus.\nQuóniam tácui, inveteravérunt ossa mea, * dum clamárem tota die.\nQuóniam die ac nocte graváta est super me manus tua: * convérsus sum in ærúmna mea, dum confígitur spina.\nDelíctum meum cógnitum tibi feci: * et injustítiam meam non abscóndi.\nDixi: Confitébor advérsum me injustítiam meam Dómino: * et tu remisísti impietátem peccáti mei.\nPro hac orábit ad te omnis sanctus, * in témpore opportúno.\nVerúmtamen in dilúvio aquárum multárum, * ad eum non approximábunt.\nTu es refúgium meum a tribulatióne, quæ circúmdedit me: * exsultátio mea, érue me a circumdántibus me.\nIntelléctum tibi dabo, et ínstruam te in via hac, qua gradiéris: * firmábo super te óculos meos.\nNolíte fíeri sicut equus et mulus, * quibus non est intelléctus.\nIn camo et freno maxíllas eórum constrínge, * qui non appróximant ad te.\nMulta flagélla peccatóris, * sperántem autem in Dómino misericórdia circúmdabit.\nLætámini in Dómino et exsultáte, justi, * et gloriámini, omnes recti corde.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Selig, deren missetaten nachgelassen wurden * und deren Sünden bedeckt sind.\nSelig der mann, dem der Herr die Sünde nicht anrechnet * und in dessen Geist keine Trug ist.\nWeil ich geschwiegen habe, sind meine Gebeine gealtert, * während ich den ganzen Tag schrie.\nDenn Tag und nacht lastete schwer auf mir Deine Hand, * ich wandte mich in meinem Kummer, während ein Stachel sich einbohrte.\nich sprach: bekennen will ich wider mich meine ungerechtigkeit dem Herrn, * und Du hast den Frevel meiner Sünde vergeben.\nich sprach: bekennen will ich wider mich meine ungerechtigkeit dem Herrn, * und Du hast den Frevel meiner Sünde vergeben.\nJa, auch bei der Flut vieler Wasser * werden sie ihm doch nicht nahen.\nJa, auch bei der Flut vieler Wasser * werden sie ihm doch nicht nahen.\nDu bist meine zuflucht vor der bedrängnis, die mich umgab; * Du mein Frohlocken, befreie mich von denen, die mich umringen.\nEinsicht will ich dir geben und dich unterweisen auf diesem Weg, den du gehen sollst, * fest will ich meine Augen auf dich richten.\nmit zügel und zaum binde die backen derer, * die sich Dir nicht nahen.\nmit zügel und zaum binde die backen derer, * die sich Dir nicht nahen.\nzahlreich sind die Geißeln des Sünders; * den aber, der auf den Herrn hofft, wird barmherzigkeit umgeben.\nFreut euch im Herrn und jauchzt, ihr Gerechten, * und rühmt euch, alle, die ihr aufrichtigen Herzens seid.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Exsultáte, justi, * et gloriámini, omnes recti corde."
+      }
+    },
+    {
+      "id": "week-feria2-non-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 32 (1-11)",
+        "de": "Psalm 32 (1-11)"
+      },
+      "text": {
+        "la": "Exsultáte, justi, in Dómino: * rectos decet collaudátio.\nConfitémini Dómino in cíthara: * in psaltério decem chordárum psállite illi.\nCantáte ei cánticum novum: * bene psállite ei in vociferatióne.\nQuia rectum est verbum Dómini, * et ómnia ópera ejus in fide.\nDíligit misericórdiam et judícium: * misericórdia Dómini plena est terra.\nVerbo Dómini cæli firmáti sunt: * et spíritu oris ejus omnis virtus eórum.\nCóngregans sicut in utre aquas maris: * ponens in thesáuris abýssos.\nTímeat Dóminum omnis terra: * ab eo autem commoveántur omnes inhabitántes orbem.\nQuóniam ipse dixit, et facta sunt: * ipse mandávit, et creáta sunt.\nDóminus díssipat consília géntium: * réprobat autem cogitatiónes populórum, et réprobat consília príncipum.\nConsílium autem Dómini in ætérnum manet: * cogitatiónes cordis ejus in generatióne et generatiónem.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Jauchzt, ihr Gerechten, im Herrn, * den redlichen ziemt lob gesang.\nPreiset den Herrn mit der zither, * mit der zehnsaitigen Harfe spielet ihm.\nSingt ihm ein neues lied, * spielt ihm schön mit Jubelschall.\nDenn aufrichtig ist das Wort des Herrn, * und all seine Werke geschehen in Treue.\nEr liebt barmherzigkeit und recht, * von der barmherzigkeit des Herrn ist voll die Erde.\nDurch das Wort des Herrn sind die Himmel gefestigt * und durch den Hauch seines mundes ihr ganzes Heer,\nder die Wasser des meeres versammelt wie in einem Schlauch, * der die Abgründe in Schatzkammern legt.\nFürchten soll den Herrn die ganze Erde, * vor ihm sollen erbeben alle, die den Erdkreis bewohnen,\ndenn er sprach und sie waren gemacht, * er befahl, und sie waren erschaffen.\nDer Herr vereitelt die Pläne der Heiden, * er verwirft die Gedanken der Völker, und er verwirft die Pläne der Fürsten.\nDer ratschluss des Herrn aber bleibt in Ewigkeit, * die Gedanken seines Herzens von Geschlecht zu Geschlecht.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria2-non-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 32 (12-22)",
+        "de": "Psalm 32 (12-22)"
+      },
+      "text": {
+        "la": "Beáta gens, cujus est Dóminus, Deus ejus: * pópulus, quem elégit in hereditátem sibi.\nDe cælo respéxit Dóminus: * vidit omnes fílios hóminum.\nDe præparáto habitáculo suo * respéxit super omnes, qui hábitant terram.\nQui finxit sigillátim corda eórum: * qui intéllegit ómnia ópera eórum.\nNon salvátur rex per multam virtútem: * et gigas non salvábitur in multitúdine virtútis suæ.\nFallax equus ad salútem: * in abundántia autem virtútis suæ non salvábitur.\nEcce, óculi Dómini super metuéntes eum: * et in eis, qui sperant super misericórdia ejus:\nUt éruat a morte ánimas eórum: * et alat eos in fame.\nÁnima nostra sústinet Dóminum: * quóniam adjútor et protéctor noster est.\nQuia in eo lætábitur cor nostrum: * et in nómine sancto ejus sperávimus.\nFiat misericórdia tua, Dómine, super nos: * quemádmodum sperávimus in te.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Selig das Volk, dessen Gott der Herr ist, * das Volk, das er sich zum Erbe erwählt hat.\nVom Himmel blickte der Herr herab, * und er sah alle menschenkinder.\nVon seiner festbereiteten Wohnstätte her * sah er herab auf alle, die die Erde bewohnen,\ner, der fein ihre Herzen gebildet, * der all ihre Werke kennt.\nnicht wird ein König gerettet durch große Kraft, * und auch ein riese wird nicht gerettet durch die Fülle seiner Kraft.\nTrügerisch ist ein Pferd als mittel zum Heil, * in der Über fülle seiner Kraft wird es sich doch nicht retten.\nSiehe, die Augen des Herrn ruhen auf denen, die ihn fürchten, * und auf denen, die auf seine barmherzigkeit hoffen,\ndass er ihre Seelen vom Tod errette * und sie im Hunger nähre.\nunsere Seele harrt auf den Herrn, * denn er ist unser Helfer und beschützer,\ndenn in ihm wird unser Herz sich freuen, * und auf seinen heiligen namen hoffen wir.\nEs walte Deine barmherzigkeit, Herr, über uns, * so, wie wir auf Dich gehofft haben.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

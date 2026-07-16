@@ -1,0 +1,128 @@
+{
+  "id": "week-sabbato-vesper",
+  "form": "1962",
+  "hour": "vesper",
+  "name": {
+    "la": "Ad Vesperas",
+    "de": "Vesper (Abendlob)"
+  },
+  "day": {
+    "title": {
+      "la": "Sabbato",
+      "de": "Samstag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-sabbato-vesper-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-sabbato-vesper-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 143 (1-8)",
+        "de": "Psalm 143 (1-8)"
+      },
+      "text": {
+        "la": "Benedíctus Dóminus, Deus meus, qui docet manus meas ad prǽlium, * et dígitos meos ad bellum.\nMisericórdia mea, et refúgium meum: * suscéptor meus, et liberátor meus:\nProtéctor meus, et in ipso sperávi: * qui subdit pópulum meum sub me.\nDómine, quid est homo, quia innotuísti ei? * aut fílius hóminis, quia réputas eum?\nHomo vanitáti símilis factus est: * dies ejus sicut umbra prætéreunt.\nDómine, inclína cælos tuos, et descénde: * tange montes, et fumigábunt.\nFúlgura coruscatiónem, et dissipábis eos: * emítte sagíttas tuas, et conturbábis eos.\nEmítte manum tuam de alto, éripe me, et líbera me de aquis multis: * de manu filiórum alienórum.\nQuorum os locútum est vanitátem: * et déxtera eórum, déxtera iniquitátis.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Gepriesen sei der Herr, mein Gott, der meine Hände den Kampf lehrt * und meine Finger den Krieg.\nmein beschützer, und auf ihn habe ich meine Hoffnung gesetzt, * der mir mein Volk unterwirft.\nmein beschützer, und auf ihn habe ich meine Hoffnung gesetzt, * der mir mein Volk unterwirft.\nHerr, was ist der mensch, dass Du Dich ihm zu erkennen gabst, * oder des menschen Sohn, dass Du an ihn denkst?\nDer mensch ist gleich der nichtigkeit, * seine Tage ziehen wie Schatten vorüber.\nHerr, neige Deine Himmel und steige herab, * berühre die berge, und sie werden rauchen.\nlass zucken den blitz, und Du wirst sie zerstreuen, * sende aus Deine Pfeile, und Du wirst sie verwirren.\nSende aus Deine Hand von der Höhe, reiße mich heraus und befreie mich aus den vielen Wassern, * aus der Hand der Söhne der Fremden,\nderen mund nichtigkeit redet * und deren rechte eine rechte des unrechts ist.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Benedíctus Dóminus * suscéptor meus et liberátor meus.",
+        "de": "Ant. Sei gepriesen, Herr, * o du mein Anwalt und mein Retter."
+      }
+    },
+    {
+      "id": "week-sabbato-vesper-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 143 (9-15)",
+        "de": "Psalm 143 (9-15)"
+      },
+      "text": {
+        "la": "Deus, cánticum novum cantábo tibi: * in psaltério decachórdo psallam tibi.\nQui das salútem régibus: * qui redemísti David, servum tuum, de gládio malígno: éripe me.\nEt érue me de manu filiórum alienórum, quorum os locútum est vanitátem: * et déxtera eórum, déxtera iniquitátis:\nQuorum fílii, sicut novéllæ plantatiónes * in juventúte sua.\nFíliæ eórum compósitæ: * circumornátæ ut similitúdo templi.\nPromptuária eórum plena, * eructántia ex hoc in illud.\nOves eórum fœtósæ, abundántes in egréssibus suis: * boves eórum crassæ.\nNon est ruína macériæ, neque tránsitus: * neque clamor in platéis eórum.\nBeátum dixérunt pópulum, cui hæc sunt: * beátus pópulus, cujus Dóminus Deus ejus.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Gott, ein neues lied will ich Dir singen, * auf der zehnsaitigen Harfe Dir spielen,\nder Du Heil gibst den Königen, * der Du David, Deinen Knecht, erlöst hast vom bösen Schwert. Errette mich\nund befreie mich aus der Hand der Söhne der Fremden, deren mund nichtigkeit redet * und deren rechte eine rechte des unrechts ist.\nihre Töchter sind wohlgestaltet, * ringsum geziert wie ein Tempel,\nihre Töchter sind wohlgestaltet, * ringsum geziert wie ein Tempel,\nihre Schafe sind fruchtbar, zahllos auf ihren Triften, * ihre rinder sind fett,\nihre Schafe sind fruchtbar, zahllos auf ihren Triften, * ihre rinder sind fett,\nihre mauer kennt keinen Einsturz und keinen Durchschlupf, * und kein Geschrei ist auf ihren Plätzen.\nSelig preist man ein Volk, dem solches zuteil wird; * doch selig ist das Volk, dessen Gott der Herr ist.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Beátus pópulus * cujus Dóminus Deus ejus.",
+        "de": "Ant. O glücklich Volk du, * dessen Gott der Herr ist."
+      }
+    },
+    {
+      "id": "week-sabbato-vesper-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 144 (1-7)",
+        "de": "Psalm 144 (1-7)"
+      },
+      "text": {
+        "la": "Exaltábo te, Deus meus, rex: * et benedícam nómini tuo in sǽculum, et in sǽculum sǽculi.\nPer síngulos dies benedícam tibi: * et laudábo nomen tuum in sǽculum, et in sǽculum sǽculi.\nMagnus Dóminus, et laudábilis nimis: * et magnitúdinis ejus non est finis.\nGenerátio et generátio laudábit ópera tua: * et poténtiam tuam pronuntiábunt.\nMagnificéntiam glóriæ sanctitátis tuæ loquéntur: * et mirabília tua narrábunt.\nEt virtútem terribílium tuórum dicent: * et magnitúdinem tuam narrábunt.\nMemóriam abundántiæ suavitátis tuæ eructábunt: * et justítia tua exsultábunt.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Ich will Dich erheben, mein Gott und König, * und Deinen Namen preisen in Ewigkeit und von Ewigkeit zu Ewigkeit.\nDurch alle Tage will ich Dich preisen * und Deinen Namen loben in Ewigkeit und von Ewigkeit zu Ewigkeit.\nGroß ist der Herr und überaus lobwürdig, * und seine Größe hat keine Grenze.\nGeschlecht um Geschlecht wird loben Deine Werke, * und sie werden laut künden Deine Macht.\nVon der Hoheit des Ruhmes Deiner Heiligkeit werden sie reden * und Deine Wundertaten kundtun.\nUnd von der Kraft Deiner furchtbaren Taten werden sie sprechen * und Deine Hoheit verkünden.\nDie Erinnerung an die Fülle Deiner Güte sprudeln sie hervor, * und über Deine Gerechtigkeit werden sie frohlocken.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Magnus Dóminus * et laudábilis nimis: et magnitúdinis ejus non est finis.",
+        "de": "Ant. Groß bist du, o Herr, * und überaus des Lobes würdig, und deine Größe hat kein Ende."
+      }
+    },
+    {
+      "id": "week-sabbato-vesper-ps4",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 144 (8-13a)",
+        "de": "Psalm 144 (8-13a)"
+      },
+      "text": {
+        "la": "Miserátor, et miséricors Dóminus: * pátiens, et multum miséricors.\nSuávis Dóminus univérsis: * et miseratiónes ejus super ómnia ópera ejus.\nConfiteántur tibi, Dómine, ómnia ópera tua: * et sancti tui benedícant tibi.\nGlóriam regni tui dicent: * et poténtiam tuam loquéntur:\nUt notam fáciant fíliis hóminum poténtiam tuam: * et glóriam magnificéntiæ regni tui.\nRegnum tuum regnum ómnium sæculórum: * et dominátio tua in omni generatióne et generatiónem.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Ein Erbarmer und barmherzig ist der Herr, * geduldig und sehr barmherzig.\nGütig ist der Herr zu allen, * und die Erweise seiner Barmherzigkeit erstrecken sich auf all seine Werke.\nPreisen sollen Dich, o Herr, all Deine Werke, * und Deine Heiligen Dich rühmen.\nVon der Herrlichkeit Deines Königtums sollen sie sprechen * und reden von Deiner Macht,\num Deine Macht den Menschenkindern kundzutun, * und den Ruhm der Hoheit Deines Königtums.\nDein Königtum ist ein Königtum aller Zeiten * und Deine Herrschaft in jedem Geschlecht und für alle Geschlechter.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Suávis Dóminus * univérsis: et miseratiónes ejus super ómnia ópera ejus.",
+        "de": "Ant. Der Herr ist liebevoll * für alle, und seine Hulderweise leuchten über allen seinen Werken."
+      }
+    },
+    {
+      "id": "week-sabbato-vesper-ps5",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 144 (13b-21)",
+        "de": "Psalm 144 (13b-21)"
+      },
+      "text": {
+        "la": "Fidélis Dóminus in ómnibus verbis suis: * et sanctus in ómnibus opéribus suis.\nÁllevat Dóminus omnes qui córruunt: * et érigit omnes elísos.\nÓculi ómnium in te sperant, Dómine: * et tu das escam illórum in témpore opportúno.\nÁperis tu manum tuam: * et imples omne ánimal benedictióne.\nJustus Dóminus in ómnibus viis suis: * et sanctus in ómnibus opéribus suis.\nPrope est Dóminus ómnibus invocántibus eum: * ómnibus invocántibus eum in veritáte.\nVoluntátem timéntium se fáciet: ‡ et deprecatiónem eórum exáudiet: * et salvos fáciet eos.\nCustódit Dóminus omnes diligéntes se: * et omnes peccatóres dispérdet.\nLaudatiónem Dómini loquétur os meum: * et benedícat omnis caro nómini sancto ejus in sǽculum, et in sǽculum sǽculi.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Getreu ist der Herr in all seinen Worten * und heilig in all seinen Werken.\nDer Herr hebt alle empor, die stürzen, * und richtet auf alle Verstoßenen.\nDie Augen aller hoffen auf Dich, o Herr, * und Du gibst ihnen ihre Speise zur rechten Zeit.\nDu öffnest Deine Hand * und erfüllst alles, was da lebt, mit Segen.\nGerecht ist der Herr auf all seinen Wegen * und heilig in all seinen Werken.\nNahe ist der Herr allen, die ihn anrufen, * allen, die ihn anrufen in Wahrheit.\nDen Willen derer, die ihn fürchten, wird er tun, ‡ und ihr Flehen wird er erhören * und ihnen Heil schaffen.\nDer Herr bewahrt alle, die ihn lieben, * und alle Sünder wird er verderben.\nDas Lob des Herrn soll künden mein Mund, * und preisen soll alles Fleisch seinen heiligen Namen in Ewigkeit und von Ewigkeit zu Ewigkeit.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Fidélis Dóminus * in ómnibus verbis suis: et sanctus in ómnibus opéribus suis.",
+        "de": "Ant. Treu ist der Herr * in allem, was er sagt, und in allem, was er tut, gar gnädig."
+      }
+    },
+    {
+      "id": "week-sabbato-vesper-nunc",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Canticum B. Mariæ Virginis (Magnificat)",
+        "de": "Lobgesang der seligen Jungfrau Maria"
+      },
+      "reference": {
+        "la": "Luc 1, 46-55",
+        "de": "Luc 1, 46-55"
+      },
+      "text": {
+        "la": "Magníficat * ánima mea Dóminum.\nEt exsultávit spíritus meus * in Deo, salutári meo.\nQuia respéxit humilitátem ancíllæ suæ: * ecce enim ex hoc beátam me dicent omnes generatiónes.\nQuia fecit mihi magna qui potens est: * et sanctum nomen ejus.\nEt misericórdia ejus a progénie in progénies * timéntibus eum.\nFecit poténtiam in bráchio suo: * dispérsit supérbos mente cordis sui.\nDepósuit poténtes de sede, * et exaltávit húmiles.\nEsuriéntes implévit bonis: * et dívites dimísit inánes.\nSuscépit Israël púerum suum, * recordátus misericórdiæ suæ.\nSicut locútus est ad patres nostros, * Ábraham, et sémini ejus in sǽcula.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Meine Seele preist die Größe des Herrn, * und mein Geist frohlockt in Gott, meinem Heile.\nDenn er hat auf die Niedrigkeit seiner Magd geschaut; * siehe, von nun an preisen mich selig alle Geschlechter.\nDenn Großes hat an mir getan, der mächtig ist, * und heilig ist sein Name.\nUnd sein Erbarmen währt von Geschlecht zu Geschlecht * für alle, die ihn fürchten.\nEr wirkt mit Macht in seinem Arm, * er zerstreut, die hoffärtig sind im Sinne ihres Herzens.\nEr stürzt die Mächtigen vom Thron * und erhöht die Niedrigen.\nDie Hungernden erfüllt er mit Gütern * und lässt die Reichen leer ausgehn.\nEr nimmt sich Israels an, seines Knechtes, * eingedenk seiner Barmherzigkeit,\nwie er geredet hat zu unsern Vätern, * zu Abraham und seinen Nachkommen auf ewig.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "week-feria6-vesper",
+  "form": "1962",
+  "hour": "vesper",
+  "name": {
+    "la": "Ad Vesperas",
+    "de": "Vesper (Abendlob)"
+  },
+  "day": {
+    "title": {
+      "la": "Feria VI",
+      "de": "Freitag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-feria6-vesper-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria6-vesper-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 138 (1-13)",
+        "de": "Psalm 138 (1-13)"
+      },
+      "text": {
+        "la": "Dómine, probásti me, et cognovísti me: * (2) tu cognovísti sessiónem meam, et resurrectiónem meam.\nIntellexísti cogitatiónes meas de longe: * sémitam meam, et funículum meum investigásti.\nEt omnes vias meas prævidísti: * quia non est sermo in lingua mea.\nEcce, Dómine, tu cognovísti ómnia novíssima, et antíqua: * tu formásti me, et posuísti super me manum tuam.\nMirábilis facta est sciéntia tua ex me: * confortáta est, et non pótero ad eam.\nQuo ibo a spíritu tuo? * et quo a fácie tua fúgiam?\nSi ascéndero in cælum, tu illic es: * si descéndero in inférnum, ades.\nSi súmpsero pennas meas dilúculo, * et habitávero in extrémis maris:\nÉtenim illuc manus tua dedúcet me: * et tenébit me déxtera tua.\nEt dixi: Fórsitan ténebræ conculcábunt me: * et nox illuminátio mea in delíciis meis.\nQuia ténebræ non obscurabúntur a te, † et nox sicut dies illuminábitur: * sicut ténebræ ejus, ita et lumen ejus.\nQuia tu possedísti renes meos: * suscepísti me de útero matris meæ.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Herr, Du hast mich geprüft, und Du kennst mich, * (2) Du kennst mein Ruhen und mein Auferstehen.\nDu schaust meine Gedanken von ferne, * meinen Pfad und meinen Anteil hast Du erkundet.\nUnd all meine Wege hast Du vorhergesehen, * denn noch ist kein Wort auf meiner Zunge,\nsiehe, Herr, Du weißt alles, das neueste und das Alte, * Du hast mich geformt und Deine Hand auf mich gelegt.\nZu wunderbar ist Dein Wissen für mich, * gewaltig ist es, nicht reiche ich an das selbe hin.\nWohin soll ich gehen vor Deinem Geist? * Und wohin soll ich fliehen vor Deinem Angesicht?\nSteige ich zum Himmel hinauf, so bist Du dort, * steige ich zur Unterwelt hinab, so bist Du zugegen.\nErhebe ich meine Flügel in der Morgendämmerung * und laß mich nieder an den äußersten Enden des Meeres,\nauch dort wird Deine Hand mich führen * und Deine Rechte mich halten.\nUnd spräche ich: „Vielleicht wird Finsternis mich niederdrücken * und die Nacht meine Leuchte sein in meinen Wonnen.“\nDenn vor Dir wird die Finsternis nicht dunkel sein, † und die Nacht wird hell wie der Tag, * wie ihre Finsternis, so ist auch sein Licht.\nDenn Du besaßest meine Nieren, * Du hast mich angenommen vom Schoß meiner Mutter an.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Dómine, * probásti me et cognovísti me.",
+        "de": "Ant. O Herr, * du durchdringst mich und du durchschaust mich."
+      }
+    },
+    {
+      "id": "week-feria6-vesper-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 138 (14-24)",
+        "de": "Psalm 138 (14-24)"
+      },
+      "text": {
+        "la": "Confitébor tibi quia terribíliter magnificátus es: ‡ mirabília ópera tua, * et ánima mea cognóscit nimis.\nNon est occultátum os meum a te, quod fecísti in occúlto: * et substántia mea in inferióribus terræ.\nImperféctum meum vidérunt óculi tui, † et in libro tuo omnes scribéntur: * dies formabúntur, et nemo in eis.\nMihi autem nimis honorificáti sunt amíci tui, Deus: * nimis confortátus est principátus eórum.\nDinumerábo eos, et super arénam multiplicabúntur: * exsurréxi, et adhuc sum tecum.\nSi occíderis, Deus, peccatóres: * viri sánguinum, declináte a me:\nQuia dícitis in cogitatióne: * Accípient in vanitáte civitátes tuas.\nNonne qui odérunt te, Dómine, óderam? * et super inimícos tuos tabescébam?\nPerfécto ódio óderam illos: * et inimíci facti sunt mihi.\nProba me, Deus, et scito cor meum: * intérroga me, et cognósce sémitas meas.\nEt vide, si via iniquitátis in me est: * et deduc me in via ætérna.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Ich preise Dich, denn erschreckend groß bist Du, ‡ wunderbar sind Deine Werke, * und meine Seele erkennt dies gar wohl.\nNicht war verborgen vor Dir mein Gebein, das Du im Verborgenen gebildet hast, * und mein Wesen in den Tiefen der Erde.\nDa ich noch unvollendet war, sahen mich Deine Augen, † und in Dein Buch werden alle verzeichnet; * die Tage werden geformt, und noch ist niemand in ihnen.\nDeine Freunde aber, Gott, sind von mir hoch geehrt, * überaus stark wurde ihre Herrschaft.\nZählen will ich sie, und zahlreicher als Sand werden sie sein, * ich erhob mich und bin noch immer bei Dir.\nDaß Du töten wollest, o Gott, die Sünder; * ihr Männer voll Blutschuld, weichet von mir!\nDenn ihr sprecht in Gedanken: * „Sie werden vergeblich Deine Städte einnehmen.“\nHasse ich nicht jene, die Dich hassen, o Herr? * Und härme ich mich nicht über Deine Feinde?\nMit vollkommenem Haß hasse ich sie, * und zu Feinden sind sie mir geworden.\nPrüfe mich, o Gott, und erkenne mein Herz, * befrage mich und erkenne meine Wege!\nUnd sieh, ob der Weg des Unrechts in mir ist, * und geleite mich auf ewigem Weg!\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Mirabília ópera tua, * Dómine, et ánima mea cognóscit nimis.",
+        "de": "Ant. Ganz wunderbar sind deine Werke, * Herr, und klar erkennt es meine Seele."
+      }
+    },
+    {
+      "id": "week-feria6-vesper-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 139",
+        "de": "Psalm 139"
+      },
+      "text": {
+        "la": "Éripe me, Dómine, ab hómine malo: * a viro iníquo éripe me.\nQui cogitavérunt iniquitátes in corde: * tota die constituébant prǽlia.\nAcuérunt linguas suas sicut serpéntis: * venénum áspidum sub lábiis eórum.\nCustódi me, Dómine, de manu peccatóris: * et ab homínibus iníquis éripe me.\nQui cogitavérunt supplantáre gressus meos: * abscondérunt supérbi láqueum mihi:\nEt funes extendérunt in láqueum: * juxta iter scándalum posuérunt mihi.\nDixi Dómino: Deus meus es tu: * exáudi, Dómine, vocem deprecatiónis meæ.\nDómine, Dómine, virtus salútis meæ: * obumbrásti super caput meum in die belli.\nNe tradas me, Dómine, a desidério meo peccatóri: * cogitavérunt contra me, ne derelínquas me, ne forte exalténtur.\nCaput circúitus eórum: * labor labiórum ipsórum opériet eos.\nCadent super eos carbónes, in ignem deícies eos: * in misériis non subsístent.\nVir linguósus non dirigétur in terra: * virum injústum mala cápient in intéritu.\nCognóvi quia fáciet Dóminus judícium ínopis: * et vindíctam páuperum.\nVerúmtamen justi confitebúntur nómini tuo: * et habitábunt recti cum vultu tuo.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Entreiße mich, o Herr, dem bösen Menschen; * dem frevlerischen Mann entreiße mich.\nDie in ihrem Herzen unrecht sannen, * stifteten den ganzen Tag hindurch Krieg.\nSie spitzten ihre Zungen wie jene der Schlange, * Natterngift war unter ihren Lippen.\ndie darauf sannen, meine Schritte zu Fall zu bringen; * Hochmütige legten mir heimlich eine Schlinge.\ndie darauf sannen, meine Schritte zu Fall zu bringen; * Hochmütige legten mir heimlich eine Schlinge.\nund Stricke spannten sie aus als Schlinge, * hart am Weg stellten sie mir eine Falle.\nich sprach zum Herrn: mein Gott bist Du, * erhöre, o Herr, die Stimme meines Flehens!\nHerr, Herr, Du Kraft meines Heils, * beschattet hast Du mein Haupt am Tag des Krieges.\nGib mich nicht dem Sünder preis, o Herr, gegen meinen Willen; * sie sannen wider mich, verlass mich nicht, damit sie sich nicht überheben!\nDas Haupt ihrer Umtriebe, * das Unheil ihrer Lippen, wird sie selber bedecken!\nKohlen werden auf sie fallen, ins Feuer wirst Du sie stürzen, * in ihrem Elend werden sie nicht standhalten.\nEin Mann von böser Zunge wird nicht bestehen auf Erden, * den ungerechten Mann wird Unglück treffen zum Untergang.\nich weiß, dass der Herr den Hilflosen recht schafft * und Befreiung für die Armen.\nWahrlich, die Gerechten werden Deinen Namen preisen, * und wohnen werden die Aufrichtigen vor Deinem Angesicht.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Ne derelínquas me, * Dómine, virtus salútis meæ.",
+        "de": "Ant. Verlass mich nicht, * o Herr, du meine Kraft und meine Rettung."
+      }
+    },
+    {
+      "id": "week-feria6-vesper-ps4",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 140",
+        "de": "Psalm 140"
+      },
+      "text": {
+        "la": "Dómine, clamávi ad te, exáudi me: * inténde voci meæ, cum clamávero ad te.\nDirigátur orátio mea sicut incénsum in conspéctu tuo: * elevátio mánuum meárum sacrifícium vespertínum.\nPone, Dómine, custódiam ori meo: * et óstium circumstántiæ lábiis meis.\nNon declínes cor meum in verba malítiæ, * ad excusándas excusatiónes in peccátis.\nCum homínibus operántibus iniquitátem: * et non communicábo cum eléctis eórum.\nCorrípiet me justus in misericórdia, et increpábit me: * óleum autem peccatóris non impínguet caput meum.\nQuóniam adhuc et orátio mea in beneplácitis eórum: * absórpti sunt juncti petræ júdices eórum.\nÁudient verba mea quóniam potuérunt: * sicut crassitúdo terræ erúpta est super terram.\nDissipáta sunt ossa nostra secus inférnum: * quia ad te, Dómine, Dómine, óculi mei: in te sperávi, non áuferas ánimam meam.\nCustódi me a láqueo, quem statuérunt mihi: * et a scándalis operántium iniquitátem.\nCadent in retiáculo ejus peccatóres: * singuláriter sum ego donec tránseam.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Herr, ich schreie zu Dir, erhöre mich, * achte auf meine Stimme, wenn ich zu Dir schreie.\nmein Gebet werde wie Weihrauch vor Dein Angesicht gelenkt, * das Erheben meiner Hände sei ein Abendopfer.\nStelle, o Herr, eine Wache an meinem Mund * und gib ein schützendes Tor meinen Lippen ringsum.\nzusammen mit Menschen, die unrecht tun; * und nicht will ich Anteil haben an dem, was sie erwählt haben.\nzusammen mit Menschen, die unrecht tun; * und nicht will ich Anteil haben an dem, was sie erwählt haben.\nDer Gerechte mag mich züchtigen in Barmherzigkeit und mich zurechtweisen, * doch das Öl des Sünders soll mein Haupt nicht salben,\ndenn stets noch geht mein Beten wider das, was ihnen wohlgefällt; * herabgestürzt wurden hart am Felsen ihre Richter.\nSie werden meine Worte hören, denn sie haben Kraft. * Wie fette Erdschollen über die Erde hin aufgeworfen sind,\nso sind unsere Gebeine hingestreut nahe der Unterwelt. * Denn auf Dich, Herr, Herr, schauen meine Augen, auf Dich habe ich meine Hoffnung gesetzt, nimm nicht hinweg meine Seele.\nbewahre mich vor der Schlinge, die sie mir legten, * und vor den Fallstricken derer, die unrecht tun.\nDie Sünder mögen fallen in ihr eigenes Netz; * alleine bin ich, bis ich vorübergegangen.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Dómine, * clamávi ad te, exáudi me.",
+        "de": "Ant. O Herr, * ich ruf zu dir, erhöre mich."
+      }
+    },
+    {
+      "id": "week-feria6-vesper-ps5",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 141",
+        "de": "Psalm 141"
+      },
+      "text": {
+        "la": "Voce mea ad Dóminum clamávi: * voce mea ad Dóminum deprecátus sum:\nEffúndo in conspéctu ejus oratiónem meam, * et tribulatiónem meam ante ipsum pronúntio.\nIn deficiéndo ex me spíritum meum, * et tu cognovísti sémitas meas.\nIn via hac, qua ambulábam, * abscondérunt láqueum mihi.\nConsiderábam ad déxteram, et vidébam: * et non erat qui cognósceret me.\nPériit fuga a me, * et non est qui requírat ánimam meam.\nClamávi ad te, Dómine, * dixi: Tu es spes mea, pórtio mea in terra vivéntium.\nInténde ad deprecatiónem meam: * quia humiliátus sum nimis.\nLíbera me a persequéntibus me: * quia confortáti sunt super me.\nEduc de custódia ánimam meam ad confiténdum nómini tuo: * me exspéctant justi, donec retríbuas mihi.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "mit meiner Stimme schrie ich zum Herrn, * mit meiner Stimme habe ich zum Herrn gefleht.\nich schütte aus vor seinem Angesicht mein Gebet, * und meine Bedrängnis tue ich vor ihm kund.\nAuf diesem Weg, auf dem ich wandelte, * legten sie mir heimlich eine Schlinge.\nAuf diesem Weg, auf dem ich wandelte, * legten sie mir heimlich eine Schlinge.\nVerloren ist mir die Zuflucht, * und keiner ist, der nach meiner Seele fragt.\nVerloren ist mir die Zuflucht, * und keiner ist, der nach meiner Seele fragt.\nich rief zu Dir, o Herr, * ich sprach: Du bist meine Hoffnung, mein Anteil im Land der Lebendigen.\nbefreie mich von denen, die mich verfolgen, * denn sie sind stark geworden, mehr als ich.\nbefreie mich von denen, die mich verfolgen, * denn sie sind stark geworden, mehr als ich.\nFühre aus dem Kerker meine Seele, damit ich Deinen Namen preise; * die Gerechten harren meiner bis Du mir vergiltst.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Educ de custódia * ánimam meam, Dómine, ad confiténdum nómini tuo.",
+        "de": "Ant. Führ aus diesem Kerker, * mich heraus, o Herr, um deine Majestät zu preisen."
+      }
+    },
+    {
+      "id": "week-feria6-vesper-nunc",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Canticum B. Mariæ Virginis (Magnificat)",
+        "de": "Lobgesang der seligen Jungfrau Maria"
+      },
+      "reference": {
+        "la": "Luc 1, 46-55",
+        "de": "Luc 1, 46-55"
+      },
+      "text": {
+        "la": "Magníficat * ánima mea Dóminum.\nEt exsultávit spíritus meus * in Deo, salutári meo.\nQuia respéxit humilitátem ancíllæ suæ: * ecce enim ex hoc beátam me dicent omnes generatiónes.\nQuia fecit mihi magna qui potens est: * et sanctum nomen ejus.\nEt misericórdia ejus a progénie in progénies * timéntibus eum.\nFecit poténtiam in bráchio suo: * dispérsit supérbos mente cordis sui.\nDepósuit poténtes de sede, * et exaltávit húmiles.\nEsuriéntes implévit bonis: * et dívites dimísit inánes.\nSuscépit Israël púerum suum, * recordátus misericórdiæ suæ.\nSicut locútus est ad patres nostros, * Ábraham, et sémini ejus in sǽcula.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Meine Seele preist die Größe des Herrn, * und mein Geist frohlockt in Gott, meinem Heile.\nDenn er hat auf die Niedrigkeit seiner Magd geschaut; * siehe, von nun an preisen mich selig alle Geschlechter.\nDenn Großes hat an mir getan, der mächtig ist, * und heilig ist sein Name.\nUnd sein Erbarmen währt von Geschlecht zu Geschlecht * für alle, die ihn fürchten.\nEr wirkt mit Macht in seinem Arm, * er zerstreut, die hoffärtig sind im Sinne ihres Herzens.\nEr stürzt die Mächtigen vom Thron * und erhöht die Niedrigen.\nDie Hungernden erfüllt er mit Gütern * und lässt die Reichen leer ausgehn.\nEr nimmt sich Israels an, seines Knechtes, * eingedenk seiner Barmherzigkeit,\nwie er geredet hat zu unsern Vätern, * zu Abraham und seinen Nachkommen auf ewig.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

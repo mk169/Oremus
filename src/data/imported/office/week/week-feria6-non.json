@@ -1,0 +1,87 @@
+{
+  "id": "week-feria6-non",
+  "form": "1962",
+  "hour": "non",
+  "name": {
+    "la": "Ad Nonam",
+    "de": "Non"
+  },
+  "day": {
+    "title": {
+      "la": "Feria VI",
+      "de": "Freitag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-feria6-non-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria6-non-hymnus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Rerum, Deus, tenax vigor, immótus in te pérmanens, lucis diúrnæ témpora succéssibus detérminans.\nLargíre lumen véspere, quo vita nusquam décidat, sed prǽmium mortis sacræ perénnis instet glória.",
+        "de": "Du starke Kraft, die alles hält, o Gott, in dir unwandelbar, der du des Tages Lichteslauf in Stufen ordnest und bestimmst.\nSchenk gnädig Licht am Lebensend, dass unser Leben nie erlischt, dass ewge Herrlichkeit uns folgt als Lohn für einen heilgen Tod."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
+      }
+    },
+    {
+      "id": "week-feria6-non-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 88 (2-19)",
+        "de": "Psalm 88 (2-19)"
+      },
+      "text": {
+        "la": "Misericórdias Dómini * in ætérnum cantábo.\nIn generatiónem et generatiónem * annuntiábo veritátem tuam in ore meo.\nQuóniam dixísti: In ætérnum misericórdia ædificábitur in cælis: * præparábitur véritas tua in eis.\nDispósui testaméntum eléctis meis, jurávi David, servo meo: * Usque in ætérnum præparábo semen tuum.\nEt ædificábo in generatiónem et generatiónem * sedem tuam.\nConfitebúntur cæli mirabília tua, Dómine: * étenim veritátem tuam in ecclésia sanctórum.\nQuóniam quis in núbibus æquábitur Dómino: * símilis erit Deo in fíliis Dei?\nDeus, qui glorificátur in consílio sanctórum: * magnus et terríbilis super omnes qui in circúitu ejus sunt.\nDómine, Deus virtútum, quis símilis tibi? * potens es, Dómine, et véritas tua in circúitu tuo.\nTu domináris potestáti maris: * motum autem flúctuum ejus tu mítigas.\nTu humiliásti sicut vulnerátum, supérbum: * in brácchio virtútis tuæ dispersísti inimícos tuos.\nTui sunt cæli, et tua est terra, orbem terræ et plenitúdinem ejus tu fundásti: * aquilónem, et mare tu creásti.\nThabor et Hermon in nómine tuo exsultábunt: * tuum brácchium cum poténtia.\nFirmétur manus tua, et exaltétur déxtera tua: * justítia et judícium præparátio sedis tuæ.\nMisericórdia et véritas præcédent fáciem tuam: * beátus pópulus, qui scit jubilatiónem.\nDómine, in lúmine vultus tui ambulábunt, et in nómine tuo exsultábunt tota die: * et in justítia tua exaltabúntur.\nQuóniam glória virtútis eórum tu es: * et in beneplácito tuo exaltábitur cornu nostrum.\nQuia Dómini est assúmptio nostra, * et Sancti Israël, regis nostri.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Von Geschlecht zu Geschlecht * will ich Deine Wahrheit verkünden mit meinem mund.\nVon Geschlecht zu Geschlecht * will ich Deine Wahrheit verkünden mit meinem mund.\nDenn Du hast gesagt: in Ewigkeit wird barmherzigkeit errichtet in den Himmeln, * Deine Wahrheit wird bereitet in ihnen.\nEinen bund habe ich geschlossen mit meinen Erwählten, ich habe David, meinem Knecht, geschworen: * bis in Ewigkeit will ich dir nachkommen bereiten.\nund errichten will ich von Geschlecht zu Geschlecht * deinen Thron.\nPreisen werden die Himmel Deine Wunder, o Herr, * und Deine Wahrheit in der Versammlung der Heiligen.\nDenn wer in den Wolken gleicht dem Herrn? * Wer wird Gott ähnlich sein unter den Gottessöhnen?\nGott, der verherrlicht wird im rat der Heiligen, * ist groß und schrecklich, mehr als alle, die rings um ihn sind.\nHerr, Gott der Heere, wer ist Dir ähnlich? * mächtig bist Du, Herr, und Deine Wahrheit ist rings um Dich.\nDu beherrschst die Gewalt des meeres, * die bewegung seiner Fluten milderst Du.\nDu hast den Hochmütigen erniedrigt wie einen Verwundeten, * mit dem Arm Deiner Kraft hast Du Deine Feinde zerstreut.\nDein sind die Himmel und Dein ist die Erde, den Erdkreis und seine Fülle hast Du gegründet, * den norden und das Südmeer hast Du geschaffen.\nTabor und Hermon werden jauchzen in Deinem namen, * Dein Arm ist mit macht.\nErstarken soll Deine Hand, und erhöht werden soll Deine rechte, * Gerechtigkeit und recht sind die Stütze Deines Thrones.\nbarmherzigkeit und Wahrheit gehen her vor Deinem Angesicht; * selig das Volk, das Jubel kennt.\nHerr, im licht Deines Angesichts werden sie wandeln und in Deinem namen frohlocken den ganzen Tag, * und in Deiner Gerechtigkeit werden sie erhöht.\nDenn der ruhm ihrer Kraft bist Du, * und durch Dein Wohlgefallen wird erhöht unser Horn.\nDenn der Herr ist es, der uns aufnimmt, * der Heilige israels, unser König.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Misericórdia et véritas * præcédent fáciem tuam, Dómine."
+      }
+    },
+    {
+      "id": "week-feria6-non-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 88 (20-38)",
+        "de": "Psalm 88 (20-38)"
+      },
+      "text": {
+        "la": "Tunc locútus es in visióne sanctis tuis, et dixísti: * Pósui adjutórium in poténte: et exaltávi eléctum de plebe mea.\nInvéni David, servum meum: * óleo sancto meo unxi eum.\nManus enim mea auxiliábitur ei: * et brácchium meum confortábit eum.\nNihil profíciet inimícus in eo, * et fílius iniquitátis non appónet nocére ei.\nEt concídam a fácie ipsíus inimícos ejus: * et odiéntes eum in fugam convértam.\nEt véritas mea, et misericórdia mea cum ipso: * et in nómine meo exaltábitur cornu ejus.\nEt ponam in mari manum ejus: * et in flumínibus déxteram ejus.\nIpse invocábit me: Pater meus es tu: * Deus meus, et suscéptor salútis meæ.\nEt ego primogénitum ponam illum * excélsum præ régibus terræ.\nIn ætérnum servábo illi misericórdiam meam: * et testaméntum meum fidéle ipsi.\nEt ponam in sǽculum sǽculi semen ejus: * et thronum ejus sicut dies cæli.\nSi autem derelíquerint fílii ejus legem meam: * et in judíciis meis non ambuláverint:\nSi justítias meas profanáverint: * et mandáta mea non custodíerint:\nVisitábo in virga iniquitátes eórum: * et in verbéribus peccáta eórum.\nMisericórdiam autem meam non dispérgam ab eo: * neque nocébo in veritáte mea:\nNeque profanábo testaméntum meum: * et quæ procédunt de lábiis meis, non fáciam írrita.\nSemel jurávi in sancto meo: Si David méntiar: * semen ejus in ætérnum manébit.\nEt thronus ejus sicut sol in conspéctu meo, * et sicut luna perfécta in ætérnum: et testis in cælo fidélis.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Damals hast Du in einer Schauung zu Deinen Heiligen gesprochen und gesagt: * ich gewährte einem Helden beistand und erhöhte einen Auserwählten aus meinem Volk.\nich habe David, meinen Knecht, gefunden, * mit meinem heiligen Öl ihn gesalbt.\nDenn meine Hand soll ihm helfen * und mein Arm ihn stärken.\nKeinen nutzen soll der Feind von ihm haben, * und der Sohn der bosheit soll nicht ansetzen, ihm zu schaden.\nund zermalmen will ich seine Feinde vor seinem Angesicht * und die ihn hassen in die Flucht schlagen.\nund meine Wahrheit und meine barmherzigkeit sind mit ihm, * und in meinem namen wird erhöht werden sein Horn.\nund auf das meer will ich seine Hand legen * und auf die Flüsse seine rechte.\nEr wird mich anrufen: mein Vater bist Du, * mein Gott und der Hort meines Heils.\nund zum Erstgeborenen will ich ihn machen, * erhaben vor den Königen der Erde.\nin Ewigkeit will ich ihm meine barmherzigkeit bewahren, * und mein bund ist ihm treu.\nund ich will einsetzen von Ewigkeit zu Ewigkeit seine nachkommen * und seinen Thron wie die Tage des Himmels.\nWenn aber seine Söhne mein Gesetz verlassen * und nicht nach meinen urteilen wandeln,\nwenn sie meine rechtssprüche entweihen * und meine Gebote nicht beachten,\ndann werde ich heimsuchen mit der rute ihre ungerechtigkeiten * und mit Schlägen ihre Sünden.\nmeine barmherzigkeit aber will ich nicht von ihm abziehen, * noch will ich Schaden tun an meiner Wahrheit.\nnicht will ich entweihen meinen bund, * und was hervorgeht von meinen lippen, will ich nicht ungültig machen.\nEinmal habe ich geschworen in meinem Heiligtum, niemals will ich David belügen: * Sein nachkomme soll bleiben in Ewigkeit\nund sein Thron wie die Sonne vor meinem Angesicht * und wie der mond, bereitet auf ewig und ein treuer zeuge am Himmel.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria6-non-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 88 (39-53)",
+        "de": "Psalm 88 (39-53)"
+      },
+      "text": {
+        "la": "Tu vero repulísti et despexísti: * distulísti Christum tuum.\nEvertísti testaméntum servi tui: * profanásti in terra Sanctuárium ejus.\nDestruxísti omnes sepes ejus: * posuísti firmaméntum ejus formídinem.\nDiripuérunt eum omnes transeúntes viam: * factus est oppróbrium vicínis suis.\nExaltásti déxteram depriméntium eum: * lætificásti omnes inimícos ejus.\nAvertísti adjutórium gládii ejus: * et non es auxiliátus ei in bello.\nDestruxísti eum ab emundatióne: * et sedem ejus in terram collisísti.\nMinorásti dies témporis ejus: * perfudísti eum confusióne.\nÚsquequo, Dómine, avértis in finem: * exardéscet sicut ignis ira tua?\nMemoráre quæ mea substántia: * numquid enim vane constituísti omnes fílios hóminum?\nQuis est homo, qui vivet, et non vidébit mortem: * éruet ánimam suam de manu ínferi?\nUbi sunt misericórdiæ tuæ antíquæ, Dómine, * sicut jurásti David in veritáte tua?\nMemor esto, Dómine, oppróbrii servórum tuórum * quod contínui in sinu meo multárum géntium.\nQuod exprobravérunt inimíci tui, Dómine, * quod exprobravérunt commutatiónem Christi tui.\nBenedíctus Dóminus in ætérnum: * fiat, fiat.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Du aber hast verworfen und verschmäht, * verstoßen hast Du Deinen Gesalbten.\numgestürzt hast Du den bund Deines Knechtes, * entweiht im lande sein Heiligtum.\nniedergerissen hast Du all seine zäune, * seine Festung hast Du zum Schreckbild gemacht.\nAusgeraubt haben ihn alle, die des Weges vorübergingen, * zur Schmach ist er geworden für seine nachbarn.\nErhöht hast Du die rechte seiner bedränger, * hast erfreut all seine Feinde.\nAbgewandt hast Du die Hilfe seines Schwertes, * und im Krieg hast Du ihm nicht geholfen.\nAbgebrochen hast Du ihn von der reinigung * und seinen Thron zur Erde geschmettert.\nAbgekürzt hast Du die Tage seiner zeit, * hast ihn übergossen mit Schmach.\nWie lange noch, Herr, wirst Du Dich gänzlich abwenden, * wird brennen wie Feuer Dein zorn?\nGedenke, was mein Dasein ist; * hast Du denn vergeblich alle menschenkinder erschaffen?\nWer ist der mensch, der leben und den Tod nicht schauen wird, * der seine Seele rettet aus der Hand der unterwelt?\nWo sind Deine alten Erbarmungen, Herr, * wie Du David geschworen hast in Deiner Wahrheit?\nGedenke, Herr, der Schmach Deiner Knechte, * die ich in meiner brust bewahrte, vonseiten vieler Völker,\nwomit Deine Feinde geschmäht haben, Herr, * womit sie geschmäht haben das lösegeld Deines Gesalbten.\nGebenedeit sei der Herr in Ewigkeit. * So sei es! So sei es!\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

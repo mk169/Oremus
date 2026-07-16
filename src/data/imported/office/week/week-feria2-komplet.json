@@ -1,0 +1,104 @@
+{
+  "id": "week-feria2-komplet",
+  "form": "1962",
+  "hour": "komplet",
+  "name": {
+    "la": "Ad Completorium",
+    "de": "Komplet (Nachtgebet)"
+  },
+  "day": {
+    "title": {
+      "la": "Feria II",
+      "de": "Montag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-feria2-komplet-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria2-komplet-hymnus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Te lucis ante términum, rerum Creátor, póscimus, ut pro tua cleméntia sis præsul et custódia.\nProcul recédant sómnia, et nóctium phantásmata; hostémque nostrum cómprime, ne polluántur córpora.",
+        "de": "Bevor des Tages Licht vergeht, o Herr der Welt, so hören wir: In deiner großen Güte bleib uns Schutz und Wächter für die Nacht.\nWeit weiche jeder böse Traum, weit weiche nächtlich Schreckgebild; bezwinge unsern alten Feind, dass rein der Leib vom Frevel bleibt."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
+      }
+    },
+    {
+      "id": "week-feria2-komplet-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 6",
+        "de": "Psalm 6"
+      },
+      "text": {
+        "la": "Dómine, ne in furóre tuo árguas me, * neque in ira tua corrípias me.\nMiserére mei, Dómine, quóniam infírmus sum: * sana me, Dómine, quóniam conturbáta sunt ossa mea.\nEt ánima mea turbáta est valde: * sed tu, Dómine, úsquequo?\nConvértere, Dómine, et éripe ánimam meam: * salvum me fac propter misericórdiam tuam.\nQuóniam non est in morte qui memor sit tui: * in inférno autem quis confitébitur tibi?\nLaborávi in gémitu meo, † lavábo per síngulas noctes lectum meum: * lácrimis meis stratum meum rigábo.\nTurbátus est a furóre óculus meus: * inveterávi inter omnes inimícos meos.\nDiscédite a me, omnes, qui operámini iniquitátem: * quóniam exaudívit Dóminus vocem fletus mei.\nExaudívit Dóminus deprecatiónem meam, * Dóminus oratiónem meam suscépit.\nErubéscant, et conturbéntur veheménter omnes inimíci mei: * convertántur et erubéscant valde velóciter.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Herr, strafe mich nicht in Deinem Grimm * und züchtige mich nicht in Deinem Zorne.\nErbarme Dich meiner, o Herr, denn ich bin krank, * heile mich, Herr, denn mein Gebein ist verstört,\nund meine Seele ist sehr bestürzt: * Du aber, Herr, wie lange noch?\nWende Dich, Herr, und reiß heraus meine Seele, * schaffe mir Heil um Deiner Barmherzigkeit willen,\nDenn im Tode ist niemand, der Deiner gedenkt; * im Totenreich aber, wer wird Dich preisen?\nIch habe mich abgemüht in meinem Seufzen, † benetze jede Nacht mein Bett * und tränke mein Lager mit meinen Tränen.\nVerwirrt ist vor Gram mein Auge, * gealtert bin ich unter all meinen Feinden.\nWeicht von mir, alle, die ihr Ungerechtigkeit verübt, * denn der Herr hat die Stimme meines Weinens erhört.\nDer Herr hat mein Flehen erhört, * der Herr hat mein Gebet angenommen.\nEs sollen beschämt werden und heftig erschrecken all meine Feinde, * sie sollen zurückweichen und sehr schnell beschämt werden.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Salvum me fac, * Dómine, propter misericórdiam tuam.",
+        "de": "Ant. Salvum me fac, * Dómine, propter misericórdiam tuam."
+      }
+    },
+    {
+      "id": "week-feria2-komplet-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 7 (2-10)",
+        "de": "Psalm 7 (2-10)"
+      },
+      "text": {
+        "la": "Dómine, Deus meus, in te sperávi: * salvum me fac ex ómnibus persequéntibus me, et líbera me.\nNequándo rápiat ut leo ánimam meam, * dum non est qui rédimat, neque qui salvum fáciat.\nDómine, Deus meus, si feci istud, * si est iníquitas in mánibus meis:\nSi réddidi retribuéntibus mihi mala, * décidam mérito ab inimícis meis inánis.\nPersequátur inimícus ánimam meam, † et comprehéndat, et concúlcet in terra vitam meam, * et glóriam meam in púlverem dedúcat.\nExsúrge, Dómine, in ira tua: * et exaltáre in fínibus inimicórum meórum.\nEt exsúrge, Dómine, Deus meus, in præcépto quod mandásti: * (8a) et synagóga populórum circúmdabit te.\nEt propter hanc in altum regrédere: * (9a) Dóminus júdicat pópulos.\nJúdica me, Dómine, secúndum justítiam meam, * et secúndum innocéntiam meam super me.\nConsumétur nequítia peccatórum, et díriges justum, * scrutans corda et renes, Deus.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Herr, mein Gott, auf Dich habe ich meine Hoffnung gesetzt; * errette mich von all meinen Verfolgern und befreie mich.\nDamit nicht einer wie ein Löwe meine Seele raubt, * während keiner da ist, der mich erlöst, und keiner, der mich rettet.\nHerr, mein Gott, wenn ich solches getan, * wenn unrecht an meinen Händen klebt,\nwenn ich denen, die mir böses taten, vergolten habe, * so mag mit recht ich untergehen durch meine Feinde,\nDann möge der Feind meine Seele verfolgen † und sie ergreifen und zu Boden treten mein Leben * und meine Ehre in den Staub niederziehen.\nSteh auf, Herr, in Deinem Zorn * und erhebe Dich an den Grenzen meiner Feinde.\nJa, steh auf, Herr, mein Gott, nach der Weisung, die Du erlassen, * (8a) und die Versammlung der Völker wird Dich umgeben,\nund ihretwegen kehre zurück in die Höhe: * (9a) Der Herr richtet die Völker.\nRichte mich, Herr, nach meiner Gerechtigkeit, * und über mich nach meiner Unschuld.\nDie Bosheit der Sünder werde vertilgt, und Du wirst leiten den Gerechten, * der Du die Herzen und Nieren prüfst, o Gott.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria2-komplet-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 7 (11-18)",
+        "de": "Psalm 7 (11-18)"
+      },
+      "text": {
+        "la": "Justum adjutórium meum a Dómino, * qui salvos facit rectos corde.\nDeus judex justus, fortis, et pátiens: * numquid iráscitur per síngulos dies?\nNisi convérsi fuéritis, gládium suum vibrábit: * arcum suum teténdit, et parávit illum.\nEt in eo parávit vasa mortis: * sagíttas suas ardéntibus effécit.\nEcce, partúriit injustítiam: * concépit dolórem, et péperit iniquitátem.\nLacum apéruit, et effódit eum: * et íncidit in fóveam quam fecit.\nConvertétur dolor ejus in caput ejus: * et in vérticem ipsíus iníquitas ejus descéndet.\nConfitébor Dómino secúndum justítiam ejus: * et psallam nómini Dómini altíssimi.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Meine gerechte Hilfe kommt vom Herrn, * der die errettet, die aufrichtigen Herzens sind.\nGott ist ein gerechter Richter, stark und geduldig; * zürnt er etwa Tag um Tag?\nWenn ihr euch nicht bekehrt, wird er sein Schwert zücken, * seinen bogen hat er gespannt und ihn bereitet.\nUnd tödliche Geschosse hat er auf ihm bereitet; * seine Pfeile hat er gemacht für die brennenden.\nSeht, jener ging schwanger mit unrecht; * er empfing Schmerz und gebar Frevel.\nEine Grube hat er geöffnet und sie ausgehoben, * und er stürzt selbst in die Grube, die er gemacht hat.\nZurückgewendet wird sein Schmerz auf sein Haupt, * und auf seinen Scheitel fährt sein Frevel herab.\nPreisen will ich den Herrn nach seiner Gerechtigkeit, * und spielen will ich dem Namen des Herrn, des Höchsten.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria2-komplet-nunc",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Canticum Simeonis (Nunc dimittis)",
+        "de": "Lobgesang des Simeon"
+      },
+      "reference": {
+        "la": "Luc 2, 29-32",
+        "de": "Luc 2, 29-32"
+      },
+      "text": {
+        "la": "Nunc dimíttis servum tuum, Dómine, * secúndum verbum tuum in pace:\nQuia vidérunt óculi mei * salutáre tuum,\nQuod parásti * ante fáciem ómnium populórum,\nLumen ad revelatiónem géntium, * et glóriam plebis tuæ Israël.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Nun entlässest du, Herr, deinen Diener * nach deinem Worte in Frieden;\ndenn meine Augen haben * dein Heil geschaut,\ndas du bereitet hast * vor dem Angesicht aller Völker:\nein Licht zur Erleuchtung der Heiden * und zur Verherrlichung deines Volkes Israel.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

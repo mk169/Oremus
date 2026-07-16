@@ -1,0 +1,87 @@
+{
+  "id": "week-sabbato-non",
+  "form": "1962",
+  "hour": "non",
+  "name": {
+    "la": "Ad Nonam",
+    "de": "Non"
+  },
+  "day": {
+    "title": {
+      "la": "Sabbato",
+      "de": "Samstag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-sabbato-non-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-sabbato-non-hymnus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Rerum, Deus, tenax vigor, immótus in te pérmanens, lucis diúrnæ témpora succéssibus detérminans.\nLargíre lumen véspere, quo vita nusquam décidat, sed prǽmium mortis sacræ perénnis instet glória.",
+        "de": "Du starke Kraft, die alles hält, o Gott, in dir unwandelbar, der du des Tages Lichteslauf in Stufen ordnest und bestimmst.\nSchenk gnädig Licht am Lebensend, dass unser Leben nie erlischt, dass ewge Herrlichkeit uns folgt als Lohn für einen heilgen Tod."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
+      }
+    },
+    {
+      "id": "week-sabbato-non-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 108 (2-13)",
+        "de": "Psalm 108 (2-13)"
+      },
+      "text": {
+        "la": "Deus, laudem meam ne tacúeris: * quia os peccatóris, et os dolósi super me apértum est.\nLocúti sunt advérsum me lingua dolósa, et sermónibus ódii circumdedérunt me: * et expugnavérunt me gratis.\nPro eo ut me dilígerent, detrahébant mihi: * ego autem orábam.\nEt posuérunt advérsum me mala pro bonis: * et ódium pro dilectióne mea.\nConstítue super eum peccatórem: * et diábolus stet a dextris ejus.\nCum judicátur, éxeat condemnátus: * et orátio ejus fiat in peccátum.\nFiant dies ejus pauci: * et episcopátum ejus accípiat alter.\nFiant fílii ejus órphani: * et uxor ejus vídua.\nNutántes transferántur fílii ejus, et mendícent: * et eiciántur de habitatiónibus suis.\nScrutétur fænerátor omnem substántiam ejus: * et dirípiant aliéni labóres ejus.\nNon sit illi adjútor: * nec sit qui misereátur pupíllis ejus.\nFiant nati ejus in intéritum: * in generatióne una deleátur nomen ejus.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Gott, übergehe nicht mein lob mit Schweigen, * denn der mund des Sünders und der mund des betrügers ist gegen mich aufgetan.\nSie redeten wider mich mit trügerischer zunge und um geben mich mit Worten des Hasses, * und sie bekämpften mich ohne Grund.\nAnstatt mich zu lieben, zogen sie mich herab; * ich aber betete.\nund sie setzten gegen mich böses für Gutes * und Hass für meine liebe.\n„Stelle einen Sünder über ihn, * und der Teufel stehe zu seiner rechten.\nWenn er gerichtet wird, gehe er verurteilt hinaus, * und sein Gebet werde zur Sünde.\nSeine Tage sollen wenige sein * und sein Amt erhalte ein anderer.\nSeine Söhne sollen Waisen werden * und seine Frau eine Witwe.\nunstet sollen seine Söhne umherziehen und betteln, * und sie sollen vertrieben werden aus ihren Wohnungen.\nDer Wucherer spüre all seine Habe auf, * und Fremde sollen plündern, was er mühsam erworben.\nKein Helfer soll ihm sein, * und keiner soll sein, der sich erbarmt seiner Waisen.\nSeine nachkommen seien bestimmt zum untergang, * in einer Gene ration werde ausgetilgt sein name.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Ne tacúeris Deus, * quia sermónibus ódii circumdedérunt me."
+      }
+    },
+    {
+      "id": "week-sabbato-non-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 108 (14-21)",
+        "de": "Psalm 108 (14-21)"
+      },
+      "text": {
+        "la": "In memóriam rédeat iníquitas patrum ejus in conspéctu Dómini: * et peccátum matris ejus non deleátur.\nFiant contra Dóminum semper, et dispéreat de terra memória eórum: * pro eo quod non est recordátus fácere misericórdiam.\nEt persecútus est hóminem ínopem, et mendícum, * et compúnctum corde mortificáre.\nEt diléxit maledictiónem, et véniet ei: * et nóluit benedictiónem, et elongábitur ab eo.\nEt índuit maledictiónem sicut vestiméntum, * et intrávit sicut aqua in interióra ejus, et sicut óleum in óssibus ejus.\nFiat ei sicut vestiméntum, quo operítur: * et sicut zona, qua semper præcíngitur.\nHoc opus eórum, qui détrahunt mihi apud Dóminum: * et qui loquúntur mala advérsus ánimam meam.\nEt tu, Dómine, Dómine, fac mecum propter nomen tuum: * quia suávis est misericórdia tua.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "in Erinnerung kehre zurück die Schuld seiner Väter vor dem Angesicht des Herrn, * und die Sünde seiner mutter werde nicht getilgt.\nSie [Schuld und Sünde] seien vor dem Herrn immerdar, und ausgelöscht von der Erde werde das Andenken an jene.“ * Weil er nicht daran dachte, barmherzigkeit zu üben,\nsondern den hilflosen menschen verfolgte und den Armen * und den, der im Herzen erschüttert ist, um ihn zu töten,\nund er den Fluch anzog wie ein Gewand, * und er drang wie Wasser in sein inneres und wie Öl in seine Gebeine,\nund er den Fluch anzog wie ein Gewand, * und er drang wie Wasser in sein inneres und wie Öl in seine Gebeine,\nsei er ihm wie ein Gewand, das ihn bedeckt * und wie ein Gürtel, der ihn stets umschlingt.\nDies sei der lohn für die, die mich verleumden beim Herrn * und die böses reden gegen meine Seele.\nDu aber, Herr, Herr, handle an mir um Deines namens willen, * denn lieblich ist Deine barmherzigkeit.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-sabbato-non-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 108 (22-31)",
+        "de": "Psalm 108 (22-31)"
+      },
+      "text": {
+        "la": "Líbera me quia egénus, et pauper ego sum: * et cor meum conturbátum est intra me.\nSicut umbra cum declínat, ablátus sum: * et excússus sum sicut locústæ.\nGénua mea infirmáta sunt a jejúnio: * et caro mea immutáta est propter óleum.\nEt ego factus sum oppróbrium illis: * vidérunt me, et movérunt cápita sua.\nÁdjuva me, Dómine, Deus meus: * salvum me fac secúndum misericórdiam tuam.\nEt sciant quia manus tua hæc: * et tu, Dómine, fecísti eam.\nMaledícent illi, et tu benedíces: * qui insúrgunt in me, confundántur: servus autem tuus lætábitur.\nInduántur qui détrahunt mihi, pudóre: * et operiántur sicut diplóide confusióne sua.\nConfitébor Dómino nimis in ore meo: * et in médio multórum laudábo eum.\nQuia ástitit a dextris páuperis, * ut salvam fáceret a persequéntibus ánimam meam.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "befreie mich, denn bedürftig und arm bin ich, * und mein Herz ist verwirrt in mir.\nWie ein Schatten, wenn er sich neigt, werde ich hingerafft * und abgeschüttelt wie Heuschrecken.\nmeine Knie sind geschwächt vom Fasten, * und mein Fleisch ist abgezehrt wegen des Öls.\nund ich bin ihnen zum Hohn geworden, * sie sahen mich und schüttelten ihre Köpfe.\nHilf mir, Herr, mein Gott, * schaffe mir Heil nach Deiner barmherzigkeit.\nund sie sollen wissen, dass dies Deine Hand ist, * und dass Du, o Herr, es vollbracht hast.\nSie mögen fluchen, und Du wirst segnen; * die sich gegen mich erheben, mögen zuschanden werden, Dein Knecht aber wird erfreut.\nbekleidet werden sollen, die mich verleumden, mit Schande, * und umhüllt werden wie mit einem mantel sollen sie von ihrer Schmach.\nich will preisen den Herrn mit meinem mund, * und inmitten Vieler will ich ihn loben.\nDenn er stand zur rechten des Armen, * um meine Seele vor den Verfolgern zu retten.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

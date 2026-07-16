@@ -1,0 +1,104 @@
+{
+  "id": "week-feria4-komplet",
+  "form": "1962",
+  "hour": "komplet",
+  "name": {
+    "la": "Ad Completorium",
+    "de": "Komplet (Nachtgebet)"
+  },
+  "day": {
+    "title": {
+      "la": "Feria IV",
+      "de": "Mittwoch"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-feria4-komplet-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria4-komplet-hymnus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Te lucis ante términum, rerum Creátor, póscimus, ut pro tua cleméntia sis præsul et custódia.\nProcul recédant sómnia, et nóctium phantásmata; hostémque nostrum cómprime, ne polluántur córpora.",
+        "de": "Bevor des Tages Licht vergeht, o Herr der Welt, so hören wir: In deiner großen Güte bleib uns Schutz und Wächter für die Nacht.\nWeit weiche jeder böse Traum, weit weiche nächtlich Schreckgebild; bezwinge unsern alten Feind, dass rein der Leib vom Frevel bleibt."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
+      }
+    },
+    {
+      "id": "week-feria4-komplet-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 33 (2-11)",
+        "de": "Psalm 33 (2-11)"
+      },
+      "text": {
+        "la": "Benedícam Dóminum in omni témpore: * semper laus ejus in ore meo.\nIn Dómino laudábitur ánima mea: * áudiant mansuéti, et læténtur.\nMagnificáte Dóminum mecum: * et exaltémus nomen ejus in idípsum.\nExquisívi Dóminum, et exaudívit me: * et ex ómnibus tribulatiónibus meis erípuit me.\nAccédite ad eum, et illuminámini: * et fácies vestræ non confundéntur.\nIste pauper clamávit, et Dóminus exaudívit eum: * et de ómnibus tribulatiónibus ejus salvávit eum.\nImmíttet Ángelus Dómini in circúitu timéntium eum: * et erípiet eos.\nGustáte, et vidéte quóniam suávis est Dóminus: * beátus vir, qui sperat in eo.\nTiméte Dóminum, omnes sancti ejus: * quóniam non est inópia timéntibus eum.\nDívites eguérunt et esuriérunt: * inquiréntes autem Dóminum non minuéntur omni bono.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Preisen will ich den Herrn zu jeder zeit, * stets sei sein lob in meinem mund.\nmeine Seele rühme sich im Herrn, * es sollen hören die Sanftmütigen und sich freuen.\nmacht groß mit mir den Herrn, * lasst uns miteinander seinen namen erheben!\nich suchte den Herrn, und er hat mich erhört, * und all meinen Drangsalen hat er mich entrissen.\nTretet hin zu ihm, und ihr werdet erleuchtet, * und euer Angesicht wird nicht zuschanden werden.\nDieser Arme schrie, und der Herr hat ihn erhört, * und aus all seinen Drangsalen hat er ihn errettet.\nDer Engel des Herrn wird sich lagern um jene, die ihn fürchten, * und er wird sie erretten.\nKostet und seht, wie gütig der Herr ist, * selig der mann, der auf ihn hofft.\nFürchtet den Herrn, all seine Heiligen, * denn es gibt keinen mangel für jene, die ihn fürchten.\nreiche haben gedarbt und gehungert, * jene aber, die den Herrn suchen, werden nicht abnehmen an jeglichem Gut.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Immíttet Ángelus Dómini * in circúitu timéntium eum: et erípiet eos.",
+        "de": "Ant. Immíttet Ángelus Dómini * in circúitu timéntium eum: et erípiet eos."
+      }
+    },
+    {
+      "id": "week-feria4-komplet-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 33 (12-23)",
+        "de": "Psalm 33 (12-23)"
+      },
+      "text": {
+        "la": "Veníte, fílii, audíte me: * timórem Dómini docébo vos.\nQuis est homo qui vult vitam: * díligit dies vidére bonos?\nPróhibe linguam tuam a malo: * et lábia tua ne loquántur dolum.\nDivérte a malo, et fac bonum: * inquíre pacem, et perséquere eam.\nÓculi Dómini super justos: * et aures ejus in preces eórum.\nVultus autem Dómini super faciéntes mala: * ut perdat de terra memóriam eórum.\nClamavérunt justi, et Dóminus exaudívit eos: * et ex ómnibus tribulatiónibus eórum liberávit eos.\nJuxta est Dóminus iis, qui tribuláto sunt corde: * et húmiles spíritu salvábit.\nMultæ tribulatiónes justórum: * et de ómnibus his liberábit eos Dóminus.\nCustódit Dóminus ómnia ossa eórum: * unum ex his non conterétur.\nMors peccatórum péssima: * et qui odérunt justum, delínquent.\nRédimet Dóminus ánimas servórum suórum: * et non delínquent omnes qui sperant in eo.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Kommt, ihr Kinder, hört auf mich: * die Furcht des Herrn will ich euch lehren.\nWer ist der mann, der das leben will, * der es liebt, gute Tage zu sehen?\nbewahre deine zunge vor dem bösen * und deine lippen, dass sie nicht Trug reden.\nWende dich ab vom bösen und tue das Gute, * suche den Frieden und jage ihm nach.\nDie Augen des Herrn ruhen auf den Gerechten, * und seine Ohren hören ihre bitten.\nDas Angesicht des Herrn jedoch wendet sich gegen jene, die böses tun, * um ihr Andenken zu tilgen von der Erde.\nDie Gerechten riefen, und der Herr hat sie erhört, * und aus all ihren Drangsalen hat er sie befreit.\nnahe ist der Herr jenen, die bedrängten Herzens sind, * und die demütigen Geistes sind, wird er retten.\nzahlreich sind die Drangsale der Gerechten, * doch aus allen wird der Herr sie retten.\nDer Herr bewahrt all ihre Gebeine, * nicht eines von ihnen wird zerbrochen werden.\nDer Tod der Sünder ist erbärmlich, * und die den Gerechten hassen, geraten in Schuld.\nErlösen wird der Herr die Seelen seiner Knechte, * und keine Schuld werden auf sich laden alle, die auf ihn hoffen.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria4-komplet-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 60",
+        "de": "Psalm 60"
+      },
+      "text": {
+        "la": "Exáudi, Deus, deprecatiónem meam: * inténde oratióni meæ.\nA fínibus terræ ad te clamávi: * dum anxiarétur cor meum, in petra exaltásti me.\nDeduxísti me, quia factus es spes mea: * turris fortitúdinis a fácie inimíci.\nInhabitábo in tabernáculo tuo in sǽcula: * prótegar in velaménto alárum tuárum.\nQuóniam tu, Deus meus, exaudísti oratiónem meam: * dedísti hereditátem timéntibus nomen tuum.\nDies super dies regis adícies: * annos ejus usque in diem generatiónis et generatiónis.\nPérmanet in ætérnum in conspéctu Dei: * misericórdiam et veritátem ejus quis requíret?\nSic psalmum dicam nómini tuo in sǽculum sǽculi: * ut reddam vota mea de die in diem.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Vom End' der Welt muss ich dich rufen, * unruhig pocht das Herz in mir.\nNachdem du mich in Sicherheit gebracht hast, * musst du mich weiter führen.\nNun möchte ich in deinem Hause ewig wohnen, * geschützt sein unter deiner Flügel Decke.\nO ja, mein Gott, du hast erhört mein Bitten; * du hast das Erbland nun den Freunden deiner Majestät gegeben.\nO füge doch recht viel hinzu zu meinen Tagen, * dehn' meine Jahre aus, dass sie die Dauer haben sämtlicher Geschlechter.\nIch möcht', o Gott, in deiner Gegenwart gesegnet sein auf ewig; * wenn jemand solche Huld von dir und solche Güte darf erbitten.\nDann werd' ich deiner Majestät auch ewig Lieder singen, * um mein versproch'nes Opfer alle Tage darzubringen.\n\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria4-komplet-nunc",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Canticum Simeonis (Nunc dimittis)",
+        "de": "Lobgesang des Simeon"
+      },
+      "reference": {
+        "la": "Luc 2, 29-32",
+        "de": "Luc 2, 29-32"
+      },
+      "text": {
+        "la": "Nunc dimíttis servum tuum, Dómine, * secúndum verbum tuum in pace:\nQuia vidérunt óculi mei * salutáre tuum,\nQuod parásti * ante fáciem ómnium populórum,\nLumen ad revelatiónem géntium, * et glóriam plebis tuæ Israël.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Nun entlässest du, Herr, deinen Diener * nach deinem Worte in Frieden;\ndenn meine Augen haben * dein Heil geschaut,\ndas du bereitet hast * vor dem Angesicht aller Völker:\nein Licht zur Erleuchtung der Heiden * und zur Verherrlichung deines Volkes Israel.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

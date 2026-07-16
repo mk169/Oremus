@@ -1,0 +1,88 @@
+{
+  "id": "week-feria3-terz",
+  "form": "1962",
+  "hour": "terz",
+  "name": {
+    "la": "Ad Tertiam",
+    "de": "Terz"
+  },
+  "day": {
+    "title": {
+      "la": "Feria III",
+      "de": "Dienstag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-feria3-terz-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria3-terz-hymnus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Nunc, Sancte, nobis, Spíritus, unum Patri cum Fílio, dignáre promptus íngeri nostro refúsus péctori.\nOs, lingua, mens, sensus, vigor confessiónem pérsonent, flamméscat igne cáritas, accéndat ardor próximos.",
+        "de": "Komm, Heilger Geist, und wohne uns, der eins mit Vater und mit Sohn, mit deiner Gnade gütig bei und gieße dich ins Herz uns ein.\nDass Mund und Zunge, Geist und Sinn dein Lob und dein Bekenntnis ist, in Liebe lodre unser Herz und zünde auch den Nächsten an."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
+      }
+    },
+    {
+      "id": "week-feria3-terz-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 39 (2-9)",
+        "de": "Psalm 39 (2-9)"
+      },
+      "text": {
+        "la": "Exspéctans exspectávi Dóminum, * et inténdit mihi.\nEt exaudívit preces meas: * et edúxit me de lacu misériæ, et de luto fæcis.\nEt státuit super petram pedes meos: * et diréxit gressus meos.\nEt immísit in os meum cánticum novum, * carmen Deo nostro.\nVidébunt multi, et timébunt: * et sperábunt in Dómino.\nBeátus vir, cujus est nomen Dómini spes ejus: * et non respéxit in vanitátes et insánias falsas.\nMulta fecísti tu, Dómine, Deus meus, mirabília tua: * et cogitatiónibus tuis non est qui símilis sit tibi.\nAnnuntiávi et locútus sum: * multiplicáti sunt super númerum.\nSacrifícium et oblatiónem noluísti: * aures autem perfecísti mihi.\nHolocáustum et pro peccáto non postulásti: * tunc dixi: Ecce, vénio.\nIn cápite libri scriptum est de me ut fácerem voluntátem tuam: * Deus meus, vólui, et legem tuam in médio cordis mei.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Sehnlichst habe ich den Herrn erwartet, * und er hat sich mir zugewandt,\nund er hat meine Füße auf Fels gestellt * und meine Schritte geleitet,\nund er hat meine Füße auf Fels gestellt * und meine Schritte geleitet,\nViele werden es sehen und sich fürchten, * und sie werden hoffen auf den Herrn.\nViele werden es sehen und sich fürchten, * und sie werden hoffen auf den Herrn.\nSelig der mann, dessen Hoffnung der name des Herrn ist * und der nicht achtet auf nichtigkeiten und trügerische Tollheiten.\nich habe verkündet und gesprochen: * Sie sind viele geworden, mehr als jede zahl.\nich habe verkündet und gesprochen: * Sie sind viele geworden, mehr als jede zahl.\nAuch ein brandopfer für die Sünde hast Du nicht verlangt, * da sprach ich: Siehe, ich komme.\nAuch ein brandopfer für die Sünde hast Du nicht verlangt, * da sprach ich: Siehe, ich komme.\nin der buchrolle steht es von mir geschrieben, dass ich erfülle Deinen Willen; * mein Gott, das will ich, und auch Dein Gesetz in meines Herzens mitte.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Respéxit me * et exaudívit deprecatiónem meam Dóminus.",
+        "de": "Ant. Es hat mich angesehen *  der Herr und hat erhört mein Flehen."
+      }
+    },
+    {
+      "id": "week-feria3-terz-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 39 (10-14)",
+        "de": "Psalm 39 (10-14)"
+      },
+      "text": {
+        "la": "Annuntiávi justítiam tuam in ecclésia magna, * ecce, lábia mea non prohibébo: Dómine, tu scisti.\nJustítiam tuam non abscóndi in corde meo: * veritátem tuam et salutáre tuum dixi.\nNon abscóndi misericórdiam tuam et veritátem tuam * a concílio multo.\nTu autem, Dómine, ne longe fácias miseratiónes tuas a me: * misericórdia tua et véritas tua semper suscepérunt me.\nQuóniam circumdedérunt me mala, quorum non est númerus: * comprehendérunt me iniquitátes meæ, et non pótui ut vidérem.\nMultiplicátæ sunt super capíllos cápitis mei: * et cor meum derelíquit me.\nCompláceat tibi, Dómine, ut éruas me: * Dómine, ad adjuvándum me réspice.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Verkündet habe ich Deine Gerechtigkeit in großer Versammlung; * siehe, meinen lippen will ich nicht wehren, Herr, Du weißt es.\nich verbarg nicht Deine barmherzigkeit und Deine Wahrheit * vor der großen ratsversammlung.\nich verbarg nicht Deine barmherzigkeit und Deine Wahrheit * vor der großen ratsversammlung.\nDu aber, Herr, lass nicht fern sein Deine Erbarmungen von mir; * Deine barmherzigkeit und Deine Wahrheit haben mich immer gestützt.\nSie sind zahlreicher als die Haare meines Hauptes, * und mein Herz hat mich verlassen.\nSie sind zahlreicher als die Haare meines Hauptes, * und mein Herz hat mich verlassen.\nlass Dir gefallen, Herr, mich zu retten. * Herr, um mir zu helfen, schau auf mich.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria3-terz-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 39 (15-18)",
+        "de": "Psalm 39 (15-18)"
+      },
+      "text": {
+        "la": "Confundántur et revereántur simul, qui quærunt ánimam meam, * ut áuferant eam.\nConvertántur retrórsum, et revereántur, * qui volunt mihi mala.\nFerant conféstim confusiónem suam, * qui dicunt mihi: Euge, euge.\nExsúltent et læténtur super te omnes quæréntes te: * et dicant semper: Magnificétur Dóminus: qui díligunt salutáre tuum.\nEgo autem mendícus sum, et pauper: * Dóminus sollícitus est mei.\nAdjútor meus, et protéctor meus tu es: * Deus meus, ne tardáveris.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Sie mögen nach rückwärts gewendet werden und sich schämen, * die mir böses wollen.\nSie mögen nach rückwärts gewendet werden und sich schämen, * die mir böses wollen.\nSie mögen sogleich ihre Schande tragen, * die zu mir sagen: Wohlan, wohlan!\nFrohlocken sollen und sich freuen über Dich alle, die Dich suchen, * und die Dein Heil lieben sollen immer sagen: Hochgelobt sei der Herr!\nmein Helfer und mein beschützer bist Du, * mein Gott, säume nicht!\nmein Helfer und mein beschützer bist Du, * mein Gott, säume nicht!\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

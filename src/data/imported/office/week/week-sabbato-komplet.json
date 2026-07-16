@@ -1,0 +1,104 @@
+{
+  "id": "week-sabbato-komplet",
+  "form": "1962",
+  "hour": "komplet",
+  "name": {
+    "la": "Ad Completorium",
+    "de": "Komplet (Nachtgebet)"
+  },
+  "day": {
+    "title": {
+      "la": "Sabbato",
+      "de": "Samstag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-sabbato-komplet-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-sabbato-komplet-hymnus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Te lucis ante términum, rerum Creátor, póscimus, ut pro tua cleméntia sis præsul et custódia.\nProcul recédant sómnia, et nóctium phantásmata; hostémque nostrum cómprime, ne polluántur córpora.",
+        "de": "Bevor des Tages Licht vergeht, o Herr der Welt, so hören wir: In deiner großen Güte bleib uns Schutz und Wächter für die Nacht.\nWeit weiche jeder böse Traum, weit weiche nächtlich Schreckgebild; bezwinge unsern alten Feind, dass rein der Leib vom Frevel bleibt."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
+      }
+    },
+    {
+      "id": "week-sabbato-komplet-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 87",
+        "de": "Psalm 87"
+      },
+      "text": {
+        "la": "Dómine, Deus salútis meæ: * in die clamávi, et nocte coram te.\nIntret in conspéctu tuo orátio mea: * inclína aurem tuam ad precem meam:\nQuia repléta est malis ánima mea: * et vita mea inférno appropinquávit.\nÆstimátus sum cum descendéntibus in lacum: * factus sum sicut homo sine adjutório, inter mórtuos liber.\nSicut vulneráti dormiéntes in sepúlcris, quorum non es memor ámplius: * et ipsi de manu tua repúlsi sunt.\nPosuérunt me in lacu inferióri: * in tenebrósis, et in umbra mortis.\nSuper me confirmátus est furor tuus: * et omnes fluctus tuos induxísti super me.\nLonge fecísti notos meos a me: * posuérunt me abominatiónem sibi.\nTráditus sum, et non egrediébar: * óculi mei languérunt præ inópia.\nClamávi ad te, Dómine, tota die: * expándi ad te manus meas.\nNumquid mórtuis fácies mirabília: * aut médici suscitábunt, et confitebúntur tibi?\nNumquid narrábit áliquis in sepúlcro misericórdiam tuam, * et veritátem tuam in perditióne?\nNumquid cognoscéntur in ténebris mirabília tua, * et justítia tua in terra obliviónis?\nEt ego ad te, Dómine, clamávi: * et mane orátio mea prævéniet te.\nUt quid, Dómine, repéllis oratiónem meam: * avértis fáciem tuam a me?\nPauper sum ego, et in labóribus a juventúte mea: * exaltátus autem, humiliátus sum et conturbátus.\nIn me transiérunt iræ tuæ: * et terróres tui conturbavérunt me.\nCircumdedérunt me sicut aqua tota die: * circumdedérunt me simul.\nElongásti a me amícum et próximum: * et notos meos a miséria.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Herr, Du Gott meines Heils, * am Tag habe ich gerufen und in der nacht, vor Dir.\nEs komme mein Gebet vor Dein Angesicht, * neige Dein Ohr zu meiner bitte.\nDenn erfüllt von leid ist meine Seele, * und mein leben hat sich der unterwelt genaht.\nich wurde zu denen gezählt, die hinabsteigen ins Grab, * bin geworden wie ein mensch ohne Hilfe, frei unter Toten,\nwie Erschlagene, die in Gräbern ruhen, derer Du nicht mehr gedenkst; * und sie sind von Deiner Hand verstoßen.\nSie legten mich in die tiefste Grube, * in Finsternis und in Schatten des Todes.\nAuf mich legte sich schwer Dein Grimm, * und all Deine Fluten führtest Du über mich.\nich wurde ausgeliefert und kam nicht mehr heraus, * meine Augen sind ermattet vor not.\nich wurde ausgeliefert und kam nicht mehr heraus, * meine Augen sind ermattet vor not.\nich schrie zu Dir, o Herr, den ganzen Tag * und streckte meine Hände nach Dir aus.\nWirst Du etwa an den Toten Wunder tun, * oder werden Ärzte sie erwecken, und werden sie Dich dann preisen?\nWird etwa jemand im Grab Deine barmherzigkeit verkünden * und Deine Wahrheit am Ort des Verderbens?\nWerden denn in der Finsternis Deine Wunder kund * und Deine Gerechtigkeit im land des Vergessens?\nich aber, Herr, habe zu Dir geschrien, * und am morgen soll mein Gebet vor Dich gelangen.\nWarum, Herr, weist Du mein Gebet zurück, * wendest Dein Angesicht von mir ab?\nArm bin ich und in mühen von meiner Jugend an, * erhöht aber, ward ich erniedrigt und erschreckt.\nDein zorn ging über mich hin, * und Deine Schrecken verwirrten mich.\nSie umgaben mich wie Wasser den ganzen Tag, * sie haben mich alle zugleich umgeben.\nEntfernt hast Du von mir den Freund und den nächsten * und meine bekannten ob des Elends.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Intret orátio mea * in conspéctu tuo, Dómine.",
+        "de": "Ant. Intret orátio mea * in conspéctu tuo, Dómine."
+      }
+    },
+    {
+      "id": "week-sabbato-komplet-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 102 (1-12)",
+        "de": "Psalm 102 (1-12)"
+      },
+      "text": {
+        "la": "Bénedic, ánima mea, Dómino: * et ómnia, quæ intra me sunt, nómini sancto ejus.\nBénedic, ánima mea, Dómino: * et noli oblivísci omnes retributiónes ejus.\nQui propitiátur ómnibus iniquitátibus tuis: * qui sanat omnes infirmitátes tuas.\nQui rédimit de intéritu vitam tuam: * qui corónat te in misericórdia et miseratiónibus.\nQui replet in bonis desidérium tuum: * renovábitur ut áquilæ juvéntus tua:\nFáciens misericórdias Dóminus: * et judícium ómnibus injúriam patiéntibus.\nNotas fecit vias suas Móysi, * fíliis Israël voluntátes suas.\nMiserátor, et miséricors Dóminus: * longánimis, et multum miséricors.\nNon in perpétuum irascétur: * neque in ætérnum comminábitur.\nNon secúndum peccáta nostra fecit nobis: * neque secúndum iniquitátes nostras retríbuit nobis.\nQuóniam secúndum altitúdinem cæli a terra: * corroborávit misericórdiam suam super timéntes se.\nQuantum distat ortus ab occidénte: * longe fecit a nobis iniquitátes nostras.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Preise, meine Seele, den Herrn, * und alles, was in mir ist, seinen heiligen namen!\nPreise, meine Seele, den Herrn, * und vergiss nicht all seine Wohltaten.\nEr ist es, der dir alle Sünden vergibt * und der all deine Gebrechen heilt,\nder dein leben vom untergang erlöst, * der dich krönt mit barmherzigkeit und Erbarmen,\nder dein Sehnen mit Gütern erfüllt. * Deine Jugend wird sich erneuern wie die des Adlers.\nDer Herr übt barmherzigkeit * und schafft recht allen, die unrecht leiden.\nEr tat moses seine Wege kund * und den Söhnen israels seinen Willen.\nEin Erbarmer und barmherzig ist der Herr, * langmütig und sehr barmherzig.\nnicht für immer wird er zürnen * und nicht auf ewig drohen.\nnicht nach unseren Sünden verfuhr er mit uns, * noch hat er uns nach unseren Vergehen vergolten.\nDenn gemäß der Höhe des Himmels über der Erde, * hat er stark gemacht seine barmherzigkeit über denen, die ihn fürchten.\nSo weit der Aufgang entfernt ist vom untergang, * ließ er fern sein von uns all unsere missetaten.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-sabbato-komplet-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 102 (13-22)",
+        "de": "Psalm 102 (13-22)"
+      },
+      "text": {
+        "la": "Quómodo miserétur pater filiórum, misértus est Dóminus timéntibus se: * quóniam ipse cognóvit figméntum nostrum.\nRecordátus est quóniam pulvis sumus: * homo, sicut fænum dies ejus, tamquam flos agri sic efflorébit.\nQuóniam spíritus pertransíbit in illo, et non subsístet: * et non cognóscet ámplius locum suum.\nMisericórdia autem Dómini ab ætérno, * et usque in ætérnum super timéntes eum.\nEt justítia illíus in fílios filiórum, * his qui servant testaméntum ejus:\nEt mémores sunt mandatórum ipsíus, * ad faciéndum ea.\nDóminus in cælo parávit sedem suam: * et regnum ipsíus ómnibus dominábitur.\nBenedícite Dómino, omnes Ángeli ejus: * poténtes virtúte, faciéntes verbum illíus, ad audiéndam vocem sermónum ejus.\nBenedícite Dómino, omnes virtútes ejus: * minístri ejus, qui fácitis voluntátem ejus.\nBenedícite Dómino, ómnia ópera ejus: * in omni loco dominatiónis ejus, bénedic, ánima mea, Dómino.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Wie ein Vater sich seiner Kinder erbarmt, so hat sich der Herr erbarmt über alle, die ihn fürchten, * denn er weiß, was wir für ein Gebilde sind.\nEr denkt daran, dass wir Staub sind; * der mensch, wie Gras sind seine Tage, wie eine blume des Feldes, so wird er erblühen.\nDenn der Geist wird vorübergehn in ihm, und er wird nicht bestehen, * und seinen Ort wird er nicht mehr kennen.\nund seine Gerechtigkeit über den Kindeskindern, * über jenen, die bewahren seinen bund,\nund seine Gerechtigkeit über den Kindeskindern, * über jenen, die bewahren seinen bund,\nund die denken an seine Gebote, * um sie zu erfüllen.\nDer Herr hat im Himmel seinen Thron bereitet, * und sein Königtum herrscht über alles.\nPreiset den Herrn, all seine Engel, * die ihr, gewaltig an Kraft, sein Wort vollbringt, bereit, zu hören auf die Stimme seiner reden.\nPreiset den Herrn, all seine Heerscharen, * seine Diener, die ihr seinen Willen tut.\nPreiset den Herrn, all seine Werke, * an jedem Ort seiner Herrschaft, preise, meine Seele, den Herrn!\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-sabbato-komplet-nunc",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Canticum Simeonis (Nunc dimittis)",
+        "de": "Lobgesang des Simeon"
+      },
+      "reference": {
+        "la": "Luc 2, 29-32",
+        "de": "Luc 2, 29-32"
+      },
+      "text": {
+        "la": "Nunc dimíttis servum tuum, Dómine, * secúndum verbum tuum in pace:\nQuia vidérunt óculi mei * salutáre tuum,\nQuod parásti * ante fáciem ómnium populórum,\nLumen ad revelatiónem géntium, * et glóriam plebis tuæ Israël.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Nun entlässest du, Herr, deinen Diener * nach deinem Worte in Frieden;\ndenn meine Augen haben * dein Heil geschaut,\ndas du bereitet hast * vor dem Angesicht aller Völker:\nein Licht zur Erleuchtung der Heiden * und zur Verherrlichung deines Volkes Israel.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}

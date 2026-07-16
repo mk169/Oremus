@@ -1,0 +1,88 @@
+{
+  "id": "week-feria6-sext",
+  "form": "1962",
+  "hour": "sext",
+  "name": {
+    "la": "Ad Sextam",
+    "de": "Sext"
+  },
+  "day": {
+    "title": {
+      "la": "Feria VI",
+      "de": "Freitag"
+    },
+    "color": "green",
+    "rank": "Feria per annum"
+  },
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "sections": [
+    {
+      "id": "week-feria6-sext-deus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Deus in adjutórium",
+        "de": "Eröffnung"
+      },
+      "text": {
+        "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
+        "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria6-sext-hymnus",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Rector potens, verax Deus, qui témperas rerum vices, splendóre mane ínstruis, et ígnibus merídiem.\nExstíngue flammas lítium, aufer calórem nóxium, confer salútem córporum, verámque pacem córdium.",
+        "de": "Allmächtger Lenker, wahrer Gott, der du der Dinge Wechsel führst: du schmückst den Morgen mit dem Glanz und gibst dem Mittag Feuerglut.\nLösch aus die Flammen bösen Streits, nimm weg die Glut, die schädlich brennt, verleih dem Leibe Wohlergehn und wahren Frieden unserm Herz."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
+      }
+    },
+    {
+      "id": "week-feria6-sext-ps1",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 83 (2-8)",
+        "de": "Psalm 83 (2-8)"
+      },
+      "text": {
+        "la": "Quam dilécta tabernácula tua, Dómine virtútum: * concupíscit, et déficit ánima mea in átria Dómini.\nCor meum, et caro mea * exsultavérunt in Deum vivum.\nÉtenim passer invénit sibi domum: * et turtur nidum sibi, ubi ponat pullos suos.\nAltária tua, Dómine virtútum: * Rex meus, et Deus meus.\nBeáti, qui hábitant in domo tua, Dómine: * in sǽcula sæculórum laudábunt te.\nBeátus vir, cujus est auxílium abs te: * ascensiónes in corde suo dispósuit, in valle lacrimárum in loco, quem pósuit.\nÉtenim benedictiónem dabit legislátor, ibunt de virtúte in virtútem: * vidébitur Deus deórum in Sion.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Wie liebenswert sind Deine zelte, Herr der Heerscharen! * Es sehnt und verzehrt sich meine Seele nach den Vorhöfen des Herrn.\nmein Herz und mein Fleisch * jubelten auf zum lebendigen Gott.\nDeine Altäre, Herr der Heerscharen, * mein König und mein Gott.\nDeine Altäre, Herr der Heerscharen, * mein König und mein Gott.\nSelig, die wohnen in Deinem Haus, o Herr! * in alle Ewigkeit werden sie Dich loben.\nSelig der mann, dessen Hilfe von Dir kommt; * Aufstiege hat er in seinem Herzen beschlossen im Tal der Tränen zu dem Ort hin, den er bestimmt hat.\nDenn Segen wird spenden der Gesetzgeber, sie werden wandeln von Kraft zu Kraft, * man wird schauen den Gott der Götter in Sion.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "rubric": {
+        "la": "Ant. Beáti, qui hábitant * in domo tua, Dómine.",
+        "de": "Ant. Beáti, qui hábitant * in domo tua, Dómine."
+      }
+    },
+    {
+      "id": "week-feria6-sext-ps2",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 83 (9-13)",
+        "de": "Psalm 83 (9-13)"
+      },
+      "text": {
+        "la": "Dómine, Deus virtútum, exáudi oratiónem meam: * áuribus pércipe, Deus Jacob.\nProtéctor noster, áspice, Deus: * et réspice in fáciem Christi tui:\nQuia mélior est dies una in átriis tuis, * super míllia.\nElégi abjéctus esse in domo Dei mei: * magis quam habitáre in tabernáculis peccatórum.\nQuia misericórdiam, et veritátem díligit Deus: * grátiam et glóriam dabit Dóminus.\nNon privábit bonis eos, qui ámbulant in innocéntia: * Dómine virtútum, beátus homo, qui sperat in te.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "Herr, Gott der Heerscharen, erhöre mein Gebet, * nimm es zu Ohren, Gott Jakobs.\nunser beschützer, schau her, o Gott, * und sieh auf das Angesicht Deines Gesalbten.\nlieber will ich abgeschoben sein im Haus meines Gottes, * als wohnen in den zelten der Sünder.\nlieber will ich abgeschoben sein im Haus meines Gottes, * als wohnen in den zelten der Sünder.\nDenn Gott liebt barmherzigkeit und Wahrheit, * Gnade und Herrlichkeit wird geben der Herr.\nGüter wird er denen nicht versagen, die wandeln in unschuld. * Herr der Heerscharen, selig der mensch, der auf Dich hofft!\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria6-sext-ps3",
+      "kind": "proprium",
+      "title": {
+        "la": "Psalmus 86",
+        "de": "Psalm 86"
+      },
+      "text": {
+        "la": "Fundaménta ejus in móntibus sanctis: * díligit Dóminus portas Sion super ómnia tabernácula Jacob.\nGloriósa dicta sunt de te, * cívitas Dei.\nMemor ero Rahab, et Babylónis * sciéntium me.\nEcce, alienígenæ, et Tyrus, et pópulus Æthíopum, * hi fuérunt illic.\nNumquid Sion dicet: Homo, et homo natus est in ea: * et ipse fundávit eam Altíssimus?\nDóminus narrábit in scriptúris populórum, et príncipum: * horum, qui fuérunt in ea.\nSicut lætántium ómnium * habitátio est in te.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
+        "de": "ihre Grundfesten sind auf heiligen bergen, * es liebt der Herr die Tore Sions mehr als alle zelte Jakobs.\nHerrliches sagt man von dir, * du Stadt Gottes.\nSiehe, Fremdstämmige und Tyrus und das Volk der Äthiopier, * sie sind dort gewesen.\nSiehe, Fremdstämmige und Tyrus und das Volk der Äthiopier, * sie sind dort gewesen.\nWird man nicht von Sion sagen: mensch für mensch ist in ihr geboren, * und er selbst hat sie gegründet, der Allerhöchste?\nDer Herr wird es erzählen in den urkunden der Völker und Fürsten, * jener, die in ihr (in Sion) waren.\nWie von lauter Frohlockenden * ist das Wohnen in dir.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    }
+  ]
+}
