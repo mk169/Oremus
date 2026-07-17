@@ -14,7 +14,7 @@
     "color": "green",
     "rank": "Feria per annum"
   },
-  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Vollständig eingesetzt sind Psalmen, Antiphonen, Hymnen, Kurzlesung (Capitulum), Responsorium/Versikel, die Cantica und das feste Ordinarium. Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages; in der Matutin wechseln zudem die drei Lesungen mit dem Proprium (Schriftlesung der Woche).",
   "sections": [
     {
       "id": "week-dominica-terz-deus",
@@ -82,6 +82,61 @@
       "text": {
         "la": "(Teth) Bonitátem fecísti cum servo tuo, Dómine, * secúndum verbum tuum.\nBonitátem, et disciplínam, et sciéntiam doce me: * quia mandátis tuis crédidi.\nPriúsquam humiliárer ego delíqui: * proptérea elóquium tuum custodívi.\nBonus es tu: * et in bonitáte tua doce me justificatiónes tuas.\nMultiplicáta est super me iníquitas superbórum: * ego autem in toto corde meo scrutábor mandáta tua.\nCoagulátum est sicut lac cor eórum: * ego vero legem tuam meditátus sum.\nBonum mihi quia humiliásti me: * ut discam justificatiónes tuas.\nBonum mihi lex oris tui, * super míllia auri et argénti.\n(Joth) Manus tuæ fecérunt me, et plasmavérunt me: * da mihi intelléctum, et discam mandáta tua.\nQui timent te vidébunt me, et lætabúntur: * quia in verba tua supersperávi.\nCognóvi, Dómine, quia ǽquitas judícia tua: * et in veritáte tua humiliásti me.\nFiat misericórdia tua ut consolétur me, * secúndum elóquium tuum servo tuo.\nVéniant mihi miseratiónes tuæ, et vivam: * quia lex tua meditátio mea est.\nConfundántur supérbi, quia injúste iniquitátem fecérunt in me: * ego autem exercébor in mandátis tuis.\nConvertántur mihi timéntes te: * et qui novérunt testimónia tua.\nFiat cor meum immaculátum in justificatiónibus tuis, * ut non confúndar.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
         "de": "(Teth) Gutes hast du an deinem Knechte getan, Herr, * nach deinem Worte.\nLehre mich gut sein, Zucht und Erkenntnis: * denn deinen Geboten glaube ich.\nBevor ich gedemütiget ward, habe ich gesündigt: * darum halt ich dein Wort.\nDu bist gut: * in deiner Güte lehre mich deine Satzungen.\nGar viel wird der Bosheit der Stolzen wider mich: * aber ich sinne von ganzem Herzen deinen Geboten nach.\nGestockt ist, wie Milch, ihr Herz: * ich aber betrachte dein Gesetz.\nGut ist's mir, daß ich gedemütiget ward: * damit ich lerne deine Satzungen.\nBesser ist mir das Gesetz deines Mundes, * als tausend Stücke Goldes und Silbers.\n(Ioth) Deine Hände haben mich gemacht und bereitet: * gib mir Verstand, daß ich deine Gebote lerne.\nDie dich fürchten, werden mich sehen, und sich freuen: * denn auf deine Worte hoffe ich sehr.\nIch erkenne, Herr, daß deine Gerichte gerecht sind, * daß du in deiner Wahrheit mich gedemütiget hast.\nLaß deine Barmherzigkeit mich trösten nach deinem Worte zu deinem Knechte.\nLaß über mich kommen deine Erbarmungen, daß ich lebe: * denn dein Gesetz ist meine Betrachtung.\nZu Schanden müssen werden die Übermütigen, denn sie haben Böses mir getan ohne Ursach: * ich aber übe mich in deinen Geboten.\nEs sollen sich zu mir wenden, die dich fürchten: * und die deine Zeugnisse kennen.\nMein Herz werde makellos durch deine Satzungen, * auf daß ich nicht zu Schanden werde.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-dominica-terz-capitulum",
+      "kind": "proprium",
+      "title": {
+        "la": "Capitulum",
+        "de": "Kurzlesung"
+      },
+      "text": {
+        "la": "Deus cáritas est: et qui manet in caritáte, in Deo manet, et Deus in eo.\n℟. Deo grátias.",
+        "de": "Gott ist die Liebe selbst, und wer in der Liebe bleibt, der ist mit Gott vereint, und mit dem bleibt Gott vereint.\n℟. Deo grátias."
+      },
+      "reference": {
+        "la": "1 Joann. 4:16",
+        "de": "1 Joann. 4:16"
+      }
+    },
+    {
+      "id": "week-dominica-terz-responsorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Responsorium breve",
+        "de": "Responsorium"
+      },
+      "text": {
+        "la": "R.br. Inclína cor meum, Deus, * In testimónia tua.\nR. Inclína cor meum, Deus, * In testimónia tua.\nV. Avérte óculos meos, ne vídeant vanitátem: in via tua vivífica me.\nR. In testimónia tua.\nR. Inclína cor meum, Deus, * In testimónia tua.",
+        "de": "R.br. Lenk mir das Herz, o Gott, * zu dem, was du geoffenbart hast.\nR. Lenk mir das Herz, o Gott, * zu dem, was du geoffenbart hast.\nV. Wend abseits meine Augen, dass sie Schlechtigkeit nicht sehen, daß ich nach deinem Willen wandle, gib die Kraft mir.\nR. Zu dem, was du geoffenbart hast.\nR. Lenk mir das Herz, o Gott, * zu dem, was du geoffenbart hast."
+      }
+    },
+    {
+      "id": "week-dominica-terz-versum",
+      "kind": "proprium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "V. Ego dixi: Dómine, miserére mei.\nR. Sana ánimam meam, quia peccávi tibi."
+      }
+    },
+    {
+      "id": "week-dominica-terz-abschluss",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Oratio et conclusio",
+        "de": "Tagesgebet und Abschluss"
+      },
+      "rubric": {
+        "la": "Oratio de dominica vel festo occurrenti",
+        "de": "Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages."
+      },
+      "text": {
+        "la": "Dómine, exáudi oratiónem meam. ℟. Et clamor meus ad te véniat.\nV. Orémus. — Oratio diei. — Per Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum. ℟. Amen.\nV. Dóminus vobíscum. ℟. Et cum spíritu tuo.\nV. Benedicámus Dómino. ℟. Deo grátias.\nV. Fidélium ánimæ per misericórdiam Dei requiéscant in pace. ℟. Amen.",
+        "de": "V. Herr, erhöre mein Gebet. ℟. Und lass mein Rufen zu dir kommen.\nV. Lasset uns beten. — Tagesgebet. — Durch unsern Herrn Jesus Christus, deinen Sohn, der mit dir lebt und herrscht in der Einheit des Heiligen Geistes, Gott, von Ewigkeit zu Ewigkeit. ℟. Amen.\nV. Der Herr sei mit euch. ℟. Und mit deinem Geiste.\nV. Lasset uns preisen den Herrn. ℟. Dank sei Gott.\nV. Die Seelen der Gläubigen mögen durch die Barmherzigkeit Gottes ruhen in Frieden. ℟. Amen."
       }
     }
   ]

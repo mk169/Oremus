@@ -14,7 +14,7 @@
     "color": "green",
     "rank": "Feria per annum"
   },
-  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Vollständig eingesetzt sind Psalmen, Antiphonen, Hymnen, Kurzlesung (Capitulum), Responsorium/Versikel, die Cantica und das feste Ordinarium. Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages; in der Matutin wechseln zudem die drei Lesungen mit dem Proprium (Schriftlesung der Woche).",
   "sections": [
     {
       "id": "week-sabbato-matutin-deus",
@@ -26,6 +26,22 @@
       "text": {
         "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
         "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-sabbato-matutin-hymnus",
+      "kind": "proprium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Summæ Parens cleméntiæ,\nMundi regis qui máchinam,\nUníus et substántiæ,\nTrinúsque persónis Deus:\n\nNostros pius cum cánticis\nFletus benígne súscipe:\nUt corde puro sórdium\nTe perfruámur lárgius.\n\nLumbos, jecúrque mórbidum\nFlammis adúre cóngruis,\nAccíncti ut artus éxcubent,\nLuxu remóto péssimo.\n\nQuicúmque ut horas nóctium\nNunc concinéndo rúmpimus,\nDitémur omnes áffatim\nDonis beátæ pátriæ.\n\n* Præsta, Pater piíssime,\nPatríque compar Únice,\nCum Spíritu Paráclito\nRegnans per omne sǽculum.\nAmen.",
+        "de": "O höchster Vater, der voll Huld\nDen Weltbau lenkt vom Himmelsthron,\nAls einzig Wesen von Natur,\nEin Gott und dreifach an Person.\n\nNimm, Gütigster, mit unserm Sang\nNun an auch unsern Reueschmerz,\nDaß, wenn's gereinigt ist vom Schmutz,\nMehr sich an dir erfreu' das Herz.\n\nBrenn mit gesunden Flammen aus\nDie Krankheitskeim' in uns'rer Brust,\nDaß tatbereit wach' unser Leib\nUnd fern von ihm bleib' sündige Lust.\n\nDaß jeder, der jetzt unterbricht\nDie stille Nachtzeit im Gesang,\nBereichert einst und hochbeglückt\nZum sel'gen Vaterland gelang.\n\n* Gewähr' uns dies, o Vater mild,\nUnd du, sein wesensgleicher Sohn,\nDie ihr uns mit dem Heil'gen Geist\nZugleich regiert auf ew'gem Thron.\nAmen."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
       }
     },
     {
@@ -84,20 +100,8 @@
         "de": "Versikel"
       },
       "text": {
-        "la": "V. Memor fuit Dóminus verbi sancti sui.",
-        "de": "V. Der Herr zeigt eingedenk sich seines heiligen Wortes."
-      }
-    },
-    {
-      "id": "week-sabbato-matutin-v2",
-      "kind": "ordinarium",
-      "title": {
-        "la": "Versus",
-        "de": "Versikel"
-      },
-      "text": {
-        "la": "R. Quod locútus est ad Ábraham, púerum suum.",
-        "de": "R. Das er zu Abraham gesprochen, seinem Knechte."
+        "la": "V. Memor fuit Dóminus verbi sancti sui.\nR. Quod locútus est ad Ábraham, púerum suum.",
+        "de": "V. Der Herr zeigt eingedenk sich seines heiligen Wortes.\nR. Das er zu Abraham gesprochen, seinem Knechte."
       }
     },
     {
@@ -149,27 +153,15 @@
       }
     },
     {
-      "id": "week-sabbato-matutin-v3",
+      "id": "week-sabbato-matutin-v2",
       "kind": "ordinarium",
       "title": {
         "la": "Versus",
         "de": "Versikel"
       },
       "text": {
-        "la": "V. Salvos nos fac, Dómine, Deus noster.",
-        "de": "V. Erhalt am Leben uns, o Herr, unser Gott du."
-      }
-    },
-    {
-      "id": "week-sabbato-matutin-v4",
-      "kind": "ordinarium",
-      "title": {
-        "la": "Versus",
-        "de": "Versikel"
-      },
-      "text": {
-        "la": "R. Ut confiteámur nómini sancto tuo.",
-        "de": "R. Dass deine heil'ge Majestät wir preisen können."
+        "la": "V. Salvos nos fac, Dómine, Deus noster.\nR. Ut confiteámur nómini sancto tuo.",
+        "de": "V. Erhalt am Leben uns, o Herr, unser Gott du.\nR. Dass deine heil'ge Majestät wir preisen können."
       }
     },
     {
@@ -221,28 +213,29 @@
       }
     },
     {
-      "id": "week-sabbato-matutin-v5",
+      "id": "week-sabbato-matutin-v3",
       "kind": "ordinarium",
       "title": {
         "la": "Versus",
         "de": "Versikel"
       },
       "text": {
-        "la": "V. Exáltent Dóminum in ecclésia plebis.",
-        "de": "V. Man soll ihn feiern, wo sich Volk versammelt."
+        "la": "V. Exáltent Dóminum in ecclésia plebis.\nR. Et in cáthedra seniórum laudent eum.",
+        "de": "V. Man soll ihn feiern, wo sich Volk versammelt.\nR. Und wo die Ältesten zusammensitzen, sollen sie ihn loben."
       }
     },
     {
-      "id": "week-sabbato-matutin-v6",
+      "id": "week-sabbato-matutin-lectiones",
       "kind": "ordinarium",
       "title": {
-        "la": "Versus",
-        "de": "Versikel"
+        "la": "Lectiones",
+        "de": "Lesungen"
       },
-      "text": {
-        "la": "R. Et in cáthedra seniórum laudent eum.",
-        "de": "R. Und wo die Ältesten zusammensitzen, sollen sie ihn loben."
-      }
+      "rubric": {
+        "la": "Lectiones et responsoria de Scriptura occurrenti seu de festo",
+        "de": "Die drei Lesungen und ihre Responsorien richten sich nach dem Proprium des Tages (Schriftlesung der Woche bzw. Fest)."
+      },
+      "text": {}
     },
     {
       "id": "week-sabbato-matutin-tedeum",

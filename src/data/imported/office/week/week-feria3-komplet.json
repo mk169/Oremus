@@ -14,7 +14,7 @@
     "color": "green",
     "rank": "Feria per annum"
   },
-  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Vollständig eingesetzt sind Psalmen, Antiphonen, Hymnen, Kurzlesung (Capitulum), Responsorium/Versikel, die Cantica und das feste Ordinarium. Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages; in der Matutin wechseln zudem die drei Lesungen mit dem Proprium (Schriftlesung der Woche).",
   "sections": [
     {
       "id": "week-feria3-komplet-deus",
@@ -85,6 +85,34 @@
       }
     },
     {
+      "id": "week-feria3-komplet-capitulum",
+      "kind": "proprium",
+      "title": {
+        "la": "Capitulum",
+        "de": "Kurzlesung"
+      },
+      "text": {
+        "la": "Tu autem in nobis es, Dómine, et nomen sanctum tuum invocátum est super nos: ne derelínquas nos, Dómine, Deus noster.",
+        "de": "Du aber bist in unserer Mitte, o Herr, und dein heiliger Name ist über uns angerufen: verlass uns nicht, o Herr, unser Gott."
+      },
+      "reference": {
+        "la": "Ier 14, 9",
+        "de": "Ier 14, 9"
+      }
+    },
+    {
+      "id": "week-feria3-komplet-responsorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Responsorium breve",
+        "de": "Responsorium"
+      },
+      "text": {
+        "la": "℟.br. In manus tuas, Dómine, * comméndo spíritum meum. \nV. Redemísti nos, Dómine, Deus veritátis. \n℟. Comméndo spíritum meum. \nV. Custódi nos, Dómine, ut pupíllam óculi. \n℟. Sub umbra alárum tuárum prótege nos.",
+        "de": "℟.br. In deine Hände, o Herr, * empfehle ich meinen Geist. \nV. Du hast uns erlöst, o Herr, du Gott der Wahrheit. \n℟. Ich empfehle meinen Geist. \nV. Behüte uns, o Herr, wie den Augapfel. \n℟. Unter dem Schatten deiner Flügel beschirme uns."
+      }
+    },
+    {
       "id": "week-feria3-komplet-nunc",
       "kind": "ordinarium",
       "title": {
@@ -98,6 +126,18 @@
       "text": {
         "la": "Nunc dimíttis servum tuum, Dómine, * secúndum verbum tuum in pace:\nQuia vidérunt óculi mei * salutáre tuum,\nQuod parásti * ante fáciem ómnium populórum,\nLumen ad revelatiónem géntium, * et glóriam plebis tuæ Israël.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
         "de": "Nun entlässest du, Herr, deinen Diener * nach deinem Worte in Frieden;\ndenn meine Augen haben * dein Heil geschaut,\ndas du bereitet hast * vor dem Angesicht aller Völker:\nein Licht zur Erleuchtung der Heiden * und zur Verherrlichung deines Volkes Israel.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria3-komplet-oratio",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Oratio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "V. Orémus. Vísita, quǽsumus, Dómine, habitatiónem istam, et omnes insídias inimíci ab ea longe repélle: Ángeli tui sancti hábitent in ea, qui nos in pace custódiant; et benedíctio tua sit super nos semper. Per Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum. ℟. Amen.",
+        "de": "V. Lasset uns beten. Suche heim, o Herr, wir bitten dich, diese Wohnung und halte alle Nachstellungen des Feindes ferne von ihr; deine heiligen Engel mögen in ihr wohnen und uns in Frieden behüten, und dein Segen sei allezeit über uns. Durch unsern Herrn Jesus Christus, deinen Sohn, der mit dir lebt und herrscht in der Einheit des Heiligen Geistes, Gott, von Ewigkeit zu Ewigkeit. ℟. Amen."
       }
     }
   ]

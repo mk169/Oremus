@@ -14,7 +14,7 @@
     "color": "green",
     "rank": "Feria per annum"
   },
-  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Vollständig eingesetzt sind Psalmen, Antiphonen, Hymnen, Kurzlesung (Capitulum), Responsorium/Versikel, die Cantica und das feste Ordinarium. Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages; in der Matutin wechseln zudem die drei Lesungen mit dem Proprium (Schriftlesung der Woche).",
   "sections": [
     {
       "id": "week-feria5-prim-deus",
@@ -82,6 +82,50 @@
       "text": {
         "la": "Coram illo prócident Æthíopes: * et inimíci ejus terram lingent.\nReges Tharsis, et ínsulæ múnera ófferent: * reges Árabum et Saba dona addúcent.\nEt adorábunt eum omnes reges terræ: * omnes gentes sérvient ei:\nQuia liberábit páuperem a poténte: * et páuperem, cui non erat adjútor.\nParcet páuperi et ínopi: * et ánimas páuperum salvas fáciet.\nEx usúris et iniquitáte rédimet ánimas eórum: * et honorábile nomen eórum coram illo.\nEt vivet, et dábitur ei de auro Arábiæ, et adorábunt de ipso semper: * tota die benedícent ei.\nEt erit firmaméntum in terra in summis móntium, superextollétur super Líbanum fructus ejus: * et florébunt de civitáte sicut fænum terræ.\nSit nomen ejus benedíctum in sǽcula: * ante solem pérmanet nomen ejus.\nEt benedicéntur in ipso omnes tribus terræ: * omnes gentes magnificábunt eum.\nBenedíctus Dóminus, Deus Israël, * qui facit mirabília solus:\nEt benedíctum nomen majestátis ejus in ætérnum: * et replébitur majestáte ejus omnis terra: fiat, fiat.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
         "de": "Vor ihm werden niederfallen die Äthiopier, * und seine Feinde werden die Erde lecken.\nDie Könige von Tharsis und die Inseln werden Gaben opfern. * Die Könige der Araber und Saba werden Geschenke herbeibringen.\nund anbeten werden ihn alle Könige der Erde, * alle Völker werden ihm dienen,\ndenn er wird den Armen befreien vom Mächtigen; * auch den Armen, für den es keinen Helfer gab.\nSchonen wird er den Armen und Hilflosen, * und die Seelen der Armen wird er retten.\nAus Wucher und Ungerechtigkeit wird er ihre Seelen erlösen, * und ehrwürdig ist ihr Name vor ihm.\nEr wird leben, und vom Gold Arabiens wird man ihm geben, und seinetwegen wird man allezeit anbeten, * den ganzen Tag werden sie ihn preisen.\nund es wird eine Feste sein auf Erden auf den Höhen der Berge, hoch über den Libanon wird sich erheben seine Frucht, * und sie werden der Stadt entblühen wie das Gras der Erde.\nund gesegnet werden in ihm alle Stämme der Erde, * alle Völker werden ihn verherrlichen.\nund gesegnet werden in ihm alle Stämme der Erde, * alle Völker werden ihn verherrlichen.\nGepriesen sei der Herr, der Gott israels, * der allein Wunder tut!\nund gepriesen sei der Name seiner Majestät in Ewigkeit, * und von seiner Majestät wird erfüllt sein die ganze Erde. So sei es! So sei es!\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria5-prim-capitulum",
+      "kind": "proprium",
+      "title": {
+        "la": "Capitulum",
+        "de": "Kurzlesung"
+      },
+      "text": {
+        "la": "Regi sæculórum immortáli et invisíbili, soli Deo honor et glória in sǽcula sæculórum. Amen.",
+        "de": "Dem König der Ewigkeiten, dem unsterblichen und unsichtbaren, dem allein weisen Gott sei Ehre und Herrlichkeit in alle Ewigkeit. Amen."
+      },
+      "reference": {
+        "la": "1 Tim 1, 17",
+        "de": "1 Tim 1, 17"
+      }
+    },
+    {
+      "id": "week-feria5-prim-responsorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Responsorium breve",
+        "de": "Responsorium"
+      },
+      "text": {
+        "la": "℟.br. Christe, Fili Dei vivi, * miserére nobis. \nV. Qui sedes ad déxteram Patris. \n℟. Miserére nobis. \nV. Exsúrge, Christe, ádjuva nos. \n℟. Et líbera nos propter nomen tuum.",
+        "de": "℟.br. Christus, Sohn des lebendigen Gottes, * erbarme dich unser. \nV. Der du sitzest zur Rechten des Vaters. \n℟. Erbarme dich unser. \nV. Erhebe dich, Christus, hilf uns. \n℟. Und erlöse uns um deines Namens willen."
+      }
+    },
+    {
+      "id": "week-feria5-prim-abschluss",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Oratio et conclusio",
+        "de": "Tagesgebet und Abschluss"
+      },
+      "rubric": {
+        "la": "Oratio de dominica vel festo occurrenti",
+        "de": "Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages."
+      },
+      "text": {
+        "la": "Dómine, exáudi oratiónem meam. ℟. Et clamor meus ad te véniat.\nV. Orémus. — Oratio diei. — Per Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum. ℟. Amen.\nV. Dóminus vobíscum. ℟. Et cum spíritu tuo.\nV. Benedicámus Dómino. ℟. Deo grátias.\nV. Fidélium ánimæ per misericórdiam Dei requiéscant in pace. ℟. Amen.",
+        "de": "V. Herr, erhöre mein Gebet. ℟. Und lass mein Rufen zu dir kommen.\nV. Lasset uns beten. — Tagesgebet. — Durch unsern Herrn Jesus Christus, deinen Sohn, der mit dir lebt und herrscht in der Einheit des Heiligen Geistes, Gott, von Ewigkeit zu Ewigkeit. ℟. Amen.\nV. Der Herr sei mit euch. ℟. Und mit deinem Geiste.\nV. Lasset uns preisen den Herrn. ℟. Dank sei Gott.\nV. Die Seelen der Gläubigen mögen durch die Barmherzigkeit Gottes ruhen in Frieden. ℟. Amen."
       }
     }
   ]

@@ -14,7 +14,7 @@
     "color": "green",
     "rank": "Feria per annum"
   },
-  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Vollständig eingesetzt sind Psalmen, Antiphonen, Hymnen, Kurzlesung (Capitulum), Responsorium/Versikel, die Cantica und das feste Ordinarium. Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages; in der Matutin wechseln zudem die drei Lesungen mit dem Proprium (Schriftlesung der Woche).",
   "sections": [
     {
       "id": "week-feria2-laudes-deus",
@@ -109,6 +109,49 @@
       }
     },
     {
+      "id": "week-feria2-laudes-capitulum",
+      "kind": "proprium",
+      "title": {
+        "la": "Capitulum",
+        "de": "Kurzlesung"
+      },
+      "text": {
+        "la": "Nox præcéssit, dies autem appropinquávit. Abiciámus ergo ópera tenebrárum, et induámur arma lucis. Sicut in die honéste ambulémus.\n℟. Deo grátias.",
+        "de": "Die Nacht ist vorüber, das Tageslicht ist nahe gekommen. Drum wollen wir ablegen die Werke, die die Finsternis suchen und die Ausstattung anlegen, die zum hellen Tage passt. Wie es dem hellen Tageslicht zukommt, so wollen wir uns wohlanständig bewegen.\n℟. Deo grátias."
+      },
+      "reference": {
+        "la": "Rom 13:12-13",
+        "de": "Rom 13:12-13"
+      }
+    },
+    {
+      "id": "week-feria2-laudes-hymnus",
+      "kind": "proprium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Splendor Patérnæ glóriæ,\nDe luce lucem próferens,\nLux lucis, et fons lúminis,\nDiem dies illúminans:\n\nVerúsque sol illábere,\nMicans nitóre pérpeti:\nJubárque Sancti Spíritus\nInfúnde nostris sénsibus.\n\nVotis vocémus et Patrem,\nPatrem poténtis grátiæ,\nPatrem perénnis glóriæ:\nCulpam reléget lúbricam.\n\nConfírmet actus strénuos:\nDentes retúndat ínvidi:\nCasus secúndet ásperos:\nAgénda recte dírigat.\n\nMentem gubérnet et regat:\nSit pura nobis cástitas:\nFides calóre férveat,\nFraudis venéna nésciat.\n\nChristúsque nobis sit cibus,\nPotúsque noster sit fides:\nLæti bibámus sóbriam\nProfusiónem Spíritus.\n\nLætus dies hic tránseat:\nPudor sit ut dilúculum:\nFides velut merídies:\nCrepúsculum mens nésciat.\n\nAuróra lucem próvehit,\nCum luce nobis pródeat\nIn Patre totus Fílius,\nEt totus in Verbo Pater.\n\nDeo Patri sit glória,\nEjúsque soli Fílio,\nCum Spíritu Paráclito,\nNunc et per omne sǽculum.\nAmen.",
+        "de": "O Glanz der Vaterherrlichkeit,\nDer Licht in sich vom Licht enthält,\nLicht selbst dem Licht, des Leuchtens Quell,\nUnd Tag, der unsern Tag erhellt,\n\nO wahre Sonne, senke dich\nIn uns und leucht in ständ'gem Schein\nUnd hauch den lieben Heil'gen Geist\nIn unser Inn'res wärmend ein.\n\nNun lasst zum Vater heiß uns fleh'n,\nZum Vater reich an mächt'ger Huld,\nZum Vater, Quell der Seligkeit,\nDass er entfern die schlimme Schuld,\n\nDass er beim Wirken Kraft uns sei,\nDem Neider das Gebiss zerhau,\nUns lenk in aller Schwierigkeit,\nUns lenk zum richt'gen heil'gen Bau.\n\nEr lenk und leite unsern Sinn,\nDass rein in uns die Keuschheit sei,\nDass unser Glaube glüh in Glut,\nVom trügerischen Geiste frei.\n\nUns soll nur Christus Speise sein,\nAllein der Glaube unser Trank,\nLasst, was dem Heil'gen Geist entströmt,\nUns saugen stets mit freud'gem Dank.\n\nEs gehe glücklich hin der Tag,\nSein Frührot sei Schamhaftigkeit,\nDer Glaube helles Mittagslicht,\nFremd bleibe ihm die Dunkelheit.\n\nDas Morgenrot bringt Licht der Welt,\nEs zeig sich nun bei Lichtesglanz\nIm Vater Gott der ganze Sohn\nUnd in dem Wort der Vater ganz.\n\nGott Vater sei stets Preis und Ruhm\nUnd seinem eingebornen Sohn,\nMit ihnen auch dem Heil'gen Geist,\nDer ewig thront auf gleichem Thron.\nAmen."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
+      }
+    },
+    {
+      "id": "week-feria2-laudes-versum",
+      "kind": "proprium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "V. Repléti sumus mane misericórdia tua.\nR. Exsultávimus, et delectáti sumus."
+      }
+    },
+    {
       "id": "week-feria2-laudes-benedictus",
       "kind": "ordinarium",
       "title": {
@@ -122,6 +165,22 @@
       "text": {
         "la": "Benedíctus Dóminus, Deus Israël: * quia visitávit, et fecit redemptiónem plebis suæ:\nEt eréxit cornu salútis nobis: * in domo David, púeri sui.\nSicut locútus est per os sanctórum, * qui a sǽculo sunt, prophetárum ejus:\nSalútem ex inimícis nostris, * et de manu ómnium, qui odérunt nos:\nAd faciéndam misericórdiam cum pátribus nostris: * et memorári testaménti sui sancti:\nJusjurándum, quod jurávit ad Ábraham patrem nostrum, * datúrum se nobis:\nUt sine timóre, de manu inimicórum nostrórum liberáti, * serviámus illi.\nIn sanctitáte, et justítia coram ipso, * ómnibus diébus nostris.\nEt tu, puer, Prophéta Altíssimi vocáberis: * præíbis enim ante fáciem Dómini paráre vias ejus:\nAd dandam sciéntiam salútis plebi ejus: * in remissiónem peccatórum eórum:\nPer víscera misericórdiæ Dei nostri: * in quibus visitávit nos, óriens ex alto:\nIllumináre his, qui in ténebris, et in umbra mortis sedent: * ad dirigéndos pedes nostros in viam pacis.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
         "de": "Gepriesen sei der Herr, der Gott Israels; * denn er hat sein Volk besucht und ihm Erlösung geschaffen;\nund hat uns aufgerichtet ein Horn des Heiles * im Hause Davids, seines Knechtes:\nwie er verheißen hat durch den Mund seiner heiligen Propheten, * die von alters her gewesen:\nErrettung von unsern Feinden * und aus der Hand aller, die uns hassen;\nzu üben Barmherzigkeit an unsern Vätern * und zu gedenken seines heiligen Bundes,\ndes Eides, den er unserm Vater Abraham geschworen, * uns zu verleihen,\ndass wir, befreit aus der Hand unsrer Feinde, ohne Furcht ihm dienen \nin Heiligkeit und Gerechtigkeit vor ihm * alle unsre Tage.\nUnd du, Kind, wirst Prophet des Höchsten heißen; * denn du wirst vor dem Herrn hergehen, ihm den Weg zu bereiten,\nseinem Volke Kunde des Heiles zu geben * zur Vergebung ihrer Sünden,\ndurch die herzliche Barmherzigkeit unsres Gottes, * mit der uns besucht hat der Aufgang aus der Höhe,\nzu erleuchten, die in Finsternis und Todesschatten sitzen, * zu lenken unsre Schritte auf den Weg des Friedens.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria2-laudes-abschluss",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Oratio et conclusio",
+        "de": "Tagesgebet und Abschluss"
+      },
+      "rubric": {
+        "la": "Oratio de dominica vel festo occurrenti",
+        "de": "Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages."
+      },
+      "text": {
+        "la": "V. Dóminus vobíscum. ℟. Et cum spíritu tuo.\nV. Orémus. — Oratio diei. — Per Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum. ℟. Amen.\nV. Benedicámus Dómino. ℟. Deo grátias.\nV. Fidélium ánimæ per misericórdiam Dei requiéscant in pace. ℟. Amen.",
+        "de": "V. Der Herr sei mit euch. ℟. Und mit deinem Geiste.\nV. Lasset uns beten. — Tagesgebet. — Durch unsern Herrn Jesus Christus, deinen Sohn, der mit dir lebt und herrscht in der Einheit des Heiligen Geistes, Gott, von Ewigkeit zu Ewigkeit. ℟. Amen.\nV. Lasset uns preisen den Herrn. ℟. Dank sei Gott.\nV. Die Seelen der Gläubigen mögen durch die Barmherzigkeit Gottes ruhen in Frieden. ℟. Amen."
       }
     }
   ]

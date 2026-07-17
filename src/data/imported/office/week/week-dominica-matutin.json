@@ -14,7 +14,7 @@
     "color": "green",
     "rank": "Feria per annum"
   },
-  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Vollständig eingesetzt sind Psalmen, Antiphonen, Hymnen, Kurzlesung (Capitulum), Responsorium/Versikel, die Cantica und das feste Ordinarium. Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages; in der Matutin wechseln zudem die drei Lesungen mit dem Proprium (Schriftlesung der Woche).",
   "sections": [
     {
       "id": "week-dominica-matutin-deus",
@@ -26,6 +26,22 @@
       "text": {
         "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
         "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-dominica-matutin-hymnus",
+      "kind": "proprium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Nocte surgéntes vigilémus omnes,\nSemper in psalmis meditémur, atque\nVoce concórdi Dómino canámus\nDúlciter hymnos.\n\nUt pio Regi páriter canéntes,\nCum suis Sanctis mereámur aulam\nÍngredi cæli, simul et perénnem\nDúcere vitam.\n\nPræstet hoc nobis Déitas beáta\nPatris, ac Nati, paritérque Sancti\nSpíritus, cujus résonat per omnem\nGlória mundum.\nAmen.",
+        "de": "Mitten in der Nacht laßt uns wachen alle,\nPflegen Psalmensang in einstimm'gem Schalle\nDaß die Hymnenreihen, die dem Herrn wir singen,\nLieblich erklingen.\n\nDaß den lieben Herrn wir auch singend preisen,\nDort im Himmelssaal, wenn in sel'gen Kreisen\nWir einst das erreicht, was wir hier erstreben:\nEwiges Leben.\n\nWoll' uns, seliger Gott Vater, dies gewähren\nSohn und Heil'ger Geist, lasset euch zu Ehren\nPreis und Lobgesang, ew'gen Ruhm in allen\nWelten erschallen.\nAmen."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
       }
     },
     {
@@ -84,20 +100,8 @@
         "de": "Versikel"
       },
       "text": {
-        "la": "V. Memor fui nocte nóminis tui, Dómine.",
-        "de": "V. Ich denk', o Herr, an deine Majestät zur Nachtzeit."
-      }
-    },
-    {
-      "id": "week-dominica-matutin-v2",
-      "kind": "ordinarium",
-      "title": {
-        "la": "Versus",
-        "de": "Versikel"
-      },
-      "text": {
-        "la": "R. Et custodívi legem tuam.",
-        "de": "R. Um dein Gesetz nur zu befolgen."
+        "la": "V. Memor fui nocte nóminis tui, Dómine.\nR. Et custodívi legem tuam.",
+        "de": "V. Ich denk', o Herr, an deine Majestät zur Nachtzeit.\nR. Um dein Gesetz nur zu befolgen."
       }
     },
     {
@@ -149,27 +153,15 @@
       }
     },
     {
-      "id": "week-dominica-matutin-v3",
+      "id": "week-dominica-matutin-v2",
       "kind": "ordinarium",
       "title": {
         "la": "Versus",
         "de": "Versikel"
       },
       "text": {
-        "la": "V. Média nocte surgébam ad confiténdum tibi.",
-        "de": "V. Ich stehe mitten in der Nacht auf, deine Majestät zu preisen."
-      }
-    },
-    {
-      "id": "week-dominica-matutin-v4",
-      "kind": "ordinarium",
-      "title": {
-        "la": "Versus",
-        "de": "Versikel"
-      },
-      "text": {
-        "la": "R. Super judícia justificatiónis tuæ.",
-        "de": "R. Im Hinblick auf die Verordnungen, die den Rechtssinn uns gegeben."
+        "la": "V. Média nocte surgébam ad confiténdum tibi.\nR. Super judícia justificatiónis tuæ.",
+        "de": "V. Ich stehe mitten in der Nacht auf, deine Majestät zu preisen.\nR. Im Hinblick auf die Verordnungen, die den Rechtssinn uns gegeben."
       }
     },
     {
@@ -221,28 +213,29 @@
       }
     },
     {
-      "id": "week-dominica-matutin-v5",
+      "id": "week-dominica-matutin-v3",
       "kind": "ordinarium",
       "title": {
         "la": "Versus",
         "de": "Versikel"
       },
       "text": {
-        "la": "V. Prævenérunt óculi mei ad te dilúculo.",
-        "de": "V. Es sind so eilig meine Augen, daß sie schau'n zu dir beim Morgenschimmer."
+        "la": "V. Prævenérunt óculi mei ad te dilúculo.\nR. Ut meditárer elóquia tua, Dómine.",
+        "de": "V. Es sind so eilig meine Augen, daß sie schau'n zu dir beim Morgenschimmer.\nR. Damit ich zeige meine Sorge um deine Lehren."
       }
     },
     {
-      "id": "week-dominica-matutin-v6",
+      "id": "week-dominica-matutin-lectiones",
       "kind": "ordinarium",
       "title": {
-        "la": "Versus",
-        "de": "Versikel"
+        "la": "Lectiones",
+        "de": "Lesungen"
       },
-      "text": {
-        "la": "R. Ut meditárer elóquia tua, Dómine.",
-        "de": "R. Damit ich zeige meine Sorge um deine Lehren."
-      }
+      "rubric": {
+        "la": "Lectiones et responsoria de Scriptura occurrenti seu de festo",
+        "de": "Die drei Lesungen und ihre Responsorien richten sich nach dem Proprium des Tages (Schriftlesung der Woche bzw. Fest)."
+      },
+      "text": {}
     },
     {
       "id": "week-dominica-matutin-tedeum",

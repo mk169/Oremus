@@ -14,7 +14,7 @@
     "color": "green",
     "rank": "Feria per annum"
   },
-  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Vollständig eingesetzt sind Psalmen, Antiphonen, Hymnen, Kurzlesung (Capitulum), Responsorium/Versikel, die Cantica und das feste Ordinarium. Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages; in der Matutin wechseln zudem die drei Lesungen mit dem Proprium (Schriftlesung der Woche).",
   "sections": [
     {
       "id": "week-feria6-prim-deus",
@@ -82,6 +82,50 @@
       "text": {
         "la": "Qui timétis Dóminum, laudáte eum: * univérsum semen Jacob, glorificáte eum.\nTímeat eum omne semen Israël: * quóniam non sprevit, neque despéxit deprecatiónem páuperis:\nNec avértit fáciem suam a me: * et cum clamárem ad eum, exaudívit me.\nApud te laus mea in ecclésia magna: * vota mea reddam in conspéctu timéntium eum.\nEdent páuperes, et saturabúntur: et laudábunt Dóminum qui requírunt eum: * vivent corda eórum in sǽculum sǽculi.\nReminiscéntur et converténtur ad Dóminum * univérsi fines terræ:\nEt adorábunt in conspéctu ejus * univérsæ famíliæ géntium.\nQuóniam Dómini est regnum: * et ipse dominábitur géntium.\nManducavérunt et adoravérunt omnes pingues terræ: * in conspéctu ejus cadent omnes qui descéndunt in terram.\nEt ánima mea illi vivet: * et semen meum sérviet ipsi.\nAnnuntiábitur Dómino generátio ventúra: * et annuntiábunt cæli justítiam ejus pópulo qui nascétur, quem fecit Dóminus.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
         "de": "Die ihr fürchtet den Herrn, lobet ihn, * alle nachkommen Jakobs, verherrlicht ihn!\nnoch wandte er sein Angesicht von mir ab, * und als ich zu ihm rief, hat er mich erhört.\nnoch wandte er sein Angesicht von mir ab, * und als ich zu ihm rief, hat er mich erhört.\nbei Dir ist mein lob in großer Versammlung, * meine Gelübde will ich erfüllen im Angesicht derer, die ihn fürchten.\nDie Armen werden essen und gesättigt, und den Herrn werden loben, die ihn suchen, * ihre Herzen werden leben in alle Ewigkeit.\nund es werden anbeten vor seinem Angesicht * alle Familien der Völker.\nund es werden anbeten vor seinem Angesicht * alle Familien der Völker.\nDenn dem Herrn gehört das reich, * und er wird herrschen über die Völker.\nEs haben gegessen und angebetet alle Fetten der Erde, * vor seinem Angesicht werden alle niederfallen, die hinabsteigen zur Erde.\nund meine Seele wird leben für ihn, * und meine nachkommen werden ihm dienen.\nAngekündigt wird dem Herrn das kommende Geschlecht, * und die Himmel künden seine Gerechtigkeit dem Volk, das erstehen wird, das geschaffen hat der Herr.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria6-prim-capitulum",
+      "kind": "proprium",
+      "title": {
+        "la": "Capitulum",
+        "de": "Kurzlesung"
+      },
+      "text": {
+        "la": "Regi sæculórum immortáli et invisíbili, soli Deo honor et glória in sǽcula sæculórum. Amen.",
+        "de": "Dem König der Ewigkeiten, dem unsterblichen und unsichtbaren, dem allein weisen Gott sei Ehre und Herrlichkeit in alle Ewigkeit. Amen."
+      },
+      "reference": {
+        "la": "1 Tim 1, 17",
+        "de": "1 Tim 1, 17"
+      }
+    },
+    {
+      "id": "week-feria6-prim-responsorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Responsorium breve",
+        "de": "Responsorium"
+      },
+      "text": {
+        "la": "℟.br. Christe, Fili Dei vivi, * miserére nobis. \nV. Qui sedes ad déxteram Patris. \n℟. Miserére nobis. \nV. Exsúrge, Christe, ádjuva nos. \n℟. Et líbera nos propter nomen tuum.",
+        "de": "℟.br. Christus, Sohn des lebendigen Gottes, * erbarme dich unser. \nV. Der du sitzest zur Rechten des Vaters. \n℟. Erbarme dich unser. \nV. Erhebe dich, Christus, hilf uns. \n℟. Und erlöse uns um deines Namens willen."
+      }
+    },
+    {
+      "id": "week-feria6-prim-abschluss",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Oratio et conclusio",
+        "de": "Tagesgebet und Abschluss"
+      },
+      "rubric": {
+        "la": "Oratio de dominica vel festo occurrenti",
+        "de": "Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages."
+      },
+      "text": {
+        "la": "Dómine, exáudi oratiónem meam. ℟. Et clamor meus ad te véniat.\nV. Orémus. — Oratio diei. — Per Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum. ℟. Amen.\nV. Dóminus vobíscum. ℟. Et cum spíritu tuo.\nV. Benedicámus Dómino. ℟. Deo grátias.\nV. Fidélium ánimæ per misericórdiam Dei requiéscant in pace. ℟. Amen.",
+        "de": "V. Herr, erhöre mein Gebet. ℟. Und lass mein Rufen zu dir kommen.\nV. Lasset uns beten. — Tagesgebet. — Durch unsern Herrn Jesus Christus, deinen Sohn, der mit dir lebt und herrscht in der Einheit des Heiligen Geistes, Gott, von Ewigkeit zu Ewigkeit. ℟. Amen.\nV. Der Herr sei mit euch. ℟. Und mit deinem Geiste.\nV. Lasset uns preisen den Herrn. ℟. Dank sei Gott.\nV. Die Seelen der Gläubigen mögen durch die Barmherzigkeit Gottes ruhen in Frieden. ℟. Amen."
       }
     }
   ]

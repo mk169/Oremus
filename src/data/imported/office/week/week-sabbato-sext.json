@@ -14,7 +14,7 @@
     "color": "green",
     "rank": "Feria per annum"
   },
-  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Vollständig eingesetzt sind Psalmen, Antiphonen, Hymnen, Kurzlesung (Capitulum), Responsorium/Versikel, die Cantica und das feste Ordinarium. Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages; in der Matutin wechseln zudem die drei Lesungen mit dem Proprium (Schriftlesung der Woche).",
   "sections": [
     {
       "id": "week-sabbato-sext-deus",
@@ -82,6 +82,59 @@
       "text": {
         "la": "Quam magnificáta sunt ópera tua, Dómine! * ómnia in sapiéntia fecísti: impléta est terra possessióne tua.\nHoc mare magnum, et spatiósum mánibus: * illic reptília, quorum non est númerus.\nAnimália pusílla cum magnis: * illic naves pertransíbunt.\nDraco iste, quem formásti ad illudéndum ei: * ómnia a te exspéctant ut des illis escam in témpore.\nDante te illis, cólligent: * aperiénte te manum tuam, ómnia implebúntur bonitáte.\nAverténte autem te fáciem, turbabúntur: * áuferes spíritum eórum, et defícient, et in púlverem suum reverténtur.\nEmíttes spíritum tuum, et creabúntur: * et renovábis fáciem terræ.\nSit glória Dómini in sǽculum: * lætábitur Dóminus in opéribus suis:\nQui réspicit terram, et facit eam trémere: * qui tangit montes, et fúmigant.\nCantábo Dómino in vita mea: * psallam Deo meo, quámdiu sum.\nJucúndum sit ei elóquium meum: * ego vero delectábor in Dómino.\nDefíciant peccatóres a terra, et iníqui ita ut non sint: * bénedic, ánima mea, Dómino.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
         "de": "Wie groß sind Deine Werke, o Herr! * Alles hast Du in Weisheit gemacht, erfüllt ist die Erde mit Deinem Eigentum.\nDies große und weite meer mit seinen Armen, * dort sind Kriechtiere, die ohne zahl sind,\nlebewesen, kleine mit großen, * dort ziehen Schiffe dahin,\ndieser Drache, den Du geformt hast, um darin zu spielen, * sie alle erwarten von Dir, dass Du ihnen nahrung gibst zur rechten zeit.\nGibst Du ihnen, werden sie sammeln, * öffnest Du Deine Hand, werden sie alle erfüllt mit Gutem.\nWendest Du aber Dein Angesicht ab, werden sie verwirrt, * nimmst Du ihren Geist hinweg, schwinden sie dahin und kehren zurück zum Staub.\nAussenden wirst Du Deinen Geist, und sie werden erschaffen, * und Du wirst das Angesicht der Erde erneuern.\nEs sei die Herrlichkeit des Herrn in Ewigkeit, * freuen wird sich der Herr an seinen Werken,\nder auf die Erde blickt und sie erbeben lässt, * der die berge berührt, und sie rauchen.\nSingen will ich dem Herrn in meinem leben, * spielen meinem Gott, solange ich bin.\nAngenehm sei ihm mein Ausspruch, * ich aber will mich freuen im Herrn.\nDahinschwinden mögen die Sünder von der Erde und die Frevler, so dass sie nicht mehr sind. * lobpreise, meine Seele, den Herrn!\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-sabbato-sext-capitulum",
+      "kind": "proprium",
+      "title": {
+        "la": "Capitulum",
+        "de": "Kurzlesung"
+      },
+      "text": {
+        "la": "Némini quidquam debeátis, nisi ut ínvicem diligátis: qui enim díligit próximum, legem implévit.\n℟. Deo grátias."
+      },
+      "reference": {
+        "la": "Rom 13:8",
+        "de": "Rom 13:8"
+      }
+    },
+    {
+      "id": "week-sabbato-sext-responsorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Responsorium breve",
+        "de": "Responsorium"
+      },
+      "text": {
+        "la": "R.br. Benedícam Dóminum * In omni témpore.\nR. Benedícam Dóminum * In omni témpore.\nV. Semper laus ejus in ore meo.\nR. In omni témpore.\nR. Benedícam Dóminum * In omni témpore."
+      }
+    },
+    {
+      "id": "week-sabbato-sext-versum",
+      "kind": "proprium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "V. Dóminus regit me, et nihil mihi déerit.\nR. In loco páscuæ ibi me collocávit."
+      }
+    },
+    {
+      "id": "week-sabbato-sext-abschluss",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Oratio et conclusio",
+        "de": "Tagesgebet und Abschluss"
+      },
+      "rubric": {
+        "la": "Oratio de dominica vel festo occurrenti",
+        "de": "Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages."
+      },
+      "text": {
+        "la": "Dómine, exáudi oratiónem meam. ℟. Et clamor meus ad te véniat.\nV. Orémus. — Oratio diei. — Per Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum. ℟. Amen.\nV. Dóminus vobíscum. ℟. Et cum spíritu tuo.\nV. Benedicámus Dómino. ℟. Deo grátias.\nV. Fidélium ánimæ per misericórdiam Dei requiéscant in pace. ℟. Amen.",
+        "de": "V. Herr, erhöre mein Gebet. ℟. Und lass mein Rufen zu dir kommen.\nV. Lasset uns beten. — Tagesgebet. — Durch unsern Herrn Jesus Christus, deinen Sohn, der mit dir lebt und herrscht in der Einheit des Heiligen Geistes, Gott, von Ewigkeit zu Ewigkeit. ℟. Amen.\nV. Der Herr sei mit euch. ℟. Und mit deinem Geiste.\nV. Lasset uns preisen den Herrn. ℟. Dank sei Gott.\nV. Die Seelen der Gläubigen mögen durch die Barmherzigkeit Gottes ruhen in Frieden. ℟. Amen."
       }
     }
   ]

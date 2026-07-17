@@ -14,7 +14,7 @@
     "color": "green",
     "rank": "Feria per annum"
   },
-  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Vollständig eingesetzt sind Psalmen, Antiphonen, Hymnen, Kurzlesung (Capitulum), Responsorium/Versikel, die Cantica und das feste Ordinarium. Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages; in der Matutin wechseln zudem die drei Lesungen mit dem Proprium (Schriftlesung der Woche).",
   "sections": [
     {
       "id": "week-dominica-non-deus",
@@ -81,6 +81,61 @@
       "text": {
         "la": "(Sin) Príncipes persecúti sunt me gratis: * et a verbis tuis formidávit cor meum.\nLætábor ego super elóquia tua: * sicut qui invénit spólia multa.\nIniquitátem ódio hábui, et abominátus sum: * legem autem tuam diléxi.\nSépties in die laudem dixi tibi, * super judícia justítiæ tuæ.\nPax multa diligéntibus legem tuam: * et non est illis scándalum.\nExspectábam salutáre tuum, Dómine: * et mandáta tua diléxi.\nCustodívit ánima mea testimónia tua: * et diléxit ea veheménter.\nServávi mandáta tua, et testimónia tua: * quia omnes viæ meæ in conspéctu tuo.\n(Thau) Appropínquet deprecátio mea in conspéctu tuo, Dómine: * juxta elóquium tuum da mihi intelléctum.\nIntret postulátio mea in conspéctu tuo: * secúndum elóquium tuum éripe me.\nEructábunt lábia mea hymnum, * cum docúeris me justificatiónes tuas.\nPronuntiábit lingua mea elóquium tuum: * quia ómnia mandáta tua ǽquitas.\nFiat manus tua ut salvet me: * quóniam mandáta tua elégi.\nConcupívi salutáre tuum, Dómine: * et lex tua meditátio mea est.\nVivet ánima mea, et laudábit te: * et judícia tua adjuvábunt me.\nErrávi, sicut ovis, quæ périit: * quære servum tuum, quia mandáta tua non sum oblítus.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
         "de": "(Sin) Fürsten verfolgen mich ohne Ursache: * aber nur vor deinen Worten fürchtet sich mein Herz.\nIch freue mich über deine Worte, * wie einer, der viele Beute findet.\nIch hasse die Ungerechtigkeit, und verabscheue sie: * aber dein Gesetz liebe ich.\nSieben mal am Tag spreche ich dein Lob * wegen deiner gerechten Satzungen.\nGroßen Frieden haben, die dein Gesetz lieben, * und sie stoßen nicht an.\nIch warte auf dein Heil, o Herr, * und liebe deine Gebote.\nMeine Seele bewahrt deine Zeugnisse, * und liebt sie gar sehr.\nIch halte deine Gebote und deine Zeugnisse: * denn alle meine Wege sind vor deinem Angesicht.\n(Thau) Laß nahen mein Flehen vor dein Angesicht, o Herr: * nach deinem Worte gib mir Verstand.\nLaß kommen mein Verlangen vor dein Angesicht: * nach deinem Worte erlöse mich.\nMeine Lippen sollen überströmen von Lob, * wenn du mich gelehret hast deine Satzungen.\nMeine Zunge soll aussprechen dein Wort: * denn alle deine Gebote sind recht.\nDeine Hand soll mir helfen: * denn deine Gebote habe ich erwählet.\nIch sehne mich nach deinem Heile, o Herr, * und dein Gesetz ist meine Betrachtung.\nMeine Seele wird leben, und dich loben: * und deine Gerichte werden mir helfen.\nIch irre wie ein verlornes Schaf, * suche deinen Knecht, denn deine Gebote habe ich nicht vergessen.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-dominica-non-capitulum",
+      "kind": "proprium",
+      "title": {
+        "la": "Capitulum",
+        "de": "Kurzlesung"
+      },
+      "text": {
+        "la": "Empti enim estis prétio magno. Glorificáte et portáte Deum in córpore vestro.\n℟. Deo grátias."
+      },
+      "reference": {
+        "la": "1 Cor 6:20",
+        "de": "1 Cor 6:20"
+      }
+    },
+    {
+      "id": "week-dominica-non-responsorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Responsorium breve",
+        "de": "Responsorium"
+      },
+      "text": {
+        "la": "R.br. Clamávi in toto corde meo: * Exáudi me, Dómine.\nR. Clamávi in toto corde meo: * Exáudi me, Dómine.\nV. Justificatiónes tuas requíram.\nR. Exáudi me, Dómine.\nR. Clamávi in toto corde meo: * Exáudi me, Dómine.",
+        "de": "R.br. Ich rufe aus der ganzen Inbrunst meines Herzens: * Herr, erhör mich.\nR. Ich rufe aus der ganzen Inbrunst meines Herzens: * Herr, erhör mich.\nV. Lass mich nach dem, was recht bei dir ist, trachten.\nR. Herr, erhör mich\nR. Ich rufe aus der ganzen Inbrunst meines Herzens: * Herr, erhör mich."
+      }
+    },
+    {
+      "id": "week-dominica-non-versum",
+      "kind": "proprium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "V. Ab occúltis meis munda me, Dómine.\nR. Et ab aliénis parce servo tuo.",
+        "de": "V. O mach mich rein, o Herr, von meinen unbewussten Fehlern.\nR. Und vor dem bösen Willen schütze deinen Diener."
+      }
+    },
+    {
+      "id": "week-dominica-non-abschluss",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Oratio et conclusio",
+        "de": "Tagesgebet und Abschluss"
+      },
+      "rubric": {
+        "la": "Oratio de dominica vel festo occurrenti",
+        "de": "Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages."
+      },
+      "text": {
+        "la": "Dómine, exáudi oratiónem meam. ℟. Et clamor meus ad te véniat.\nV. Orémus. — Oratio diei. — Per Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum. ℟. Amen.\nV. Dóminus vobíscum. ℟. Et cum spíritu tuo.\nV. Benedicámus Dómino. ℟. Deo grátias.\nV. Fidélium ánimæ per misericórdiam Dei requiéscant in pace. ℟. Amen.",
+        "de": "V. Herr, erhöre mein Gebet. ℟. Und lass mein Rufen zu dir kommen.\nV. Lasset uns beten. — Tagesgebet. — Durch unsern Herrn Jesus Christus, deinen Sohn, der mit dir lebt und herrscht in der Einheit des Heiligen Geistes, Gott, von Ewigkeit zu Ewigkeit. ℟. Amen.\nV. Der Herr sei mit euch. ℟. Und mit deinem Geiste.\nV. Lasset uns preisen den Herrn. ℟. Dank sei Gott.\nV. Die Seelen der Gläubigen mögen durch die Barmherzigkeit Gottes ruhen in Frieden. ℟. Amen."
       }
     }
   ]

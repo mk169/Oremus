@@ -14,7 +14,7 @@
     "color": "green",
     "rank": "Feria per annum"
   },
-  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Vollständig eingesetzt sind Psalmen, Antiphonen, Hymnen, Kurzlesung (Capitulum), Responsorium/Versikel, die Cantica und das feste Ordinarium. Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages; in der Matutin wechseln zudem die drei Lesungen mit dem Proprium (Schriftlesung der Woche).",
   "sections": [
     {
       "id": "week-sabbato-prim-deus",
@@ -82,6 +82,50 @@
       "text": {
         "la": "Parátum cor meum, Deus, parátum cor meum: * cantábo, et psallam in glória mea.\nExsúrge, glória mea, exsúrge, psaltérium et cíthara: * exsúrgam dilúculo.\nConfitébor tibi in pópulis, Dómine: * et psallam tibi in natiónibus.\nQuia magna est super cælos misericórdia tua: * et usque ad nubes véritas tua:\nExaltáre super cælos, Deus, et super omnem terram glória tua: * ut liberéntur dilécti tui.\nSalvum fac déxtera tua, et exáudi me: * Deus locútus est in sancto suo:\nExsultábo, et dívidam Síchimam, * et convállem tabernaculórum dimétiar.\nMeus est Gálaad, et meus est Manásses: * et Éphraim suscéptio cápitis mei.\nJuda rex meus: * Moab lebes spei meæ.\nIn Idumǽam exténdam calceaméntum meum: * mihi alienígenæ amíci facti sunt.\nQuis dedúcet me in civitátem munítam? * quis dedúcet me usque in Idumǽam?\nNonne tu, Deus, qui repulísti nos, * et non exíbis, Deus, in virtútibus nostris?\nDa nobis auxílium de tribulatióne: * quia vana salus hóminis.\nIn Deo faciémus virtútem: * et ipse ad níhilum dedúcet inimícos nostros.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
         "de": "bereit ist mein Herz, o Gott, bereit ist mein Herz, * ich will singen und spielen in meiner Ehre.\nErhebe dich, meine Ehre, er hebe dich, Harfe und zither! * ich will mich erheben am frühen morgen.\nPreisen will ich Dich bei den Völkern, o Herr, * und Dir spielen bei den nationen,\ndenn groß über die Himmel ist Deine barmherzigkeit * und bis zu den Wolken Deine Wahrheit.\nErhebe Dich über die Himmel, o Gott, und über die ganze Erde komme Deine Herrlichkeit, * damit befreit werden Deine Geliebten.\nHilf nun mit Deiner rechten und erhöre mich. * Gott sprach in seinem Heiligtum:\nich will frohlocken und Sichem teilen * und das Tal der zelte vermessen.\nmein ist Galaad und mein ist manasse * und Ephraim die Schutzwehr meines Hauptes.\nÜber Edom will ich meinen Schuh ausstrecken, * Fremdgeborene sind mir zu Freunden geworden.\nÜber Edom will ich meinen Schuh ausstrecken, * Fremdgeborene sind mir zu Freunden geworden.\nWer wird mich geleiten in die befestigte Stadt? * Wer wird mich geleiten bis nach Edom?\nnicht etwa Du, o Gott, der Du uns verstoßen hast? * und wirst Du nicht ausziehen, o Gott, mit unseren Heeren?\nSchaff uns Hilfe aus der Drangsal, * denn nichtig ist das Heil von menschen.\nin Gott werden wir Kraftvolles tun, * und er selbst wird unsere Feinde zunichte machen.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-sabbato-prim-capitulum",
+      "kind": "proprium",
+      "title": {
+        "la": "Capitulum",
+        "de": "Kurzlesung"
+      },
+      "text": {
+        "la": "Regi sæculórum immortáli et invisíbili, soli Deo honor et glória in sǽcula sæculórum. Amen.",
+        "de": "Dem König der Ewigkeiten, dem unsterblichen und unsichtbaren, dem allein weisen Gott sei Ehre und Herrlichkeit in alle Ewigkeit. Amen."
+      },
+      "reference": {
+        "la": "1 Tim 1, 17",
+        "de": "1 Tim 1, 17"
+      }
+    },
+    {
+      "id": "week-sabbato-prim-responsorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Responsorium breve",
+        "de": "Responsorium"
+      },
+      "text": {
+        "la": "℟.br. Christe, Fili Dei vivi, * miserére nobis. \nV. Qui sedes ad déxteram Patris. \n℟. Miserére nobis. \nV. Exsúrge, Christe, ádjuva nos. \n℟. Et líbera nos propter nomen tuum.",
+        "de": "℟.br. Christus, Sohn des lebendigen Gottes, * erbarme dich unser. \nV. Der du sitzest zur Rechten des Vaters. \n℟. Erbarme dich unser. \nV. Erhebe dich, Christus, hilf uns. \n℟. Und erlöse uns um deines Namens willen."
+      }
+    },
+    {
+      "id": "week-sabbato-prim-abschluss",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Oratio et conclusio",
+        "de": "Tagesgebet und Abschluss"
+      },
+      "rubric": {
+        "la": "Oratio de dominica vel festo occurrenti",
+        "de": "Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages."
+      },
+      "text": {
+        "la": "Dómine, exáudi oratiónem meam. ℟. Et clamor meus ad te véniat.\nV. Orémus. — Oratio diei. — Per Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum. ℟. Amen.\nV. Dóminus vobíscum. ℟. Et cum spíritu tuo.\nV. Benedicámus Dómino. ℟. Deo grátias.\nV. Fidélium ánimæ per misericórdiam Dei requiéscant in pace. ℟. Amen.",
+        "de": "V. Herr, erhöre mein Gebet. ℟. Und lass mein Rufen zu dir kommen.\nV. Lasset uns beten. — Tagesgebet. — Durch unsern Herrn Jesus Christus, deinen Sohn, der mit dir lebt und herrscht in der Einheit des Heiligen Geistes, Gott, von Ewigkeit zu Ewigkeit. ℟. Amen.\nV. Der Herr sei mit euch. ℟. Und mit deinem Geiste.\nV. Lasset uns preisen den Herrn. ℟. Dank sei Gott.\nV. Die Seelen der Gläubigen mögen durch die Barmherzigkeit Gottes ruhen in Frieden. ℟. Amen."
       }
     }
   ]

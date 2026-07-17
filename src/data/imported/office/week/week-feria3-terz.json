@@ -14,7 +14,7 @@
     "color": "green",
     "rank": "Feria per annum"
   },
-  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Vollständig eingesetzt sind Psalmen, Antiphonen, Hymnen, Kurzlesung (Capitulum), Responsorium/Versikel, die Cantica und das feste Ordinarium. Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages; in der Matutin wechseln zudem die drei Lesungen mit dem Proprium (Schriftlesung der Woche).",
   "sections": [
     {
       "id": "week-feria3-terz-deus",
@@ -82,6 +82,59 @@
       "text": {
         "la": "Confundántur et revereántur simul, qui quærunt ánimam meam, * ut áuferant eam.\nConvertántur retrórsum, et revereántur, * qui volunt mihi mala.\nFerant conféstim confusiónem suam, * qui dicunt mihi: Euge, euge.\nExsúltent et læténtur super te omnes quæréntes te: * et dicant semper: Magnificétur Dóminus: qui díligunt salutáre tuum.\nEgo autem mendícus sum, et pauper: * Dóminus sollícitus est mei.\nAdjútor meus, et protéctor meus tu es: * Deus meus, ne tardáveris.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
         "de": "Sie mögen nach rückwärts gewendet werden und sich schämen, * die mir böses wollen.\nSie mögen nach rückwärts gewendet werden und sich schämen, * die mir böses wollen.\nSie mögen sogleich ihre Schande tragen, * die zu mir sagen: Wohlan, wohlan!\nFrohlocken sollen und sich freuen über Dich alle, die Dich suchen, * und die Dein Heil lieben sollen immer sagen: Hochgelobt sei der Herr!\nmein Helfer und mein beschützer bist Du, * mein Gott, säume nicht!\nmein Helfer und mein beschützer bist Du, * mein Gott, säume nicht!\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria3-terz-capitulum",
+      "kind": "proprium",
+      "title": {
+        "la": "Capitulum",
+        "de": "Kurzlesung"
+      },
+      "text": {
+        "la": "Sana me, Dómine, et sanábor: salvum me fac, et salvus ero: quóniam laus mea tu es.\n℟. Deo grátias."
+      },
+      "reference": {
+        "la": "Jer 17:14",
+        "de": "Jer 17:14"
+      }
+    },
+    {
+      "id": "week-feria3-terz-responsorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Responsorium breve",
+        "de": "Responsorium"
+      },
+      "text": {
+        "la": "R.br. Sana ánimam meam, * Quia peccávi tibi.\nR. Sana ánimam meam, * Quia peccávi tibi.\nV. Ego dixi: Dómine, miserére mei.\nR. Quia peccávi tibi.\nR. Sana ánimam meam, * Quia peccávi tibi."
+      }
+    },
+    {
+      "id": "week-feria3-terz-versum",
+      "kind": "proprium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "V. Adjútor meus, esto, ne derelínquas me.\nR. Neque despícias me, Deus, salutáris meus."
+      }
+    },
+    {
+      "id": "week-feria3-terz-abschluss",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Oratio et conclusio",
+        "de": "Tagesgebet und Abschluss"
+      },
+      "rubric": {
+        "la": "Oratio de dominica vel festo occurrenti",
+        "de": "Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages."
+      },
+      "text": {
+        "la": "Dómine, exáudi oratiónem meam. ℟. Et clamor meus ad te véniat.\nV. Orémus. — Oratio diei. — Per Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum. ℟. Amen.\nV. Dóminus vobíscum. ℟. Et cum spíritu tuo.\nV. Benedicámus Dómino. ℟. Deo grátias.\nV. Fidélium ánimæ per misericórdiam Dei requiéscant in pace. ℟. Amen.",
+        "de": "V. Herr, erhöre mein Gebet. ℟. Und lass mein Rufen zu dir kommen.\nV. Lasset uns beten. — Tagesgebet. — Durch unsern Herrn Jesus Christus, deinen Sohn, der mit dir lebt und herrscht in der Einheit des Heiligen Geistes, Gott, von Ewigkeit zu Ewigkeit. ℟. Amen.\nV. Der Herr sei mit euch. ℟. Und mit deinem Geiste.\nV. Lasset uns preisen den Herrn. ℟. Dank sei Gott.\nV. Die Seelen der Gläubigen mögen durch die Barmherzigkeit Gottes ruhen in Frieden. ℟. Amen."
       }
     }
   ]

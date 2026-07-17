@@ -151,6 +151,105 @@ function parseRef(token) {
 }
 
 // ---------------------------------------------------------------------------
+// Special-Dateien (Hymnen, Kurzlesung, Responsorium, Versikel) – Latein/Deutsch.
+// Abschnitte enthalten DO-Steuerzeichen (@:Alias, (sed rubrica …), {:marker:},
+// !Stelle, v./r., $Makro, &Makro, _ als Strophentrenner). Wir lösen eine
+// Alias-Ebene auf und brechen bei der ersten Rubrik-Alternative ab.
+// ---------------------------------------------------------------------------
+const stripInline = (s) => s.replace(/\{:[^}]*:\}/g, '').trim()
+
+function resolveSectionLines(sections, name) {
+  const lines = sections[name]
+  if (!lines) return []
+  const out = []
+  for (const raw of lines) {
+    const t = raw.trim()
+    if (/^\(/.test(t)) break // Rubrik-Alternative → Ende des primären Textes
+    if (/^@:/.test(t)) {
+      const sub = sections[t.slice(2).trim()] || []
+      for (const r2 of sub) {
+        if (/^\(/.test(r2.trim())) break
+        out.push(r2)
+      }
+      break
+    }
+    out.push(raw)
+  }
+  return out
+}
+
+function parseCapitulum(sections, name) {
+  let ref = ''
+  const body = []
+  for (const raw of resolveSectionLines(sections, name)) {
+    const t = stripInline(raw)
+    if (!t) continue
+    if (/^!/.test(t)) {
+      ref = t.slice(1).trim()
+      continue
+    }
+    if (/^\$/.test(t)) {
+      if (/Deo gratias/i.test(t)) body.push('℟. Deo grátias.')
+      continue
+    }
+    if (/^&/.test(t)) continue
+    body.push(t.replace(/^[vr]\.\s*/i, ''))
+  }
+  return { ref, text: body.join('\n') }
+}
+
+function parseResponsory(sections, name) {
+  const out = []
+  for (const raw of resolveSectionLines(sections, name)) {
+    const t = stripInline(raw)
+    if (!t || /^[&$!]/.test(t)) continue
+    if (out.length && out[out.length - 1] === t) continue // direkte Wiederholung kürzen
+    out.push(t)
+  }
+  return out.join('\n')
+}
+
+function parseHymn(sections, name) {
+  const out = []
+  for (const raw of resolveSectionLines(sections, name)) {
+    const t = stripInline(raw)
+    if (t === '_') {
+      if (out.length && out[out.length - 1] !== '') out.push('')
+      continue
+    }
+    if (!t || /^[!&$]/.test(t)) continue
+    out.push(t.replace(/^[vr]\.\s*/i, ''))
+  }
+  return out.join('\n').replace(/\n{3,}/g, '\n\n').trim()
+}
+
+// Fixe Kurzlesung/Responsorium für Prim und Komplet (gemeinfrei, unveränderlich).
+const FIXED = {
+  primCapitulum: {
+    ref: '1 Tim 1, 17',
+    la: 'Regi sæculórum immortáli et invisíbili, soli Deo honor et glória in sǽcula sæculórum. Amen.',
+    de: 'Dem König der Ewigkeiten, dem unsterblichen und unsichtbaren, dem allein weisen Gott sei Ehre und Herrlichkeit in alle Ewigkeit. Amen.',
+  },
+  kompletCapitulum: {
+    ref: 'Ier 14, 9',
+    la: 'Tu autem in nobis es, Dómine, et nomen sanctum tuum invocátum est super nos: ne derelínquas nos, Dómine, Deus noster.',
+    de: 'Du aber bist in unserer Mitte, o Herr, und dein heiliger Name ist über uns angerufen: verlass uns nicht, o Herr, unser Gott.',
+  },
+  kompletResponsory: {
+    la: '℟.br. In manus tuas, Dómine, * comméndo spíritum meum. \nV. Redemísti nos, Dómine, Deus veritátis. \n℟. Comméndo spíritum meum. \nV. Custódi nos, Dómine, ut pupíllam óculi. \n℟. Sub umbra alárum tuárum prótege nos.',
+    de: '℟.br. In deine Hände, o Herr, * empfehle ich meinen Geist. \nV. Du hast uns erlöst, o Herr, du Gott der Wahrheit. \n℟. Ich empfehle meinen Geist. \nV. Behüte uns, o Herr, wie den Augapfel. \n℟. Unter dem Schatten deiner Flügel beschirme uns.',
+  },
+  primResponsory: {
+    la: '℟.br. Christe, Fili Dei vivi, * miserére nobis. \nV. Qui sedes ad déxteram Patris. \n℟. Miserére nobis. \nV. Exsúrge, Christe, ádjuva nos. \n℟. Et líbera nos propter nomen tuum.',
+    de: '℟.br. Christus, Sohn des lebendigen Gottes, * erbarme dich unser. \nV. Der du sitzest zur Rechten des Vaters. \n℟. Erbarme dich unser. \nV. Erhebe dich, Christus, hilf uns. \n℟. Und erlöse uns um deines Namens willen.',
+  },
+  kompletOratio: {
+    la: 'V. Orémus. Vísita, quǽsumus, Dómine, habitatiónem istam, et omnes insídias inimíci ab ea longe repélle: Ángeli tui sancti hábitent in ea, qui nos in pace custódiant; et benedíctio tua sit super nos semper. Per Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum. ℟. Amen.',
+    de: 'V. Lasset uns beten. Suche heim, o Herr, wir bitten dich, diese Wohnung und halte alle Nachstellungen des Feindes ferne von ihr; deine heiligen Engel mögen in ihr wohnen und uns in Frieden behüten, und dein Segen sei allezeit über uns. Durch unsern Herrn Jesus Christus, deinen Sohn, der mit dir lebt und herrscht in der Einheit des Heiligen Geistes, Gott, von Ewigkeit zu Ewigkeit. ℟. Amen.',
+  },
+}
+
+// ---------------------------------------------------------------------------
 // Ordinarium (gemeinfreie, feste Texte). Latein: Breviarium Romanum 1962.
 // Deutsch: gemeinfreie Übersetzung (vgl. docs/licensing.md).
 // ---------------------------------------------------------------------------
@@ -288,6 +387,99 @@ function hymnSection(prefix, hourId) {
   }
 }
 
+// Hymnus aus den Special-Dateien (je Wochentag) für Matutin/Laudes/Vesper.
+function hymnFromSpecial(prefix, laSections, deSections, key) {
+  const la = parseHymn(laSections, key)
+  const de = parseHymn(deSections, key)
+  if (!la && !de) return null
+  return {
+    id: `${prefix}-hymnus`,
+    kind: 'proprium',
+    title: bilingual('Hymnus', 'Hymnus'),
+    text: bilingual(la, de),
+    chant: { chantable: true, mode: 'VIII' },
+  }
+}
+
+function capitulumSection(prefix, laSections, deSections, key, fixed) {
+  let ref = '', la = '', de = ''
+  if (fixed) {
+    ref = fixed.ref; la = fixed.la; de = fixed.de
+  } else {
+    const cl = parseCapitulum(laSections, key)
+    const cd = parseCapitulum(deSections, key)
+    ref = cl.ref || cd.ref; la = cl.text; de = cd.text
+  }
+  if (!la && !de) return null
+  const s = {
+    id: `${prefix}-capitulum`,
+    kind: 'proprium',
+    title: bilingual('Capitulum', 'Kurzlesung'),
+    text: bilingual(la, de),
+  }
+  if (ref) s.reference = bilingual(ref, ref)
+  return s
+}
+
+function responsorySection(prefix, laSections, deSections, key, fixed) {
+  let la = '', de = ''
+  if (fixed) {
+    la = fixed.la; de = fixed.de
+  } else {
+    la = parseResponsory(laSections, key)
+    de = parseResponsory(deSections, key)
+  }
+  if (!la && !de) return null
+  return {
+    id: `${prefix}-responsorium`,
+    kind: 'proprium',
+    title: bilingual('Responsorium breve', 'Responsorium'),
+    text: bilingual(la, de),
+  }
+}
+
+function versumSection(prefix, laSections, deSections, key) {
+  const la = parseResponsory(laSections, key)
+  const de = parseResponsory(deSections, key)
+  if (!la && !de) return null
+  return {
+    id: `${prefix}-versum`,
+    kind: 'proprium',
+    title: bilingual('Versus', 'Versikel'),
+    text: bilingual(la, de),
+  }
+}
+
+// Fester Abschluss (Pater noster, Gruß, Benedicamus). Das eigentliche Tagesgebet
+// (Oratio) folgt dem Proprium des Tages und ist als Rubrik vermerkt.
+function closingSection(prefix, little) {
+  return {
+    id: `${prefix}-abschluss`,
+    kind: 'ordinarium',
+    title: bilingual('Oratio et conclusio', 'Tagesgebet und Abschluss'),
+    rubric: bilingual(
+      'Oratio de dominica vel festo occurrenti',
+      'Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages.',
+    ),
+    text: bilingual(
+      (little
+        ? 'Dómine, exáudi oratiónem meam. ℟. Et clamor meus ad te véniat.\n'
+        : 'V. Dóminus vobíscum. ℟. Et cum spíritu tuo.\n') +
+        'V. Orémus. — Oratio diei. — Per Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum. ℟. Amen.\n' +
+        (little
+          ? 'V. Dóminus vobíscum. ℟. Et cum spíritu tuo.\n'
+          : '') +
+        'V. Benedicámus Dómino. ℟. Deo grátias.\nV. Fidélium ánimæ per misericórdiam Dei requiéscant in pace. ℟. Amen.',
+      (little
+        ? 'V. Herr, erhöre mein Gebet. ℟. Und lass mein Rufen zu dir kommen.\n'
+        : 'V. Der Herr sei mit euch. ℟. Und mit deinem Geiste.\n') +
+        'V. Lasset uns beten. — Tagesgebet. — Durch unsern Herrn Jesus Christus, deinen Sohn, der mit dir lebt und herrscht in der Einheit des Heiligen Geistes, Gott, von Ewigkeit zu Ewigkeit. ℟. Amen.\n' +
+        (little ? 'V. Der Herr sei mit euch. ℟. Und mit deinem Geiste.\n' : '') +
+        'V. Lasset uns preisen den Herrn. ℟. Dank sei Gott.\nV. Die Seelen der Gläubigen mögen durch die Barmherzigkeit Gottes ruhen in Frieden. ℟. Amen.',
+    ),
+  }
+}
+
 // Antiphon+Psalmzeilen aus einer "major/matutinum"-Sektion (La/De) zippen.
 // Zeile: "<antiphon>;;<psalmref>"; Versikel-Zeilen (V./R.) separat.
 function zipMajorLines(laLines, deLines) {
@@ -305,17 +497,32 @@ function zipMajorLines(laLines, deLines) {
     }
   }
   let vIdx = 0
+  let pending = null // aufeinanderfolgende V./R.-Zeilen zu einem Versikel bündeln
+  const flush = () => {
+    if (pending) {
+      items.push(pending)
+      pending = null
+    }
+  }
   for (const raw of laLines) {
     const line = raw.trim()
     if (!line) continue
     if (/;;/.test(line)) {
+      flush()
       const [ant, ref] = line.split(';;')
       items.push({ type: 'psalm', antLa: ant.trim(), antDe: deByRef.get(ref.trim()) || '', ref: ref.trim() })
     } else if (/^[VR]\./.test(line)) {
-      items.push({ type: 'versicle', la: line, de: deVersicles[vIdx] || '' })
+      const de = deVersicles[vIdx] || ''
       vIdx++
+      if (pending) {
+        pending.la += `\n${line}`
+        pending.de = pending.de ? `${pending.de}\n${de}` : de
+      } else {
+        pending = { type: 'versicle', la: line, de }
+      }
     }
   }
+  flush()
   return items
 }
 
@@ -356,10 +563,11 @@ function versicleSection(prefix, idx, la, de) {
 
 async function buildHour(day, hourDef, data) {
   const prefix = `week-${day.id}-${hourDef.id}`
+  const dk = day.n === 0 ? 'Dominica' : 'Feria' // per-annum: Sonntag vs. Ferie
   const sections = [openingSection(prefix)]
-  const hymn = hymnSection(prefix, hourDef.id)
 
   if (hourDef.src === 'matutinum') {
+    const hymn = hymnFromSpecial(prefix, data.matSpecialLa, data.matSpecialDe, `Day${day.n} Hymnus`)
     if (hymn) sections.push(hymn)
     const items = zipMajorLines(
       data.matutinumLa[`Day${day.n}`] || [],
@@ -376,6 +584,16 @@ async function buildHour(day, hourDef, data) {
       }
     }
     sections.push({
+      id: `${prefix}-lectiones`,
+      kind: 'ordinarium',
+      title: bilingual('Lectiones', 'Lesungen'),
+      rubric: bilingual(
+        'Lectiones et responsoria de Scriptura occurrenti seu de festo',
+        'Die drei Lesungen und ihre Responsorien richten sich nach dem Proprium des Tages (Schriftlesung der Woche bzw. Fest).',
+      ),
+      text: bilingual('', ''),
+    })
+    sections.push({
       id: `${prefix}-tedeum`,
       kind: 'ordinarium',
       title: bilingual('Hymnus Te Deum', 'Te Deum'),
@@ -386,7 +604,8 @@ async function buildHour(day, hourDef, data) {
       ),
     })
   } else if (hourDef.src === 'laudes' || hourDef.src === 'vesper') {
-    const key = hourDef.src === 'laudes' ? `Day${day.n} Laudes1` : `Day${day.n} Vespera`
+    const isLaudes = hourDef.src === 'laudes'
+    const key = isLaudes ? `Day${day.n} Laudes1` : `Day${day.n} Vespera`
     const items = zipMajorLines(data.majorLa[key] || [], data.majorDe[key] || [])
     let ps = 0
     for (const it of items) {
@@ -394,9 +613,18 @@ async function buildHour(day, hourDef, data) {
       const s = await psalmSection(prefix, ++ps, it.antLa, it.antDe, it.ref)
       if (s) sections.push(s)
     }
-    sections.push(canticleSection(prefix, hourDef.src === 'laudes' ? CANTICLES.benedictus : CANTICLES.magnificat))
+    // Kurzlesung → Hymnus → Versikel → Canticum (Benedictus/Magnificat)
+    const cap = capitulumSection(prefix, data.majSpecialLa, data.majSpecialDe, `${dk} ${isLaudes ? 'Laudes' : 'Vespera'}`)
+    if (cap) sections.push(cap)
+    const hymn = hymnFromSpecial(prefix, data.majSpecialLa, data.majSpecialDe, `Hymnus Day${day.n} ${isLaudes ? 'Laudes' : 'Vespera'}`)
+    if (hymn) sections.push(hymn)
+    const versum = versumSection(prefix, data.majSpecialLa, data.majSpecialDe, `${dk} Versum ${isLaudes ? '2' : '3'}`)
+    if (versum) sections.push(versum)
+    sections.push(canticleSection(prefix, isLaudes ? CANTICLES.benedictus : CANTICLES.magnificat))
+    sections.push(closingSection(prefix, false))
   } else {
     // kleine Horen + Komplet
+    const hymn = hymnSection(prefix, hourDef.id)
     if (hymn) sections.push(hymn)
     const { antLa, antDe, list } = parseMinorForDay(
       data.minorLa[hourDef.section],
@@ -412,8 +640,30 @@ async function buildHour(day, hourDef, data) {
       const s = await psalmSection(prefix, ++ps, ps === 1 ? antLa : '', ps === 1 ? antDe : '', tok)
       if (s) sections.push(s)
     }
+    const word = hourDef.section // Tertia | Sexta | Nona | Prima | Completorium
     if (hourDef.id === 'komplet') {
+      sections.push(capitulumSection(prefix, null, null, '', FIXED.kompletCapitulum))
+      sections.push(responsorySection(prefix, null, null, '', FIXED.kompletResponsory))
       sections.push(canticleSection(prefix, CANTICLES.nunc))
+      sections.push({
+        id: `${prefix}-oratio`,
+        kind: 'ordinarium',
+        title: bilingual('Oratio', 'Schlussgebet'),
+        text: bilingual(FIXED.kompletOratio.la, FIXED.kompletOratio.de),
+      })
+    } else if (hourDef.id === 'prim') {
+      sections.push(capitulumSection(prefix, null, null, '', FIXED.primCapitulum))
+      sections.push(responsorySection(prefix, null, null, '', FIXED.primResponsory))
+      sections.push(closingSection(prefix, true))
+    } else {
+      // Terz / Sext / Non: Kurzlesung + Responsorium breve + Versikel
+      const cap = capitulumSection(prefix, data.minSpecialLa, data.minSpecialDe, `${dk} ${word}`)
+      if (cap) sections.push(cap)
+      const resp = responsorySection(prefix, data.minSpecialLa, data.minSpecialDe, `Responsory breve ${dk} ${word}`)
+      if (resp) sections.push(resp)
+      const versum = versumSection(prefix, data.minSpecialLa, data.minSpecialDe, `Versum ${dk} ${word}`)
+      if (versum) sections.push(versum)
+      sections.push(closingSection(prefix, true))
     }
   }
 
@@ -429,8 +679,8 @@ async function buildHour(day, hourDef, data) {
     },
     note:
       'Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. ' +
-      'Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. ' +
-      'Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.',
+      'Vollständig eingesetzt sind Psalmen, Antiphonen, Hymnen, Kurzlesung (Capitulum), Responsorium/Versikel, die Cantica und das feste Ordinarium. ' +
+      'Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages; in der Matutin wechseln zudem die drei Lesungen mit dem Proprium (Schriftlesung der Woche).',
     sections,
   }
 }
@@ -444,15 +694,22 @@ async function main() {
     process.exit(1)
   }
 
-  console.log('Lade Psalter-Indexdateien (Latein/Deutsch) …')
-  const [matLa, matDe, majLa, majDe, minLa, minDe] = await Promise.all([
-    fetchText('Latin/Psalterium/Psalmi/Psalmi matutinum.txt'),
-    fetchText('Deutsch/Psalterium/Psalmi/Psalmi matutinum.txt'),
-    fetchText('Latin/Psalterium/Psalmi/Psalmi major.txt'),
-    fetchText('Deutsch/Psalterium/Psalmi/Psalmi major.txt'),
-    fetchText('Latin/Psalterium/Psalmi/Psalmi minor.txt'),
-    fetchText('Deutsch/Psalterium/Psalmi/Psalmi minor.txt'),
-  ])
+  console.log('Lade Psalter- und Special-Dateien (Latein/Deutsch) …')
+  const [matLa, matDe, majLa, majDe, minLa, minDe, matSLa, matSDe, majSLa, majSDe, minSLa, minSDe] =
+    await Promise.all([
+      fetchText('Latin/Psalterium/Psalmi/Psalmi matutinum.txt'),
+      fetchText('Deutsch/Psalterium/Psalmi/Psalmi matutinum.txt'),
+      fetchText('Latin/Psalterium/Psalmi/Psalmi major.txt'),
+      fetchText('Deutsch/Psalterium/Psalmi/Psalmi major.txt'),
+      fetchText('Latin/Psalterium/Psalmi/Psalmi minor.txt'),
+      fetchText('Deutsch/Psalterium/Psalmi/Psalmi minor.txt'),
+      fetchText('Latin/Psalterium/Special/Matutinum Special.txt'),
+      fetchText('Deutsch/Psalterium/Special/Matutinum Special.txt'),
+      fetchText('Latin/Psalterium/Special/Major Special.txt'),
+      fetchText('Deutsch/Psalterium/Special/Major Special.txt'),
+      fetchText('Latin/Psalterium/Special/Minor Special.txt'),
+      fetchText('Deutsch/Psalterium/Special/Minor Special.txt'),
+    ])
   const data = {
     matutinumLa: splitSections(matLa || ''),
     matutinumDe: splitSections(matDe || ''),
@@ -460,6 +717,12 @@ async function main() {
     majorDe: splitSections(majDe || ''),
     minorLa: splitSections(minLa || ''),
     minorDe: splitSections(minDe || ''),
+    matSpecialLa: splitSections(matSLa || ''),
+    matSpecialDe: splitSections(matSDe || ''),
+    majSpecialLa: splitSections(majSLa || ''),
+    majSpecialDe: splitSections(majSDe || ''),
+    minSpecialLa: splitSections(minSLa || ''),
+    minSpecialDe: splitSections(minSDe || ''),
   }
 
   await mkdir(OUT_DIR, { recursive: true })

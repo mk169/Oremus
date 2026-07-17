@@ -14,7 +14,7 @@
     "color": "green",
     "rank": "Feria per annum"
   },
-  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Vollständig eingesetzt sind Psalmen, Antiphonen, Hymnen, Kurzlesung (Capitulum), Responsorium/Versikel, die Cantica und das feste Ordinarium. Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages; in der Matutin wechseln zudem die drei Lesungen mit dem Proprium (Schriftlesung der Woche).",
   "sections": [
     {
       "id": "week-feria6-matutin-deus",
@@ -26,6 +26,22 @@
       "text": {
         "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
         "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria6-matutin-hymnus",
+      "kind": "proprium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Tu, Trinitátis Unitas,\nOrbem poténter quæ regis,\nAtténde laudis cánticum,\nQuod excubántes psállimus.\n\nNam léctulo consúrgimus\nNoctis quiéto témpore,\nUt flagitémus ómnium\nA te medélam vúlnerum.\n\nQuo fraude quidquid dǽmonum\nIn nóctibus delíquimus,\nAbstérgat illud cǽlitus\nTuæ potéstas glóriæ.\n\nNe corpus astet sórdidum,\nNec torpor instet córdium,\nNe críminis contágio\nTepéscat ardor spíritus.\n\nOb hoc, Redémptor, quǽsumus,\nReple tuo nos lúmine,\nPer quod diérum círculis\nNullis ruámus áctibus.\n\n* Præsta, Pater piíssime,\nPatríque compar Únice,\nCum Spíritu Paráclito\nRegnans per omne sǽculum.\nAmen.",
+        "de": "O Dreiheit in der Einigkeit,\nDie du so mächtig lenkst das All,\nGib acht auf unsern Lobgesang,\nDer dir ertönt in freud'gem Schall.\n\nDenn von dem Lager stehn wir auf\nZur Nachtzeit, wo die andern ruh'n,\nUnd flehen dich um Heilung an\nDer Wunden, die so weh uns tun,\n\nDaß, was auf der Dämonen Trug\nAn Sünden aufgehäuft die Nacht,\nAbwisch' mit gnäd'gem Himmelstau\nDie deiner Größe eig'ne Macht,\n\nDaß keiner bleib' in Sündenschmutz,\nDaß nicht erstarr' des Herzens Mut,\nDaß nicht, vom Laster überhüllt\nZur Lauheit wird des Geistes Glut.\n\nUnd drum, o Heiland, bitten wir,\nMit deinem Licht erfüll' uns all',\nDaß keiner in dem Lauf der Zeit\nBei seinem Tun in Sünden fall'.\n\n* Gewähr' uns dies, o Vater mild,\nUnd du, sein wesensgleicher Sohn,\nDie ihr uns mit dem Heil'gen Geist\nZugleich regiert auf ew'gem Thron.\nAmen."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
       }
     },
     {
@@ -84,20 +100,8 @@
         "de": "Versikel"
       },
       "text": {
-        "la": "V. Deus percússit petram et fluxérunt aquæ.",
-        "de": "V. Gott schlug auf den Felsen und heraus kam Wasser."
-      }
-    },
-    {
-      "id": "week-feria6-matutin-v2",
-      "kind": "ordinarium",
-      "title": {
-        "la": "Versus",
-        "de": "Versikel"
-      },
-      "text": {
-        "la": "R. Et torréntes inundavérunt.",
-        "de": "R. Dass ganze Bäche flossen."
+        "la": "V. Deus percússit petram et fluxérunt aquæ.\nR. Et torréntes inundavérunt.",
+        "de": "V. Gott schlug auf den Felsen und heraus kam Wasser.\nR. Dass ganze Bäche flossen."
       }
     },
     {
@@ -149,27 +153,15 @@
       }
     },
     {
-      "id": "week-feria6-matutin-v3",
+      "id": "week-feria6-matutin-v2",
       "kind": "ordinarium",
       "title": {
         "la": "Versus",
         "de": "Versikel"
       },
       "text": {
-        "la": "V. Elégit Dóminus tribum Juda.",
-        "de": "V. Es erwählte sich der Herr den Stamm Juda."
-      }
-    },
-    {
-      "id": "week-feria6-matutin-v4",
-      "kind": "ordinarium",
-      "title": {
-        "la": "Versus",
-        "de": "Versikel"
-      },
-      "text": {
-        "la": "R. Montem Sion quem diléxit.",
-        "de": "R. Den Berg Sion, den er liebte."
+        "la": "V. Elégit Dóminus tribum Juda.\nR. Montem Sion quem diléxit.",
+        "de": "V. Es erwählte sich der Herr den Stamm Juda.\nR. Den Berg Sion, den er liebte."
       }
     },
     {
@@ -221,28 +213,29 @@
       }
     },
     {
-      "id": "week-feria6-matutin-v5",
+      "id": "week-feria6-matutin-v3",
       "kind": "ordinarium",
       "title": {
         "la": "Versus",
         "de": "Versikel"
       },
       "text": {
-        "la": "V. Cognóscant quia nomen tibi Dóminus.",
-        "de": "V. Sie sollen erkennen, dass dein Name „der Herr“ ist."
+        "la": "V. Cognóscant quia nomen tibi Dóminus.\nR. Tu solus Altíssimus super omnem terram.",
+        "de": "V. Sie sollen erkennen, dass dein Name „der Herr“ ist.\nR. Dass nur du der Höchstgebietende bist im ganzen Weltall."
       }
     },
     {
-      "id": "week-feria6-matutin-v6",
+      "id": "week-feria6-matutin-lectiones",
       "kind": "ordinarium",
       "title": {
-        "la": "Versus",
-        "de": "Versikel"
+        "la": "Lectiones",
+        "de": "Lesungen"
       },
-      "text": {
-        "la": "R. Tu solus Altíssimus super omnem terram.",
-        "de": "R. Dass nur du der Höchstgebietende bist im ganzen Weltall."
-      }
+      "rubric": {
+        "la": "Lectiones et responsoria de Scriptura occurrenti seu de festo",
+        "de": "Die drei Lesungen und ihre Responsorien richten sich nach dem Proprium des Tages (Schriftlesung der Woche bzw. Fest)."
+      },
+      "text": {}
     },
     {
       "id": "week-feria6-matutin-tedeum",

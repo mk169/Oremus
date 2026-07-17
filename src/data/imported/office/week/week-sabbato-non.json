@@ -14,7 +14,7 @@
     "color": "green",
     "rank": "Feria per annum"
   },
-  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Vollständig eingesetzt sind Psalmen, Antiphonen, Hymnen, Kurzlesung (Capitulum), Responsorium/Versikel, die Cantica und das feste Ordinarium. Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages; in der Matutin wechseln zudem die drei Lesungen mit dem Proprium (Schriftlesung der Woche).",
   "sections": [
     {
       "id": "week-sabbato-non-deus",
@@ -81,6 +81,59 @@
       "text": {
         "la": "Líbera me quia egénus, et pauper ego sum: * et cor meum conturbátum est intra me.\nSicut umbra cum declínat, ablátus sum: * et excússus sum sicut locústæ.\nGénua mea infirmáta sunt a jejúnio: * et caro mea immutáta est propter óleum.\nEt ego factus sum oppróbrium illis: * vidérunt me, et movérunt cápita sua.\nÁdjuva me, Dómine, Deus meus: * salvum me fac secúndum misericórdiam tuam.\nEt sciant quia manus tua hæc: * et tu, Dómine, fecísti eam.\nMaledícent illi, et tu benedíces: * qui insúrgunt in me, confundántur: servus autem tuus lætábitur.\nInduántur qui détrahunt mihi, pudóre: * et operiántur sicut diplóide confusióne sua.\nConfitébor Dómino nimis in ore meo: * et in médio multórum laudábo eum.\nQuia ástitit a dextris páuperis, * ut salvam fáceret a persequéntibus ánimam meam.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
         "de": "befreie mich, denn bedürftig und arm bin ich, * und mein Herz ist verwirrt in mir.\nWie ein Schatten, wenn er sich neigt, werde ich hingerafft * und abgeschüttelt wie Heuschrecken.\nmeine Knie sind geschwächt vom Fasten, * und mein Fleisch ist abgezehrt wegen des Öls.\nund ich bin ihnen zum Hohn geworden, * sie sahen mich und schüttelten ihre Köpfe.\nHilf mir, Herr, mein Gott, * schaffe mir Heil nach Deiner barmherzigkeit.\nund sie sollen wissen, dass dies Deine Hand ist, * und dass Du, o Herr, es vollbracht hast.\nSie mögen fluchen, und Du wirst segnen; * die sich gegen mich erheben, mögen zuschanden werden, Dein Knecht aber wird erfreut.\nbekleidet werden sollen, die mich verleumden, mit Schande, * und umhüllt werden wie mit einem mantel sollen sie von ihrer Schmach.\nich will preisen den Herrn mit meinem mund, * und inmitten Vieler will ich ihn loben.\nDenn er stand zur rechten des Armen, * um meine Seele vor den Verfolgern zu retten.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-sabbato-non-capitulum",
+      "kind": "proprium",
+      "title": {
+        "la": "Capitulum",
+        "de": "Kurzlesung"
+      },
+      "text": {
+        "la": "In timóre incolátus vestri témpore conversámini: sciéntes quod non corruptibílibus auro vel argénto redémpti estis, sed pretióso sánguine quasi Agni immaculáti Christi.\n℟. Deo grátias."
+      },
+      "reference": {
+        "la": "1 Pet 1:17-19",
+        "de": "1 Pet 1:17-19"
+      }
+    },
+    {
+      "id": "week-sabbato-non-responsorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Responsorium breve",
+        "de": "Responsorium"
+      },
+      "text": {
+        "la": "R.br. Rédime me, Dómine, * Et miserére mei.\nR. Rédime me, Dómine, * Et miserére mei.\nV. Pes enim meus stetit in via recta.\nR. Et miserére mei.\nR. Rédime me, Dómine, * Et miserére mei."
+      }
+    },
+    {
+      "id": "week-sabbato-non-versum",
+      "kind": "proprium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "V. Ab occúltis meis munda me, Dómine.\nR. Et ab aliénis parce servo tuo."
+      }
+    },
+    {
+      "id": "week-sabbato-non-abschluss",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Oratio et conclusio",
+        "de": "Tagesgebet und Abschluss"
+      },
+      "rubric": {
+        "la": "Oratio de dominica vel festo occurrenti",
+        "de": "Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages."
+      },
+      "text": {
+        "la": "Dómine, exáudi oratiónem meam. ℟. Et clamor meus ad te véniat.\nV. Orémus. — Oratio diei. — Per Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum. ℟. Amen.\nV. Dóminus vobíscum. ℟. Et cum spíritu tuo.\nV. Benedicámus Dómino. ℟. Deo grátias.\nV. Fidélium ánimæ per misericórdiam Dei requiéscant in pace. ℟. Amen.",
+        "de": "V. Herr, erhöre mein Gebet. ℟. Und lass mein Rufen zu dir kommen.\nV. Lasset uns beten. — Tagesgebet. — Durch unsern Herrn Jesus Christus, deinen Sohn, der mit dir lebt und herrscht in der Einheit des Heiligen Geistes, Gott, von Ewigkeit zu Ewigkeit. ℟. Amen.\nV. Der Herr sei mit euch. ℟. Und mit deinem Geiste.\nV. Lasset uns preisen den Herrn. ℟. Dank sei Gott.\nV. Die Seelen der Gläubigen mögen durch die Barmherzigkeit Gottes ruhen in Frieden. ℟. Amen."
       }
     }
   ]

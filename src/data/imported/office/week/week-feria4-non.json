@@ -14,7 +14,7 @@
     "color": "green",
     "rank": "Feria per annum"
   },
-  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Vollständig eingesetzt sind Psalmen, Antiphonen, Hymnen, Kurzlesung (Capitulum), Responsorium/Versikel, die Cantica und das feste Ordinarium. Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages; in der Matutin wechseln zudem die drei Lesungen mit dem Proprium (Schriftlesung der Woche).",
   "sections": [
     {
       "id": "week-feria4-non-deus",
@@ -81,6 +81,59 @@
       "text": {
         "la": "Deus, repulísti nos, et destruxísti nos: * irátus es, et misértus es nobis.\nCommovísti terram, et conturbásti eam: * sana contritiónes ejus, quia commóta est.\nOstendísti pópulo tuo dura: * potásti nos vino compunctiónis.\nDedísti metuéntibus te significatiónem: * ut fúgiant a fácie arcus:\nUt liberéntur dilécti tui: * salvum fac déxtera tua, et exáudi me.\nDeus locútus est in sancto suo: * lætábor, et partíbor Síchimam: et convállem tabernaculórum metíbor.\nMeus est Gálaad, et meus est Manásses: * et Éphraim fortitúdo cápitis mei.\nJuda rex meus: * Moab olla spei meæ.\nIn Idumǽam exténdam calceaméntum meum: * mihi alienígenæ súbditi sunt.\nQuis dedúcet me in civitátem munítam? * quis dedúcet me usque in Idumǽam?\nNonne tu, Deus, qui repulísti nos? * et non egrediéris, Deus, in virtútibus nostris?\nDa nobis auxílium de tribulatióne: * quia vana salus hóminis.\nIn Deo faciémus virtútem: * et ipse ad níhilum dedúcet tribulántes nos.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
         "de": "Gott, Du hast uns verstoßen und zerstört, * Du hast gezürnt und erbarmtest Dich unser.\nDu hast das land bewegt und es erschüttert; * heile seine brüche, denn es wankt.\nHartes hast Du Deinem Volk gezeigt, * Du hast uns getränkt mit betäubendem Wein.\nDu gabst denen, die Dich fürchten, ein zeichen, * zu fliehen vor dem bogen.\nDamit befreit werden Deine Geliebten, * schaff Heil mit Deiner rechten und erhöre mich.\nGott sprach in seinem Heiligtum: * ich will mich freuen und Sichem teilen, und das Tal der zelte will ich vermessen.\nJuda ist mein König, * moab ist das becken meiner Hoffnung.\nJuda ist mein König, * moab ist das becken meiner Hoffnung.\nÜber idumäa will ich meinen Schuh ausstrecken, * die Fremdlinge sind mir untertan.\nWer wird mich hinabführen in die befestigte Stadt? * Wer wird mich hinabführen bis nach idumäa?\nnicht Du, o Gott, der Du uns verstoßen hast? * und wirst Du nicht ausziehen, o Gott, mit unseren Heeren?\nGib uns Hilfe aus der bedrängnis, * denn nichtig ist das Heil vom menschen.\nmit Gott werden wir kraftvoll handeln, * und er wird zunichte machen, die uns bedrängen.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria4-non-capitulum",
+      "kind": "proprium",
+      "title": {
+        "la": "Capitulum",
+        "de": "Kurzlesung"
+      },
+      "text": {
+        "la": "In timóre incolátus vestri témpore conversámini: sciéntes quod non corruptibílibus auro vel argénto redémpti estis, sed pretióso sánguine quasi Agni immaculáti Christi.\n℟. Deo grátias."
+      },
+      "reference": {
+        "la": "1 Pet 1:17-19",
+        "de": "1 Pet 1:17-19"
+      }
+    },
+    {
+      "id": "week-feria4-non-responsorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Responsorium breve",
+        "de": "Responsorium"
+      },
+      "text": {
+        "la": "R.br. Rédime me, Dómine, * Et miserére mei.\nR. Rédime me, Dómine, * Et miserére mei.\nV. Pes enim meus stetit in via recta.\nR. Et miserére mei.\nR. Rédime me, Dómine, * Et miserére mei."
+      }
+    },
+    {
+      "id": "week-feria4-non-versum",
+      "kind": "proprium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "V. Ab occúltis meis munda me, Dómine.\nR. Et ab aliénis parce servo tuo."
+      }
+    },
+    {
+      "id": "week-feria4-non-abschluss",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Oratio et conclusio",
+        "de": "Tagesgebet und Abschluss"
+      },
+      "rubric": {
+        "la": "Oratio de dominica vel festo occurrenti",
+        "de": "Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages."
+      },
+      "text": {
+        "la": "Dómine, exáudi oratiónem meam. ℟. Et clamor meus ad te véniat.\nV. Orémus. — Oratio diei. — Per Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum. ℟. Amen.\nV. Dóminus vobíscum. ℟. Et cum spíritu tuo.\nV. Benedicámus Dómino. ℟. Deo grátias.\nV. Fidélium ánimæ per misericórdiam Dei requiéscant in pace. ℟. Amen.",
+        "de": "V. Herr, erhöre mein Gebet. ℟. Und lass mein Rufen zu dir kommen.\nV. Lasset uns beten. — Tagesgebet. — Durch unsern Herrn Jesus Christus, deinen Sohn, der mit dir lebt und herrscht in der Einheit des Heiligen Geistes, Gott, von Ewigkeit zu Ewigkeit. ℟. Amen.\nV. Der Herr sei mit euch. ℟. Und mit deinem Geiste.\nV. Lasset uns preisen den Herrn. ℟. Dank sei Gott.\nV. Die Seelen der Gläubigen mögen durch die Barmherzigkeit Gottes ruhen in Frieden. ℟. Amen."
       }
     }
   ]

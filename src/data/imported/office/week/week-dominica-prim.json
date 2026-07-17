@@ -14,7 +14,7 @@
     "color": "green",
     "rank": "Feria per annum"
   },
-  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Vollständig eingesetzt sind Psalmen, Antiphonen, Hymnen, Kurzlesung (Capitulum), Responsorium/Versikel, die Cantica und das feste Ordinarium. Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages; in der Matutin wechseln zudem die drei Lesungen mit dem Proprium (Schriftlesung der Woche).",
   "sections": [
     {
       "id": "week-dominica-prim-deus",
@@ -82,6 +82,50 @@
       "text": {
         "la": "(Ghimel) Retríbue servo tuo, vivífica me: * et custódiam sermónes tuos:\nRevéla óculos meos: * et considerábo mirabília de lege tua.\nÍncola ego sum in terra: * non abscóndas a me mandáta tua.\nConcupívit ánima mea desideráre justificatiónes tuas, * in omni témpore.\nIncrepásti supérbos: * maledícti qui declínant a mandátis tuis.\nAufer a me oppróbrium, et contémptum: * quia testimónia tua exquisívi.\nÉtenim sedérunt príncipes, et advérsum me loquebántur: * servus autem tuus exercebátur in justificatiónibus tuis.\nNam et testimónia tua meditátio mea est: * et consílium meum justificatiónes tuæ.\n(Daleth) Adhǽsit paviménto ánima mea: * vivífica me secúndum verbum tuum.\nVias meas enuntiávi, et exaudísti me: * doce me justificatiónes tuas.\nViam justificatiónum tuárum ínstrue me: * et exercébor in mirabílibus tuis.\nDormitávit ánima mea præ tǽdio: * confírma me in verbis tuis.\nViam iniquitátis ámove a me: * et de lege tua miserére mei.\nViam veritátis elégi: * judícia tua non sum oblítus.\nAdhǽsi testimóniis tuis, Dómine: * noli me confúndere.\nViam mandatórum tuórum cucúrri, * cum dilatásti cor meum.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
         "de": "(Ghimel) Sei deinem Knecht gefällig, mach mich kräftig, * daß ich befolgen kann, was du mir aufträgst.\nNimm meinen Augen weg die Hülle, * daß ich erkenne, welch wunderbarer Segen quillt aus deiner Lehre.\nEin Fremdling bin ich hier im Lande; * verdeck mir nicht, was an Geboten du gegeben.\nEs lechzt mein Geist vor Sehnsucht, deine Regeln zu beachten * zu jeder Stunde.\nDu mußt sie gründlich schelten, die Bedrücker, * die Unglückseligen, die sich um dein Gebot nicht kümmern.\nNimm weg von mir und lade jenen auf, was sie mich schmähen und verlachen, * dann kann ich ganz um deine Offenbarung mich bekümmern.\nSo lange aber, wie vom Richterstuhl die Wächter gegen mich Dekrete machen, * bleibt sehr besorgt dein Knecht um deine Regeln.\nUnd doch ist deine Offenbarung meine Freude, * und Zeiger für den Weg mir deine Regeln.\n(Daleth) Wo ich so elend lieg am Boden, * mach stärker mich durch die Befolgung deiner Lehre.\nSo oft ich meine Sorgen klage, pflegst du mich zu hören; * so lehre mich auch deine Regeln.\nWie man nach deinen Regeln wandelt, zeig mir, * daß ich mit allem Eifer dies dein Meisterwerk umfasse.\nIch bin ganz krank vor Kummer, * mach mich gesund durch die Befolgung deiner Lehren.\nWend ab von mir das Quälen seitens der Bedrücker * und mache dein Gesetz mir leichter.\nDas richt'ge Handeln habe ich erwählt mir, * ich lasse die Entscheidungen, die du gefällt, nicht aus dem Sinne schwinden.\nIch häng mich fest, o Herr, an deine Offenbarung, * laß keine Täuschung mich erleben.\nWenn schnell ich vorwärts komme auf dem Weg, den dein Gesetz weist, * dann machst du große Freude meinem Herzen.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-dominica-prim-capitulum",
+      "kind": "proprium",
+      "title": {
+        "la": "Capitulum",
+        "de": "Kurzlesung"
+      },
+      "text": {
+        "la": "Regi sæculórum immortáli et invisíbili, soli Deo honor et glória in sǽcula sæculórum. Amen.",
+        "de": "Dem König der Ewigkeiten, dem unsterblichen und unsichtbaren, dem allein weisen Gott sei Ehre und Herrlichkeit in alle Ewigkeit. Amen."
+      },
+      "reference": {
+        "la": "1 Tim 1, 17",
+        "de": "1 Tim 1, 17"
+      }
+    },
+    {
+      "id": "week-dominica-prim-responsorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Responsorium breve",
+        "de": "Responsorium"
+      },
+      "text": {
+        "la": "℟.br. Christe, Fili Dei vivi, * miserére nobis. \nV. Qui sedes ad déxteram Patris. \n℟. Miserére nobis. \nV. Exsúrge, Christe, ádjuva nos. \n℟. Et líbera nos propter nomen tuum.",
+        "de": "℟.br. Christus, Sohn des lebendigen Gottes, * erbarme dich unser. \nV. Der du sitzest zur Rechten des Vaters. \n℟. Erbarme dich unser. \nV. Erhebe dich, Christus, hilf uns. \n℟. Und erlöse uns um deines Namens willen."
+      }
+    },
+    {
+      "id": "week-dominica-prim-abschluss",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Oratio et conclusio",
+        "de": "Tagesgebet und Abschluss"
+      },
+      "rubric": {
+        "la": "Oratio de dominica vel festo occurrenti",
+        "de": "Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages."
+      },
+      "text": {
+        "la": "Dómine, exáudi oratiónem meam. ℟. Et clamor meus ad te véniat.\nV. Orémus. — Oratio diei. — Per Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum. ℟. Amen.\nV. Dóminus vobíscum. ℟. Et cum spíritu tuo.\nV. Benedicámus Dómino. ℟. Deo grátias.\nV. Fidélium ánimæ per misericórdiam Dei requiéscant in pace. ℟. Amen.",
+        "de": "V. Herr, erhöre mein Gebet. ℟. Und lass mein Rufen zu dir kommen.\nV. Lasset uns beten. — Tagesgebet. — Durch unsern Herrn Jesus Christus, deinen Sohn, der mit dir lebt und herrscht in der Einheit des Heiligen Geistes, Gott, von Ewigkeit zu Ewigkeit. ℟. Amen.\nV. Der Herr sei mit euch. ℟. Und mit deinem Geiste.\nV. Lasset uns preisen den Herrn. ℟. Dank sei Gott.\nV. Die Seelen der Gläubigen mögen durch die Barmherzigkeit Gottes ruhen in Frieden. ℟. Amen."
       }
     }
   ]

@@ -14,7 +14,7 @@
     "color": "green",
     "rank": "Feria per annum"
   },
-  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Vollständig eingesetzt sind Psalmen, Antiphonen, Hymnen, Kurzlesung (Capitulum), Responsorium/Versikel, die Cantica und das feste Ordinarium. Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages; in der Matutin wechseln zudem die drei Lesungen mit dem Proprium (Schriftlesung der Woche).",
   "sections": [
     {
       "id": "week-dominica-vesper-deus",
@@ -109,6 +109,49 @@
       }
     },
     {
+      "id": "week-dominica-vesper-capitulum",
+      "kind": "proprium",
+      "title": {
+        "la": "Capitulum",
+        "de": "Kurzlesung"
+      },
+      "text": {
+        "la": "Benedíctus Deus, et Pater Dómini nostri Jesu Christi, Pater misericordiárum, et Deus totíus consolatiónis, qui consolátur nos in omni tribulatióne nostra.\n℟. Deo grátias."
+      },
+      "reference": {
+        "la": "2 Cor 1:3-4",
+        "de": "2 Cor 1:3-4"
+      }
+    },
+    {
+      "id": "week-dominica-vesper-hymnus",
+      "kind": "proprium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Lucis Creátor óptime,\nLucem diérum próferens,\nPrimórdiis lucis novæ,\nMundi parans oríginem:\n\nQui mane junctum vésperi\nDiem vocári prǽcipis:\nIllábitur tetrum chaos,\nAudi preces cum flétibus.\n\nNe mens graváta crímine,\nVitæ sit exsul múnere,\nDum nil perénne cógitat,\nSeséque culpis ílligat.\n\nCæléste pulset óstium:\nVitále tollat prǽmium:\nVitémus omne nóxium:\nPurgémus omne péssimum.\n\n* Præsta, Pater piíssime,\nPatríque compar Únice,\nCum Spíritu Paráclito\nRegnans per omne sǽculum.\nAmen.",
+        "de": "O güt'ger Schöpfer du des Lichts,\nDas leuchtend uns den Tag erhellt,\nDer alles schaffend aus dem Nichts\nMit Licht den Anfang gibt der Welt,\n\nDer du den Abend angefügt\nDem Früh und Tag nennst das Gebild,\nWo dunkle Nacht uns näherrückt,\nHör unser Fleh'n, o Vater mild,\n\nDass nicht mit Sündenschuld beschwert\nDas Leben unser Geist verliert,\nWenn er nur denkt an diese Erd'\nUnd sich in Sündenschmutz verirrt.\n\nLass klopfen uns ans Himmelstor,\nBis wir erreicht des Lebens Ort;\nDass nichts uns schad', zieh uns empor,\nWas uns befleckt, das räume fort.\n\n* Gewähr uns dies, o Vater mild\nUnd du, sein wesensgleicher Sohn,\nDie ihr eins mit dem Heil'gen Geist\nZugleich regiert auf ew'gem Thron.\nAmen."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
+      }
+    },
+    {
+      "id": "week-dominica-vesper-versum",
+      "kind": "proprium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "V. Dirigátur, Dómine, orátio mea.\nR. Sicut incénsum in conspéctu tuo.",
+        "de": "V. Mag mein Gebet zur Höhe steigen, o Herr.\nR. Vor dir wie Weihrauchwolken."
+      }
+    },
+    {
       "id": "week-dominica-vesper-nunc",
       "kind": "ordinarium",
       "title": {
@@ -122,6 +165,22 @@
       "text": {
         "la": "Magníficat * ánima mea Dóminum.\nEt exsultávit spíritus meus * in Deo, salutári meo.\nQuia respéxit humilitátem ancíllæ suæ: * ecce enim ex hoc beátam me dicent omnes generatiónes.\nQuia fecit mihi magna qui potens est: * et sanctum nomen ejus.\nEt misericórdia ejus a progénie in progénies * timéntibus eum.\nFecit poténtiam in bráchio suo: * dispérsit supérbos mente cordis sui.\nDepósuit poténtes de sede, * et exaltávit húmiles.\nEsuriéntes implévit bonis: * et dívites dimísit inánes.\nSuscépit Israël púerum suum, * recordátus misericórdiæ suæ.\nSicut locútus est ad patres nostros, * Ábraham, et sémini ejus in sǽcula.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
         "de": "Meine Seele preist die Größe des Herrn, * und mein Geist frohlockt in Gott, meinem Heile.\nDenn er hat auf die Niedrigkeit seiner Magd geschaut; * siehe, von nun an preisen mich selig alle Geschlechter.\nDenn Großes hat an mir getan, der mächtig ist, * und heilig ist sein Name.\nUnd sein Erbarmen währt von Geschlecht zu Geschlecht * für alle, die ihn fürchten.\nEr wirkt mit Macht in seinem Arm, * er zerstreut, die hoffärtig sind im Sinne ihres Herzens.\nEr stürzt die Mächtigen vom Thron * und erhöht die Niedrigen.\nDie Hungernden erfüllt er mit Gütern * und lässt die Reichen leer ausgehn.\nEr nimmt sich Israels an, seines Knechtes, * eingedenk seiner Barmherzigkeit,\nwie er geredet hat zu unsern Vätern, * zu Abraham und seinen Nachkommen auf ewig.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-dominica-vesper-abschluss",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Oratio et conclusio",
+        "de": "Tagesgebet und Abschluss"
+      },
+      "rubric": {
+        "la": "Oratio de dominica vel festo occurrenti",
+        "de": "Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages."
+      },
+      "text": {
+        "la": "V. Dóminus vobíscum. ℟. Et cum spíritu tuo.\nV. Orémus. — Oratio diei. — Per Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum. ℟. Amen.\nV. Benedicámus Dómino. ℟. Deo grátias.\nV. Fidélium ánimæ per misericórdiam Dei requiéscant in pace. ℟. Amen.",
+        "de": "V. Der Herr sei mit euch. ℟. Und mit deinem Geiste.\nV. Lasset uns beten. — Tagesgebet. — Durch unsern Herrn Jesus Christus, deinen Sohn, der mit dir lebt und herrscht in der Einheit des Heiligen Geistes, Gott, von Ewigkeit zu Ewigkeit. ℟. Amen.\nV. Lasset uns preisen den Herrn. ℟. Dank sei Gott.\nV. Die Seelen der Gläubigen mögen durch die Barmherzigkeit Gottes ruhen in Frieden. ℟. Amen."
       }
     }
   ]

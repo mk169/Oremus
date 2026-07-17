@@ -14,7 +14,7 @@
     "color": "green",
     "rank": "Feria per annum"
   },
-  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Vollständig eingesetzt sind Psalmen, Antiphonen, Hymnen, Kurzlesung (Capitulum), Responsorium/Versikel, die Cantica und das feste Ordinarium. Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages; in der Matutin wechseln zudem die drei Lesungen mit dem Proprium (Schriftlesung der Woche).",
   "sections": [
     {
       "id": "week-feria5-matutin-deus",
@@ -26,6 +26,22 @@
       "text": {
         "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
         "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria5-matutin-hymnus",
+      "kind": "proprium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Nox atra rerum cóntegit\nTerræ colóres ómnium:\nNos confiténtes póscimus\nTe, juste judex córdium.\n\nUt áuferas piácula,\nSordésque mentis ábluas:\nDonésque, Christe, grátiam,\nUt arceántur crímina.\n\nMens ecce torpet ímpia,\nQuam culpa mordet nóxia:\nObscúra gestit tóllere,\nEt te, Redémptor, quǽrere.\n\nRepélle tu calíginem\nIntrínsecus quam máxime,\nUt in beáto gáudeat\nSe collocári lúmine.\n\n* Præsta, Pater piíssime,\nPatríque compar Únice,\nCum Spíritu Paráclito\nRegnans per omne sǽculum.\nAmen.",
+        "de": "Wo noch die düst're Dunkelheit\nDer Dinge Farbenschmuck umgraut,\nFleh'n wir dich, Richter, preisend an,\nDer prüfend in die Herzen schaut:\n\nEntfern', was sündhaft ist in uns,\nWasch ab vom Geiste allen Schmutz;\nSei gnädig und gewähre uns,\nDaß nie wir fehlen, deinen Schutz.\n\nSieh, wie verkehrt und träg er Sinn,\nWie sünd'ge Schuld ihn ganz zernagt,\nWie er, um frei von Nacht zu sein,\nNach dir, o Heiland, suchend fragt.\n\nO scheuch' aus unserm Innern weg\nIn weit'ste Fern' die Dunkelheit,\nDaß wir erlangen unsern Sitz\nIm Licht der ew'gen Seligkeit.\n\n* Gewähr' uns dies, o Vater mild,\nUnd du, sein wesensgleicher Sohn,\nDie ihr uns mit dem Heil'gen Geist\nZugleich regiert auf ew'gem Thron.\nAmen."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
       }
     },
     {
@@ -84,20 +100,8 @@
         "de": "Versikel"
       },
       "text": {
-        "la": "V. Non amóvit Dóminus oratiónem meam.",
-        "de": "V. Gott hat nicht von sich gewiesen mein Bitten."
-      }
-    },
-    {
-      "id": "week-feria5-matutin-v2",
-      "kind": "ordinarium",
-      "title": {
-        "la": "Versus",
-        "de": "Versikel"
-      },
-      "text": {
-        "la": "R. Et misericórdiam suam a me.",
-        "de": "R. Und hat mir nicht versagt sein Erbarmen."
+        "la": "V. Non amóvit Dóminus oratiónem meam.\nR. Et misericórdiam suam a me.",
+        "de": "V. Gott hat nicht von sich gewiesen mein Bitten.\nR. Und hat mir nicht versagt sein Erbarmen."
       }
     },
     {
@@ -148,27 +152,15 @@
       }
     },
     {
-      "id": "week-feria5-matutin-v3",
+      "id": "week-feria5-matutin-v2",
       "kind": "ordinarium",
       "title": {
         "la": "Versus",
         "de": "Versikel"
       },
       "text": {
-        "la": "V. Mirábilis Deus in sanctis suis.",
-        "de": "V. O glorreicher Gott in deiner erhabenen Wohnung."
-      }
-    },
-    {
-      "id": "week-feria5-matutin-v4",
-      "kind": "ordinarium",
-      "title": {
-        "la": "Versus",
-        "de": "Versikel"
-      },
-      "text": {
-        "la": "R. Deus Israël dabit virtútem plebi suæ.",
-        "de": "R. Gott Israels, spende doch Kraft deinem Volke."
+        "la": "V. Mirábilis Deus in sanctis suis.\nR. Deus Israël dabit virtútem plebi suæ.",
+        "de": "V. O glorreicher Gott in deiner erhabenen Wohnung.\nR. Gott Israels, spende doch Kraft deinem Volke."
       }
     },
     {
@@ -219,28 +211,29 @@
       }
     },
     {
-      "id": "week-feria5-matutin-v5",
+      "id": "week-feria5-matutin-v3",
       "kind": "ordinarium",
       "title": {
         "la": "Versus",
         "de": "Versikel"
       },
       "text": {
-        "la": "V. Laudábo nomen Dei cum cántico.",
-        "de": "V. Loben will ich deine Huld, o Gott, im Liede."
+        "la": "V. Laudábo nomen Dei cum cántico.\nR. Et magnificábo eum in laude.",
+        "de": "V. Loben will ich deine Huld, o Gott, im Liede.\nR. Und preisen will ich dich beim Dankesopfer."
       }
     },
     {
-      "id": "week-feria5-matutin-v6",
+      "id": "week-feria5-matutin-lectiones",
       "kind": "ordinarium",
       "title": {
-        "la": "Versus",
-        "de": "Versikel"
+        "la": "Lectiones",
+        "de": "Lesungen"
       },
-      "text": {
-        "la": "R. Et magnificábo eum in laude.",
-        "de": "R. Und preisen will ich dich beim Dankesopfer."
-      }
+      "rubric": {
+        "la": "Lectiones et responsoria de Scriptura occurrenti seu de festo",
+        "de": "Die drei Lesungen und ihre Responsorien richten sich nach dem Proprium des Tages (Schriftlesung der Woche bzw. Fest)."
+      },
+      "text": {}
     },
     {
       "id": "week-feria5-matutin-tedeum",

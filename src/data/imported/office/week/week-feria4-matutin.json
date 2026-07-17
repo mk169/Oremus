@@ -14,7 +14,7 @@
     "color": "green",
     "rank": "Feria per annum"
   },
-  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Vollständig eingesetzt sind Psalmen, Antiphonen, Hymnen, Kurzlesung (Capitulum), Responsorium/Versikel, die Cantica und das feste Ordinarium. Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages; in der Matutin wechseln zudem die drei Lesungen mit dem Proprium (Schriftlesung der Woche).",
   "sections": [
     {
       "id": "week-feria4-matutin-deus",
@@ -26,6 +26,22 @@
       "text": {
         "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
         "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria4-matutin-hymnus",
+      "kind": "proprium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Rerum Creátor óptime,\nRectórque noster, áspice:\nNos a quiéte nóxia\nMersos sopóre líbera.\n\nTe, sancte Christe, póscimus,\nIgnósce culpis ómnibus:\nAd confiténdum súrgimus,\nMorásque noctis rúmpimus.\n\nMentes manúsque tóllimus,\nProphéta sicut nóctibus\nNobis geréndum prǽcipit,\nPaulúsque gestis cénsuit.\n\nVides malum, quod fécimus:\nOccúlta nostra pándimus:\nPreces geméntes fúndimus,\nDimítte quod peccávimus.\n\n* Præsta, Pater piíssime,\nPatríque compar Únice,\nCum Spíritu Paráclito\nRegnans per omne sǽculum.\nAmen.",
+        "de": "O bester Schöpfer du der Welt,\nUnd unser Lenker, sei bedacht\nDaß uns nicht schade falsche Ruh',\nUnd mach' uns frei von inn'rer Nacht.\n\nO heil'ger Christ, wir bitten dich:\nWas wir gefehlt, verzeih uns du;\nWir steh'n bereit zu deinem Preis,\nDir weihend einen Teil der Ruh'.\n\nWir heben Hand und Herz zu dir,\nWie's der Prophet geheißen hat\nVom rechten Tuen in der Nacht,\nUnd Paulus es gezeigt durch Tat.\n\nDu siehst, was Schlimmes wir getan,\nAuch das Geheimste zeigen wir,\nUnd seufzend flehen wir dich an:\nVerzeih, was wir gefehlt vor dir.\n\n* Gewähr' uns dies, o Vater mild,\nUnd du, sein wesensgleicher Sohn,\nDie ihr uns mit dem Heil'gen Geist\nZugleich regiert auf ew'gem Thron.\nAmen."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
       }
     },
     {
@@ -84,20 +100,8 @@
         "de": "Versikel"
       },
       "text": {
-        "la": "V. Dóminus virtútum nobíscum.",
-        "de": "V. Der Gott der Heerscharen ist mit uns."
-      }
-    },
-    {
-      "id": "week-feria4-matutin-v2",
-      "kind": "ordinarium",
-      "title": {
-        "la": "Versus",
-        "de": "Versikel"
-      },
-      "text": {
-        "la": "R. Suscéptor noster, Deus Jacob.",
-        "de": "R. Und unser Anwalt ist der Gott Jakobs."
+        "la": "V. Dóminus virtútum nobíscum.\nR. Suscéptor noster, Deus Jacob.",
+        "de": "V. Der Gott der Heerscharen ist mit uns.\nR. Und unser Anwalt ist der Gott Jakobs."
       }
     },
     {
@@ -149,27 +153,15 @@
       }
     },
     {
-      "id": "week-feria4-matutin-v3",
+      "id": "week-feria4-matutin-v2",
       "kind": "ordinarium",
       "title": {
         "la": "Versus",
         "de": "Versikel"
       },
       "text": {
-        "la": "V. Deus rédimet ánimam meam de manu ínferi.",
-        "de": "V. Gott wird mich aus der Gewalt des Grabes retten."
-      }
-    },
-    {
-      "id": "week-feria4-matutin-v4",
-      "kind": "ordinarium",
-      "title": {
-        "la": "Versus",
-        "de": "Versikel"
-      },
-      "text": {
-        "la": "R. Cum accéperit me.",
-        "de": "R. Wenn er sich gnädig meiner annimmt."
+        "la": "V. Deus rédimet ánimam meam de manu ínferi.\nR. Cum accéperit me.",
+        "de": "V. Gott wird mich aus der Gewalt des Grabes retten.\nR. Wenn er sich gnädig meiner annimmt."
       }
     },
     {
@@ -221,28 +213,29 @@
       }
     },
     {
-      "id": "week-feria4-matutin-v5",
+      "id": "week-feria4-matutin-v3",
       "kind": "ordinarium",
       "title": {
         "la": "Versus",
         "de": "Versikel"
       },
       "text": {
-        "la": "V. Audítui meo dabis gáudium et lætítiam.",
-        "de": "V. Sag meinen Ohren doch ein liebes Trosteswort."
+        "la": "V. Audítui meo dabis gáudium et lætítiam.\nR. Et exsultábunt ossa humiliáta.",
+        "de": "V. Sag meinen Ohren doch ein liebes Trosteswort.\nR. Und gleich aufhüpfen werden meine so zerschlagenen Glieder."
       }
     },
     {
-      "id": "week-feria4-matutin-v6",
+      "id": "week-feria4-matutin-lectiones",
       "kind": "ordinarium",
       "title": {
-        "la": "Versus",
-        "de": "Versikel"
+        "la": "Lectiones",
+        "de": "Lesungen"
       },
-      "text": {
-        "la": "R. Et exsultábunt ossa humiliáta.",
-        "de": "R. Und gleich aufhüpfen werden meine so zerschlagenen Glieder."
-      }
+      "rubric": {
+        "la": "Lectiones et responsoria de Scriptura occurrenti seu de festo",
+        "de": "Die drei Lesungen und ihre Responsorien richten sich nach dem Proprium des Tages (Schriftlesung der Woche bzw. Fest)."
+      },
+      "text": {}
     },
     {
       "id": "week-feria4-matutin-tedeum",

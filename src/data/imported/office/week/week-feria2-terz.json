@@ -14,7 +14,7 @@
     "color": "green",
     "rank": "Feria per annum"
   },
-  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Vollständig eingesetzt sind Psalmen, Antiphonen, Hymnen, Kurzlesung (Capitulum), Responsorium/Versikel, die Cantica und das feste Ordinarium. Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages; in der Matutin wechseln zudem die drei Lesungen mit dem Proprium (Schriftlesung der Woche).",
   "sections": [
     {
       "id": "week-feria2-terz-deus",
@@ -82,6 +82,59 @@
       "text": {
         "la": "Ad te, Dómine, clamábo, Deus meus, ne síleas a me: * nequándo táceas a me, et assimilábor descendéntibus in lacum.\nExáudi, Dómine, vocem deprecatiónis meæ dum oro ad te: * dum extóllo manus meas ad templum sanctum tuum.\nNe simul trahas me cum peccatóribus: * et cum operántibus iniquitátem ne perdas me.\nQui loquúntur pacem cum próximo suo, * mala autem in córdibus eórum.\nDa illis secúndum ópera eórum, * et secúndum nequítiam adinventiónum ipsórum.\nSecúndum ópera mánuum eórum tríbue illis: * redde retributiónem eórum ipsis.\nQuóniam non intellexérunt ópera Dómini, et in ópera mánuum ejus * déstrues illos, et non ædificábis eos.\nBenedíctus Dóminus: * quóniam exaudívit vocem deprecatiónis meæ.\nDóminus adjútor meus, et protéctor meus: * in ipso sperávit cor meum, et adjútus sum.\nEt reflóruit caro mea: * et ex voluntáte mea confitébor ei.\nDóminus fortitúdo plebis suæ: * et protéctor salvatiónum Christi sui est.\nSalvum fac pópulum tuum, Dómine, et bénedic hereditáti tuæ: * et rege eos, et extólle illos usque in ætérnum.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
         "de": "zu Dir, Herr, will ich rufen; mein Gott, schweige nicht vor mir, * damit nicht, wenn Du schweigst vor mir, ich denen gleich werde, die hinabsteigen in die Grube.\nErhöre, Herr, die Stimme meines Flehens, da ich zu Dir bete, * da ich meine Hände erhebe zu Deinem heiligen Tempel.\ndie von Frieden reden mit ihrem nächsten, * böses aber in ihrem Herzen haben.\ndie von Frieden reden mit ihrem nächsten, * böses aber in ihrem Herzen haben.\nGemäß den Werken ihrer Hände teile ihnen zu, * vergilt ihnen ihre Vergeltung,\nGemäß den Werken ihrer Hände teile ihnen zu, * vergilt ihnen ihre Vergeltung,\ndenn sie erkannten nicht die Taten des Herrn, noch die Werke seiner Hände, * Du wirst sie niederreißen und sie nicht wieder aufbauen.\nGepriesen sei der Herr, * denn er hat die Stimme meines Flehens erhört.\nund mein Fleisch ist wieder aufgeblüht, * und aus freiem Willen will ich ihn preisen.\nund mein Fleisch ist wieder aufgeblüht, * und aus freiem Willen will ich ihn preisen.\nDer Herr ist die Stärke seines Volkes, * und er ist der be schützer der rettenden Taten seines Gesalbten.\nrette Dein Volk, o Herr, und segne Dein Erbe * und leite es und erhöhe es bis in Ewigkeit.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria2-terz-capitulum",
+      "kind": "proprium",
+      "title": {
+        "la": "Capitulum",
+        "de": "Kurzlesung"
+      },
+      "text": {
+        "la": "Sana me, Dómine, et sanábor: salvum me fac, et salvus ero: quóniam laus mea tu es.\n℟. Deo grátias."
+      },
+      "reference": {
+        "la": "Jer 17:14",
+        "de": "Jer 17:14"
+      }
+    },
+    {
+      "id": "week-feria2-terz-responsorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Responsorium breve",
+        "de": "Responsorium"
+      },
+      "text": {
+        "la": "R.br. Sana ánimam meam, * Quia peccávi tibi.\nR. Sana ánimam meam, * Quia peccávi tibi.\nV. Ego dixi: Dómine, miserére mei.\nR. Quia peccávi tibi.\nR. Sana ánimam meam, * Quia peccávi tibi."
+      }
+    },
+    {
+      "id": "week-feria2-terz-versum",
+      "kind": "proprium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "V. Adjútor meus, esto, ne derelínquas me.\nR. Neque despícias me, Deus, salutáris meus."
+      }
+    },
+    {
+      "id": "week-feria2-terz-abschluss",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Oratio et conclusio",
+        "de": "Tagesgebet und Abschluss"
+      },
+      "rubric": {
+        "la": "Oratio de dominica vel festo occurrenti",
+        "de": "Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages."
+      },
+      "text": {
+        "la": "Dómine, exáudi oratiónem meam. ℟. Et clamor meus ad te véniat.\nV. Orémus. — Oratio diei. — Per Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum. ℟. Amen.\nV. Dóminus vobíscum. ℟. Et cum spíritu tuo.\nV. Benedicámus Dómino. ℟. Deo grátias.\nV. Fidélium ánimæ per misericórdiam Dei requiéscant in pace. ℟. Amen.",
+        "de": "V. Herr, erhöre mein Gebet. ℟. Und lass mein Rufen zu dir kommen.\nV. Lasset uns beten. — Tagesgebet. — Durch unsern Herrn Jesus Christus, deinen Sohn, der mit dir lebt und herrscht in der Einheit des Heiligen Geistes, Gott, von Ewigkeit zu Ewigkeit. ℟. Amen.\nV. Der Herr sei mit euch. ℟. Und mit deinem Geiste.\nV. Lasset uns preisen den Herrn. ℟. Dank sei Gott.\nV. Die Seelen der Gläubigen mögen durch die Barmherzigkeit Gottes ruhen in Frieden. ℟. Amen."
       }
     }
   ]

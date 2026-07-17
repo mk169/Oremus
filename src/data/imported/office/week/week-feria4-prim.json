@@ -14,7 +14,7 @@
     "color": "green",
     "rank": "Feria per annum"
   },
-  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Vollständig eingesetzt sind Psalmen, Antiphonen, Hymnen, Kurzlesung (Capitulum), Responsorium/Versikel, die Cantica und das feste Ordinarium. Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages; in der Matutin wechseln zudem die drei Lesungen mit dem Proprium (Schriftlesung der Woche).",
   "sections": [
     {
       "id": "week-feria4-prim-deus",
@@ -82,6 +82,50 @@
       "text": {
         "la": "Dixit insípiens in corde suo: * Non est Deus.\nCorrúpti sunt, et abominábiles facti sunt in iniquitátibus: * non est qui fáciat bonum.\nDeus de cælo prospéxit super fílios hóminum: * ut vídeat si est intéllegens, aut requírens Deum.\nOmnes declinavérunt, simul inútiles facti sunt: * non est qui fáciat bonum, non est usque ad unum.\nNonne scient omnes qui operántur iniquitátem, * qui dévorant plebem meam ut cibum panis?\nDeum non invocavérunt: * illic trepidavérunt timóre, ubi non erat timor.\nQuóniam Deus dissipávit ossa eórum qui homínibus placent: * confúsi sunt, quóniam Deus sprevit eos.\nQuis dabit ex Sion salutáre Israël? * cum convérterit Deus captivitátem plebis suæ, exsultábit Jacob, et lætábitur Israël.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
         "de": "Es sprach der Tor in seinem Herzen: * Es gibt keinen Gott.\nVerdorben sind sie und abscheulich geworden in ihren Sünden; * keiner ist, der Gutes tut.\nGott schaut vom Himmel auf die menschenkinder, * um zu sehen, ob es einen gibt, der Einsicht hat, oder einen, der Gott sucht.\nAlle sind abgewichen, sind allesamt unnütz geworden, * keiner ist, der Gutes tut, auch nicht ein einziger.\nWerden nicht alle es einsehen, die unrecht tun, * die mein Volk verschlingen wie einen bissen brot?\ndenn Gott zerstreut die Gebeine derer, die menschen zu gefallen suchen; * sie werden zuschanden, denn Gott hat sie verworfen.\ndenn Gott zerstreut die Gebeine derer, die menschen zu gefallen suchen; * sie werden zuschanden, denn Gott hat sie verworfen.\nWer wird von Sion Heil bringen für israel? * Wenn Gott die Gefangenschaft seines Volkes wendet, wird Jakob jubeln und israel sich freuen.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria4-prim-capitulum",
+      "kind": "proprium",
+      "title": {
+        "la": "Capitulum",
+        "de": "Kurzlesung"
+      },
+      "text": {
+        "la": "Regi sæculórum immortáli et invisíbili, soli Deo honor et glória in sǽcula sæculórum. Amen.",
+        "de": "Dem König der Ewigkeiten, dem unsterblichen und unsichtbaren, dem allein weisen Gott sei Ehre und Herrlichkeit in alle Ewigkeit. Amen."
+      },
+      "reference": {
+        "la": "1 Tim 1, 17",
+        "de": "1 Tim 1, 17"
+      }
+    },
+    {
+      "id": "week-feria4-prim-responsorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Responsorium breve",
+        "de": "Responsorium"
+      },
+      "text": {
+        "la": "℟.br. Christe, Fili Dei vivi, * miserére nobis. \nV. Qui sedes ad déxteram Patris. \n℟. Miserére nobis. \nV. Exsúrge, Christe, ádjuva nos. \n℟. Et líbera nos propter nomen tuum.",
+        "de": "℟.br. Christus, Sohn des lebendigen Gottes, * erbarme dich unser. \nV. Der du sitzest zur Rechten des Vaters. \n℟. Erbarme dich unser. \nV. Erhebe dich, Christus, hilf uns. \n℟. Und erlöse uns um deines Namens willen."
+      }
+    },
+    {
+      "id": "week-feria4-prim-abschluss",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Oratio et conclusio",
+        "de": "Tagesgebet und Abschluss"
+      },
+      "rubric": {
+        "la": "Oratio de dominica vel festo occurrenti",
+        "de": "Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages."
+      },
+      "text": {
+        "la": "Dómine, exáudi oratiónem meam. ℟. Et clamor meus ad te véniat.\nV. Orémus. — Oratio diei. — Per Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum. ℟. Amen.\nV. Dóminus vobíscum. ℟. Et cum spíritu tuo.\nV. Benedicámus Dómino. ℟. Deo grátias.\nV. Fidélium ánimæ per misericórdiam Dei requiéscant in pace. ℟. Amen.",
+        "de": "V. Herr, erhöre mein Gebet. ℟. Und lass mein Rufen zu dir kommen.\nV. Lasset uns beten. — Tagesgebet. — Durch unsern Herrn Jesus Christus, deinen Sohn, der mit dir lebt und herrscht in der Einheit des Heiligen Geistes, Gott, von Ewigkeit zu Ewigkeit. ℟. Amen.\nV. Der Herr sei mit euch. ℟. Und mit deinem Geiste.\nV. Lasset uns preisen den Herrn. ℟. Dank sei Gott.\nV. Die Seelen der Gläubigen mögen durch die Barmherzigkeit Gottes ruhen in Frieden. ℟. Amen."
       }
     }
   ]

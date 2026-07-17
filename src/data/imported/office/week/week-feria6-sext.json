@@ -14,7 +14,7 @@
     "color": "green",
     "rank": "Feria per annum"
   },
-  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Vollständig eingesetzt sind Psalmen, Antiphonen, Hymnen, Kurzlesung (Capitulum), Responsorium/Versikel, die Cantica und das feste Ordinarium. Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages; in der Matutin wechseln zudem die drei Lesungen mit dem Proprium (Schriftlesung der Woche).",
   "sections": [
     {
       "id": "week-feria6-sext-deus",
@@ -82,6 +82,59 @@
       "text": {
         "la": "Fundaménta ejus in móntibus sanctis: * díligit Dóminus portas Sion super ómnia tabernácula Jacob.\nGloriósa dicta sunt de te, * cívitas Dei.\nMemor ero Rahab, et Babylónis * sciéntium me.\nEcce, alienígenæ, et Tyrus, et pópulus Æthíopum, * hi fuérunt illic.\nNumquid Sion dicet: Homo, et homo natus est in ea: * et ipse fundávit eam Altíssimus?\nDóminus narrábit in scriptúris populórum, et príncipum: * horum, qui fuérunt in ea.\nSicut lætántium ómnium * habitátio est in te.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
         "de": "ihre Grundfesten sind auf heiligen bergen, * es liebt der Herr die Tore Sions mehr als alle zelte Jakobs.\nHerrliches sagt man von dir, * du Stadt Gottes.\nSiehe, Fremdstämmige und Tyrus und das Volk der Äthiopier, * sie sind dort gewesen.\nSiehe, Fremdstämmige und Tyrus und das Volk der Äthiopier, * sie sind dort gewesen.\nWird man nicht von Sion sagen: mensch für mensch ist in ihr geboren, * und er selbst hat sie gegründet, der Allerhöchste?\nDer Herr wird es erzählen in den urkunden der Völker und Fürsten, * jener, die in ihr (in Sion) waren.\nWie von lauter Frohlockenden * ist das Wohnen in dir.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      }
+    },
+    {
+      "id": "week-feria6-sext-capitulum",
+      "kind": "proprium",
+      "title": {
+        "la": "Capitulum",
+        "de": "Kurzlesung"
+      },
+      "text": {
+        "la": "Némini quidquam debeátis, nisi ut ínvicem diligátis: qui enim díligit próximum, legem implévit.\n℟. Deo grátias."
+      },
+      "reference": {
+        "la": "Rom 13:8",
+        "de": "Rom 13:8"
+      }
+    },
+    {
+      "id": "week-feria6-sext-responsorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Responsorium breve",
+        "de": "Responsorium"
+      },
+      "text": {
+        "la": "R.br. Benedícam Dóminum * In omni témpore.\nR. Benedícam Dóminum * In omni témpore.\nV. Semper laus ejus in ore meo.\nR. In omni témpore.\nR. Benedícam Dóminum * In omni témpore."
+      }
+    },
+    {
+      "id": "week-feria6-sext-versum",
+      "kind": "proprium",
+      "title": {
+        "la": "Versus",
+        "de": "Versikel"
+      },
+      "text": {
+        "la": "V. Dóminus regit me, et nihil mihi déerit.\nR. In loco páscuæ ibi me collocávit."
+      }
+    },
+    {
+      "id": "week-feria6-sext-abschluss",
+      "kind": "ordinarium",
+      "title": {
+        "la": "Oratio et conclusio",
+        "de": "Tagesgebet und Abschluss"
+      },
+      "rubric": {
+        "la": "Oratio de dominica vel festo occurrenti",
+        "de": "Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages."
+      },
+      "text": {
+        "la": "Dómine, exáudi oratiónem meam. ℟. Et clamor meus ad te véniat.\nV. Orémus. — Oratio diei. — Per Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum. ℟. Amen.\nV. Dóminus vobíscum. ℟. Et cum spíritu tuo.\nV. Benedicámus Dómino. ℟. Deo grátias.\nV. Fidélium ánimæ per misericórdiam Dei requiéscant in pace. ℟. Amen.",
+        "de": "V. Herr, erhöre mein Gebet. ℟. Und lass mein Rufen zu dir kommen.\nV. Lasset uns beten. — Tagesgebet. — Durch unsern Herrn Jesus Christus, deinen Sohn, der mit dir lebt und herrscht in der Einheit des Heiligen Geistes, Gott, von Ewigkeit zu Ewigkeit. ℟. Amen.\nV. Der Herr sei mit euch. ℟. Und mit deinem Geiste.\nV. Lasset uns preisen den Herrn. ℟. Dank sei Gott.\nV. Die Seelen der Gläubigen mögen durch die Barmherzigkeit Gottes ruhen in Frieden. ℟. Amen."
       }
     }
   ]

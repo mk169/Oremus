@@ -14,7 +14,7 @@
     "color": "green",
     "rank": "Feria per annum"
   },
-  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Psalmen, Antiphonen und Cantica sind vollständig; Eröffnung, Gloria Patri und (bei den kleinen Horen) der Hymnus sind das feste Ordinarium. Kurzlesung, Tagesgebet und – in der Matutin – die Lesungen wechseln mit dem Proprium des Tages und sind hier nicht eingesetzt.",
+  "note": "Psalterium per hebdomadam (Breviarium Romanum 1962), gemeinfrei — Latein/Deutsch aus dem Datenbestand von Divinum Officium. Vollständig eingesetzt sind Psalmen, Antiphonen, Hymnen, Kurzlesung (Capitulum), Responsorium/Versikel, die Cantica und das feste Ordinarium. Das Tagesgebet (Oratio) richtet sich nach dem Sonntag bzw. Fest des Tages; in der Matutin wechseln zudem die drei Lesungen mit dem Proprium (Schriftlesung der Woche).",
   "sections": [
     {
       "id": "week-feria3-matutin-deus",
@@ -26,6 +26,22 @@
       "text": {
         "la": "V. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. Allelúja.",
         "de": "V. O Gott, komm mir zu Hilfe.\nR. Herr, eile, mir zu helfen.\nEhre sei dem Vater und dem Sohne und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen. Alleluja."
+      }
+    },
+    {
+      "id": "week-feria3-matutin-hymnus",
+      "kind": "proprium",
+      "title": {
+        "la": "Hymnus",
+        "de": "Hymnus"
+      },
+      "text": {
+        "la": "Consors patérni lúminis,\nLux ipse lucis, et dies,\nNoctem canéndo rúmpimus:\nAssíste postulántibus.\n\nAufer ténebras méntium,\nFuga catérvas dǽmonum,\nExpélle somnoléntiam,\nNe pigritántes óbruat.\n\nSic, Christe, nobis ómnibus\nIndúlgeas credéntibus,\nUt prosit exorántibus,\nQuod præcinéntes psállimus.\n\n* Præsta, Pater piíssime,\nPatríque compar Únice,\nCum Spíritu Paráclito\nRegnans per omne sǽculum.\nAmen.",
+        "de": "O du des väterlichen Lichts\nMitträger, Licht und Tag dem Licht,\nSei unser Beistand in der Nacht,\nDie unser Sang nun unterbricht.\n\nNimm uns vom Geist die Finsternis,\nVerjag' der bösen Geister Ring;\nNimm weg von uns die Schläfrigkeit,\nDaß nicht die Trägheit uns bezwing'.\n\nO sei uns, Christus, allen hold,\nDie wir im Glauben dir uns weih'n,\nDaß uns das Flehen nütz', das dir\nEntgegentönt aus unsern Reih'n.\n\n* Gewähr' uns dies, o Vater mild,\nUnd du, sein wesensgleicher Sohn,\nDie ihr uns mit dem Heil'gen Geist\nZugleich regiert auf ew'gem Thron.\nAmen."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII"
       }
     },
     {
@@ -84,20 +100,8 @@
         "de": "Versikel"
       },
       "text": {
-        "la": "V. Lingua mea meditábitur justítiam tuam.",
-        "de": "V. Es wird meine Zunge deine Güte preisen."
-      }
-    },
-    {
-      "id": "week-feria3-matutin-v2",
-      "kind": "ordinarium",
-      "title": {
-        "la": "Versus",
-        "de": "Versikel"
-      },
-      "text": {
-        "la": "R. Tota die laudem tuam, Dómine.",
-        "de": "R. Den ganzen Tag dein Lob besingen."
+        "la": "V. Lingua mea meditábitur justítiam tuam.\nR. Tota die laudem tuam, Dómine.",
+        "de": "V. Es wird meine Zunge deine Güte preisen.\nR. Den ganzen Tag dein Lob besingen."
       }
     },
     {
@@ -149,27 +153,15 @@
       }
     },
     {
-      "id": "week-feria3-matutin-v3",
+      "id": "week-feria3-matutin-v2",
       "kind": "ordinarium",
       "title": {
         "la": "Versus",
         "de": "Versikel"
       },
       "text": {
-        "la": "V. Exspécta Dóminum, et custódi viam ejus.",
-        "de": "V. Sei doch dem Herrn egeben und achte auf den Weg, den er dir vorschreibt."
-      }
-    },
-    {
-      "id": "week-feria3-matutin-v4",
-      "kind": "ordinarium",
-      "title": {
-        "la": "Versus",
-        "de": "Versikel"
-      },
-      "text": {
-        "la": "R. Exaltábit te, ut hereditáte cápias terram.",
-        "de": "R. Und er wird dich segnen, dass du ständiger Besitzer bleibst im Lande."
+        "la": "V. Exspécta Dóminum, et custódi viam ejus.\nR. Exaltábit te, ut hereditáte cápias terram.",
+        "de": "V. Sei doch dem Herrn egeben und achte auf den Weg, den er dir vorschreibt.\nR. Und er wird dich segnen, dass du ständiger Besitzer bleibst im Lande."
       }
     },
     {
@@ -221,28 +213,29 @@
       }
     },
     {
-      "id": "week-feria3-matutin-v5",
+      "id": "week-feria3-matutin-v3",
       "kind": "ordinarium",
       "title": {
         "la": "Versus",
         "de": "Versikel"
       },
       "text": {
-        "la": "V. Deus, ne síleas a me, remítte mihi.",
-        "de": "V. Bleib nicht länger teilnahmslos, mildere mein Elend."
+        "la": "V. Deus, ne síleas a me, remítte mihi.\nR. Quóniam íncola ego sum apud te et peregrínus.",
+        "de": "V. Bleib nicht länger teilnahmslos, mildere mein Elend.\nR. Da ich Gastrecht bei dir hab und aufgenommener Fremdling bin."
       }
     },
     {
-      "id": "week-feria3-matutin-v6",
+      "id": "week-feria3-matutin-lectiones",
       "kind": "ordinarium",
       "title": {
-        "la": "Versus",
-        "de": "Versikel"
+        "la": "Lectiones",
+        "de": "Lesungen"
       },
-      "text": {
-        "la": "R. Quóniam íncola ego sum apud te et peregrínus.",
-        "de": "R. Da ich Gastrecht bei dir hab und aufgenommener Fremdling bin."
-      }
+      "rubric": {
+        "la": "Lectiones et responsoria de Scriptura occurrenti seu de festo",
+        "de": "Die drei Lesungen und ihre Responsorien richten sich nach dem Proprium des Tages (Schriftlesung der Woche bzw. Fest)."
+      },
+      "text": {}
     },
     {
       "id": "week-feria3-matutin-tedeum",
