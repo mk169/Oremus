@@ -1,0 +1,168 @@
+{
+  "id": "do-06-28",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Irenæi Episcopi et Martyris",
+      "de": "Hl. Ireneus, Bischof und Martyrer"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Lex veritátis fuit in ore ejus, et iníquitas non est invénta in lábiis ejus: in pace et in æquitáte ambulávit mecum, et multos avértit ab iniquitáte. Atténdite, pópule meus, legem meam: inclináte aurem vestram in verba oris mei. Lex veritátis fuit in ore ejus, et iníquitas non est invénta in lábiis ejus: in pace et in æquitáte ambulávit mecum, et multos avértit ab iniquitáte."
+      },
+      "reference": {
+        "la": "Malach 2:6; Ps 77:1",
+        "de": "Malach 2:6; Ps 77:1"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui beáto Irenǽo Mártyri tuo atque Pontífici tribuísti, ut et veritáte doctrínæ expugnáret hǽreses, et pacem Ecclésiæ felíciter confirmáret: da, quǽsumus, plebi tuæ in sancta religióne constántiam; et pacem tuam nostris concéde tempóribus."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Timótheum Caríssime: Pérmane in iis, quæ didicísti et crédita sunt tibi: sciens, a quo didíceris; et quia ab infántia sacras; lítteras nosti, quæ te possunt instrúere ad salútem, per fidem, quæ est in Christo Jesu. Omnis Scriptúra divínitus inspiráta útilis est ad docéndum, ad arguéndum, ad corripiéndum, ad erudiéndum in justítia: ut perféctus sit homo Dei, ad omne opus bonum instrúctus. Testíficor coram Deo, et Jesu Christo, qui judicatúrus est vivos et mórtuos, per advéntum ipsíus et regnum ejus: prǽdica verbum, insta opportúne, importúne: árgue, óbsecra, íncrepa in omni patiéntia et doctrína. Erit enim tempus, cum sanam doctrínam non sustinébunt, sed ad sua desidéria coacervábunt sibi magístros, pruriéntes áuribus, et a veritáte quidem audítum avértent, ad fábulas autem converténtur. Tu vero vígila, in ómnibus labóra, opus fac Evangelístæ, ministérium tuum imple."
+      },
+      "reference": {
+        "la": "2 Tim 3:14-17; 4:1-5",
+        "de": "2 Tim 3:14-17; 4:1-5"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Propter fratres meos et próximos meos loquébar pacem de te. Custódi innocéntiam et vide æquitátem: quóniam sunt relíquiæ hómini pacífico. Allelúja, allelúja. In multitúdine presbyterórum prudéntium sta, et sapiéntiæ illórum ex corde conjúngere, ut omnem narratiónem Dei possis audíre. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 121:8; Ps 36:37; Eccli. 6:35",
+        "de": "Ps 121:8; Ps 36:37; Eccli. 6:35"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Apud Dóminum gressus hóminis dirigéntur: et viam ejus volet. Os justi meditábitur sapiéntiam, et lingua ejus loquétur judícium. Lex Dei ejus in corde ipsíus: et non supplantabúntur gressus ejus."
+      },
+      "reference": {
+        "la": "Ps 36:23; 36:30-31",
+        "de": "Ps 36:23; 36:30-31"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Dixit Jesus discípulis suis: Nolíte timére eos, qui occídunt corpus, ánimam autem non possunt occídere; sed pótius timéte eum, qui potest et ánimam et corpus pérdere in gehénnam. ¶ Nonne duo pásseres asse véneunt: et unus ex illis non cadet super terram sine Patre vestro? Vestri autem capílli cápitis omnes numeráti sunt. Nolíte ergo timére: multis passéribus melióres estis vos. Omnis ergo, qui confitébitur me coram homínibus, confitébor et ego eum coram Patre meo, qui in cœlis est. Qui autem negáverit me coram homínibus, negábo et ego eum coram Patre meo, qui in cœlis est."
+      },
+      "reference": {
+        "la": "Matt 10:28-33",
+        "de": "Matt 10:28-33"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Doctrínam quasi ante lucánum illúmino ómnibus, et enarrábo illam usque ad longínquum."
+      },
+      "reference": {
+        "la": "Eccli 24:44",
+        "de": "Eccli 24:44"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Deus, qui credéntes in te pópulos nullis sinis cóncuti terróribus: dignáre preces et hóstias dicátæ tibi plebis suscípere; ut pax, a tua pietáte concéssa, christianórum fines ab omni hoste fáciat esse secúros."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Vidéte, quóniam non soli mihi laborávi, sed ómnibus exquiréntibus veritátem."
+      },
+      "reference": {
+        "la": "Eccli 24:47",
+        "de": "Eccli 24:47"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Deus, auctor pacis et amátor, quem nosse vívere, cui servíre regnáre est: prótege ab ómnibus impugnatiónibus súpplices tuos; ut, qui in defensióne tua confídimus, beáti Irenæi Mártyris tui atque Pontíficis intercessióne, nullius hostilitátis arma timeámus."
+      }
+    }
+  ]
+}

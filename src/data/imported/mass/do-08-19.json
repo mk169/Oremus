@@ -1,0 +1,26 @@
+{
+  "id": "do-08-19",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Joannis Eudes Confessoris",
+      "de": "Hl. Johannes Eudes, Bekenner"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui beátum Joánnem, Confessórem tuum, ad cultum sacrórum Córdium Jesu et Maríæ rite promovéndum, mirabíliter inflammásti, et per eum novas in Ecclésia tua famílias congregáre voluísti: præsta, quǽsumus; ut, cujus pia mérita venerámur, virtútum quoque instruámur exémplis."
+      }
+    }
+  ]
+}

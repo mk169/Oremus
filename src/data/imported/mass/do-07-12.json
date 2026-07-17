@@ -1,0 +1,30 @@
+{
+  "id": "do-07-12",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Joannis Gualberti Abbatis",
+      "de": "Hl. Johannes Walbert, Abt"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Dixit Jesus discípulis suis: Audístis, quia dictum est: Diliges próximum tuum, et ódio habébis inimícum tuum. Ego autem dico vobis: Dilígite inimícos vestros, ¶ benefácite his, qui odérunt vos, et oráte pro persequéntibus et calumniántibus vos, ut sitis fílii Patris vestri, qui in cœlis est: qui solem suum oriri facit super bonos et malos, et pluit super justos et injústos. Si enim dilígitis eos, qui vos díligunt, quam mercédem habébitis? nonne et publicáni hoc fáciunt? Et si salutavéritis fratres vestros tantum, quid ámplius fácitis? nonne et éthnici hoc fáciunt? Estóte ergo vos perfécti, sicut et Pater vester cœléstis perféctus est."
+      },
+      "reference": {
+        "la": "Matt 5:43-48",
+        "de": "Matt 5:43-48"
+      }
+    }
+  ]
+}

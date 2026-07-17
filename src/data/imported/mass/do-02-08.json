@@ -1,0 +1,26 @@
+{
+  "id": "do-02-08",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Joannis de Matha Confessoris",
+      "de": "Hl. Johannes von Matha, Bekenner"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui per sanctum Joánnem órdinem sanctíssimæ Trinitátis ad rediméndum de potestáte Saracenórum captívos cǽlitus institúere dignátus es: præsta quǽsumus; ut, ejus suffragántibus méritis, a captivitáte córporis et ánimæ, te adjuvánte, liberémur."
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "do-01-28",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Petri Nolasci Confessoris",
+      "de": "S. Petri Nolasci Confessoris"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui in tuæ caritátis exémplum ad fidélium redemptiónem sanctum Petrum Ecclésiam tuam nova prole fœcundáre divínitus docuísti: ipsíus nobis intercessióne concéde; a peccáti servitúte solútis, in cœlésti pátria perpétua libertáte gaudére:"
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Laudis tibi, Dómine, hóstias immolámus in tuórum commemoratióne Sanctórum quibus nos et præséntibus éxui malis confídimus et futúris."
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "do-05-27",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Bedæ Venerabilis Confessoris et Ecclesiæ Doctoris",
+      "de": "Hl. Beda Venerabilis, Bekenner und Kirchenlehrer"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui Ecclésiam tuam beáti Bedæ Confessóris tui atque Doctóris eruditióne claríficas: concéde propítius fámulis tuis; ejus semper ilustrári sapiéntia et méritis adjuvári."
+      }
+    }
+  ]
+}

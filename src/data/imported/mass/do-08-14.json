@@ -1,0 +1,95 @@
+{
+  "id": "do-08-14",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "In Vigilia Assumptionis B.M.V.",
+      "de": "In Vigilia Assumptionis B.M.V."
+    },
+    "color": "green",
+    "rank": "Simplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Vultum tuum deprecabúntur omnes dívites plebis: adducéntur Regi Vírgines post eam: próximæ ejus adducéntur tibi in lætítia et exsultatióne. Eructávit cor meum verbum bonum: dico ego ópera mea Regi. Vultum tuum deprecabúntur omnes dívites plebis: adducéntur Regi Vírgines post eam: próximæ ejus adducéntur tibi in lætítia et exsultatióne."
+      },
+      "reference": {
+        "la": "Ps 44:13; 44:15-16; Ps 44:2",
+        "de": "Ps 44:13; 44:15-16; Ps 44:2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui virginálem aulam beátæ Maríæ, in qua habitáres, elígere dignátus es: da, quǽsumus; ut, sua nos defensióne munitos, jucúndos fácias suæ interésse festivitáti:"
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio libri Sapiéntiæ Ego quasi vitis fructificávi suavitátem odóris: et flores mei fructus honóris et honestátis. Ego mater pulchræ dilectiónis, et timóris, et agnitiónis, et sanctæ spei. In me grátia omnis viæ et veritátis: in me omnis spes vitæ et virtútis. Transíte ad me, omnes, qui concupíscitis me, et a generatiónibus meis implémini. Spíritus enim meus super mel dulcis, et heréditas mea super mel et favum. Memória mea in generatiónes sæculórum. Qui edunt me, adhuc esúrient: et qui bibunt me, adhuc sítient. Qui audit me, non confundétur: et qui operántur in me, non peccábunt. Qui elúcidant me, vitam ætérnam habébunt."
+      },
+      "reference": {
+        "la": "Eccli 24:23-31",
+        "de": "Eccli 24:23-31"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Benedícta et venerábilis es, Virgo María: quæ sine tactu pudóris invénta es Mater Salvatóris. Virgo, Dei Génetrix, quem totus non capit orbis, in tua se clausit víscera factus homo."
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Múnera nostra, Dómine, apud cleméntiam tuam Dei Genetrícis comméndet orátio: quam idcírco de præsénti sǽculo transtulísti; ut pro peccátis nostris apud te fiduciáliter intercédat."
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Concéde, miséricors Deus, fragilitáti nostræ præsídium: ut, qui sanctæ Dei Genetrícis festivitátem prævenímus; intercessiónis ejus auxílio a nostris iniquitátibus resurgámus."
+      }
+    }
+  ]
+}

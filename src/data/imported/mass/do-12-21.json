@@ -1,0 +1,169 @@
+{
+  "id": "do-12-21",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Thomæ Apostoli",
+      "de": "Hl. Thomas, Apostel"
+    },
+    "color": "green",
+    "rank": "Duplex II classis"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Mihi autem nimis honoráti sunt amíci tui, Deus: nimis confortátus est principátus eórum. Dómine, probásti me et cognovísti me: tu cognovísti sessiónem meam et resurrectiónem meam. Mihi autem nimis honoráti sunt amíci tui, Deus: nimis confortátus est principátus eórum."
+      },
+      "reference": {
+        "la": "Ps 138:17; Ps 138:1-2.",
+        "de": "Ps 138:17; Ps 138:1-2."
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Da nobis, quǽsumus, Dómine, beáti Apóstoli tui Thomæ sollemnitátibus gloriári: ut ejus semper et patrocíniis sublevémur; et fidem cóngrua devotióne sectémur.",
+        "de": "Laß uns, wir bitten dich, o Herr, an dem Fest deines heiligen Apostels Thomas Freude haben und in richtiger Unterwürfigkeit gegen dich den Glauben schätzen und pflegen."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Ephésios. Fratres: Jam non estis hóspites et ádvenæ: sed estis cives sanctórum et doméstici Dei: superædificáti super fundaméntum Apostolórum et Prophetárum, ipso summo angulári lápide Christo Jesu: in quo omnis ædificátio constrúcta crescit in templum sanctum in Dómino, in quo et vos coædificámini in habitáculum Dei in Spíritu."
+      },
+      "reference": {
+        "la": "Ephes 2:19-22",
+        "de": "Ephes 2:19-22"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Nimis honorati sunt amíci tui, Deus: nimis confortátus est principátus eórum. Dinumerábo eos, et super arénam multiplicabúntur. Allelúja, allelúja. Gaudéte, justi, in Dómino: rectos decet collaudátio. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 138:17-18.; Ps 32:1",
+        "de": "Ps 138:17-18.; Ps 32:1"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Desidérium ánimæ ejus tribuísti ei: et voluntáte labiórum ejus non fraudásti eum. Quóniam prævenísti eum in benedictiónibus dulcédinis. Posuísti in cápite ejus corónam de lápide pretióso."
+      },
+      "reference": {
+        "la": "Ps 20:3-4",
+        "de": "Ps 20:3-4"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Joánnem. In illo témpore: Thomas, unus ex duódecim, qui dícitur Dídymus, non erat cum eis, quando venit Jesus. Dixérunt ergo ei alii discípuli: Vídimus Dóminum. Ille autem dixit eis: Nisi videro in mánibus ejus fixúram clavórum, et mittam dígitum meum in locum clavórum, et mittam manum meam in latus ejus, non credam. Et post dies octo, íterum erant discípuli ejus intus, et Thomas cum eis. Venit Jesus jánuis clausis, et stetit in médio, et dixit: Pax vobis. Deinde dicit Thomæ: Inter dígitum tuum huc, et vide manus meas, et affer manum tuam, et mitte in latus meum: et noli esse incrédulus, sed fidélis. Respóndit Thomas et dixit ei: Dóminus meus et Deus meus. Dixit ei Jesus: Quia vidisti me, Thoma, credidísti: beáti, qui non vidérunt, et credidérunt."
+      },
+      "reference": {
+        "la": "Joann 20:24-29",
+        "de": "Joann 20:24-29"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "In omnem terram exívit sonus eórum: et in fines orbis terræ verba eórum."
+      },
+      "reference": {
+        "la": "Ps 18:5",
+        "de": "Ps 18:5"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Débitum tibi, Dómine, nostræ réddimus servitútis, supplíciter exorántes: ut, suffrágiis beáti Thomæ Apóstoli, in nobis tua múnera tueáris, cujus honoránda confessióne laudis tibi hóstias immolámus."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Mitte manum tuam, et cognósce loca clavórum, allelúja: et noli esse incrédulus, sed fidélis, allelúja, allelúja."
+      },
+      "reference": {
+        "la": "Joannes 20:27",
+        "de": "Joannes 20:27"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Adésto nobis, miséricors Deus: et, intercedénte pro nobis beáto Thoma Apóstolo, tua circa nos propitiátus dona custódi."
+      }
+    }
+  ]
+}

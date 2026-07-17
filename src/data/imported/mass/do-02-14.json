@@ -1,0 +1,48 @@
+{
+  "id": "do-02-14",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Valentini Presbyteri et Martyris",
+      "de": "Hl. Valentin, Priester und Martyrer"
+    },
+    "color": "green",
+    "rank": "Simplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Præsta, quǽsumus, omnípotens Deus: ut, qui beáti Valentíni Mártyris tui natalítia cólimus, a cunctis malis imminéntibus, ejus intercessióne, liberémur."
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Súscipe, quǽsumus, Dómine, múnera dignánter obláta: et, beáti Valentini Mártyris tui suffragántibus méritis, ad nostræ salútis auxílium proveníre concéde."
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Sit nobis, Dómine, reparátio mentis et córporis cœléste mystérium: ut, cujus exséquimur actiónem, intercedénte beáto Valentíno Mártyre tuo, sentiámus efféctum."
+      }
+    }
+  ]
+}

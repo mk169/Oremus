@@ -1,0 +1,26 @@
+{
+  "id": "do-11-20",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Felicis de Valois Confessoris",
+      "de": "Hl. Felix von Valois, Bekenner"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui beátum Felícem Confessórem tuum ex erémo ad munus rediméndi captívos cǽlitus vocáre dignátus es: præsta, quǽsumus; ut per grátiam tuam ex peccatórum nostrórum captivitáte, eius intercessióne, liberáti, ad cæléstem pátriam perducámur."
+      }
+    }
+  ]
+}

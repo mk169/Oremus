@@ -1,0 +1,26 @@
+{
+  "id": "do-11-16",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Gertrudis Virginis",
+      "de": "Hl. Gertrud, Jungfrau"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui in corde beátæ Gertrudis Vírginis jucúndam tibi mansionem præparásti: ipsíus méritis et intercessióne; cordis nostri máculas cleménter abstérge, et ejúsdem tríbue gaudére consórtio."
+      }
+    }
+  ]
+}

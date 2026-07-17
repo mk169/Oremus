@@ -1,0 +1,26 @@
+{
+  "id": "do-03-06",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "Ss. Perpetuæ et Felicitatis Martyrum",
+      "de": "Hll. Perpetua und Felicitas, Märtyrerinnen"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Mýsticis, Dómine, repléti sumus votis et gáudiis: præsta, quǽsumus; ut intercessiónibus sanctárum Mártyrum tuárum Perpétuæ et Felicitátis, quæ temporáliter ágimus, spirituáliter consequámur."
+      }
+    }
+  ]
+}

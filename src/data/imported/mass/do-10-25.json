@@ -1,0 +1,63 @@
+{
+  "id": "do-10-25",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "Ss. Chrysanthi et Dariæ Martyrum",
+      "de": "Hll. Chrysantus und Daria, Märtyrer"
+    },
+    "color": "green",
+    "rank": "Simplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Beatórum Mártyrum tuórum, Dómine, Chrysánthi et Daríæ, quǽsumus, adsit nobis orátio: ut, quos venerámur obséquio, eórum pium júgiter experiámur auxílium."
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Lucam In illo témpore: Dicébat Jesus scribis et pharisǽis: Væ vobis, qui ædificátis monuménta prophetárum: patres autem vestri occidérunt illos. Profécto testificámini, quod consentítis opéribus patrum vestrórum: quóniam ipsi quidem eos occidérunt, vos autem ædificátis eórum sepúlcra. Proptérea et sapiéntia Dei dixit: Mittam ad illos prophétas et apóstolos, et ex illis occídent et persequántur: ut inquirátur sanguis ómnium prophetárum, qui effúsus est a constitutióne mundi a generatióne~ ista, a sánguine Abel usque ad sánguinem Zacharíæ, qui périit inter altáre et ædem. Ita dico vobis, requirétur ab hac generatióne."
+      },
+      "reference": {
+        "la": "Luc. 11:47-51",
+        "de": "Luc. 11:47-51"
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Pópuli tui, quǽsumus, Dómine, tibi grata sit hóstia, quæ in natalítiis sanctórum Mártyrum tuórum Chrysánthi et Daríæ sollémniter immolátur."
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Mýsticis, Dómine, repléti sumus votis et gáudiis: præsta, quǽsumus; ut, intercessiónibus sanctórum Mártyrum tuórum Chrysánthi et Daríæ, quæ temporáliter ágimus, spirituáliter consequámur."
+      }
+    }
+  ]
+}

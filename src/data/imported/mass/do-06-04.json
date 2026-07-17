@@ -1,0 +1,117 @@
+{
+  "id": "do-06-04",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Francisci Caracciolo Confessoris",
+      "de": "Hl. Franz von Carácciolo, Bekenner"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Factum est cor meum tamquam cera liquéscens in médio ventris mei: quóniam zelus domus tuæ comédit me. (Allelúja, allelúja) Quam bonus Israël Deus: his, qui recto sunt corde! Factum est cor meum tamquam cera liquéscens in médio ventris mei: quóniam zelus domus tuæ comédit me. (Allelúja, allelúja)"
+      },
+      "reference": {
+        "la": "Ps 68:10.; Ps 72:1",
+        "de": "Ps 68:10.; Ps 72:1"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui beátum Francíscum, novi órdinis institutórem, orándi stúdio et pœniténtiæ amóre decorásti: da fámulis tuis in ejus imitatióne ita profícere; ut, semper orántes et corpus in servitútem redigéntes, ad cœléstem glóriam perveníre mereántur."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio libri Sapiéntiæ Justus, si morte præoccupátus fúerit, in refrigério erit. Senéctus enim venerábilis est non diutúrna, neque annórum número computáta: cani autem sunt sensus hóminis, et ætas senectútis vita immaculáta. Placens Deo Jactus est diléctus, et vivens inter peccatóres translátus est. Raptus est, ne malítia mutáret intelléctum ejus, aut ne fíctio decíperet ánimam illíus. Fascinátio enim nugacitátis obscúrat bona, et inconstántia concupiscéntiæ transvértit sensum sine malítia. Consummátus in brevi explévit témpora multa, plácita enim erat Deo ánima illíus: propter hoc properávit edúcere illum de médio iniquitátum."
+      },
+      "reference": {
+        "la": "Sap 4:7-14",
+        "de": "Sap 4:7-14"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Quemádmodum desíderat cervus ad fontes aquárum: ita desíderat ánima mea ad te, Deus. Sitívit ánima mea ad Deum fortem vivum. Allelúja, allelúja. Defécit caro mea et cor meum: Deus cordis mei, et pars mea Deus in ætérnum. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 41:2; Ps 41:3; Ps 72:26",
+        "de": "Ps 41:2; Ps 41:3; Ps 72:26"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Da nobis, clementíssime Jesu: ut præclára beáti Francísci mérita recoléntes, eódem nos, ac ille, caritátis igne succénsi, digne in circúitu sacræ hujus mensæ tuæ esse valeámus:"
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Quam magna multitúdo dulcédinis tuæ, Dómine, quam abscondísti timéntibus te! (Allelúja.)"
+      },
+      "reference": {
+        "la": "Ps 30:20",
+        "de": "Ps 30:20"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Sacrosáncta sacrifícii, quǽsumus, Dómine, quod hódie in sollemnitáte beáti Francísci tuæ obtúlimus majestáti, grata semper in méntibus nostris memória persevéret et fructus."
+      }
+    }
+  ]
+}

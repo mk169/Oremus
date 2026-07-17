@@ -1,0 +1,26 @@
+{
+  "id": "do-08-30",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Rosæ a Sancta Maria Limange Virginis",
+      "de": "Hl. Rosa von Lima, Jungfrau"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Bonórum ómnium largítor, omnípotens Deus, qui beátam Rosam, cœléstis grátiæ rore prævéntam, virginitátis et patiéntiæ decóre Indis floréscere voluísti: da nobis fámulis tuis; ut, in odórem suavitátis ejus curréntes, Christi bonus odor éffici mereámur:"
+      }
+    }
+  ]
+}

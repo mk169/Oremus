@@ -1,0 +1,48 @@
+{
+  "id": "do-05-18",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Venantii Martyris",
+      "de": "Hl. Venantius"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui hunc diem beáti Venántii Mártyris tui triúmpho consecrásti: exáudi preces pópuli tui et præsta: ut, qui ejus mérita venerámur, fídei constántiam imitémur."
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Hanc oblatiónem, omnípotens Deus, beáti Venántii mérita tibi reddant accéptam: ut, ipsíus subsidiis adjuti, glóriæ ejus consortes efficiámur."
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Súmpsimus, Dómine, ætérnæ vitæ sacraménta, te humiliter deprecántes: ut, beáto Venántio Mártyre tuo pro nobis deprecánte, véniam nobis concílient et grátiam."
+      }
+    }
+  ]
+}

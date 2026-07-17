@@ -1,0 +1,48 @@
+{
+  "id": "do-01-18",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "Cathedræ S. Petri Romæ",
+      "de": "Fest der Kathedra Petri zu Rom"
+    },
+    "color": "green",
+    "rank": "Duplex majus"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "(deinde dicuntur semper) _ (sed rubrica 196 omittuntur)"
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "(deinde dicuntur semper) _ (sed rubrica 196 omittuntur)"
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "(deinde dicuntur semper) _ (sed rubrica 196 omittuntur)"
+      }
+    }
+  ]
+}

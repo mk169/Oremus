@@ -1,0 +1,26 @@
+{
+  "id": "do-08-09",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Joannis Mariæ Vianney Confessoris",
+      "de": "Hl. Johannes Maria Vianney, Bekenner (Pfarrer von Ars)"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Omnípotens et miséricors Deus, qui sanctum Joánnem Maríam pastoráli stúdio et jugi oratiónis ac pœniténtiæ ardóre mirábilem effecísti: da, quǽsumus; ut, ejus exémplo et intercessióne, ánimas fratrum lucrári Christo, et cum eis ætérnam glóriam cónsequi valeámus."
+      }
+    }
+  ]
+}

@@ -13,6 +13,9 @@ export default defineConfig(({ command }) => ({
     VitePWA({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg', 'icon.svg'],
+      // Die vielen Tagesproprien/Offizien lassen das Haupt-Bundle über die
+      // Standard-Grenze (2 MiB) wachsen; für die Offline-Nutzung mit-precachen.
+      workbox: { maximumFileSizeToCacheInBytes: 6 * 1024 * 1024 },
       manifest: {
         name: 'Oremus – Gebet, Liturgie & Stundenbuch',
         short_name: 'Oremus',

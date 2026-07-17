@@ -1,0 +1,30 @@
+{
+  "id": "do-01-24",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Timothei Episcopi et Martyris",
+      "de": "S. Timothei Episcopi et Martyris"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Timótheum Caríssime: Sectáre justítiam, pietátem, fidem, caritátem, patiéntiam, mansuetúdinem. Certa bonum certámen fídei, apprehénde vitam ætérnam, in qua vocátus es, et conféssus bonam confessionem coram multis téstibus. Præcípio tibi coram Deo, qui vivíficat ómnia, et Christo Jesu, qui testimónium réddidit sub Póntio Piláto, bonam confessiónem: ut serves mandátum sine mácula, irreprehensíbile usque in advéntum Dómini nostri Jesu Christi, quem suis tempóribus osténdet beátus et solus potens, Rex regum et Dóminus dominántium: qui solus habet immortalitátem, et lucem inhábitat inaccessíbilem: quem nullus hóminum vidit, sed nec vidére potest: cui honor et impérium sempitérnum. Amen."
+      },
+      "reference": {
+        "la": "1 Tim 6:11-16",
+        "de": "1 Tim 6:11-16"
+      }
+    }
+  ]
+}

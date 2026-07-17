@@ -1,0 +1,26 @@
+{
+  "id": "do-10-10",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Francisci Borgiæ Confessoris",
+      "de": "Hl. Franz Borgia, Bekenner"
+    },
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Dómine Jesu Christe, veræ humilitátis et exémplar et prǽmium: quǽsumus; ut, sicut beátum Francíscum in terréni honóris contémptu imitatórem tui gloriósum effecísti, ita nos eiúsdem imitatiónis et glóriæ tríbuas esse consórtes:"
+      }
+    }
+  ]
+}

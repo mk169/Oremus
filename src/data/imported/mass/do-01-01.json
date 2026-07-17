@@ -1,0 +1,162 @@
+{
+  "id": "do-01-01",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "In Circumcisione Domini",
+      "de": "In Circumcisione Domini"
+    },
+    "color": "green",
+    "rank": "Duplex II classis"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Puer natus est nobis, et fílius datus est nobis: cujus impérium super húmerum ejus: et vocábitur nomen ejus magni consílii Angelus. Cantáte Dómino cánticum novum, quia mirabília fecit. Puer natus est nobis, et fílius datus est nobis: cujus impérium super húmerum ejus: et vocábitur nomen ejus magni consílii Angelus."
+      },
+      "reference": {
+        "la": "Isa 9:6; Ps 97:1",
+        "de": "Isa 9:6; Ps 97:1"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui salútis ætérnæ, beátæ Maríæ virginitáte fecúnda, humáno generi præmia præstitísti: tríbue, quǽsumus; ut ipsam pro nobis intercédere sentiámus, per quam merúimus auctórem vitæ suscípere, Dóminum nostrum Jesum Christum, Fílium tuum: [Commemoratio Oratio] (rubrica tridentina)"
+      },
+      "reference": {
+        "la": "Pro S. Stephano Protomartyre; Pro S. Joanne Evangelista; Pro Ss. Innocentibus",
+        "de": "Pro S. Stephano Protomartyre; Pro S. Joanne Evangelista; Pro Ss. Innocentibus"
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beati Pauli Apóstoli ad Titum Caríssime: Appáruit grátia Dei Salvatóris nostri ómnibus homínibus, erúdiens nos, ut, abnegántes impietátem et sæculária desidéria, sóbrie et juste et pie vivámus in hoc sǽculo, exspectántes beátam spem et advéntum glóriæ magni Dei et Salvatóris nostri Jesu Christi: qui dedit semetípsum pro nobis: ut nos redímeret ab omni iniquitáte, et mundáret sibi pópulum acceptábilem, sectatórem bonórum óperum. Hæc lóquere et exhortáre: in Christo Jesu, Dómino nostro."
+      },
+      "reference": {
+        "la": "Tit 2:11-15",
+        "de": "Tit 2:11-15"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Vidérunt omnes fines terræ salutare Dei nostri: jubiláte Deo, omnis terra. Notum fecit Dominus salutare suum: ante conspéctum géntium revelávit justitiam suam. Allelúja, allelúja. Multifárie olim Deus loquens pátribus in Prophétis, novíssime diébus istis locútus est nobis in Fílio. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 97:3; 97:2; Heb 1:1-2",
+        "de": "Ps 97:3; 97:2; Heb 1:1-2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Lucam In illo témpore: Postquam consummáti sunt dies octo, ut circumciderétur Puer: vocátum est nomen ejus Jesus, quod vocátum est ab Angelo, priúsquam in útero conciperétur."
+      },
+      "reference": {
+        "la": "Luc 2:21",
+        "de": "Luc 2:21"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Tui sunt cœli et tua est terra: orbem terrárum et plenitúdinem ejus tu fundásti: justítia et judícium præparátio sedis tuæ."
+      },
+      "reference": {
+        "la": "Ps 88:12; 88:15",
+        "de": "Ps 88:12; 88:15"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "[Commemoratio Secreta] (rubrica tridentina)"
+      },
+      "reference": {
+        "la": "Pro S. Stephano Protomartyre; Pro S. Joanne Evangelista; Pro Ss. Innocentibus",
+        "de": "Pro S. Stephano Protomartyre; Pro S. Joanne Evangelista; Pro Ss. Innocentibus"
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Vidérunt omnes fines terræ salutáre Dei nostri."
+      },
+      "reference": {
+        "la": "Ps 97:3",
+        "de": "Ps 97:3"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "[Commemoratio Postcommunio] (rubrica tridentina)"
+      },
+      "reference": {
+        "la": "Pro S. Stephano protomartire; Pro S. Joanne Evangelista; Pro Ss. Innocentibus",
+        "de": "Pro S. Stephano protomartire; Pro S. Joanne Evangelista; Pro Ss. Innocentibus"
+      }
+    }
+  ]
+}

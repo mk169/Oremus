@@ -1,0 +1,26 @@
+{
+  "id": "do-06-19",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Julianæ de Falconeriis Virginis",
+      "de": "Hl. Juliana von Falconieri, Jungfrau"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui beátam Juliánam Vírginem tuam extrémo morbo laborántem, pretióso Fílii tui Córpore mirabíliter recreáre dignátus es: concéde, quǽsumus; ut, ejus intercedéntibus méritis, nos quoque eódem in mortis agóne refécti ac roboráti, ad cœléstem pátriam perducámur."
+      }
+    }
+  ]
+}

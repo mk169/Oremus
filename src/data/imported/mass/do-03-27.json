@@ -1,0 +1,149 @@
+{
+  "id": "do-03-27",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Joannis Damasceni Confessoris et Ecclesiæ Doctoris",
+      "de": "Hl. Johannes von Damaskus, Bekenner und Kirchenlehrer"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Tenuísti manum déxteram meam: et in voluntáte tua deduxísti me, et cum glória suscepísti me. Quam bonus Israël Deus his, qui recto sunt corde! Tenuísti manum déxteram meam: et in voluntáte tua deduxísti me, et cum glória suscepísti me."
+      },
+      "reference": {
+        "la": "Ps 72:24; Ps 72:1.",
+        "de": "Ps 72:24; Ps 72:1."
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Omnípotens sempitérne Deus, qui, ad cultum sacrárum imáginum asseréndum, beátum Joánnem cœlésti doctrína et admirábili spíritus fortitúdine imbuísti: concéde nobis ejus intercessióne et exémplo; ut, quorum cólimus imagines, virtútes imitémur et patrocínia sentiámus."
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Deus, qui præcínxit me virtúte: et pósuit immaculátam viam meam. Qui docet manus meas ad prœ́lium: et posuísti, ut arcum æreum, bráchia mea. Allelúja, allelúja. Dedísti mihi protectiónem salútis tuæ: et déxtera tua suscépit me. Allelúja."
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Deus, qui præcínxit me virtúte: et pósuit immaculátam viam meam. Qui docet manus meas ad prœ́lium: et posuísti, ut arcum æreum, bráchia mea. _ Pérsequar inimícos meos, et comprehéndam illos. Confríngam illos, nec poterunt stare: cadent subtus pedes meos. Proptérea confitébor in natiónibus, Dómine, et nómini tuo psalmum dicam."
+      },
+      "reference": {
+        "la": "Ps 17:33 et 35; Tractus; Ps 17:38, 39 et 50",
+        "de": "Ps 17:33 et 35; Tractus; Ps 17:38, 39 et 50"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Lucam In illo témpore: Factum est et in álio sábbato, ut intráret Jesus in synagógam et docéret. Et erat ibi homo, et manus ejus déxtera erat árida. Observábant autem scribæ et pharisæi, si in sábbato curáret: ut invenírent, unde accusárent eum. Ipse vero sciébat cogitatiónes eórum. Et ait hómini, qui habébat manum áridam: Surge et sta in médium. Et surgens stetit. Ait autem ad illos Jesus: Intérrogo vos, si licet sábbatis benefácere, an male: ánimam salvam fácere, an pérdere? Et circumspéctis ómnibus dixit hómini: Exténde manum tuam. Et exténdit: et restitúta est manus ejus. Ipsi autem repléti sunt insipiéntia, et colloquebántur ad ínvicem, quidnam fácerent Jesu."
+      },
+      "reference": {
+        "la": "Luc 6:6-11",
+        "de": "Luc 6:6-11"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Lignum habet spem: si præcísum fúerit, rursum viréscit, et rami ejus púllulant."
+      },
+      "reference": {
+        "la": "Job 14:7",
+        "de": "Job 14:7"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Ut, quæ tibi, Dómine, offérimus, dona tuo sint digna conspéctu: beáti Joánnis et Sanctórum, quos ejus ópera expósitos in templis cólimus, pia suffragátio conspíret."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Bráchia peccatórum conteréntur, confírmat autem justos Dóminus."
+      },
+      "reference": {
+        "la": "Ps 36:17",
+        "de": "Ps 36:17"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Sumpta nos, quǽsumus, Dómine, dona cœléstibus armis tueántur: et beáti Joánnis patrocínia circúmdent Sanctórum unánimi suffrágio cumuláta; quorum imágines evícit in Ecclésia esse venerándas."
+      }
+    }
+  ]
+}

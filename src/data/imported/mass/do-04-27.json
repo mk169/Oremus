@@ -1,0 +1,26 @@
+{
+  "id": "do-04-27",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Petri Canisii Confessoris et Ecclesiæ Doctoris",
+      "de": "Hl. Petrus Canisius, Bekenner und Kirchenlehrer"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui ad tuéndam cathólicam fidem beátum Petrum Confessórem tuum virtúte et doctrína roborásti: concéde propítius; ut ejus exémplis et mónitis errántes ad salútem resipíscant, et fidéles in veritátis confessióne persevérent."
+      }
+    }
+  ]
+}

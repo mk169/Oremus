@@ -1,0 +1,26 @@
+{
+  "id": "do-06-10",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Margaritæ Reginæ Viduæ",
+      "de": "Hl. Margaret, Königin und Witwe"
+    },
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui beátam Margarítam regínam exímia in páuperes caritáte mirábilem effecísti: da; ut, ejus intercessióne et exémplo, tua in córdibus nostris cáritas júgiter augeátur."
+      }
+    }
+  ]
+}

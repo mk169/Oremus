@@ -1,0 +1,117 @@
+{
+  "id": "do-06-02",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "Ss. Marcellini, Petri, atque Erasmi, Episcopi, Martyrum",
+      "de": "Ss. Marcellini, Petri, atque Erasmi, Episcopi, Martyrum"
+    },
+    "color": "green",
+    "rank": "Simplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Clamavérunt justi, et Dóminus exaudívit eos: et ex ómnibus tribulatiónibus eórum liberávit eos. in omni témpore: semper laus ejus in ore meo. Clamavérunt justi, et Dóminus exaudívit eos: et ex ómnibus tribulatiónibus eórum liberávit eos."
+      },
+      "reference": {
+        "la": "Ps 33:18; Ps 33:2 Benedícam Dóminum",
+        "de": "Ps 33:18; Ps 33:2 Benedícam Dóminum"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui nos ánnua beatórum Mártyrum tuórum Marcellíni, Petri atque Erásmi sollemnitáte lætíficas: præsta, quǽsumus; ut, quorum gaudémus méritis, accendámur exémplis."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános Fratres: Exístimo, quod non sunt condígnæ passiónes hujus témporis ad futúram glóriam, quæ revelábitur in nobis. Nam exspectátio creatúræ revelatiónem filiórum Dei exspéctat. Vanitáti enim creatúra subjécta est, non volens, sed propter eum, qui subjécit eam in spe: quia et ipsa creatúra liberábitur a servitúte corruptiónis, in libertátem glóriæ filiórum Dei. Scimus enim, quod omnis creatúra ingemíscit et párturit usque adhuc. Non solum autem illa, sed et nos ipsi primítias spíritus habéntes: et ipsi intra nos gémimus, adoptiónem filiórum Dei exspectántes, redemptiónem córporis nostri: in Christo Jesu, Dómino nostro."
+      },
+      "reference": {
+        "la": "Rom 8:18-23",
+        "de": "Rom 8:18-23"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Clamavérunt justi, et Dóminus exaudívit eos: et ex ómnibus tribulatiónibus eórum liberávit eos. Juxta est Dóminus his, qui tribuláto sunt corde: et húmiles spíritu salvabit. Allelúja, allelúja. Ego vos elégi de mundo, ut eátis, et fructum afferátis; et fructus vester máneat. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 33:18-19; Joann 15-16",
+        "de": "Ps 33:18-19; Joann 15-16"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Hæc hóstia, quǽsumus, Dómine, quam sanctórum Martyrum tuórum natalítia recenséntes offérimus: et víncula nostræ pravitátis absólvat, et tuæ nobis misericórdiæ dona concíliet."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Justórum ánimæ in manu Dei sunt, et non tanget illos torméntum malítiæ visi sunt óculis insipiéntium mori: illi autem sunt in pace."
+      },
+      "reference": {
+        "la": "Sap 3:1; 3:2; 3:3",
+        "de": "Sap 3:1; 3:2; 3:3"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Sacro múnere satiáti, súpplices te, Dómine, deprecámur: ut, quod débitæ servitútis celebrámus offício, salvatiónis tuæ sentiámus augméntum."
+      }
+    }
+  ]
+}

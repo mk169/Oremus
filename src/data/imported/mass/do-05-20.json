@@ -1,0 +1,44 @@
+{
+  "id": "do-05-20",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Bernardini Senensis Confessoris",
+      "de": "Hl. Bernhard v. Siena, Bekenner"
+    },
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Dómine Jesu, qui beáto Bernardíno Confessóri tuo exímium sancti nóminis tui amórem tribuísti: ejus, quǽsumus, méritis et intercessióne, spíritum nobis tuæ dilectiónis benígnus infúnde:"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Justus ut palma florébit: sicut cedrus Líbani multiplicábitur in domo Dómini. Ad annuntiándum mane misericórdiam tuam, et veritátem tuam per noctem. Allelúja, allelúja. Beátus vir, qui suffert tentatiónem: quóniam, cum probátus fúerit, accípiet corónam vitæ. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 91:13; 91:14; Ps 91:3; Jas 1:1-2",
+        "de": "Ps 91:13; 91:14; Ps 91:3; Jas 1:1-2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "do-05-16",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Ubaldi Episcopi et Confessoris",
+      "de": "Hl. Ubald, Bischof und Bekenner"
+    },
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Auxílium tuum nobis, Dómine, quǽsumus, placátus impénde: et, intercessióne beáti Ubáldi Confessóris tui atque Pontíficis, contra omnes diáboli nequítias déxteram super nos tuæ propitiatiónis exténde."
+      }
+    }
+  ]
+}

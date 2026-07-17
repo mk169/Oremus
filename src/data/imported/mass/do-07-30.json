@@ -1,0 +1,114 @@
+{
+  "id": "do-07-30",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "Ss. Abdon et Sennen Martyrum",
+      "de": "Hl. Abdon und Sennen, Märtyrer"
+    },
+    "color": "green",
+    "rank": "Simplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui sanctis tuis Abdon et Sennen ad hanc glóriam veniéndi copiósum munus grátiæ contulísti: da fámulis tuis suorum véniam peccatórum; ut, Sanctórum tuórum intercedéntibus méritis, ab ómnibus mereántur adversitátibus liberáti."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios Fratres: Exhibeámus nosmetípsos sicut Dei minístros, in multa patiéntia, in tribulatiónibus, in necessitátibus, in angústiis, in plagis, in carcéribus, in seditiónibus, in labóribus, in vigíliis, in jejúniis, in castitáte, in sciéntia, in longanimitáte, in suavitáte, in Spíritu Sancto, in caritáte non ficta, in verbo veritátis, in virtúte Dei, per arma justítiæ a dextris et a sinístris: per glóriam et ignobilitátem: per infámiam et bonam famam: ut seductóres et veráces: sicut qui ignóti et cógniti: quasi moriéntes et ecce, vívimus: ut castigáti et non mortificáti: quasi tristes, semper autem gaudéntes: sicut egéntes, multos autem locupletántes: tamquam nihil habéntes et ómnia possidéntes."
+      },
+      "reference": {
+        "la": "2 Cor 6:4-10",
+        "de": "2 Cor 6:4-10"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Gloriosus Deus in Sanctis suis: mirábilis in majestáte, fáciens prodígia. Déxtera tua. Dómine, glorificáta est in virtúte: déxtera manus tua confrégit inimícos. Allelúja, allelúja. Justórum ánimæ in manu Dei sunt, et non tanget illos torméntum malítiæ. Allelúja."
+      },
+      "reference": {
+        "la": "Exodi 15:11; Exod 15:6; Ps 3:1",
+        "de": "Exodi 15:11; Exod 15:6; Ps 3:1"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Videns Jesus turbas, ascéndit in montem, et cum sedísset, accessérunt ad eum discípuli ejus, et apériens os suum, docébat eos, dicens: Beáti páuperes spíritu: quóniam ipsórum est regnum cœlórum. Beáti mites: quóniam ipsi possidébunt terram. Beáti, qui lugent: quóniam ipsi consolabúntur. Beáti, qui esúriunt et sítiunt justítiam: quóniam ipsi saturabúntur. Beáti misericórdes: quóniam ipsi misericórdiam consequántur. Beáti mundo corde: quóniam ipsi Deum vidébunt. Beáti pacífici: quóniam fílii Dei vocabúntur. Beáti, qui persecutiónem patiúntur propter justítiam: quóniam ipsórum est regnum cœlórum. Beáti estis, cum maledíxerint vobis et persecúti vos fúerint, et díxerint omne malum advérsum vos, mentiéntes, propter me: gaudete et exsultáte, quóniam merces vestra copiósa est in cœlis."
+      },
+      "reference": {
+        "la": "Matt 5:1-12",
+        "de": "Matt 5:1-12"
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Hæc hóstia, quǽsumus, Dómine, quam sanctórum Mártyrum tuórum natalítia recenséntes offérimus: et víncula nostræ pravitátis absolvat, et tuæ nobis misericórdiæ dona concíliet."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Posuérunt mortália servórum tuórum, Dómine, escas volatílibus cœli, carnes Sanctórum tuórum béstiis terræ: secúndum magnitúdinem bráchii tui pósside fílios morte punitórum."
+      },
+      "reference": {
+        "la": "Ps 78:2 & 11",
+        "de": "Ps 78:2 & 11"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Per hujus, Dómine, operationem mystérii, et vitia nostra purgéntur: et, intercedéntibus sanctis Martyribus tuis Abdon et Sennen, justa desidéria compleántur."
+      }
+    }
+  ]
+}

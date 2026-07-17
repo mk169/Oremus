@@ -1,0 +1,26 @@
+{
+  "id": "do-10-15",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Teresiæ Virginis",
+      "de": "Hl. Theresia von Avila, Jungfrau"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Exáudi nos, Deus, salutáris noster: ut sicut de beátæ Terésiæ Vírginis tuæ festivitáte gaudémus; ita cæléstis ejus doctrínæ pábulo nutriámur, et piæ devotiónis erudiámur afféctu."
+      }
+    }
+  ]
+}

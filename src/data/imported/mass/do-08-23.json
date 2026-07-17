@@ -1,0 +1,26 @@
+{
+  "id": "do-08-23",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Philippi Benitii Confessoris",
+      "de": "Hl. Philipp Benizi, Bekenner"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui per beátum Philippum Confessórem tuum, exímium nobis humilitátis exémplum tribuísti: da fámulis tuis próspera mundi ex ejus imitatióne despícere, et cœléstia semper inquírere."
+      }
+    }
+  ]
+}

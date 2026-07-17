@@ -1,0 +1,26 @@
+{
+  "id": "do-11-13",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Didaci Confessoris",
+      "de": "Hl. Didacus, Bekenner"
+    },
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Omnípotens sempitérne Deus, qui dispositióne mirábili infírma mundi éligis, ut fórtia quæque confúndas: concéde propítius humilitáti nostræ; ut, piis beáti Dídaci Confessóris tui précibus, ad perénnem in cœlis glóriam sublimári mereámur."
+      }
+    }
+  ]
+}

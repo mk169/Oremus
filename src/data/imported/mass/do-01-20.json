@@ -1,0 +1,102 @@
+{
+  "id": "do-01-20",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "Ss. Fabiani et Sebastiani Martyrum",
+      "de": "Hll. Fabian und Sebastian, Märtyrer"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Hebrǽos Fratres: Sancti per fidem vicérunt regna, operáti sunt justítiam, adépti sunt repromissiónes, obturavérunt ora leónum, exstinxérunt ímpetum ignis, effugérunt áciem gládii, convaluérunt de infirmitáte, fortes facti sunt in bello, castra vertérunt exterórum: accepérunt mulíeres de resurrectióne mórtuos suos: álii autem disténti sunt, non suscipiéntes redemptiónem, ut meliórem invenírent resurrectiónem: alii vero ludíbria et vérbera expérti, ínsuper et víncula et cárceres: lapidáti sunt, secti sunt, tentáti sunt, in occisióne gládii mórtui sunt: circuiérunt in melótis, in péllibus caprínis, egéntes, angustiáti, afflicti: quibus dignus non erat mundus: in solitudínibus errantes, in móntibus et spelúncis et in cavérnis terræ. Et hi omnes testimónio fídei probáti, invénti sunt in Christo Jesu, Dómino nostro."
+      },
+      "reference": {
+        "la": "Hebr 11:33-39",
+        "de": "Hebr 11:33-39"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Gloriósus Deus in Sanctis suis: mirábilis in majestáte, fáciens prodígia. Déxtera tua, Dómine, glorificáta est in virtúte: déxtera manus tua confrégit inimícos. Allelúja, allelúja. Sancti tui, Dómine, benedícent te: glóriam regni tui dicent. Allelúja."
+      },
+      "reference": {
+        "la": "Exod 15:11; Exod 15:6; Ps 144:10-11",
+        "de": "Exod 15:11; Exod 15:6; Ps 144:10-11"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Gloriósus Deus in Sanctis suis: mirábilis in majestáte, fáciens prodígia. Déxtera tua, Dómine, glorificáta est in virtúte: déxtera manus tua confrégit inimícos. _ Qui séminant in lácrimis, in gáudio metent. Eúntes ibant et flébant, mitténtes sémina sua. Veniéntes autem vénient cum exsultatióne, portántes manípulos suos."
+      },
+      "reference": {
+        "la": "Exod 15:11; Exod 15:6; Tractus; Ps 125:5-6",
+        "de": "Exod 15:11; Exod 15:6; Tractus; Ps 125:5-6"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Lætámini in Dómino et exsultáte, justi: et gloriámini, omnes recti corde."
+      },
+      "reference": {
+        "la": "Ps 31:11",
+        "de": "Ps 31:11"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Multitúdo languéntium, et qui vexabántur a spirítibus immúndis, veniébant ad eum: quia virtus de illo exíbat, et sanábat omnes."
+      },
+      "reference": {
+        "la": "Luc 6:18; 6:19",
+        "de": "Luc 6:18; 6:19"
+      },
+      "chant": {
+        "chantable": true
+      }
+    }
+  ]
+}

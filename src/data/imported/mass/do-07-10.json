@@ -1,0 +1,135 @@
+{
+  "id": "do-07-10",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "Ss. Septem Fratrum Martyrum, ac Rufinæ et Secundæ Virginum et Martyrum",
+      "de": "Hll. Sieben Brüder, Märtyrer und hll. Rufina und Sekunda, Jungfrauen und Märtyrerinnen"
+    },
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Laudáte, púeri, Dóminum, laudáte nomen Dómini: qui habitáre facit stérilem in domo, matrem filiórum lætántem. Sit nomen Dómini benedíctum: ex hoc nunc, ei usque in sǽculum. Laudáte, púeri, Dóminum, laudáte nomen Dómini: qui habitáre facit stérilem in domo, matrem filiórum lætántem."
+      },
+      "reference": {
+        "la": "Ps 112:1; 112:9; Ps 112:2",
+        "de": "Ps 112:1; 112:9; Ps 112:2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Præsta, quǽsumus, omnípotens Deus: ut, qui gloriósos Mártyres fortes in sua confessióne cognóvimus, pios apud te in nostra intercessióne sentiámus."
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Anima nostra, sicut passer, erépta est de láqueo venántium. Láqueus contrítus est, et nos liberáti sumus: adjutórium nostrum in nómine Dómini, qui fecit cœlum et terram. Allelúja, allelúja. Hæc est vera fratérnitas, quæ vicit mundi crímina: Christum secuta est, ínclita tenens regna cœléstia. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 123:7-8.",
+        "de": "Ps 123:7-8."
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Loquente Jesu ad turbas, ecce, Mater ejus et fratres stabant foris, quæréntes loqui ei. ¶ Dixit autem ei quidam: Ecce, mater tua et fratres tui foris stant, quæréntes te. At ipse respóndens dicénti sibi, ait: Quæ est mater mea et qui sunt fratres mei? Et exténdens manum in discípulos suos, dixit: Ecce mater mea et fratres mei. Quicúmque enim fécerit voluntátem Patris mei, qui in cœlis est: ipse meus frater et soror et mater est."
+      },
+      "reference": {
+        "la": "Matt 12:46-50",
+        "de": "Matt 12:46-50"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Anima nostra, sicut passer, erépta est de láqueo venántium: láqueus contrítus est, et nos liberáti sumus."
+      },
+      "reference": {
+        "la": "Ps 123:7",
+        "de": "Ps 123:7"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Sacrifíciis præséntibus, quǽsumus, Dómine, inténde placátus: et, intercedéntibus Sanctis tuis, devotióni nostræ profíciant et salúti."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Quicúmque fécerit voluntátem Patris mei, qui in cœlis est: ipse meus frater et soror et mater est, dicit Dóminus."
+      },
+      "reference": {
+        "la": "Matt 12:50",
+        "de": "Matt 12:50"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Quǽsumus, omnípotens Deus: ut, intercedéntibus Sanctis tuis, illíus salutáris capiámus efféctum; cujus per heec mystéria pignus accépimus."
+      }
+    }
+  ]
+}

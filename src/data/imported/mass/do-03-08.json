@@ -1,0 +1,42 @@
+{
+  "id": "do-03-08",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Joannis de Deo Confessoris",
+      "de": "Hl. Johannes von Gott, Bekenner"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui beátum Joánnem, tuo amóre succénsum, inter flammas innóxium incédere fecísti, et per eum Ecclésiam tuam nova prole fœcundásti: præsta, ipsíus suffragántibus méritis; ut igne caritátis tuæ vitia nostra curéntur, et remédia nobis ætérna provéniant.",
+        "de": "O Gott, der du den in Liebe zu dir brennenden heiligen Johannes unversehrt durch die Flammen hast hindurchgehen lassen, und der du durch ihn deine Kirche mit einer neuartigen Schar von Söhnen befruchtet hast, verleihe uns auf Grund seiner Verdienste die Gnade, daß durch das Feuer der Liebe zu dir unsere Gebrechen geheilt und uns Heilmittel für die Ewigkeit gewährt werden."
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Accessérunt ad Jesum pharisǽi: et interrogávit eum unus ex eis legis doctor, tentans eum: Magíster, quod est mandátum magnum in lege? Ait illi Jesus: Díliges Dóminum, Deum tuum, ex toto corde tuo et in tota ánima tua et in tota mente tua. Hoc est máximum et primum mandátum. Secúndum autem símile est huic: Díliges próximum tuum sicut teípsum. In his duóbus mandátis univérsa lex pendet et prophétæ. Congregátis autem pharisǽis, interrogávit eos Jesus, dicens: Quid vobis vidétur de Christo? cujus fílius est? Dicunt ei: David. Ait illis: Quómodo ergo David in spíritu vocat eum Dóminum, dicens: Dixit Dóminus Dómino meo, sede a dextris meis, donec ponam inimícos tuos scabéllum pedum tuórum? Si ergo David vocat eum Dóminum, quómodo fílius ejus est? Et nemo poterat ei respóndere verbum: neque ausus fuit quisquam ex illa die eum ámplius interrogáre."
+      },
+      "reference": {
+        "la": "Matt 22:34-46",
+        "de": "Matt 22:34-46"
+      }
+    }
+  ]
+}

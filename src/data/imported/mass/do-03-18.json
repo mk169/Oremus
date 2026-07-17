@@ -1,0 +1,63 @@
+{
+  "id": "do-03-18",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Cyrilli Episcopi Hierosolymitani Confessoris et Ecclesiæ Doctoris",
+      "de": "Hl. Kyrill von Jerusalem, Bekenner und Kirchenlehrer"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Da nobis, quǽsumus, omnípotens Deus, beáto Cyríllo Pontífice intercedénte: te solum verum Deum, et quem misísti Jesum Christum ita cognóscere; ut inter oves, quæ vocem ejus áudiunt, perpétuo connumerári mereámur."
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Dixit Jesus discípulis suis: Cum persequéntur vos in civitáte ista, fúgite in áliam. Amen, dico vobis, non consummábitis civitátes Israël, donec véniat Fílius hóminis. Non est discípulus super magístrum nec servus super Dominum suum. Súfficit discípulo, ut sit sicut magíster ejus: et servo, sicut dóminus ejus. Si patremfamílias Beélzebub vocavérunt; quanto magis domésticos ejus? Ne ergo timuéritis eos. Nihil enim est opértum, quod non revelábitur: et occúltum, quod non sciétur. Quod dico vobis in ténebris, dícite in lúmine: et quod in aure audítis, prædicáte super tecta. Et nolíte timére eos, qui occídunt corpus, ánimam autem non possunt occídere: sed pótius timéte eum, qui potest et ánimam et corpus pérdere in gehénnam."
+      },
+      "reference": {
+        "la": "Matt 10:23-28.",
+        "de": "Matt 10:23-28."
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Réspice, Dómine, immaculátam hóstiam, quam tibi offérimus: et præsta; ut, méritis beáti Pontíficis et Confessóris tui Cyrílli, eam mundo corde suscípere studeámus."
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Sacraménta Córporis et Sánguinis tui, quæ súmpsimus, Dómine Jesu Christe: beáti Cyrílli Pontíficis précibus, mentes et corda nostra sanctíficent; ut divínæ consórtes natúræ éffici mereámur:"
+      }
+    }
+  ]
+}

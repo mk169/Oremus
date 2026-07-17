@@ -1,0 +1,26 @@
+{
+  "id": "do-10-06",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Brunonis Confessoris",
+      "de": "Hl. Bruno, Bekenner"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Sancti Brunónis Confessóris tui, quǽsumus, Dómine, intercessiónibus adjuvémur: ut, qui majestátem tuam gráviter delinquéndo offéndimus, ejus méritis et précibus, nostrórum delictórum véniam consequámur."
+      }
+    }
+  ]
+}

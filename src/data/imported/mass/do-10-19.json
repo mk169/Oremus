@@ -1,0 +1,41 @@
+{
+  "id": "do-10-19",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Petri de Alcantara Confessoris",
+      "de": "Hl. Petrus von Alcantara, Bekenner"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui beátum Petrum Confessórem tuum admirábilis pœniténtiæ et altíssimæ contemplatiónis múnere illustráre dignátus es: da nobis, quǽsumus; ut, ejus suffragántibus méritis, carne mortificáti, facílius cœléstia capiámus."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Philippénses Fratres: Quæ mihi fuérunt lucra, hæc arbitrátus sum propter Christum defriménta. Verúmtamen exístimo ómnia detriméntum esse propter eminéntem sciéntiam Jesu Christi, Dómini mei: propter quem ómnia detriméntum feci et árbitror ut stércora, ut Christum lucrifáciam et invéniar in illo, non habens meam justítiam, quæ ex lege est, sed illam, quæ ex fide est Christi Jesu: quæ ex Deo est justítia in fide, ad cognoscéndum illum, et virtútem resurrectiónis ejus, et societátem passiónum illíus: configurátus morti ejus: si quo modo occúrram ad resurrectiónem, quæ est ex mórtuis: non quod jam accéperim aut jam perféctus sim: sequor autem, si quo modo comprehéndam, in quo et comprehénsus sum a Christo Jesu."
+      },
+      "reference": {
+        "la": "Philipp 3:7-12",
+        "de": "Philipp 3:7-12"
+      }
+    }
+  ]
+}

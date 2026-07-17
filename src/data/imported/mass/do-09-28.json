@@ -1,0 +1,26 @@
+{
+  "id": "do-09-28",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Wenceslai Ducis et Martyris",
+      "de": "Hl. Wenzel, Herzog und Martyrer"
+    },
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui beátum Wencesláum per martýrii palmam a terréno principátu ad cœléstem glóriam transtulísti: ejus précibus nos ab omni adversitáte custódi; et ejúsdem tríbue gaudére consórtio."
+      }
+    }
+  ]
+}

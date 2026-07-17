@@ -1,0 +1,26 @@
+{
+  "id": "do-05-10",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Antonini Episcopi et Confessoris",
+      "de": "Hl. Antonius, Bischof und Bekenner"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Sancti Antoníni, Dómine, Confessóris tui atque Pontíficis méritis adjuvémur: ut, sicut te in illo mirábilem prædicámus, ita in nos misericórdem fuísse gloriémur."
+      }
+    }
+  ]
+}

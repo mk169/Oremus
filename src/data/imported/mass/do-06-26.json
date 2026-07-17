@@ -1,0 +1,117 @@
+{
+  "id": "do-06-26",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "Ss. Joannis et Pauli Martyrum",
+      "de": "Hll. Johannes und Paulus, Märtyrer"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Multæ tribulatiónes justórum, et de his ómnibus liberávit eos Dóminus: Dóminus custódit ómnia ossa eórum: unum ex his non conterétur. Benedícam Dóminum in omni témpore: semper laus ejus in ore meo. Multæ tribulatiónes justórum, et de his ómnibus liberávit eos Dóminus: Dóminus custódit ómnia ossa eórum: unum ex his non conterétur."
+      },
+      "reference": {
+        "la": "Ps 33:20-21; Ps 33:2",
+        "de": "Ps 33:20-21; Ps 33:2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Quǽsumus, omnípotens Deus: ut nos gemináta lætítia hodiérnæ festivitátis excípiat, quæ de beatórum Joánnis et Pauli glorificatióne procédit; quos eadem fides et pássio vere fecit esse germános."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio libri Sapiéntiæ Hi viri misericórdiæ sunt, quorum pietátes non defuérunt: cum semine eórum pérmanent bona, heréditas sancta nepótes eórum, et in testaméntis stetit semen eórum: et fílii eórum propter illos usque in ætérnum manent: semen eórum et glória eórum non derelinquétur. Córpora ipsórum in pace sepúlta sunt, et nomen eórum vivit in generatiónem et generatiónem. Sapiéntiam ipsórum narrent pópuli, et laudem eórum núntiet Ecclésia."
+      },
+      "reference": {
+        "la": "Eccli 44:10-15",
+        "de": "Eccli 44:10-15"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Ecce, quam bonum et quam jucúndum, habitáre fratres in unum! Sicut unguéntum in cápite, quod descéndit in barbam, barbam Aaron. Allelúja, allelúja. Hæc est vera fratérnitas, quæ vicit mundi crímina: Christum secúta est, ínclita tenens regna cœléstia. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 132:1-2",
+        "de": "Ps 132:1-2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Gloriabúntur in te omnes, qui díligunt nomen tuum: quóniam tu, Dómine, benedíces justo: Dómine, ut scuto bonæ voluntátis tuæ coronásti nos."
+      },
+      "reference": {
+        "la": "Ps 5:12-13",
+        "de": "Ps 5:12-13"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Hóstias tibi, Dómine, sanctórum Martyrum tuórum Joánnis et Pauli dicátas méritis, benígnus assúme: et ad perpétuum nobis tríbue proveníre subsídium."
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Súmpsimus, Dómine, sanctórum Martyrum tuórum Joánnis et Pauli sollémnia celebrántes, sacraménta cœléstia: præsta, quǽsumus; ut, quod temporáliter gérimus, ætérnis gáudiis consequámur."
+      }
+    }
+  ]
+}

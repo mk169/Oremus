@@ -1,0 +1,135 @@
+{
+  "id": "do-03-10",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "Ss. Quadraginta Martyrum",
+      "de": "Hll. Vierzig Märtyrer"
+    },
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Clamavérunt justi, et Dóminus exaudívit eos: et ex ómnibus tribulatiónibus eórum liberávit eos. Benedícam Dóminum in omni témpore: semper laus ejus in ore meo. Clamavérunt justi, et Dóminus exaudívit eos: et ex ómnibus tribulatiónibus eórum liberávit eos."
+      },
+      "reference": {
+        "la": "Ps 33:18; Ps 33:2",
+        "de": "Ps 33:18; Ps 33:2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Præsta, quǽsumus, omnípotens Deus: ut, qui gloriósos Mártyres fortes in sua confessióne cognóvimus, pios apud te in nostra intercessióne sentiámus."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Hebrǽos Fratres: Sancti per fidem vicérunt regna, operáti sunt justítiam, adépti sunt repromissiónes, obturavérunt ora leónum, exstinxérunt ímpetum ignis, effugérunt áciem gládii, convaluérunt de infirmitáte, fortes facti sunt in bello, castra vertérunt exterórum: accepérunt mulíeres de resurrectióne mórtuos suos: álii autem disténti sunt, non suscipiéntes redemptiónem, ut meliórem invenírent resurrectiónem: alii vero ludíbria et vérbera expérti, ínsuper et víncula et cárceres: lapidáti sunt, secti sunt, tentáti sunt, in occisióne gládii mórtui sunt: circuiérunt in melótis, in péllibus caprínis, egéntes, angustiáti, afflicti: quibus dignus non erat mundus: in solitudínibus errantes, in móntibus et spelúncis et in cavérnis terræ. Et hi omnes testimónio fídei probáti, invénti sunt in Christo Jesu, Dómino nostro."
+      },
+      "reference": {
+        "la": "Hebr 11:33-39",
+        "de": "Hebr 11:33-39"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Ecce, quam bonum et quam jucúndum, habitáre fratres in unum! Sicut unguéntum in cápite, quod descéndit in barbam, barbam Aaron. _ Qui séminant in lácrimis, in gáudio metent. Eúntes ibant et fiébant, mitténtes sémina sua. Veniéntes autem vénient cum exsultatióne, portántes manípulos suos."
+      },
+      "reference": {
+        "la": "Ps 132:1-2; Tractus; Ps 125:5-6",
+        "de": "Ps 132:1-2; Tractus; Ps 125:5-6"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Lætámini in Dómino et exsultáte, justi: et gloriámini, omnes recti corde."
+      },
+      "reference": {
+        "la": "Ps 31:11",
+        "de": "Ps 31:11"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Preces, Dómine, tuórum réspice oblationésque fidélium: ut et tibi gratæ sint pro tuórum festivitáte Sanctórum, et nobis cónferant tuæ propitiatiónis auxílium."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Quicúmque fécerit voluntátem Patris mei, qui in cœlis est: ipse meus frater et soror et mater est, dicit Dóminus."
+      },
+      "reference": {
+        "la": "Matt 12:50",
+        "de": "Matt 12:50"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Sanctórum tuórum, Dómine, intercessióne placátus: præsta, quǽsumus; ut, quæ temporáli celebrámus actióne, perpétua salvatióne capiámus."
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "do-04-30",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Catharinæ Senensis Virginis",
+      "de": "Hl. Katharina von Siena, Jungfrau"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Da, quǽsumus, omnípotens Deus: ut, qui beátæ Catharínæ Vírginis tuæ natalítia cólimus; et ánnua solemnitáte lætámur, et tantæ virtútis proficiámus exémplo."
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Ascéndant ad te, Dómine, quas in beátæ Catharínæ solemnitáte offérimus, preces, et hóstia salutáris, virgíneo fragrans odóre."
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Æternitátem nobis, Dómine, cónferat, qua pasti sumus, mensa cœléstis: quæ beátæ Catharínæ Vírginis vitam étiam áluit temporálem."
+      }
+    }
+  ]
+}

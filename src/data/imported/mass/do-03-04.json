@@ -1,0 +1,27 @@
+{
+  "id": "do-03-04",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Casimiri Confessoris",
+      "de": "Hl. Kasimir, Bekenner"
+    },
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui inter regáles delícias et mundi illécebras sanctum Casimírum virtúte constántiæ roborásti: quǽsumus; ut ejus intercessióne fidéles tui terréna despíciant, et ad cœléstia semper aspírent.",
+        "de": "O Gott, der du inmitten der Genüsse des königlichen Hofes und inmitten der Lockungen der Welt den heiligen Kasimir in der Tugend der Standhaftigkeit festgemacht hast, wir bitten dich um Hilfe, daß auf Grund seiner Fürsprache deine Gläubigen das Irdische verachten und nach dem Himmlischen ständig streben."
+      }
+    }
+  ]
+}

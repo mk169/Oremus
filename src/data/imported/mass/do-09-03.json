@@ -1,0 +1,168 @@
+{
+  "id": "do-09-03",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Pii X Papæ Confessoris",
+      "de": "Hl. Pius X., Papst und Bekenner"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Extuli eléctum de pópulo, óleo sancto meo unxi eum: ut manus mea sit semper cum eo, et brácchium meum confírmet eum. Grátias Dómini in ætérnum cantábo: per omnes generatiónes annuntiábo fidelitátem tuam ore meo. Extuli eléctum de pópulo, óleo sancto meo unxi eum: ut manus mea sit semper cum eo, et brácchium meum confírmet eum."
+      },
+      "reference": {
+        "la": "Ps 88:20-22; Ps. 88:2",
+        "de": "Ps 88:20-22; Ps. 88:2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui ad tuéndam cathólicam fidem, et univérsa in Christo instauránda sanctum Pium, Summum Pontíficem, cælésti sapiéntia et apostólica fortitúdine replevísti: concéde propítius; ut, ejus institúta et exémpla sectántes, præmia consequámur ætérna."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Lectio prima Sancti Pauli apóstoli ad Thessalonicénses Fratres: Fidúciam habúimus in Deo nostro, loqui ad vos Evangélium Dei in multa sollicitúdine. Exhortátio enim nostra non de erróre, neque de immundítia, neque in dolo, sed sicut probáti sumus a Deo ut crederétur nobis Evangélium: ita lóquimur non quasi homínibus placéntes, sed Deo, qui probat corda nostra. Neque enim aliquándo fúimus in sermóne adulatiónis, sicut scitis: neque in occasióne avarítiæ: Deus testis est: nec quæréntes ab homínibus glóriam, neque a vobis, neque ab áliis. Cum possémus vobis óneri esse ut Christi apóstoli: sed facti sumus párvuli in médio vestrum, tamquam si nutrix fóveat fílios suos. Ita desiderántes vos, cúpide volebámus trádere vobis non solum Evangélium Dei, sed étiam ánimas nostras: quóniam caríssimi nobis facti estis."
+      },
+      "reference": {
+        "la": "1 Thess 2:2-8",
+        "de": "1 Thess 2:2-8"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Annuntiávi justítiam tuam in cœtu magno; ecce lábia mea non cohíbui: Dómine, tu nosti. Justítiam tuam non abscóndi in corde meo; fidelitátem tuam et auxílium tuum narrávi. Allelúia, allelúia. Paras mihi mensam, inúngis óleo caput meum, calix meus ubérrimus est. Allelúia."
+      },
+      "reference": {
+        "la": "Ps 39:10-11; Ps 22:5-6",
+        "de": "Ps 39:10-11; Ps 22:5-6"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Sacerdótes ejus índuam salúte, et sancti ejus exsultántes exsultábunt. Illic David suscitábo cornu, parábo lucérnam uncto meo. Inimícos ejus índuam confusióne, super ipsum autem fulgébit diadéma meum."
+      },
+      "reference": {
+        "la": "Ps 131:16-18",
+        "de": "Ps 131:16-18"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia Sancti evangélii secúndum Joánnem In illo témpore, dicit Jesus Simóni Petro: Simon Joánnis, díligis me plus his? Dicit ei: Etiam Dómine, tu scis quia amo te. Dicit ei: Pasce agnos meos. Dicit ei íterum: Simon Joánnis, díligis me? Ait illi: Etiam Dómine, tu scis quia amo te. Dicit ei: Pasce agnos meos. Dicit ei tértio: Simon Joánnis, amas me? Contristátus est Petrus, quia dixit ei tértio: Amas me? et dixit ei: Dómine, tu ómnia nosti, tu scis quia amo te. Dixit ei: Pasce oves meas."
+      },
+      "reference": {
+        "la": "Joannes 21:15-17",
+        "de": "Joannes 21:15-17"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Veníte, fílii; audíte me: timórem Dómini docébo vos."
+      },
+      "reference": {
+        "la": "Ps 33:12",
+        "de": "Ps 33:12"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Oblatiónibus nostris, quǽsumus, Dómine, benígne suscéptis, da nobis, ut hæc divína mystéria, sancto Pio Summo Pontífice intercedénte, sincéris tractémus obséquiis et fidéli mente sumámus."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Caro enim mea vere est cibus: et sanguis meus, vere est potus; qui mandúcat meam carnem et bibit meum sánguinem, in me manet, et ego in illo."
+      },
+      "reference": {
+        "la": "Joannes 6:56-57",
+        "de": "Joannes 6:56-57"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Mensæ cæléstis virtúte refécti, quǽsumus, Dómine Deus noster: ut, interveniénte sancto Pio Summo Pontífice; fortes efficiámur in fide, et in tua simus caritáte concórdes."
+      }
+    }
+  ]
+}

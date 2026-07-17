@@ -1,0 +1,26 @@
+{
+  "id": "do-04-05",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Vincentii Ferrerii Confessoris",
+      "de": "Hl. Vinzenz Ferrer, Bekenner"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui Ecclésiam tuam beáti Vincéntii Confessóris tui méritis et prædicatióne illustráre dignátus es: concéde nobis fámulis tuis; ut et ipsíus instruámur exémplis et ab ómnibus ejus patrocínio liberémur advérsis."
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "do-05-15",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Joannis Baptistæ de la Salle Confessoris",
+      "de": "Hl. Johannes Baptist de La Salle, Bekenner"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui, ad christiánam páuperum eruditiónem et ad juvéntam in via veritátis firmándam, sanctum Joánnem Baptístam Confessórem excitásti, et novam per eum in Ecclésia famíliam collegísti: concéde propítius; ut ejus intercessióne et exémplo, stúdio glóriæ tuæ in animárum salúte fervéntes, ejus in cœlis corónæ partícipes fíeri valeámus."
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Allelúja, allelúja. Beátus vir, qui suffert tentatiónem: quóniam, cum probátus fúerit, accípiet corónam vitæ. Allelúja. Amávit eum Dóminus et ornávit eum: stolam glóriæ índuit eum. Allelúja."
+      },
+      "reference": {
+        "la": "Jas 1:12; Eccli 45:9",
+        "de": "Jas 1:12; Eccli 45:9"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum. In illo témpore: Accessérunt discípuli ad Jesum, dicéntes: Quis, putas, major est in regno cœlórum? Et ádvocans Jesus párvulum, státuit eum in médio eórum et dixit: Amen, dico vobis, nisi convérsi fuéritis et efficiámini sicut párvuli, non intrábitis in regnum cœlórum. Quicumque ergo humiliáverit se sicut párvulus iste, hic est major in regno cœlórum. Et qui suscéperit unum párvulum talem in nómine meo, me súscipit."
+      },
+      "reference": {
+        "la": "Matt 18:1-5",
+        "de": "Matt 18:1-5"
+      }
+    }
+  ]
+}

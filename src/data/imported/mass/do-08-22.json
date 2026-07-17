@@ -1,0 +1,168 @@
+{
+  "id": "do-08-22",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "Immaculati Cordis Beatæ Mariæ Virginis",
+      "de": "Immaculati Cordis Beatæ Mariæ Virginis"
+    },
+    "color": "green",
+    "rank": "Duplex II classis"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Adeámus cum fidúcia ad thronum grátiæ, ut misericórdiam consequámur, et grátiam inveniámus in auxílio opportúno. Eructávit cor meum verbum bonum: dico ego ópera mea regi. Adeámus cum fidúcia ad thronum grátiæ, ut misericórdiam consequámur, et grátiam inveniámus in auxílio opportúno."
+      },
+      "reference": {
+        "la": "Hebr 4:16; Ps 44:2",
+        "de": "Hebr 4:16; Ps 44:2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Omnípotens sempitérne Deus, qui in Corde beátæ Maríæ Vírginis dignum Spíritus Sancti habitáculum præparásti: concéde propítius; ut ejúsdem immaculáti Cordis festivitátem devóta mente recoléntes, secúndum cor tuum vívere valeámus."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio libri Sapiéntiæ Ego quasi vitis fructificávi suavitátem odóris: et flores mei fructus honóris et honestátis. Ego mater pulchræ dilectiónis, et timóris, et agnitiónis, et sanctæ spei. In me grátia omnis viæ et veritátis: in me omnis spes vitæ et virtútis. Transíte ad me, omnes, qui concupíscitis me, et a generatiónibus meis implémini. Spíritus enim meus super mel dulcis, et heréditas mea super mel et favum. Memória mea in generatiónes sæculórum. Qui edunt me, adhuc esúrient: et qui bibunt me, adhuc sítient. Qui audit me, non confundétur: et qui operántur in me, non peccábunt. Qui elúcidant me, vitam ætérnam habébunt."
+      },
+      "reference": {
+        "la": "Eccli 24:23-31",
+        "de": "Eccli 24:23-31"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Exsultábit cor meum in salutári tuo: cantábo Dómino, qui bona tríbuit mihi: et psallam nómini Dómini altíssimi. Mémores erunt nóminis tui in omni generatióne et generatiónem: proptérea pópuli confitebúntur tibi in ætérnum. Allelúja, allelúja. Magníficat ánima mea Dóminum: et exsultávit spíritus meus in Deo salutári meo. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 12:6; Ps 44:18; Luc 1:46; 1:47",
+        "de": "Ps 12:6; Ps 44:18; Luc 1:46; 1:47"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Nunc ergo, fílii, audíte me: Beáti qui custódiunt vias meas. Audíte disciplínam et estóte sapiéntes, et nolíte abjícere eam. Beátus homo qui audit me, et qui vígilat ad fores meas quotídie, et obsérvat ad postes óstii mei. Qui me invénerit, invéniet vitam, et háuriet salútem a Dómino."
+      },
+      "reference": {
+        "la": "Prov 8:32; 8:35",
+        "de": "Prov 8:32; 8:35"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Joánnem In illo témpore: Stabant juxta crucem Jesu mater ejus, et soror matris ejus María Cléophæ, et María Magdaléne. Cum vidísset ergo Jesus matrem, et discípulum stantem, quem diligébat, dicit matri suæ: Múlier, ecce fílius tuus. Deinde dicit discípulo: Ecce mater tua. Et ex illa hora accépit eam discípulus in sua."
+      },
+      "reference": {
+        "la": "Joann 19:25-27",
+        "de": "Joann 19:25-27"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Exsultávit spíritus meus in Deo salutári meo; quia fecit mihi magna qui potens est, et sanctum nomen ejus."
+      },
+      "reference": {
+        "la": "Luc 1:46; 1:49",
+        "de": "Luc 1:46; 1:49"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Majestáti tuæ, Dómine, Agnum immaculátum offeréntes, quǽsumus: ut corda nostra ignis ille divínus accéndat, cui Cor beátæ Maríæ Vírginis ineffabíliter inflammávit."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Dixit Jesus matri suæ: Múlier, ecce fílius tuus: deinde dixit discípulo: Ecce mater tua. Et ex illa hora accépit eam discípulus in sua."
+      },
+      "reference": {
+        "la": "Joann 19:27",
+        "de": "Joann 19:27"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Divínis refécti munéribus te, Dómine, supplíciter exorámus: ut beátæ Maríæ Vírginis intercessióne, cujus immaculáti Cordis sollémnia venerándo égimus, a præséntibus perículis liberáti, ætérnæ vitæ gáudia consequámur."
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "do-09-05",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Laurentii Justiniani Episcopi et Confessoris",
+      "de": "Hl. Laurentius Justiniani, Bischof und Bekenner"
+    },
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  "sections": [
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum. In illo témpore: Dixit Jesus discípulis suis parábolam hanc: Homo péregre proficíscens vocávit servos suos, et trádidit illis bona sua. Et uni dedit quinque talénta, álii autem duo, álii vero unum, unicuíque secúndum própriam virtútem, et proféctus est statim. Abiit autem, qui quinque talénta accéperat, et operátus est in eis, et lucrátus est ália quinque. Simíliter et, qui duo accéperat, lucrátus est ália duo. Qui autem unum accéperat, ábiens fodit in terram, et abscóndit pecúniam dómini sui. Post multum vero témporis venit dóminus servórum illórum, et pósuit ratiónem cum eis. Et accédens qui quinque talénta accéperat, óbtulit ália quinque talénta, dicens: Dómine, quinque talénta tradidísti mihi, ecce, ália quinque superlucrátus sum. Ait illi dóminus ejus: Euge, serve bone et fidélis, quia super pauca fuísti fidélis, super multa te constítuam: intra in gáudium dómini tui. Accéssit autem et qui duo talénta accéperat, et ait: Dómine, duo talénta tradidísti mihi, ecce, ália duo lucrátus sum. Ait illi dóminus ejus: Euge, serve bone et fidélis, quia super pauca fuísti fidélis, super multa te constítuam: intra in gáudium dómini tui."
+      },
+      "reference": {
+        "la": "Matt 25:14-23",
+        "de": "Matt 25:14-23"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Invéni David servum meum, óleo sancto meo unxi eum: manus enim mea auxiliábitur ei, et bráchium meum confortábit eum."
+      },
+      "reference": {
+        "la": "Ps 88:21-22",
+        "de": "Ps 88:21-22"
+      },
+      "chant": {
+        "chantable": true
+      }
+    }
+  ]
+}

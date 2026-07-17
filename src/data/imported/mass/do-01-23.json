@@ -1,0 +1,26 @@
+{
+  "id": "do-01-23",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Raymundi de Peñafort Confessoris",
+      "de": "Hl. Raimund von Penyafort, Bekenner"
+    },
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui beátum Raymúndum pœniténtiæ sacraménti insígnem minístrum elegísti, et per maris undas mirabíliter traduxísti: concéde; ut ejus intercessióne dignos pœniténtiæ fructus fácere, et ad ætérnæ salútis portum perveníre valeámus."
+      }
+    }
+  ]
+}

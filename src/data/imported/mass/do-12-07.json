@@ -1,0 +1,55 @@
+{
+  "id": "do-12-07",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Ambrosii Episcopi Confessoris et Ecclesiæ Doctoris",
+      "de": "Hl. Ambrosius, Bischof, Bekenner und Kirchenlehrer"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Ecce sacérdos magnus, qui in diébus suis plácuit Deo. Non est inventus símilis illi, qui conserváret legem Excélsi. Allelúja, allelúja. Jurávit Dóminus, et non pænitébit eum: Tu es sacérdos in ætérnum, secúndum órdinem Melchísedech. Allelúja."
+      },
+      "reference": {
+        "la": "Eccli 44:16; Eccli 44:20; Ps 109:4",
+        "de": "Eccli 44:16; Eccli 44:20; Ps 109:4"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Omnípotens sempitérne Deus, múnera tuæ majestáti obláta, per intercessiónem beáti Ambrósii Confessóris tui atque Pontíficis, ad perpétuam nobis fac proveníre salútem."
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Sacraménta salútis nostræ suscipiéntes, concéde, quǽsumus, omnípotens Deus: ut beáti Ambrósii Confessóris tui atque Pontíficis nos ubíque orátio ádjuvet; in cujus veneratióne hæc tuæ obtúlimus majestáti."
+      }
+    }
+  ]
+}

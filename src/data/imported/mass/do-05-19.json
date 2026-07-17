@@ -1,0 +1,27 @@
+{
+  "id": "do-05-19",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Petri Celestini Papæ et Confessoris",
+      "de": "Hl. Petrus Cölestin, Papst und Bekenner"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui beátum Petrum Cœlestínum ad summi pontificátus ápicem sublimásti, quique illum humilitáti postpónere docuísti: concéde propítius; ut ejus exémplo cuncta mundi despícere, et ad promíssa humílibus præmia perveníre felíciter mereámur. [Secreta] (nisi rubrica 196) [Postcommunio] (nisi rubrica 196)",
+        "de": "O Gott, Du erhobest den heiligen Petrus Cölestinus zur Höhe der päpstlichen Würde und lehrtest ihn, sie geringer zu werten als die Demut. So gib denn in Deiner Gnade, daß wir nach seinem Beispiel alles in der Welt gering achten, um so glücklich den Lohn zu erlangen, der den Demütigen verheißen ist."
+      }
+    }
+  ]
+}

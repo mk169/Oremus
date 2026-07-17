@@ -1,0 +1,33 @@
+{
+  "id": "do-12-31",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Silvestri Papæ et Confessoris",
+      "de": "Hl. Silvester I., Papst und Bekenner"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Ecce sacérdos magnus, qui in diébus suis plácuit Deo. Non est invéntus símilis illi, qui conserváret legem Excélsi. Allelúja, allelúja. Invéni David servum meum: óleo sancto meo unxi eum. Allelúja."
+      },
+      "reference": {
+        "la": "Eccli 44:16; Eccli 44:20; Ps 88:21",
+        "de": "Eccli 44:16; Eccli 44:20; Ps 88:21"
+      },
+      "chant": {
+        "chantable": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "id": "do-04-28",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Pauli a Cruce Confessoris",
+      "de": "Hl. Paulus vom Kreuz, Bekenner"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Christo confíxus sum Cruci: vivo autem, jam non ego; vivit vero in me Christus: in fide vivo Fílii Dei, qui diléxit me, et trádidit semetípsum pro me, allelúja, alleluja. Beátus, qui intéllegit super egénum et páuperem: in die mala liberábit eum Dóminus. Christo confíxus sum Cruci: vivo autem, jam non ego; vivit vero in me Christus: in fide vivo Filii Dei, qui diléxit me, et trádidit semetípsum pro me, allelúja, alleluja."
+      },
+      "reference": {
+        "la": "Gal 2:19-20; Ps 40:2.",
+        "de": "Gal 2:19-20; Ps 40:2."
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Dómine Jesu Christe, qui, ad mystérium Crucis prædicándum, sanctum Paulum singulári caritáte donásti, et per eum novam in Ecclésia famíliam floréscere voluísti: ipsíus nobis intercessióne concéde; ut, passiónem tuam júgiter recoléntes in terris, ejúsdem fructum cónsequi mereámur in cœlis:"
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Corinthios Fratres: Non misit me Christus baptizáre, sed evangelizáre: non in sapiéntia verbi, ut non evacuétur Crux Christi. Verbum enim Crucis pereúntibus quidem stultítia est: iis autem, qui salvi fiunt, id est nobis, Dei virtus est. Scriptum est enim: Perdam sapiéntiam sapiéntium et prudéntiam prudéntium reprobábo. Ubi sápiens? ubi scriba? ubi conquisítor hujus sǽculi? Nonne stultam fecit Deus sapiéntiam hujus mundi? Nam quia in Dei sapiéntia non cognóvit mundus per sapiéntiam Deum: plácuit Deo per stultítiam prædicatiónis salvos fácere credéntes. Quóniam et Judǽi signa petunt et Græci sapiéntiam quærunt: nos autem prædicámus Christum crucifíxum: Judǽis quidem scándalum, géntibus autem stultítiam, ipsis autem vocátis Judǽis atque Græcis Christum Dei virtútem et Dei sapiéntiam: quia, quod stultum est Dei, sapiéntius est homínibus: et, quod infírmum est Dei, fórtius est homínibus."
+      },
+      "reference": {
+        "la": "1 Cor 1:17-25.",
+        "de": "1 Cor 1:17-25."
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Allelúja, allelúja. Pro ómnibus mórtuus est Christus: ut, et qui vivunt, jam non sibi vivant, sed ei, qui pro ipsis mórtuus est, et resurréxit. Allelúja. Si fílii, et herédes: herédes quidem Dei, coherédes autem Christi: si tamen compátimur, ut et conglorificémur. Allelúja."
+      },
+      "reference": {
+        "la": "2 Cor 5:15; Rom 8:17",
+        "de": "2 Cor 5:15; Rom 8:17"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Christo ígitur passo in carne, et vos eádem cogitatióne armámini: quia, qui passus est in carne, désiit a peccátis. Semper mortificatiónem Jesu in córpore nostro circumferéntes, ut et vita Jesu manifestétur in corpóribus nostris. Aspiciéntes in auctórem fídei et consummatórem Jesum, qui propósito sibi gáudio sustínuit Crucem, confusióne contémpta, atque in déxtera sedis Dei sedet."
+      },
+      "reference": {
+        "la": "1 Pet 4:1; 2 Cor 4:10; Heb 12:2",
+        "de": "1 Pet 4:1; 2 Cor 4:10; Heb 12:2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Lucam In illo témpore: Designávit Dóminus et álios septuagínta duos: et misit illos binos ante fáciem suam in omnem civitátem et locum, quo erat ipse ventúrus. ¶ Et dicebat illis: Messis quidem multa, operárii autem pauci. Rogáte ergo Dóminum messis, ut mittat operários in messem suam. Ite: ecce, ego mitto vos sicut agnos inter lupos. Nolíte portáre sácculum neque peram neque calceaménta; et néminem per viam salutavéritis. In quamcúmque domum intravéritis, primum dícite: Pax huic dómui: et si ibi fúerit fílius pacis, requiéscet super illum pax vestra: sin autem, ad vos revertétur. In eádem autem domo manéte, edéntes et bibéntes quæ apud illos sunt: dignus est enim operárius mercéde sua. Nolíte transíre de domo in domum. Et in quamcúmque civitátem intravéritis, et suscéperint vos, manducáte quæ apponúntur vobis: et curáte infírmos, qui in illa sunt, et dícite illis: Appropinquávit in vos regnum Dei."
+      },
+      "reference": {
+        "la": "Luc 10:1-9",
+        "de": "Luc 10:1-9"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Ambuláte in dilectióne, sicut et Christus diléxit nos, et trádidit semetípsum pro nobis oblatiónem et hóstiam Deo in odórem suavitátis, allelúja."
+      },
+      "reference": {
+        "la": "Ephes 5:2",
+        "de": "Ephes 5:2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Cœléstem nobis, Dómine, prǽbeant mystéria hæc passiónis et mortis tuæ fervórem: quo sanctus Paulus, ea offeréndo, corpus suum hóstiam vivéntem, sanctam tibíque placéntem exhíbuit:"
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Communicántes Christi passiónibus gaudéte, ut in revelatióne glóriæ ejus gaudeátis exsultántes. Allelúja."
+      },
+      "reference": {
+        "la": "1 Pet 4:13",
+        "de": "1 Pet 4:13"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Súmpsimus, Dómine, divínum sacraméntum, imménsæ caritátis tuæ memoriále perpétuum: tríbue, quǽsumus; ut, sancti Pauli méritis et imitatióne, aquam de fóntibus tuis hauriámus in vitam ætérnam saliéntem, et tuam sacratíssimam passiónem córdibus nostris impréssam móribus et vita teneámus:"
+      }
+    }
+  ]
+}

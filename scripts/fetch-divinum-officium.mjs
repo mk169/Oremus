@@ -11,7 +11,8 @@
 // werden zweisprachig übernommen (deutscher Name aus der [Officium]-Zeile).
 //
 // Nutzung:  npm run missa:fetch
-import { writeFile, mkdir } from 'node:fs/promises'
+import { writeFile, mkdir, readFile } from 'node:fs/promises'
+import { existsSync } from 'node:fs'
 import { fileURLToPath } from 'node:url'
 import { dirname, resolve } from 'node:path'
 
@@ -176,43 +177,63 @@ const TEMPORA = [
   'Pasc0-0', 'Pasc1-0', 'Pasc2-0', 'Pasc3-0', 'Pasc4-0', 'Pasc5-0',
   ...Array.from({ length: 24 }, (_, i) => `Pent${String(i + 1).padStart(2, '0')}-0`),
 ]
-// Breite Auswahl von Festen des Sanctorale (überlieferter Kalender).
-const SANCTI = [
-  '01-06', '01-21', '01-25', '02-02', '02-22', '02-24',
-  '03-17', '03-19', '03-25', '04-25', '04-29',
-  '05-01', '05-31', '06-11', '06-13', '06-24', '06-29',
-  '07-02', '07-22', '07-25', '07-26', '07-31',
-  '08-04', '08-06', '08-10', '08-15', '08-24', '08-28',
-  '09-08', '09-14', '09-21', '09-29', '09-30',
-  '10-02', '10-04', '10-07', '10-18', '10-28',
-  '11-01', '11-11', '11-21', '11-30',
-  '12-06', '12-08', '12-26', '12-27', '12-28',
-]
+// Feste des Sanctorale (überlieferter Kalender). Die Datumsliste wird direkt
+// aus src/data/sanctorale.ts abgeleitet, damit Kalender und Formular-Bestand
+// synchron bleiben. Tage ohne eigenes Proprium bei DO (reine Commemorationen
+// „ex Commune") liefern keine Abschnitte und werden übersprungen.
+async function sanctoraleDates() {
+  const src = await readFile(resolve(__dirname, '../src/data/sanctorale.ts'), 'utf8')
+  const set = new Set()
+  const re = /\bm:\s*(\d+),\s*d:\s*(\d+)/g
+  let m
+  while ((m = re.exec(src))) set.add(`${String(+m[1]).padStart(2, '0')}-${String(+m[2]).padStart(2, '0')}`)
+  return [...set].sort()
+}
+
+function indexEntry(form) {
+  return { id: form.id, titleLa: form.day.title.la, titleDe: form.day.title.de, color: form.day.color, rank: form.day.rank }
+}
 
 async function main() {
   await mkdir(OUT_DIR, { recursive: true })
+  const SANCTI = await sanctoraleDates()
   const index = []
-  let ok = 0
+  let imported = 0
+  let kept = 0
   for (const [cat, keys] of [['Tempora', TEMPORA], ['Sancti', SANCTI]]) {
     for (const key of keys) {
+      const id = `do-${key}`
+      const filePath = resolve(OUT_DIR, `${id}.json`)
+      // Vorhandene Formulare (inkl. bereits gefüllter Melodien) unangetastet lassen;
+      // nur die Index-Metadaten aus der Datei übernehmen.
+      if (existsSync(filePath)) {
+        try {
+          const j = JSON.parse(await readFile(filePath, 'utf8'))
+          index.push(indexEntry(j))
+          kept++
+          continue
+        } catch {
+          // defekte Datei: neu importieren
+        }
+      }
       try {
         const form = await importKey(cat, key)
         if (!form) {
           console.warn(`· ${cat}/${key} übersprungen (nicht gefunden/leer)`)
           continue
         }
-        const file = `${form.id}.json`
-        await writeFile(resolve(OUT_DIR, file), JSON.stringify(form, null, 2) + '\n')
-        index.push({ id: form.id, titleLa: form.day.title.la, titleDe: form.day.title.de, color: form.day.color, rank: form.day.rank })
-        ok++
+        await writeFile(filePath, JSON.stringify(form, null, 2) + '\n')
+        index.push(indexEntry(form))
+        imported++
         console.log(`✓ ${cat}/${key}  ->  ${form.day.title.de} (${form.sections.length} Teile)`)
       } catch (e) {
         console.warn(`✗ ${cat}/${key}: ${e.message}`)
       }
     }
   }
+  // Index in stabiler Reihenfolge (Temporale zuerst, dann Sanktorale nach Datum).
   await writeFile(resolve(OUT_DIR, 'index.json'), JSON.stringify(index, null, 2) + '\n')
-  console.log(`\nFertig: ${ok} Messformulare nach src/data/imported/mass/ importiert.`)
+  console.log(`\nFertig: ${imported} neu importiert, ${kept} vorhandene behalten → src/data/imported/mass/`)
 }
 
 main().catch((e) => {

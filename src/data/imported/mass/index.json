@@ -350,6 +350,20 @@
     "rank": "Semiduplex"
   },
   {
+    "id": "do-01-01",
+    "titleLa": "In Circumcisione Domini",
+    "titleDe": "In Circumcisione Domini",
+    "color": "green",
+    "rank": "Duplex II classis"
+  },
+  {
+    "id": "do-01-05",
+    "titleLa": "In Vigilia Epiphaniæ",
+    "titleDe": "In Vigilia Epiphaniæ",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
     "id": "do-01-06",
     "titleLa": "In Epiphania Domini",
     "titleDe": "In Epiphania Domini",
@@ -357,9 +371,72 @@
     "rank": "Duplex I classis"
   },
   {
+    "id": "do-01-13",
+    "titleLa": "Die Octava Epiphaniæ",
+    "titleDe": "Die Octava Epiphaniæ",
+    "color": "green",
+    "rank": "Duplex majus"
+  },
+  {
+    "id": "do-01-15",
+    "titleLa": "S. Pauli Primi Eremitæ et Confessoris",
+    "titleDe": "Hl. Paulus, erster Einsiedler, Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-01-16",
+    "titleLa": "S. Marcelli Papæ et Martyris",
+    "titleDe": "Hl. Marcellus, Papst und Martyrer",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-01-18",
+    "titleLa": "Cathedræ S. Petri Romæ",
+    "titleDe": "Fest der Kathedra Petri zu Rom",
+    "color": "green",
+    "rank": "Duplex majus"
+  },
+  {
+    "id": "do-01-19",
+    "titleLa": "Ss. Marii, Marthæ, Audifacis, et Abachum Martyrum",
+    "titleDe": "Hll. Maris, Audifax und Abachum, Märtyrer",
+    "color": "green",
+    "rank": "Simplex"
+  },
+  {
+    "id": "do-01-20",
+    "titleLa": "Ss. Fabiani et Sebastiani Martyrum",
+    "titleDe": "Hll. Fabian und Sebastian, Märtyrer",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
     "id": "do-01-21",
     "titleLa": "S. Agnetis Virginis et Martyris",
     "titleDe": "Hl. Agnes, Jungfrau und Martyrerin",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-01-22",
+    "titleLa": "Ss. Vincentii et Anastasii Martyrum",
+    "titleDe": "Hl. Vinzenz und Anastasius, Märtyrer",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-01-23",
+    "titleLa": "S. Raymundi de Peñafort Confessoris",
+    "titleDe": "Hl. Raimund von Penyafort, Bekenner",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-01-24",
+    "titleLa": "S. Timothei Episcopi et Martyris",
+    "titleDe": "S. Timothei Episcopi et Martyris",
     "color": "green",
     "rank": "Duplex"
   },
@@ -371,11 +448,116 @@
     "rank": "Duplex majus"
   },
   {
+    "id": "do-01-26",
+    "titleLa": "S. Polycarpi Episcopi et Martyris",
+    "titleDe": "Hl. Polykarp, Bischof und Martyrer",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-01-27",
+    "titleLa": "S. Joannis Chrysostomi Episcopi Confessoris et Ecclesiæ Doctoris",
+    "titleDe": "Hl. Johannes Chrysostomos, Bischof, Bekenner und Kirchenlehrer",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-01-28",
+    "titleLa": "S. Petri Nolasci Confessoris",
+    "titleDe": "S. Petri Nolasci Confessoris",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-01-29",
+    "titleLa": "S. Francisci Salesii Episcopi Confessoris et Ecclesiæ Doctoris",
+    "titleDe": "Hl. Franziskus von Sales, Bischof, Bekenner und Kirchenlehrer",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-01-31",
+    "titleLa": "S. Joannis Bosco Confessoris",
+    "titleDe": "Hl. Johannes Bosco, Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-02-01",
+    "titleLa": "S. Ignatii Episcopi et Martyris",
+    "titleDe": "Hl. Ignatius (von Antiochia), Bischof und Martyrer",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
     "id": "do-02-02",
     "titleLa": "In Purificatione Beatæ Mariæ Virginis",
     "titleDe": "In Purificatione Beatæ Mariæ Virginis",
     "color": "green",
     "rank": "Duplex 2 class"
+  },
+  {
+    "id": "do-02-04",
+    "titleLa": "S. Andreæ Corsini Episcopi et Confessoris",
+    "titleDe": "Hl. Andreas Corsini, Bischof und Martyrer",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-02-05",
+    "titleLa": "S. Agathæ Virginis et Martyris",
+    "titleDe": "Hl. Agatha, Jungfrau und Martyrerin",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-02-06",
+    "titleLa": "S. Titi Episcopi et Confessoris",
+    "titleDe": "Hl. Titus, Bischof und Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-02-08",
+    "titleLa": "S. Joannis de Matha Confessoris",
+    "titleDe": "Hl. Johannes von Matha, Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-02-09",
+    "titleLa": "S. Cyrilli Episc. Alexandrini Confessoris et Ecclesiæ Doctoris",
+    "titleDe": "Hl. Kyrill, Bischof von Alexandria, Bekenner und Kirchenlehrer",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-02-10",
+    "titleLa": "S. Scholasticæ Virginis",
+    "titleDe": "Hl. Scholastika, Jungfrau",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-02-11",
+    "titleLa": "In Apparitione Beatæ Mariæ Virginis",
+    "titleDe": "In Apparitione Beatæ Mariæ Virginis",
+    "color": "green",
+    "rank": "Duplex majus"
+  },
+  {
+    "id": "do-02-12",
+    "titleLa": "Ss. Septem Fundatorum Ordinis Servorum B. M. V.",
+    "titleDe": "Sieben heilige Gründer des Servitenordens Unserer Lieben Frau",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-02-14",
+    "titleLa": "S. Valentini Presbyteri et Martyris",
+    "titleDe": "Hl. Valentin, Priester und Martyrer",
+    "color": "green",
+    "rank": "Simplex"
   },
   {
     "id": "do-02-22",
@@ -392,9 +574,72 @@
     "rank": "Duplex II classis"
   },
   {
+    "id": "do-02-27",
+    "titleLa": "S. Gabrielis a Virgine Perdolente Confessoris",
+    "titleDe": "Hl. Gabriel von der schmerzensreichen Jungfrau",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-03-04",
+    "titleLa": "S. Casimiri Confessoris",
+    "titleDe": "Hl. Kasimir, Bekenner",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-03-06",
+    "titleLa": "Ss. Perpetuæ et Felicitatis Martyrum",
+    "titleDe": "Hll. Perpetua und Felicitas, Märtyrerinnen",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-03-07",
+    "titleLa": "S. Thomæ de Aquino Confessoris et Ecclesiæ Doctoris",
+    "titleDe": "S. Thomae de Aquino Confessoris et Ecclesiae Doctoris",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-03-08",
+    "titleLa": "S. Joannis de Deo Confessoris",
+    "titleDe": "Hl. Johannes von Gott, Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-03-09",
+    "titleLa": "S. Franciscæ Romanæ Viduæ",
+    "titleDe": "Hl. Franziska von Rom, Witwe",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-03-10",
+    "titleLa": "Ss. Quadraginta Martyrum",
+    "titleDe": "Hll. Vierzig Märtyrer",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-03-12",
+    "titleLa": "S. Gregorii Papæ Confessoris et Ecclesiæ Doctoris",
+    "titleDe": "Hl. Gregor (d. Große), Papst, Bekenner und Kirchenlehrer",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
     "id": "do-03-17",
     "titleLa": "S. Patricii Episcopi et Confessoris",
     "titleDe": "Hl. Patrick, Bischof und Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-03-18",
+    "titleLa": "S. Cyrilli Episcopi Hierosolymitani Confessoris et Ecclesiæ Doctoris",
+    "titleDe": "Hl. Kyrill von Jerusalem, Bekenner und Kirchenlehrer",
     "color": "green",
     "rank": "Duplex"
   },
@@ -406,11 +651,74 @@
     "rank": "Duplex I classis"
   },
   {
+    "id": "do-03-24",
+    "titleLa": "S. Gabrielis Archangeli",
+    "titleDe": "Hl. Erzengel Gabriel",
+    "color": "green",
+    "rank": "Duplex majus"
+  },
+  {
     "id": "do-03-25",
     "titleLa": "In Annuntiatione Beate Mariæ Virgine",
     "titleDe": "In Annuntiatione Beate Mariæ Virgine",
     "color": "green",
     "rank": "Duplex I classis"
+  },
+  {
+    "id": "do-03-27",
+    "titleLa": "S. Joannis Damasceni Confessoris et Ecclesiæ Doctoris",
+    "titleDe": "Hl. Johannes von Damaskus, Bekenner und Kirchenlehrer",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-03-28",
+    "titleLa": "S. Joannis a Capistrano Confessoris",
+    "titleDe": "Hl. Johannes von Capestrano, Bekenner",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-04-02",
+    "titleLa": "S. Francisci de Paula Confessoris",
+    "titleDe": "Hl. Franz von Paola, Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-04-05",
+    "titleLa": "S. Vincentii Ferrerii Confessoris",
+    "titleDe": "Hl. Vinzenz Ferrer, Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-04-13",
+    "titleLa": "S. Hermenegildi Martyris",
+    "titleDe": "S. Hermenegildi Martyris",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-04-14",
+    "titleLa": "S. Justini Martyris",
+    "titleDe": "S. Justini Martyris",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-04-23",
+    "titleLa": "S. Georgii Martyris",
+    "titleDe": "Hl. Georg, Martyrer",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-04-24",
+    "titleLa": "S. Fidelis de Sigmaringa Martyris",
+    "titleDe": "Hl. Fidelis von Sigmaringen, Martyrer",
+    "color": "green",
+    "rank": "Duplex"
   },
   {
     "id": "do-04-25",
@@ -420,9 +728,30 @@
     "rank": "Duplex II classis"
   },
   {
+    "id": "do-04-27",
+    "titleLa": "S. Petri Canisii Confessoris et Ecclesiæ Doctoris",
+    "titleDe": "Hl. Petrus Canisius, Bekenner und Kirchenlehrer",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-04-28",
+    "titleLa": "S. Pauli a Cruce Confessoris",
+    "titleDe": "Hl. Paulus vom Kreuz, Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
     "id": "do-04-29",
     "titleLa": "S. Petri Martyris",
     "titleDe": "Hl. Petrus der Martyrer",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-04-30",
+    "titleLa": "S. Catharinæ Senensis Virginis",
+    "titleDe": "Hl. Katharina von Siena, Jungfrau",
     "color": "green",
     "rank": "Duplex"
   },
@@ -434,11 +763,200 @@
     "rank": "Duplex II classis"
   },
   {
+    "id": "do-05-02",
+    "titleLa": "S. Athanasii Episcopi Confessoris et Ecclesiæ Doctoris",
+    "titleDe": "Hl. Athanasius, Bischof, Bekenner und Kirchenlehrer",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-05-03",
+    "titleLa": "Inventione Sanctæ Crucis",
+    "titleDe": "Inventione Sanctæ Crucis",
+    "color": "green",
+    "rank": "Duplex II classis"
+  },
+  {
+    "id": "do-05-04",
+    "titleLa": "S. Monicæ Viduæ",
+    "titleDe": "Hl. Monika, Witwe",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-05-05",
+    "titleLa": "S. Pii V Papæ et Confessoris",
+    "titleDe": "Hl. Pius V., Papst und Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-05-07",
+    "titleLa": "S. Stanislai Episcopi et Martyris",
+    "titleDe": "Hl. Stanislaus, Bischof und Martyrer",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-05-10",
+    "titleLa": "S. Antonini Episcopi et Confessoris",
+    "titleDe": "Hl. Antonius, Bischof und Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-05-12",
+    "titleLa": "Ss. Nerei, Achillei et Domitillæ Virg. atque Pancratii Martyrum",
+    "titleDe": "Hll. Nereus, Achilleus und Domitilla, Jungfrau, sowie Pankratius, Märtyrer",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-05-13",
+    "titleLa": "S. Roberti Bellarmino Episcopi Confessoris et Ecclesiæ Doctoris",
+    "titleDe": "Hl. Robert Bellarmin, Bischof, Bekenner und Kirchenlehrer",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-05-14",
+    "titleLa": "S. Bonifatii Martyris",
+    "titleDe": "Hl. Bonifaz, Martyrer",
+    "color": "green",
+    "rank": "Simplex"
+  },
+  {
+    "id": "do-05-15",
+    "titleLa": "S. Joannis Baptistæ de la Salle Confessoris",
+    "titleDe": "Hl. Johannes Baptist de La Salle, Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-05-16",
+    "titleLa": "S. Ubaldi Episcopi et Confessoris",
+    "titleDe": "Hl. Ubald, Bischof und Bekenner",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-05-17",
+    "titleLa": "S. Paschalis Baylon Confessoris",
+    "titleDe": "Hl. Paschalis Baylon, Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-05-18",
+    "titleLa": "S. Venantii Martyris",
+    "titleDe": "Hl. Venantius",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-05-19",
+    "titleLa": "S. Petri Celestini Papæ et Confessoris",
+    "titleDe": "Hl. Petrus Cölestin, Papst und Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-05-20",
+    "titleLa": "S. Bernardini Senensis Confessoris",
+    "titleDe": "Hl. Bernhard v. Siena, Bekenner",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-05-25",
+    "titleLa": "S. Gregorii VII Papæ et Confessoris",
+    "titleDe": "Hl. Gregor VII., Papst und Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-05-26",
+    "titleLa": "S. Philippi Neri Confessoris",
+    "titleDe": "Hl. Philip Neri, Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-05-27",
+    "titleLa": "S. Bedæ Venerabilis Confessoris et Ecclesiæ Doctoris",
+    "titleDe": "Hl. Beda Venerabilis, Bekenner und Kirchenlehrer",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-05-28",
+    "titleLa": "S. Augustini Episcopi et Confessoris",
+    "titleDe": "Hl. Augustinus von Canterbury, Bischof und Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-05-29",
+    "titleLa": "S. Mariæ Magdalenæ de Pazzis Virginis",
+    "titleDe": "Hl. Maria Magdalena von Pazzi, Jungfrau",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
     "id": "do-05-31",
     "titleLa": "Beatæ Mariæ Virginis Reginæ",
     "titleDe": "Beatæ Mariæ Virginis Reginæ",
     "color": "green",
     "rank": "Duplex II classis"
+  },
+  {
+    "id": "do-06-01",
+    "titleLa": "S. Angelæ Mericiæ Virginis",
+    "titleDe": "Hl. Angela Merici, Jungfrau",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-06-02",
+    "titleLa": "Ss. Marcellini, Petri, atque Erasmi, Episcopi, Martyrum",
+    "titleDe": "Ss. Marcellini, Petri, atque Erasmi, Episcopi, Martyrum",
+    "color": "green",
+    "rank": "Simplex"
+  },
+  {
+    "id": "do-06-04",
+    "titleLa": "S. Francisci Caracciolo Confessoris",
+    "titleDe": "Hl. Franz von Carácciolo, Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-06-05",
+    "titleLa": "S. Bonifatii Episcopi et Martyris",
+    "titleDe": "Hl. Bonifatius, Bischof und Martyrer",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-06-06",
+    "titleLa": "S. Norberti Episcopi et Confessoris",
+    "titleDe": "Hl. Norbert, Bischof und Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-06-09",
+    "titleLa": "Ss. Primi et Feliciani Martyrum",
+    "titleDe": "Hll. Primus und Felicianus, Märtyrer",
+    "color": "green",
+    "rank": "Simplex"
+  },
+  {
+    "id": "do-06-10",
+    "titleLa": "S. Margaritæ Reginæ Viduæ",
+    "titleDe": "Hl. Margaret, Königin und Witwe",
+    "color": "green",
+    "rank": "Semiduplex"
   },
   {
     "id": "do-06-11",
@@ -448,11 +966,74 @@
     "rank": "Duplex majus"
   },
   {
+    "id": "do-06-12",
+    "titleLa": "S. Joannis a S. Facundo Confessoris",
+    "titleDe": "Hl. Johannes González von Sahagún, Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
     "id": "do-06-13",
     "titleLa": "S. Antonii de Padua Confessoris",
     "titleDe": "Hl. Antonius von Padua, Bekenner",
     "color": "green",
     "rank": "Duplex"
+  },
+  {
+    "id": "do-06-14",
+    "titleLa": "S. Basilii Magni Confessoris et Ecclesiæ Doctoris",
+    "titleDe": "Hl. Basilius der Große, Bischof, Bekenner und Kirchenlehrer",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-06-15",
+    "titleLa": "Ss. Viti, Modesti atque Crescentiæ Martyrum",
+    "titleDe": "Hll. Vitus, Modestus und Crescentia, Märtyrer",
+    "color": "green",
+    "rank": "Simplex"
+  },
+  {
+    "id": "do-06-18",
+    "titleLa": "S. Ephræm Syri Confessoris et Ecclesiæ Doctoris",
+    "titleDe": "Hl. Ephräm der Syrer, Bekenner und Kirchenlehrer",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-06-19",
+    "titleLa": "S. Julianæ de Falconeriis Virginis",
+    "titleDe": "Hl. Juliana von Falconieri, Jungfrau",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-06-20",
+    "titleLa": "S. Silverii Papæ et Martyris",
+    "titleDe": "Hl. Silverius, Papst und Martyrer",
+    "color": "green",
+    "rank": "Simplex"
+  },
+  {
+    "id": "do-06-21",
+    "titleLa": "S. Aloisii Gonzagæ Confessoris",
+    "titleDe": "Hl. Aloysius Gonzaga, Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-06-22",
+    "titleLa": "S. Paulini Episcopi et Confessoris",
+    "titleDe": "Hl. Paulinus von Nola, Bischof und Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-06-23",
+    "titleLa": "In Vigilia S. Joannis Baptistæ",
+    "titleDe": "Vigil der Geburt des Hl. Johannes des Täufers",
+    "color": "green",
+    "rank": "Simplex"
   },
   {
     "id": "do-06-24",
@@ -462,11 +1043,46 @@
     "rank": "Duplex I classis cum Octava communi"
   },
   {
+    "id": "do-06-25",
+    "titleLa": "S. Gulielmi Abbatis",
+    "titleDe": "Hl. Wilhelm, Abt",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-06-26",
+    "titleLa": "Ss. Joannis et Pauli Martyrum",
+    "titleDe": "Hll. Johannes und Paulus, Märtyrer",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-06-28",
+    "titleLa": "S. Irenæi Episcopi et Martyris",
+    "titleDe": "Hl. Ireneus, Bischof und Martyrer",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
     "id": "do-06-29",
     "titleLa": "SS. Apostolorum Petri et Pauli",
     "titleDe": "Fest der hl. Apostel Petrus und Paulus",
     "color": "green",
     "rank": "Duplex I classis cum octava communi"
+  },
+  {
+    "id": "do-06-30",
+    "titleLa": "In Commemoratione S. Pauli Apostoli",
+    "titleDe": "Gedächtnis des Hl. Apostels Paulus",
+    "color": "green",
+    "rank": "Duplex majus"
+  },
+  {
+    "id": "do-07-01",
+    "titleLa": "Pretiosissimi Sanguinis Domini Nostri Jesu Christi",
+    "titleDe": "Pretiosissimi Sanguinis Domini Nostri Jesu Christi",
+    "color": "green",
+    "rank": "Duplex I classis"
   },
   {
     "id": "do-07-02",
@@ -476,9 +1092,100 @@
     "rank": "Duplex II classis"
   },
   {
+    "id": "do-07-05",
+    "titleLa": "S. Antonii Mariæ Zaccaria Confessoris",
+    "titleDe": "Hl. Antonius Maria Zaccaria, Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-07-07",
+    "titleLa": "Ss. Cyrilli et Methodii Pont. et Conf.",
+    "titleDe": "Hll. Kyrill und Method, Bischöfe und Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-07-08",
+    "titleLa": "S. Elisabeth Reg. Portugaliæ Viduæ",
+    "titleDe": "Hl. Elisabeth, Königin v. Portugal, Witwe",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-07-10",
+    "titleLa": "Ss. Septem Fratrum Martyrum, ac Rufinæ et Secundæ Virginum et Martyrum",
+    "titleDe": "Hll. Sieben Brüder, Märtyrer und hll. Rufina und Sekunda, Jungfrauen und Märtyrerinnen",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-07-12",
+    "titleLa": "S. Joannis Gualberti Abbatis",
+    "titleDe": "Hl. Johannes Walbert, Abt",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-07-14",
+    "titleLa": "S. Bonaventuræ Episcopi Confessoris et Ecclesiæ Doctoris",
+    "titleDe": "Hl. Bonaventura, Bischof, Bekenner und Kirchenlehrer",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-07-15",
+    "titleLa": "S. Henrici Imperatoris Confessoris",
+    "titleDe": "Hl. Heinrich, Kaiser und Bekenner",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-07-16",
+    "titleLa": "Beatæ Mariæ Virginis de Monte Carmelo",
+    "titleDe": "Beatæ Mariæ Virginis de Monte Carmelo",
+    "color": "green",
+    "rank": "Duplex majus"
+  },
+  {
+    "id": "do-07-17",
+    "titleLa": "S. Alexii Confessoris",
+    "titleDe": "Hl. Alexius, Bekenner",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-07-18",
+    "titleLa": "S. Camilli de Lellis Confessoris",
+    "titleDe": "Hl. Kamillus von Lellis, Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-07-19",
+    "titleLa": "S. Vincentii a Paulo Confessoris",
+    "titleDe": "Hl. Vinzenz von Paul, Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-07-20",
+    "titleLa": "S. Hieronymi Æmiliani Confessoris",
+    "titleDe": "Hl. Hieronymus Emilianus, Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
     "id": "do-07-22",
     "titleLa": "S. Mariæ Magdalenæ Pœnitentis",
     "titleDe": "Hl. Maria Magdalena, Büßerin",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-07-23",
+    "titleLa": "S. Apollinaris Episcopi et Martyris",
+    "titleDe": "Hl. Apollinaris, Bischof und Martyrer",
     "color": "green",
     "rank": "Duplex"
   },
@@ -497,11 +1204,46 @@
     "rank": "Duplex II classis"
   },
   {
+    "id": "do-07-28",
+    "titleLa": "Ss. Nazarii et Celsi Martyrum, Victoris I Papæ et Martyris ac Innocentii I Papæ et Confessoris",
+    "titleDe": "Hll. Nazarius und Celsus, Märtyrer, Victor I., Papst und Martyrer, sowie Innozenz I., Papst und Bekenner",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-07-29",
+    "titleLa": "S. Marthæ Virginis",
+    "titleDe": "Hl. Martha, Jungfrau",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-07-30",
+    "titleLa": "Ss. Abdon et Sennen Martyrum",
+    "titleDe": "Hl. Abdon und Sennen, Märtyrer",
+    "color": "green",
+    "rank": "Simplex"
+  },
+  {
     "id": "do-07-31",
     "titleLa": "S. Ignatii Confessoris",
     "titleDe": "Hl. Ignatius von Loyola, Bekenner",
     "color": "green",
     "rank": "Duplex majus"
+  },
+  {
+    "id": "do-08-01",
+    "titleLa": "S. Petri ad Vincula",
+    "titleDe": "Kettenfeier des hl. Petrus",
+    "color": "green",
+    "rank": "Duplex majus"
+  },
+  {
+    "id": "do-08-02",
+    "titleLa": "S. Alfonsi Mariæ de Ligorio Episc. Conf. et Eccles. Doct.",
+    "titleDe": "Hl. Alfonso Maria de Liguori, Bischof, Bekenner und Kirchenlehrer",
+    "color": "green",
+    "rank": "Duplex"
   },
   {
     "id": "do-08-04",
@@ -518,11 +1260,53 @@
     "rank": "Duplex II classis"
   },
   {
+    "id": "do-08-07",
+    "titleLa": "S. Cajetani Confessoris",
+    "titleDe": "Hl. Kajetan, Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-08-08",
+    "titleLa": "Ss. Cyriaci, Largi et Smaragdi Martyrum",
+    "titleDe": "Hll. Cyriacus, Largos und Smaragdus",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-08-09",
+    "titleLa": "S. Joannis Mariæ Vianney Confessoris",
+    "titleDe": "Hl. Johannes Maria Vianney, Bekenner (Pfarrer von Ars)",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
     "id": "do-08-10",
     "titleLa": "S. Laurentii Martyris",
     "titleDe": "Hl. Laurentius, Martyrer",
     "color": "green",
     "rank": "Duplex II classis cum octava simplici"
+  },
+  {
+    "id": "do-08-11",
+    "titleLa": "Ss. Tiburtii et Susannæ Virginis, Martyrum",
+    "titleDe": "Hll. Tiburtius und Susanna, Märtyrer",
+    "color": "green",
+    "rank": "Simplex"
+  },
+  {
+    "id": "do-08-13",
+    "titleLa": "Ss. Hippolyti et Cassiani Martyrum",
+    "titleDe": "Hll. Hippolytus und Cassian, Märtyrer",
+    "color": "green",
+    "rank": "Simplex"
+  },
+  {
+    "id": "do-08-14",
+    "titleLa": "In Vigilia Assumptionis B.M.V.",
+    "titleDe": "In Vigilia Assumptionis B.M.V.",
+    "color": "green",
+    "rank": "Simplex"
   },
   {
     "id": "do-08-15",
@@ -532,11 +1316,67 @@
     "rank": "Duplex I classis cum Octava Communi"
   },
   {
+    "id": "do-08-16",
+    "titleLa": "S. Joachim Confessoris, Patris B. M. V.",
+    "titleDe": "Hl. Joachim, Bekenner, Vater der Seligen Jungfrau Maria",
+    "color": "green",
+    "rank": "Duplex II classis"
+  },
+  {
+    "id": "do-08-19",
+    "titleLa": "S. Joannis Eudes Confessoris",
+    "titleDe": "Hl. Johannes Eudes, Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-08-20",
+    "titleLa": "S. Bernardi Abbatis et Ecclesiæ Doctoris",
+    "titleDe": "Hl. Bernhard von Clairvaux, Abt und Kirchenlehrer",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-08-21",
+    "titleLa": "S. Joannæ Franciscæ Frémiot de Chantal Viduæ",
+    "titleDe": "Hl. Johanne-Franziska Frémiot von Chantal, Witwe",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-08-22",
+    "titleLa": "Immaculati Cordis Beatæ Mariæ Virginis",
+    "titleDe": "Immaculati Cordis Beatæ Mariæ Virginis",
+    "color": "green",
+    "rank": "Duplex II classis"
+  },
+  {
+    "id": "do-08-23",
+    "titleLa": "S. Philippi Benitii Confessoris",
+    "titleDe": "Hl. Philipp Benizi, Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
     "id": "do-08-24",
     "titleLa": "S. Bartholomæi Apostoli",
     "titleDe": "Hl. Bartholomäus Apostel",
     "color": "green",
     "rank": "Duplex II classis"
+  },
+  {
+    "id": "do-08-25",
+    "titleLa": "S. Ludovici Regis Franciæ Confessoris",
+    "titleDe": "Hl. Ludwig, König und Bekenner",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-08-27",
+    "titleLa": "S. Josephi Calasanctii Confessoris",
+    "titleDe": "Hl. Joseph Calsanz, Bekenner",
+    "color": "green",
+    "rank": "Duplex"
   },
   {
     "id": "do-08-28",
@@ -546,11 +1386,74 @@
     "rank": "Duplex"
   },
   {
+    "id": "do-08-29",
+    "titleLa": "In Decollatione S. Joannis Baptistæ",
+    "titleDe": "Enthauptung des Hl. Johannes d. Täufers",
+    "color": "green",
+    "rank": "Duplex majus"
+  },
+  {
+    "id": "do-08-30",
+    "titleLa": "S. Rosæ a Sancta Maria Limange Virginis",
+    "titleDe": "Hl. Rosa von Lima, Jungfrau",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-08-31",
+    "titleLa": "S. Raymundi Nonnati Confessoris",
+    "titleDe": "Hl. Raymund Nonnatus, Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-09-02",
+    "titleLa": "S. Stephani Hungariæ Regis Confessoris",
+    "titleDe": "Hl. Stephan, König von Ungarn, Bekenner",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-09-03",
+    "titleLa": "S. Pii X Papæ Confessoris",
+    "titleDe": "Hl. Pius X., Papst und Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-09-05",
+    "titleLa": "S. Laurentii Justiniani Episcopi et Confessoris",
+    "titleDe": "Hl. Laurentius Justiniani, Bischof und Bekenner",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
     "id": "do-09-08",
     "titleLa": "Nativitate Beatæ Mariæ Virginis",
     "titleDe": "Nativitate Beatæ Mariæ Virginis",
     "color": "green",
     "rank": "Duplex II classis cum Octava simplici"
+  },
+  {
+    "id": "do-09-09",
+    "titleLa": "S. Gorgonii Martyris",
+    "titleDe": "Hl. Gorgonius, Martyrer",
+    "color": "green",
+    "rank": "Simplex"
+  },
+  {
+    "id": "do-09-11",
+    "titleLa": "Ss. Proti et Hyacinthi Martyrum",
+    "titleDe": "Hll. Protus und Hyazinth, Märtyrer",
+    "color": "green",
+    "rank": "Simplex"
+  },
+  {
+    "id": "do-09-12",
+    "titleLa": "S. Nominis Beatæ Mariæ Virginis",
+    "titleDe": "S. Nominis Beatæ Mariæ Virginis",
+    "color": "green",
+    "rank": "Duplex majus"
   },
   {
     "id": "do-09-14",
@@ -560,11 +1463,67 @@
     "rank": "Duplex majus"
   },
   {
+    "id": "do-09-15",
+    "titleLa": "Septem Dolorum Beatæ Mariæ Virginis",
+    "titleDe": "Septem Dolorum Beatæ Mariæ Virginis",
+    "color": "green",
+    "rank": "Duplex 2nd class"
+  },
+  {
+    "id": "do-09-17",
+    "titleLa": "Impressionis Stigmatum S. Francisci",
+    "titleDe": "Stigmatisierung des Hl. Franziskus",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-09-18",
+    "titleLa": "S. Josephi de Cupertino Confessoris",
+    "titleDe": "Hl. Joseph von Cupertino, Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-09-19",
+    "titleLa": "S. Januarii Episcopi et Sociorum Martyrum",
+    "titleDe": "Hl. Januarius, Bischof, und Gefährten, Märtyrer",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
     "id": "do-09-21",
     "titleLa": "S. Matthæi Apostoli et Evangelistæ",
     "titleDe": "Fest des hl. Apostels und Evangelisten Matthäus",
     "color": "green",
     "rank": "Duplex II classis"
+  },
+  {
+    "id": "do-09-22",
+    "titleLa": "S. Thomæ de Villanova Episcopi et Confessoris",
+    "titleDe": "Hl. Thomas v. Villanova, Bischof und Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-09-26",
+    "titleLa": "Ss. Cypriani et Justinæ Virginis, Martyrum",
+    "titleDe": "Hll. Cyprian und Justina, Jungfrau, Märtyrer",
+    "color": "green",
+    "rank": "Simplex"
+  },
+  {
+    "id": "do-09-27",
+    "titleLa": "Ss. Cosmæ et Damiani Martyrum",
+    "titleDe": "Hll. Kosmas und Damian, Märtyrer",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-09-28",
+    "titleLa": "S. Wenceslai Ducis et Martyris",
+    "titleDe": "Hl. Wenzel, Herzog und Martyrer",
+    "color": "green",
+    "rank": "Semiduplex"
   },
   {
     "id": "do-09-29",
@@ -588,11 +1547,25 @@
     "rank": "Duplex majus"
   },
   {
+    "id": "do-10-03",
+    "titleLa": "S. Theresiæ a Jesu Infante Virginis",
+    "titleDe": "Hl. Theresia vom Kinde Jesu, Jungfrau",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
     "id": "do-10-04",
     "titleLa": "S. Francisci Confessoris",
     "titleDe": "Hl. Franz von Assisi, Bekenner",
     "color": "green",
     "rank": "Duplex majus"
+  },
+  {
+    "id": "do-10-06",
+    "titleLa": "S. Brunonis Confessoris",
+    "titleDe": "Hl. Bruno, Bekenner",
+    "color": "green",
+    "rank": "Duplex"
   },
   {
     "id": "do-10-07",
@@ -602,11 +1575,102 @@
     "rank": "Duplex 2 classis"
   },
   {
+    "id": "do-10-08",
+    "titleLa": "S. Birgittæ Viduæ",
+    "titleDe": "Hl. Birgit, Witwe",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-10-09",
+    "titleLa": "S. Joannis Leonardi Confessoris",
+    "titleDe": "Hl. Johannes Leonhard, Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-10-10",
+    "titleLa": "S. Francisci Borgiæ Confessoris",
+    "titleDe": "Hl. Franz Borgia, Bekenner",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-10-11",
+    "titleLa": "Maternitatis Beatæ Mariæ Virginis",
+    "titleDe": "Maternitatis Beatæ Mariæ Virginis",
+    "color": "green",
+    "rank": "Duplex 2 classis"
+  },
+  {
+    "id": "do-10-13",
+    "titleLa": "S. Eduardi Regis Confessoris",
+    "titleDe": "Hl. Edward, König und Bekenner",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-10-14",
+    "titleLa": "S. Callisti Papæ et Martyris",
+    "titleDe": "Hl. Kallistus, Papst und Martyrer",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-10-15",
+    "titleLa": "S. Teresiæ Virginis",
+    "titleDe": "Hl. Theresia von Avila, Jungfrau",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-10-16",
+    "titleLa": "S. Hedwigis Viduæ",
+    "titleDe": "Hl. Hedwig von Andechs, Witwe",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-10-17",
+    "titleLa": "S. Margaritæ Mariæ Alaquoque Virginis",
+    "titleDe": "Hl. Margarita-Maria Alacoque, Jungfrau",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
     "id": "do-10-18",
     "titleLa": "S. Lucæ Evangelistæ",
     "titleDe": "Fest des hl. Evangelisten Lukas",
     "color": "green",
     "rank": "Duplex 2 classis"
+  },
+  {
+    "id": "do-10-19",
+    "titleLa": "S. Petri de Alcantara Confessoris",
+    "titleDe": "Hl. Petrus von Alcantara, Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-10-20",
+    "titleLa": "S. Joannis Cantii Confessoris",
+    "titleDe": "Hl. Johannes von Kenty, Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-10-24",
+    "titleLa": "S. Raphaëlis Archangeli",
+    "titleDe": "Hl. Raphael, Erzengel",
+    "color": "green",
+    "rank": "Duplex majus"
+  },
+  {
+    "id": "do-10-25",
+    "titleLa": "Ss. Chrysanthi et Dariæ Martyrum",
+    "titleDe": "Hll. Chrysantus und Daria, Märtyrer",
+    "color": "green",
+    "rank": "Simplex"
   },
   {
     "id": "do-10-28",
@@ -623,9 +1687,79 @@
     "rank": "Duplex I classis cum octava communi"
   },
   {
+    "id": "do-11-04",
+    "titleLa": "S. Caroli Episcopi et Confessoris",
+    "titleDe": "Hl. Karl Borromeus, Bischof und Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-11-09",
+    "titleLa": "In Dedicatione Basilicæ Ss. Salvatoris",
+    "titleDe": "In Dedicatione Basilicæ Ss. Salvatoris",
+    "color": "green",
+    "rank": "Duplex 2nd class"
+  },
+  {
+    "id": "do-11-10",
+    "titleLa": "S. Andreæ Avellini Confessoris",
+    "titleDe": "Hl. Andreas Avellino, Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
     "id": "do-11-11",
     "titleLa": "S. Martini Episcopi et Confessoris",
     "titleDe": "Hl. Martin, Bischof und Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-11-13",
+    "titleLa": "S. Didaci Confessoris",
+    "titleDe": "Hl. Didacus, Bekenner",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-11-14",
+    "titleLa": "S. Josaphat Episcopi et Martyris",
+    "titleDe": "Hl. Josaphat, Bischof und Bekenner",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-11-15",
+    "titleLa": "S. Alberti Magni Episcopi Confessoris et Ecclesiæ Doctoris",
+    "titleDe": "Hl. Albert der Große, Bischof, Bekenner und Kirchenlehrer",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-11-16",
+    "titleLa": "S. Gertrudis Virginis",
+    "titleDe": "Hl. Gertrud, Jungfrau",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-11-17",
+    "titleLa": "S. Gregorii Thaumaturgi Episcopi et Confessoris",
+    "titleDe": "Hl. Gregor der Wundertäter, Bischof und Bekenner",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-11-19",
+    "titleLa": "S. Elisabeth Viduæ",
+    "titleDe": "Hl. Elisabeth, Witwe",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-11-20",
+    "titleLa": "S. Felicis de Valois Confessoris",
+    "titleDe": "Hl. Felix von Valois, Bekenner",
     "color": "green",
     "rank": "Duplex"
   },
@@ -637,11 +1771,74 @@
     "rank": "Duplex majus"
   },
   {
+    "id": "do-11-22",
+    "titleLa": "S. Cæciliæ Virginis et Martyris",
+    "titleDe": "Hl. Cäcilia, Jungfrau und Martyrerin",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-11-23",
+    "titleLa": "S. Clementis Papæ et Martyris",
+    "titleDe": "Hl. Clemens, Papst und Martyrer",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-11-24",
+    "titleLa": "S. Joannis a Cruce Confessoris et Ecclesiæ Doctoris",
+    "titleDe": "Hl. Johannes vom Kreuz, Bekenner und Kirchenlehrer",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-11-25",
+    "titleLa": "S. Catharinæ Virginis et Martyris",
+    "titleDe": "Hl. Katharina, Jungfrau und Martyrerin",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-11-26",
+    "titleLa": "S. Silvestri Abbatis",
+    "titleDe": "Hl. Silvester, Abt",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-11-29",
+    "titleLa": "In Vigilia S. Andreæ Apostoli",
+    "titleDe": "Vigiltag des hl. Apostels Andeas",
+    "color": "green",
+    "rank": "Vigilia"
+  },
+  {
     "id": "do-11-30",
     "titleLa": "S. Andreæ Apostoli",
     "titleDe": "Hl. Andreas, Apostel",
     "color": "green",
     "rank": "Duplex 2 classis"
+  },
+  {
+    "id": "do-12-02",
+    "titleLa": "S. Bibianæ Virginis et Martyris",
+    "titleDe": "Hl. Bibiana, Jungfrau und Martyrin",
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  {
+    "id": "do-12-03",
+    "titleLa": "S. Francisci Xaverii Confessoris",
+    "titleDe": "Hl. Franz Xaver, Bekenner",
+    "color": "green",
+    "rank": "Duplex majus"
+  },
+  {
+    "id": "do-12-04",
+    "titleLa": "S. Petri Chrysologi Episcopi Confessoris et Ecclesiæ Doctoris",
+    "titleDe": "Hl. Petrus Chrysologus, Bischof, Bekenner und Kirchenlehrer",
+    "color": "green",
+    "rank": "Duplex"
   },
   {
     "id": "do-12-06",
@@ -651,11 +1848,39 @@
     "rank": "Duplex"
   },
   {
+    "id": "do-12-07",
+    "titleLa": "S. Ambrosii Episcopi Confessoris et Ecclesiæ Doctoris",
+    "titleDe": "Hl. Ambrosius, Bischof, Bekenner und Kirchenlehrer",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
     "id": "do-12-08",
     "titleLa": "In Conceptione Immaculata Beatæ Mariæ Virginis",
     "titleDe": "In Conceptione Immaculata Beatæ Mariæ Virginis",
     "color": "green",
     "rank": "Duplex I classis cum octava communi"
+  },
+  {
+    "id": "do-12-13",
+    "titleLa": "S. Luciæ Virginis et Martyris",
+    "titleDe": "Hl. Luzia, Jungfrau und Martyrin",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-12-21",
+    "titleLa": "S. Thomæ Apostoli",
+    "titleDe": "Hl. Thomas, Apostel",
+    "color": "green",
+    "rank": "Duplex II classis"
+  },
+  {
+    "id": "do-12-24",
+    "titleLa": "In Vigilia Nativitatis Domini",
+    "titleDe": "In Vigilia Nativitatis Domini",
+    "color": "green",
+    "rank": "Duplex I classis"
   },
   {
     "id": "do-12-26",
@@ -677,5 +1902,19 @@
     "titleDe": "Fest der Unschuldigen Kinder",
     "color": "green",
     "rank": "Duplex II class cum octava simplici"
+  },
+  {
+    "id": "do-12-29",
+    "titleLa": "S. Thomæ Cantuariensis Episcopi et Martyris",
+    "titleDe": "Hl. Thomas Becket, Bischof und Martyrer",
+    "color": "green",
+    "rank": "Duplex"
+  },
+  {
+    "id": "do-12-31",
+    "titleLa": "S. Silvestri Papæ et Confessoris",
+    "titleDe": "Hl. Silvester I., Papst und Bekenner",
+    "color": "green",
+    "rank": "Duplex"
   }
 ]

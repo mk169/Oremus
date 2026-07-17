@@ -1,0 +1,135 @@
+{
+  "id": "do-01-19",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "Ss. Marii, Marthæ, Audifacis, et Abachum Martyrum",
+      "de": "Hll. Maris, Audifax und Abachum, Märtyrer"
+    },
+    "color": "green",
+    "rank": "Simplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Justi epuléntur et exsúltent in conspéctu Dei et delecténtur in lætítia. Exsúrgat Deus, et dissipéntur inimíci ejus: et fúgiant qui odérunt eum, a fácie ejus. Justi epuléntur et exsúltent in conspéctu Dei et delecténtur in lætítia."
+      },
+      "reference": {
+        "la": "Ps 67:4; Ps 67:2",
+        "de": "Ps 67:4; Ps 67:2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Exáudi, Dómine, pópulum tuum cum Sanctórum tuórum patrocínio supplicántem: ut et temporális vitæ nos tríbuas pace gaudére; et ætérnæ reperíre subsídium."
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Justórum ánimæ in manu Dei sunt: et non tanget illos torméntum malítiæ. Visi sunt óculis insipiéntium mori: illi autem sunt in pace. Allelúja, allelúja. Mirábilis Deus noster in Sanctis suis. Allelúja."
+      },
+      "reference": {
+        "la": "Sap 3:1; 3:2; 3:3; Ps 67:36",
+        "de": "Sap 3:1; 3:2; 3:3; Ps 67:36"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Qui séminant in lácrimis, in gáudio metent. Eúntes ibant et flébant, mitténtes semina sua. Veniéntes autem vénient cum exsultatióne, portántes manípulos suos."
+      },
+      "reference": {
+        "la": "Ps 125:5-6",
+        "de": "Ps 125:5-6"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Sedénte Jesu super montem Olivéti, accessérunt ad eum discípuli secréto, dicéntes: Dic nobis, quando hæc erunt? et quod signum advéntus tui et consummatiónis sǽculi? Et respóndens Jesus, dixit eis: Vidéte, ne quis vos sedúcat. Multi enim vénient in nómine meo, dicéntes: Ego sum Christus: et multos sedúcent. Auditúri enim estis prælia et opiniónes prœliórum. Vidéte, ne turbémini. Opórtet enim hæc fíeri, sed nondum est finis. Consúrget enim gens in gentem, et regnum in regnum, et erunt pestiléntiæ et fames et terræmótus per loca. Hæc autem ómnia inítia sunt dolórum. Tunc tradent vos in tribulatiónem et occídent vos: et éritis odio ómnibus géntibus propter nomen meum. Et tunc scandalizabúntur multi, et ínvicem tradent, et odio habébunt ínvicem. Et multi pseudoprophétæ surgent, et sedúcent multos. Et quóniam abundávit iníquitas, refrigéscet cáritas multórum. Qui autem perseveráverit usque in finem, hic salvus erit."
+      },
+      "reference": {
+        "la": "Matt 24:3-13",
+        "de": "Matt 24:3-13"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Anima nostra, sicut passer, erépta est de láqueo venántium: láqueus contrítus est, et nos liberáti sumus."
+      },
+      "reference": {
+        "la": "Ps 128:7",
+        "de": "Ps 128:7"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Preces, Dómine, tuórum réspice oblationésque fidélium: ut et tibi gratæ sint pro tuórum festivitáte Sanctórum, et nobis cónferant tuæ propitiatiónis auxílium."
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Sanctórum tuórum, Dómine, intercessióne placátus: præsta, quǽsumus; ut, quæ temporáli celebrámus actióne, perpétua salvatióne capiámus."
+      }
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "id": "do-06-21",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Aloisii Gonzagæ Confessoris",
+      "de": "Hl. Aloysius Gonzaga, Bekenner"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Minuísti eum paulo minus ab Angelis: glória et honóre coronásti eum. Laudáte Dóminum, omnes Angeli ejus: laudáte eum, omnes virtútes ejus. Minuísti eum paulo minus ab Angelis: glória et honóre coronásti eum."
+      },
+      "reference": {
+        "la": "Ps 8:6; Ps 148:2",
+        "de": "Ps 8:6; Ps 148:2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Cœléstium donórum distribútor, Deus, qui in angélico júvene Aloísio miram vitæ innocéntiam pari cum pœniténtia sociásti: ejus méritis et précibus concéde; ut, innocéntem non secúti, pœniténtem imitémur."
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Dómine, spes mea a juventúte mea: in te confirmátus sum ex útero: de ventre matris meæ tu es protéctor meus. Me autem propter innocéntiam suscepísti: et confirmásti me in conspéctu tuo in ætérnum. Allelúja, allelúja. Beátus, quem elegísti et assumpsísti: inhabitábit in átriis tuis. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 70:5-6; Ps 40:13; Ps 64:5",
+        "de": "Ps 70:5-6; Ps 40:13; Ps 64:5"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Respóndens Jesus, ait sadducæis: Errátis, nesciéntes Scriptúras neque virtútem Dei. In resurrectióne enim neque nubent neque nubéntur: sed erunt sicut Angeli Dei in cœlo. De resurrectióne autem mortuórum non legístis, quod dictum est a Deo dicénte vobis: Ego sum Deus Abraham et Deus Isaac et Deus Jacob? Non est Deus mortuórum, sed vivéntium. Et audiéntes turbæ, mirabántur in doctrína ejus. Pharisæi autem audiéntes, quod siléntium imposuísset sadducæis, convenérunt in unum: et interrogávit eum unus ex eis legis doctor, tentans eum: Magíster, quod est mandátum magnum in lege? Ait illi Jesus: Díliges Dóminum, Deum tuum, ex toto corde tuo, et in tota ánima tua, et in tota mente tua. Hoc est máximum et primum mandátum. Secúndum autem símile est huic: Díliges próximum tuum, sicut teípsum. In his duóbus mandátis univérsa lex pendet et Prophétæ."
+      },
+      "reference": {
+        "la": "Matt 22:29-40",
+        "de": "Matt 22:29-40"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Quis ascéndet in montem Dómini, aut quis stabit in loco sancto ejus? Innocens mánibus, et mundo corde."
+      },
+      "reference": {
+        "la": "Ps 23:3-4",
+        "de": "Ps 23:3-4"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Cœlésti convívio fac nos, Dómine, nuptiáli veste indútos accúmbere: quam beáti Aloísii pia præparátio et juges lácrimæ inæstimabílibus ornábant margarítis."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Panem cœli dedit eis: panem Angelórum manducávit homo."
+      },
+      "reference": {
+        "la": "Ps 77:24-25",
+        "de": "Ps 77:24-25"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Angelórum esca nutrítos, angélicis étiam, Dómine, da móribus vívere: et ejus, quem hódie cólimus, exémplo in gratiárum semper actióne manére."
+      }
+    }
+  ]
+}

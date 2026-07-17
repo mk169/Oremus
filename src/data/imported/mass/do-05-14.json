@@ -1,0 +1,26 @@
+{
+  "id": "do-05-14",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Bonifatii Martyris",
+      "de": "Hl. Bonifaz, Martyrer"
+    },
+    "color": "green",
+    "rank": "Simplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Da, quǽsumus, omnípotens Deus: ut, qui beáti Bonifátii Mártyris tui sollémnia cólimus, ejus apud te intercessiónibus adjuvémur."
+      }
+    }
+  ]
+}

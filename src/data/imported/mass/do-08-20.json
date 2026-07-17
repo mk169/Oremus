@@ -1,0 +1,26 @@
+{
+  "id": "do-08-20",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Bernardi Abbatis et Ecclesiæ Doctoris",
+      "de": "Hl. Bernhard von Clairvaux, Abt und Kirchenlehrer"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "(sed rubrica 1570 aut rubrica 1617)"
+      }
+    }
+  ]
+}

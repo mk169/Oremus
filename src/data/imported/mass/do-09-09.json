@@ -1,0 +1,49 @@
+{
+  "id": "do-09-09",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Gorgonii Martyris",
+      "de": "Hl. Gorgonius, Martyrer"
+    },
+    "color": "green",
+    "rank": "Simplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Sanctus tuus, Dómine, Gorgónius sua nos intercessióne lætíficet: et pia fáciat sollemnitáte gaudére.",
+        "de": "Dein heiliger, o Herr, Gorgonius möge uns durch seine Fürsprache beglücken: und es bewirken, daß wir uns in andächtiger Festesstimmung freuen."
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Grata tibi sit, Dómine, nostræ servitútis oblátio: pro qua sanctus Gorgónius Martyr intervéntor exsístat."
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Famíliam tuam, Deus, suávitas ætérna contíngat et végetet: quæ in Mártyre tuo Gorgónio Christi, Fílii tui, bono júgiter odóre pascátur:"
+      }
+    }
+  ]
+}

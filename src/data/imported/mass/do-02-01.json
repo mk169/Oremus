@@ -1,0 +1,113 @@
+{
+  "id": "do-02-01",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Ignatii Episcopi et Martyris",
+      "de": "Hl. Ignatius (von Antiochia), Bischof und Martyrer"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Mihi autem absit gloriári, nisi in Cruce Dómini nostri Jesu Christi: per quem mihi mundus crucifíxus est, et ego mundo. Meménto, Dómine, David: et omnis mansuetúdinis ejus. Mihi autem absit gloriári, nisi in Cruce Dómini nostri Jesu Christi: per quem mihi mundus crucifíxus est, et ego mundo."
+      },
+      "reference": {
+        "la": "Gal 6:14.; Ps 131:1.",
+        "de": "Gal 6:14.; Ps 131:1."
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epistolæ beáti Pauli Apóstoli ad Romános Fratres: Quis nos separábit a caritáte Christi: tribulátio, an angustia, an fames, an núditas, an perículum, an persecútio, an gládius? sicut scriptum est: Quia propter te mortificámur tota die: æstimáti sumus sicut oves occisiónis. Sed in his ómnibus superámus propter eum, qui diléxit nos. Certus sum enim, quia neque mors, neque vita, neque ángeli, neque principátus, neque virtútes, neque instántia, neque futúra, neque fortitúdo, neque altitúdo, neque profúndum, neque creatúra alia poterit nos separáre a caritáte Dei, quæ est in Christo Jesu, Dómino nostro."
+      },
+      "reference": {
+        "la": "Rom 8:35-39",
+        "de": "Rom 8:35-39"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Ecce sacérdos magnus, qui in diébus suis plácuit Deo. Non est invéntus símilis illi, qui conserváret legem Excélsi. Allelúja, allelúja Christo confíxus sum Cruci: vivo ego, jam non ego, vivit vero in me Christus. Allelúja."
+      },
+      "reference": {
+        "la": "Eccli 44:16.; Eccli 44:20.; Gal 2:19-20.",
+        "de": "Eccli 44:16.; Eccli 44:20.; Gal 2:19-20."
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Ecce sacérdos magnus, qui in diébus suis plácuit Deo. Non est invéntus símilis illi, qui conserváret legem Excélsi. Desidérium ánimæ ejus tribuísti ei: et voluntáte labiórum ejus non fraudásti eum. Quoniam prævenísti eum in benedictiónibus dulcedinis. Posuísti in cápite ejus coronam de lápide pretióso."
+      },
+      "reference": {
+        "la": "Eccli 44:16.; Eccli 44:20.; Ps 20:3-4.",
+        "de": "Eccli 44:16.; Eccli 44:20.; Ps 20:3-4."
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Joánnem In illo témpore: Dixit Jesus discípulis suis: Amen, amen, dico vobis, nisi granum fruménti cadens in terram, mórtuum fúerit, ipsum solum manet: si autem mórtuum fúerit, multum fructum affert. Qui amat ánimam suam, perdet eam: et qui odit ánimam suam in hoc mundo, in vitam ætérnam custódit eam. Si quis mihi mínistrat, me sequátur: et ubi sum ego, illic et miníster meus erit. Si quis mihi ministráverit, honorificábit eum Pater meus."
+      },
+      "reference": {
+        "la": "Joann 12:24-26",
+        "de": "Joann 12:24-26"
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Fruméntum Christi sum: déntibus bestiárum molar, ut panis mundus invéniar."
+      },
+      "chant": {
+        "chantable": true
+      }
+    }
+  ]
+}

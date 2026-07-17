@@ -1,0 +1,26 @@
+{
+  "id": "do-10-13",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Eduardi Regis Confessoris",
+      "de": "Hl. Edward, König und Bekenner"
+    },
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui beátum regem Eduárdum Confessórem tuum æternitátis glória coronásti: fac nos, quǽsumus; ita eum venerári in terris, ut cum eo regnáre possímus in cœlis."
+      }
+    }
+  ]
+}

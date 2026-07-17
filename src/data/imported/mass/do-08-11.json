@@ -1,0 +1,63 @@
+{
+  "id": "do-08-11",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "Ss. Tiburtii et Susannæ Virginis, Martyrum",
+      "de": "Hll. Tiburtius und Susanna, Märtyrer"
+    },
+    "color": "green",
+    "rank": "Simplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Sanctórum Martyrum tuórum Tiburtii et Susánnæ nos, Dómine, fóveant continuáta præsídia: quia non désinis propítius intuéri; quos tálibus auxíliis concésseris adjuvári."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Hebrǽos Fratres: Sancti per fidem vicérunt regna, operáti sunt justítiam, adépti sunt repromissiónes, obturavérunt ora leónum, exstinxérunt ímpetum ignis, effugérunt áciem gládii, convaluérunt de infirmitáte, fortes facti sunt in bello, castra vertérunt exterórum: accepérunt mulíeres de resurrectióne mórtuos suos: álii autem distenti sunt, non suscipiéntes redemptiónem, ut meliórem invenírent resurrectiónem: álii vero ludíbria et vérbera expérti, ínsuper et víncula et cárceres: lapidáti sunt, secti sunt, tentáti sunt, in occisióne gládii mórtui sunt: circuiérunt in melótis, in péllibus caprínis, egéntes, angustiáti, afflícti: quibus dignus non erat mundus: in solitudínibus errántes, in móntibus et spelúncis et in cavérnis terræ. Et hi omnes testimónio fídei probáti, invénti sunt in Christo Jesu, Dómino nostro."
+      },
+      "reference": {
+        "la": "Hebr 11:33-39",
+        "de": "Hebr 11:33-39"
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Adésto, Dómine, précibus pópuli tui, adésto munéribus: ut, quæ sacris sunt obláta mystériis, tuórum tibi pláceant intercessióne Sanctórum."
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Súmpsimus, Dómine, pignus redemptiónis ætérnæ: quod sit nobis, quǽsumus, interveniéntibus sanctis Martýribus tuis, vitæ præséntis auxílium páriter et futúræ."
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "do-10-11",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "Maternitatis Beatæ Mariæ Virginis",
+      "de": "Maternitatis Beatæ Mariæ Virginis"
+    },
+    "color": "green",
+    "rank": "Duplex 2 classis"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Ecce Virgo concípiet, et páriet fílium, et vocábitur nomen ejus Emmánuel. Cantáte Dómino cánticum novum: quia mirabília fecit. Ecce Virgo concípiet, et páriet fílium, et vocábitur nomen ejus Emmánuel."
+      },
+      "reference": {
+        "la": "Isa 7:14; Ps 97:1.",
+        "de": "Isa 7:14; Ps 97:1."
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui de beátæ Maríæ Vírginis útero Verbum tuum, Angelo nuntiánte, carnem suscípere voluísti: præsta supplícibus tuis; ut, qui vere eam Genitrícem Dei crédimus, ejus apud te intercessiónibus adjuvémur."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio libri Sapiéntiæ Ego quasi vitis fructificávi suavitátem odóris: et flores mei fructus honóris et honestátis. Ego mater pulchræ dilectiónis, et timóris, et agnitiónis, et sanctæ spei. In me grátia omnis viæ et veritátis: in me omnis spes vitæ et virtútis. Transíte ad me, omnes, qui concupíscitis me, et a generatiónibus meis implémini. Spíritus enim meus super mel dulcis, et heréditas mea super mel et favum. Memória mea in generatiónes sæculórum. Qui edunt me, adhuc esúrient: et qui bibunt me, adhuc sítient. Qui audit me, non confundétur: et qui operántur in me, non peccábunt. Qui elúcidant me, vitam ætérnam habébunt."
+      },
+      "reference": {
+        "la": "Eccli 24:23-31",
+        "de": "Eccli 24:23-31"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Egrediétur virga de rádice Jesse, et flos de rádice ejus ascéndet. Et requiéscet super eum Spíritus Dómini. Allelúja, allelúja. Virgo Dei Génitrix, quem totus non capit orbis, in tua se clausit víscera factus homo. Allelúja."
+      },
+      "reference": {
+        "la": "Isa 11:1-2.",
+        "de": "Isa 11:1-2."
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Lucam In illo témpore: Cum redírent, remánsit puer Jesus in Jerúsalem, et non cognovérunt paréntes ejus. Existimántes autem illum esse in comitátu, venérunt iter diei, et requirébant eum inter cognátos, et notos. Et non inveniéntes, regréssi sunt in Jerúsalem, requiréntes eum. Et factum est, post tríduum invenérunt illum in templo sedéntem in médio doctórum, audiéntem illos, et interrogántem eos. Stupébant autem omnes, qui eum audiébant, super prudéntia et respónsis ejus. Et vidéntes admiráti sunt. Et dixit mater ejus ad illum: Fili, quid fecísti nobis sic? ecce pater tuus, et ego doléntes quærebámus te. Et ait ad illos: Quid est quod me quærebátis? nesciebátis quia in his, quæ Patris mei sunt, opórtet me esse? Et ipsi non intellexérunt verbum, quod locútus est ad eos. Et descéndit cum eis, et venit Názareth: et erat súbditus illis."
+      },
+      "reference": {
+        "la": "Luc 2:43-51",
+        "de": "Luc 2:43-51"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Cum esset desponsáta mater ejus María Joseph, invénta est in útero habens de Spíritu Sancto."
+      },
+      "reference": {
+        "la": "Matt 1:18",
+        "de": "Matt 1:18"
+      },
+      "chant": {
+        "chantable": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "do-04-13",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Hermenegildi Martyris",
+      "de": "S. Hermenegildi Martyris"
+    },
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui beátum Hermenegíldum Mártyrem tuum cœlésti regno terrénum postpónere docuísti: da, quǽsumus, nobis; ejus exémplo cadúca despícere atque ætérna sectári."
+      }
+    }
+  ]
+}

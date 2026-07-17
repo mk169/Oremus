@@ -1,0 +1,168 @@
+{
+  "id": "do-02-27",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Gabrielis a Virgine Perdolente Confessoris",
+      "de": "Hl. Gabriel von der schmerzensreichen Jungfrau"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Oculus Dei respéxit illum in bono, et eréxit eum ab humilitáte ipsíus, et exaltávit caput ejus: et miráti sunt in illo multi et honoravérunt Deum. (Allelúja, allelúja) Quam bonus Israël Deus his, qui recto sunt corde! Oculus Dei respéxit illum in bono, et eréxit eum ab humilitáte ipsíus, et exaltávit caput ejus: et miráti sunt in illo multi et honoravérunt Deum. (Allelúja, allelúja)"
+      },
+      "reference": {
+        "la": "Eccli 11:13.; Ps 72:1.",
+        "de": "Eccli 11:13.; Ps 72:1."
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui beátum Gabriélem dulcíssimæ Matris tuæ dolóres assídue recólere docuísti, ac per illam sanctitátis et miraculórum glória sublimásti: da nobis, ejus intercessióne et exémplo; ita Genetrícis tuæ consociári flétibus, ut matérna ejúsdem protectióne salvémur:"
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Joannis Apóstoli Caríssimi: Scribo vobis, júvenes, quóniam fortes estis, et verbum Dei manet in vobis, et vicístis malígnum. Nolíte dilígere mundum neque ea, quæ in mundo sunt. Si quis díligit mundum, non est cáritas Patris in eo: quóniam omne, quod est in mundo, concupiscéntia carnis est, et concupiscéntia oculórum, et supérbia vitæ: quæ non est ex Patre, sed ex mundo est. Et mundus transit et concupiscéntia ejus. Qui autem facit voluntátem Dei, manet in ætérnum."
+      },
+      "reference": {
+        "la": "1 Joann 2, 14-17",
+        "de": "1 Joann 2, 14-17"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Quam magna multitúdo dulcédinis tuæ, Dómine, quam abscondísti timéntibus te! Perfecísti eis, qui sperant in te, in conspéctu filiórum hóminum. Allelúja, allelúja. Minuísti eum, Dómine, paulo minus ab Angelis: glória et honóre coronásti eum: et constituísti eum super ópera mánuum tuárum. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 30:20; Ps 8:6-7",
+        "de": "Ps 30:20; Ps 8:6-7"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Quam magna multitúdo dulcédinis tuæ, Dómine, quam abscondísti timéntibus te! Perfecísti eis, qui sperant in te, in conspéctu filiórum hóminum. _ Beátus vir, cujus est auxílium abs te: ascensiónes in corde suo dispósuit, in valle lacrimárum, in loco, quem pósuit. Elégi abjéctus esse in domo Dei mei: magis quam habitáre in tabernáculis peccatórum. Non privábit bonis eos, qui ámbulant in innocéntia: Dómine virtútum, beátus homo, qui sperat in te."
+      },
+      "reference": {
+        "la": "Ps 30:20; Tractus; Ps 83:6-7, 11 et 13",
+        "de": "Ps 30:20; Tractus; Ps 83:6-7, 11 et 13"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Marcum In illo témpore: Offerébant Jesu parvulos, ut tángeret illos. Discípuli autem comminabántur offeréntibus. Quos cum vidéret Jesus, indígne tulit et ait illis: Sinite párvulos veníre ad me, et ne prohibuéritis eos: tálium enim est regnum Dei. Amen, dico vobis: Quisquis non recéperit regnum Dei velut párvulus, non intrábit in illud. Et compléxans eos et impónens manus super illos, benedicébat eos. Et cum egréssus esset in viam, procúrrens quidam genu flexo ante eum, rogábat eum: Magíster bone, quid fáciam, ut vitam ætérnam percípiam? Jesus autem dixit ei: Quid me dicis bonum? Nemo bonus, nisi unus Deus. Præcépta nosti: Ne adúlteris, Ne occídas, Ne furóris, Ne falsum testimónium díxeris, Ne fraudem féceris, Hónora patrem tuum et matrem. At ille respóndens, ait illi: Magíster, hæc ómnia observávi a juventúte mea. Jesus autem intúitus eum, diléxit eum et dixit ei: Unum tibi deest: vade, quæcúmque habes, vende et da paupéribus, et habébis thesáurum in cœlo: et veni, séquere me."
+      },
+      "reference": {
+        "la": "Marc 10:13-21",
+        "de": "Marc 10:13-21"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "O Dómine, quia ego servus tuus, et fílius ancíllæ tuæ: dirupísti víncula mea, tibi sacrificábo hóstiam laudis."
+      },
+      "reference": {
+        "la": "Ps 115:16-17",
+        "de": "Ps 115:16-17"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Salutárem hóstiam in memóriam sancti Gabriélis tibi, Dómine, offeréntes, fac nos sacrifícium mortis tuæ rite recólere: ac, méritis perdoléntis Vírginis, ejúsdem sacrifícii fructum copióse percípere:"
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Ecce, sto ad óstium et pulso: si quis audiérit vocem meam, et aperúerit mihi jánuam, intrábo ad illum, et cenábo cum illo, et ipse mecum."
+      },
+      "reference": {
+        "la": "Apoc. 3:20",
+        "de": "Apoc. 3:20"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Quas tibi, Dómine, in festivitáte sancti Gabriélis Confessóris tui, pro collátis donis grátias ágimus: súscipe propítius per manus gloriósæ semper Vírginis Maríæ; ex qua carnem illam assumpsísti, cujus in hoc salutári convívio merúimus gustáre dulcédinem:"
+      }
+    }
+  ]
+}

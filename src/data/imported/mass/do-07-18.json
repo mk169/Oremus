@@ -1,0 +1,99 @@
+{
+  "id": "do-07-18",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Camilli de Lellis Confessoris",
+      "de": "Hl. Kamillus von Lellis, Bekenner"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Majórem hac dilectiónem nemo habet, ut ánimam suam ponat quis pro amícis suis. Beátus, qui intéllegit super egénum et páuperem: in dic mala liberábit eum Dóminus. Majórem hac dilectiónem nemo habet, ut ánimam suam ponat quis pro amícis suis."
+      },
+      "reference": {
+        "la": "Joann 15:13; Ps 40:2",
+        "de": "Joann 15:13; Ps 40:2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui sanctum Camíllum, ad animárum in extrémo agóne luctántium subsídium, singulári caritátis prærogatíva decorásti: ejus, quǽsumus, méritis, spíritum nobis tuæ dilectiónis infúnde; ut in hora éxitus nostri hostem víncere, et ad cœléstem mereámur corónam perveníre."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Joánnis Apóstoli Caríssimi: Nolíte mirári, si odit vos mundus. Nos scimus, quóniam transláti sumus de morte ad vitam, quóniam dilígimus fratres. Qui non díligit, manet in morte: omnis, qui odit fratrem suum, homicída est. Et scitis, quóniam omnis homicída non habet vitam ætérnam in semetípso manéntem. In hoc cognóvimus caritátem Dei, quóniam ille ánimam suam pro nobis pósuit: et nos debémus pro frátribus ánimas pónere. Qui habúerit substántiam hujus mundi, et víderit fratrem suum necessitátem habére, et cláuserit víscera sua ab eo: quómodo cáritas Dei manet in eo? Filíoli mei, non diligámus verbo neque lingua, sed ópere et veritáte."
+      },
+      "reference": {
+        "la": "1 John 3:13-18",
+        "de": "1 John 3:13-18"
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Hóstia immaculáta, qua illud Dómini nostri Jesu Christi imménsæ caritátis opus renovámus, sit, Deus Pater omnípotens, sancto Gamíllo intercedénte, contra omnes córporis et animæ infirmitates salutáre remedium, et in extrémo agóne solátium et tutéla."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Infírmus fui, et visitástis me. Amen, amen, dico vobis: Quámdiu fecístis uni ex his frátribus meis minimis, mihi fecístis."
+      },
+      "reference": {
+        "la": "Matt 25:36; 25:40",
+        "de": "Matt 25:36; 25:40"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Per hæc cœléstia aliménta, quæ, sancti Camílli Confessóris tui sollémnia celebrántes, pia devotióne suscépimus: da, quǽsumus. Dómine; ut, in hora mortis nostræ sacraméntis refécti et culpis ómnibus expiáti, in sinum misericórdiæ tuæ læti súscipi mereámur:"
+      }
+    }
+  ]
+}

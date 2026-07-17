@@ -1,0 +1,26 @@
+{
+  "id": "do-09-26",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "Ss. Cypriani et Justinæ Virginis, Martyrum",
+      "de": "Hll. Cyprian und Justina, Jungfrau, Märtyrer"
+    },
+    "color": "green",
+    "rank": "Simplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Beatórum Mártyrum Cypriáni et Justínæ nos, Dómine, fóveant continuáta pæsídia: quia non désinis propítius intuéri, quos tálibus auxíliis concésseris adjuvári."
+      }
+    }
+  ]
+}

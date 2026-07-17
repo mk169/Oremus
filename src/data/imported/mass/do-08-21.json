@@ -1,0 +1,48 @@
+{
+  "id": "do-08-21",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Joannæ Franciscæ Frémiot de Chantal Viduæ",
+      "de": "Hl. Johanne-Franziska Frémiot von Chantal, Witwe"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Omnípotens et miséricors Deus, qui beátam Joánnam Francíscam, tuo amóre succénsam, admirábili spíritus fortitúdine per omnes vitæ sémitas in via perfectiónis donásti, quique per illam illustráre Ecclésiam tuam nova prole voluísti: ejus méritis et précibus concéde; ut, qui infirmitátis nostræ cónscii de tua virtúte confídimus, cœléstis grátiæ auxílio cuncta nobis adversántia vincámus."
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Illo nos amóris igne, quǽsumus, Dómine, hæc hóstia salutáris inflámmet: quo beátæ Joannæ Francíscæ cor veheménter incéndit, et flammis adússit ætérnæ caritátis."
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Spíritum nobis, Dómine, tuæ caritátis infúnde: ut, quos cœléstis panis virtúte satiásti, beáta Joánna Francisca intercedénte, fácias terréna despícere, et te solum Deum pura mente sectári."
+      }
+    }
+  ]
+}

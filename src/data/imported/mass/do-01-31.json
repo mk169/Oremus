@@ -1,0 +1,168 @@
+{
+  "id": "do-01-31",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Joannis Bosco Confessoris",
+      "de": "Hl. Johannes Bosco, Bekenner"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Dedit illi Deus sapiéntiam, et prudéntiam multam nimis, et latitúdinem cordis, quasi arénam quæ est in líttore maris. Laudáte, púeri, Dóminum, laudáte nomen Dómini. Dedit illi Deus sapiéntiam, et prudéntiam multam nimis, et latitúdinem cordis, quasi arénam quæ est in líttore maris."
+      },
+      "reference": {
+        "la": "3 Reg 4:29; Ps 112:1.",
+        "de": "3 Reg 4:29; Ps 112:1."
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui sanctum Joánnem Confessórem tuum adolescentium patrem et magístrum excitásti, ac per eum, auxiliatríce Vírgine María, novas in Ecclésia tua famílias floréscere voluísti: concéde, quǽsumus; ut eódem caritátis igne succénsi, ánimas quærere, tibíque soli servíre valeámus."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Philippénses. Fratres: Gaudéte in Dómino semper: íterum dico, gaudéte. Modéstia vestra nota sit ómnibus homínibus: Dóminus prope est. Nihil sollíciti sitis; sed in omni oratióne et obsecratióne, cum gratiárum actióne, petitiónes vestræ innotéscant apud Deum. Et pax Dei quæ exsúperat omnem sensum, custódiat corda vestra et intelligéntias vestras, in Christo Jesu. De cétero, fratres, quæcúmque sunt vera, quæcúmque púdica, quæcúmque justa, quæcúmque sancta, quæcúmque amabília, quæcúmque bonæ famæ, si qua virtus, si qua laus disciplínæ, hæc cogitáte. Quæ et didicístis, et accepístis, et audístis, et vidístis in me, hæc agite: et Deus pacis erit vobíscum."
+      },
+      "reference": {
+        "la": "Philipp 4:4-9",
+        "de": "Philipp 4:4-9"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Spera in Dómino, et fac bonitátem, et inhábita terram, et pascéris in divítiis ejus. Delectáre in Dómino, et dabit tibi petitiónes cordis tui; revéla Dómino viam tuam et spera in eo, et ipse fáciet. Allelúja, allelúja Pauper et inops laudábunt nomen tuum. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 36:3-5; Ps 73:21",
+        "de": "Ps 36:3-5; Ps 73:21"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Factus es spes mea, Dómine: turris fortitúdinis a fácie inimíci. Inhabitábo in tabernáculo tuo in sǽcula: prótegar in velaménto alárum tuárum. Quóniam tu, Deus, exaudísti oratiónem meam: dedísti hereditátem timéntibus nomen tuum."
+      },
+      "reference": {
+        "la": "Ps 60:4-6",
+        "de": "Ps 60:4-6"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum. In illo témpore: Accessérunt discípuli ad Jesum dicéntes: Quis, putas, major est in regno cælórum? Et ádvocans Jesus párvulum, státuit eum in médio eórum, et dixit: Amen dico vobis, nisi convérsi fueritis, et efficiámini sicut párvuli, non intrábitis in regnum cœlórum. Quicúmque ergo humiliáverit se sicut párvulus iste, hic est major in regno cœlórum. Et qui suscéperit unum párvulum talem in nómine meo, me súscipit."
+      },
+      "reference": {
+        "la": "Matt 18:1-5",
+        "de": "Matt 18:1-5"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Veníte, fílii, audíte me: timórem Dómini docébo vos."
+      },
+      "reference": {
+        "la": "Ps 33:12",
+        "de": "Ps 33:12"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Súscipe, Dómine, oblatiónem mundam salutáris Hóstiæ, et præsta: ut, te in ómnibus et super ómnia diligéntes, in glóriæ tuæ laudem vívere mereámur."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Contra spem in spem crédidit, ut fíeret pater multárum géntium, secúndum quod dictum est ei."
+      },
+      "reference": {
+        "la": "Rom 4:18",
+        "de": "Rom 4:18"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Córporis et Sánguinis tui, Dómine, mystério satiátis, concéde, quǽsumus; ut, intercedénte sancto Joánne Confessóre tuo, in gratiárum semper actióne maneámus:"
+      }
+    }
+  ]
+}

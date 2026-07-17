@@ -1,0 +1,117 @@
+{
+  "id": "do-05-02",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Athanasii Episcopi Confessoris et Ecclesiæ Doctoris",
+      "de": "Hl. Athanasius, Bischof, Bekenner und Kirchenlehrer"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "In médio Ecclésiæ apéruit os ejus: et implévit eum Dóminus spíritu sapiéntiæ et intelléctus: stolam glóriæ índuit eum, allelúja, allelúja. Bonum est confitéri Dómino: et psállere nómini tuo, Altíssime. In médio Ecclésiæ apéruit os ejus: et implévit eum Dóminus spíritu sapiéntiæ et intelléctus: stolam glóriæ índuit eum, allelúja, allelúja."
+      },
+      "reference": {
+        "la": "Eccli 15:5.; Ps 91:2.",
+        "de": "Eccli 15:5.; Ps 91:2."
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios. Fratres: Non nosmetípsos prædicámus, sed Jesum Christum, Dóminum nostrum: nos autem servos vestros per Jesum: quóniam Deus, qui dixit de ténebris lucem splendéscere, ipse illúxit in córdibus nostris ad illuminatiónem sciéntiæ claritátis Dei, in fácie Christi Jesu. Habémus autem thesáurum istum in vasis fictílibus: ut sublímitas sit virtútis Dei, et non ex nobis. In ómnibus tribulatiónem pátimur, sed non angustiámur: aporiámur, sed non destitúimur: persecutiónem pátimur, sed non derelínquimur: dejícimur, sed non perímus: semper mortificatiónem Jesu in córpore nostro circumferéntes, ut et vita Jesu manifestétur in corpóribus nostris. Semper enim nos, qui vívimus, in mortem trádimur propter Jesum: ut et vita Jesu manifestétur in carne nostra mortáli. Ergo mors in nobis operátur, vita autem in vobis. Habéntes autem eúndem spíritum fídei, sicut scriptum est: Crédidi, propter quod locútus sum: et nos crédimus, propter quod et lóquimur: sciéntes, quóniam qui suscitávit Jesum, et nos cum Jesu suscitábit et constítuet vobíscum."
+      },
+      "reference": {
+        "la": "2 Cor 4:5-14.",
+        "de": "2 Cor 4:5-14."
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Allelúja, allelúja. Tu es sacérdos in ætérnum, secúndum órdinem Melchísedech. Allelúja Beátus vir, qui suffert tentatiónem: quóniam, cum probátus fúerit, accípiet corónam vitæ. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 109:4; Jas 1:12",
+        "de": "Ps 109:4; Jas 1:12"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum. In illo témpore: Dixit Jesus discípulis suis: Cum persequéntur vos in civitáte ista, fúgite in áliam. Amen dico vobis, non consummábitis civitátes Israël, donec véniat Fílius hóminis. Non est discípulus super magistrum, nec servus super dóminum suum. Súfficit discípulo, ut sit sicut magister ejus: et servo, sicut dóminus ejus. Si patremfamílias Beélzebub vocavérunt: quanto magis domésticos ejus? Ne ergo timuéritis eos. Nihil enim est opértum, quod non revelábitur: et occúltum, quod non sciétur. Quod dico vobis in ténebris, dícite in lúmine: et, quod in aure audítis, prædicáte super tecta. Et nolíte timére eos, qui occídunt corpus, ánimam autem non possunt occídere: sed pótius timéte eum, qui potest et ánimam et corpus pérdere in gehénnam."
+      },
+      "reference": {
+        "la": "Matt 10:23-28",
+        "de": "Matt 10:23-28"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Invéni David servum meum, óleo sancto meo unxi eum: manus enim mea auxiliábitur ei, et bráchium meum confortábit eum, allelúja."
+      },
+      "reference": {
+        "la": "Ps 88:21-22",
+        "de": "Ps 88:21-22"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Quod dico vobis in ténebris, dícite in lúmine, dicit Dóminus: et quod in aure audítis, prædicáte super tecta, allelúja."
+      },
+      "reference": {
+        "la": "Matt 10:27",
+        "de": "Matt 10:27"
+      },
+      "chant": {
+        "chantable": true
+      }
+    }
+  ]
+}

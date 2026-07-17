@@ -1,0 +1,26 @@
+{
+  "id": "do-07-08",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Elisabeth Reg. Portugaliæ Viduæ",
+      "de": "Hl. Elisabeth, Königin v. Portugal, Witwe"
+    },
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Clementíssime Deus, qui beátam Elisabeth regínam, inter céteras egrégias dotes, béllici furóris sedándi prærogatíva decorásti: da nobis, ejus intercessióne; post mortális vitæ, quam supplíciter pétimus, pacem, ad ætérna gáudia perveníre."
+      }
+    }
+  ]
+}

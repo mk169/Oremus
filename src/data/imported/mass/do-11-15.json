@@ -1,0 +1,48 @@
+{
+  "id": "do-11-15",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Alberti Magni Episcopi Confessoris et Ecclesiæ Doctoris",
+      "de": "Hl. Albert der Große, Bischof, Bekenner und Kirchenlehrer"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui beátum Albértum Pontíficem tuum atque Doctórem in humána sapiéntia divínæ fídei subjiciénda magnum effecísti: da nobis, quǽsumus; ita ejus magistérii inhærére vestígiis, ut luce perfécta fruámur in cœlis."
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Sacrifíciis præséntibus, Dómine, quǽsumus, inténde placátus: ut quod Passiónis Fílii tui Dómini nostri mystério gérimus, beáti Alberti intercessióne et exémplo, pio consequámur afféctu."
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Per hæc sancta quæ súmpsimus, ab hóstium nos, Dómine, impugnatióne defénde: et intercedénte beáto Albérto Confessóre tuo atque Pontífice, perpétua pace respiráre concéde."
+      }
+    }
+  ]
+}

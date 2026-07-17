@@ -1,0 +1,26 @@
+{
+  "id": "do-11-09",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "In Dedicatione Basilicæ Ss. Salvatoris",
+      "de": "In Dedicatione Basilicæ Ss. Salvatoris"
+    },
+    "color": "green",
+    "rank": "Duplex 2nd class"
+  },
+  "sections": [
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Annue, quǽsumus, Dómine, précibus nostris: ut, dum hæc vota præséntia réddimus, ad ætérna præmia, te adjuvánte, perveníre mereámur."
+      }
+    }
+  ]
+}

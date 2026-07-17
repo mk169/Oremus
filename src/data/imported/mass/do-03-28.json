@@ -1,0 +1,153 @@
+{
+  "id": "do-03-28",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Joannis a Capistrano Confessoris",
+      "de": "Hl. Johannes von Capestrano, Bekenner"
+    },
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Ego autem in Dómino gaudébo: et exsultábo in Deo, Jesu meo: Deus Dóminus fortitúdo mea. Exsultáte Deo, adjutóri nostro, jubiláte Deo Jacob. Ego autem in Dómino gaudébo: et exsultábo in Deo, Jesu meo: Deus Dóminus fortitúdo mea."
+      },
+      "reference": {
+        "la": "Habac 3:18-19; Ps 80:2",
+        "de": "Habac 3:18-19; Ps 80:2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui per beátum Joánnem fidéles tuos in virtúte sanctíssimi nóminis Jesu de Crucis inimícis triumpháre fecísti: præsta, quǽsumus; ut, spirituálium hóstium, ejus intercessióne, superátis insídiis, corónam justítiæ a te accípere mereámur."
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Qui timétis Dóminum, laudáte eum: univérsum semen Jacob, glorificáte eum. Timeat eum omne semen Israël: quóniam non sprevit, neque despéxit deprecatiónem páuperis. Allelúja, allelúja Ego autem cantábo fortitúdinem tuam: et exsultábo mane misericórdiam tuam. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 21:24-25; Ps 58:17",
+        "de": "Ps 21:24-25; Ps 58:17"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Qui timétis Dóminum, laudáte eum: univérsum semen Jacob, glorificáte eum. Tímeat eum omne semen Israël: quóniam non sprevit, neque despéxit deprecatiónem páuperis. _ Fortitúdo mea et laus mea Dóminus, et factus est mihi in salútem: iste Deus meus, et glorificábo eum. Dóminus quasi vir pugnátor, omnípotens nomen ejus. Dóminus cónterens bella: Dóminus nomen est illi."
+      },
+      "reference": {
+        "la": "Ps 21:24-25; Tractus; Ex 15:2 et 3; Judith 16:3",
+        "de": "Ps 21:24-25; Tractus; Ex 15:2 et 3; Judith 16:3"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Lucam In illo témpore: Convocátis Jesus duódecim Apóstolis, dedit illis virtútem et potestátem super ómnia dæmónia, et ut languóres curárent. Et misit illos prædicáre regnum Dei et sanáre infírmos. Et ait ad illos: Nihil tuléritis in via, neque virgam, neque peram, neque panem, neque pecúniam, neque duas túnicas habeátis. Et in quamcúmque domum intravéritis, ibi manéte et inde ne exeátis. Et quicúmque non recéperint vos: exeúntes de civitáte illa, étiam púlverem pedum vestrórum excútite in testimónium supra illos. Egréssi autem circuíbant per castélla, evangelizántes et curántes ubíque."
+      },
+      "reference": {
+        "la": "Luc 9:1-6",
+        "de": "Luc 9:1-6"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Invocávit Altíssimum poténtem in oppugnándo inimícos úndique, et audívit illum magnus et sanctus Deus."
+      },
+      "reference": {
+        "la": "Eccli 46:6",
+        "de": "Eccli 46:6"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Sacrifícium, Dómine, quod immolámus, placátus inténde: ut, intercedénte beáto Joánne Confessóre tuo, ad conteréndas inimicórum insídias nos in tuæ protectiónis securitáte constítuat."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Decantavérunt, Dómine, nomen sanctum tuum, et victrícem manum tuam laudavérunt."
+      },
+      "reference": {
+        "la": "Sap 10:20",
+        "de": "Sap 10:20"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Repléti alimónia cœlésti et spirituáli pópulo recreáti, quǽsumus, omnípotens Deus: ut, intercedénte beáto Joánne Confessóre tuo, nos ab hoste malígno deféndas, et Ecclésiam tuam perpétua pace custódias."
+      }
+    }
+  ]
+}

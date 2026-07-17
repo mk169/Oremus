@@ -1,0 +1,26 @@
+{
+  "id": "do-05-07",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Stanislai Episcopi et Martyris",
+      "de": "Hl. Stanislaus, Bischof und Martyrer"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, pro cujus honóre gloriósus Póntifex Stanisláus gládiis impiórum occúbuit: præsta, quǽsumus; ut omnes, qui ejus implórant auxílium, petitiónis suæ salutárem consequántur efféctum."
+      }
+    }
+  ]
+}

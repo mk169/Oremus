@@ -1,0 +1,30 @@
+{
+  "id": "do-06-20",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Silverii Papæ et Martyris",
+      "de": "Hl. Silverius, Papst und Martyrer"
+    },
+    "color": "green",
+    "rank": "Simplex"
+  },
+  "sections": [
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Judæ Apóstoli. Caríssimi: Mémores estóte verborum, quæ prædícta sunt ab Apóstolis Dómini nostri Jesu Christi, qui dicébant vobis, quóniam in novíssimo témpore vénient illusóres, secúndum desidéria sua ambulántes in impietátibus. Hi sunt, qui ségregant semetípsos, animáles, Spíritum non habéntes. Vos autem, caríssimi, superædificántes vosmetípsos sanctíssimæ vestræ fídei, in Spíritu Sancto orántes, vosmetípsos in dilectióne Dei servate, exspectántes misericórdiam Dómini nostri Jesu Christi in vitam ætérnam."
+      },
+      "reference": {
+        "la": "Jud 1:17-21",
+        "de": "Jud 1:17-21"
+      }
+    }
+  ]
+}

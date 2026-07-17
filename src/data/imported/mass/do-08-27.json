@@ -1,0 +1,135 @@
+{
+  "id": "do-08-27",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Josephi Calasanctii Confessoris",
+      "de": "Hl. Joseph Calsanz, Bekenner"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Veníte, fílii, audíte me: timorem Dómini docébo vos. Benedícam Dóminum in omni témpore: semper laus ejus in ore meo. Veníte, fílii, audíte me: timorem Dómini docébo vos."
+      },
+      "reference": {
+        "la": "Ps 33:12; Ps 33:2",
+        "de": "Ps 33:12; Ps 33:2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui per sanctum Joséphum Confessórem tuum, ad erudiéndam spíritu intellegéntiæ ac pietátis juventútem, novum Ecclésiæ tuæ subsídium providére dignátus es: præsta, quǽsumus; nos, ejus exémplo et intercessióne, ita fácere et docére, ut præmia consequámur ætérna."
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Os justi meditábitur sapiéntiam, et lingua ejus loquétur judícium. Lex Dei ejus in corde ipsíus: et non supplantabúntur gressus ejus. Allelúja, allelúja. Beátus vir, qui suffert tentatiónem: quóniam, cum probátus fúerit, accípiet corónam vitæ. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 36:30-31; Jac 1:12.",
+        "de": "Ps 36:30-31; Jac 1:12."
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Accessérunt discípuli ad Jesum, dicéntes: Quis, putas, major est in regno cœlorum? Et ádvocans Jesus parvulum, státuit eum in médio eórum et dixit: Amen, dico vobis, nisi convérsi fuéritis et efficiámini sicut párvuli, non intrabitis in regnum cœlórum. Quicúmque ergo humiliáverit se sicut párvulus iste, hic est major in regno cœlorum. Et qui suscéperit unum párvulum talem in nómine meo, me súscipit."
+      },
+      "reference": {
+        "la": "Matt 18:1-5",
+        "de": "Matt 18:1-5"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Desidérium páuperum exaudívit Dóminus: præparatiónem cordis eórum audívit auris tua."
+      },
+      "reference": {
+        "la": "Ps 9:17",
+        "de": "Ps 9:17"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Altáre tuum, Dómine, munéribus cumulamus oblatis: ut ejus nobis fiant supplicatione propitia, cujus nos donasti patrocínio adjuvári."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Sínite párvulos veníre ad me, et ne prohibuéritis eos: tálium est enim regnum Dei."
+      },
+      "reference": {
+        "la": "Marc 10:14",
+        "de": "Marc 10:14"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Sanctificáti, Dómine, salutári mystério: quǽsumus; ut, intercedénte sancto Josépho Confessóre tuo, ad majus semper proficiámus pietátis increméntum."
+      }
+    }
+  ]
+}

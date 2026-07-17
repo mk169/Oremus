@@ -1,0 +1,26 @@
+{
+  "id": "do-11-24",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Joannis a Cruce Confessoris et Ecclesiæ Doctoris",
+      "de": "Hl. Johannes vom Kreuz, Bekenner und Kirchenlehrer"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "(sed rubrica tridentina)"
+      }
+    }
+  ]
+}

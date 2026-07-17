@@ -1,0 +1,26 @@
+{
+  "id": "do-10-16",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Hedwigis Viduæ",
+      "de": "Hl. Hedwig von Andechs, Witwe"
+    },
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui beátam Hedwígem a sǽculi pompa ad húmilem tuæ Crucis sequélam toto corde transíre docuísti: concéde; ut ejus méritis et exémplo discámus peritúras mundi calcáre delícias, et in ampléxu tuæ Crucis ómnia nobis adversántia superáre:"
+      }
+    }
+  ]
+}

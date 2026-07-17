@@ -1,0 +1,168 @@
+{
+  "id": "do-10-09",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Joannis Leonardi Confessoris",
+      "de": "Hl. Johannes Leonhard, Bekenner"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "In sermónibus Dómini ópera ejus: sol illúminans per ómnia respéxit, et glória Dómini plenum est opus ejus. Cantáte Dómino cánticum novum: cantáte Dómino, omnis terra. In sermónibus Dómini ópera ejus: sol illúminans per ómnia respéxit, et glória Dómini plenum est opus ejus."
+      },
+      "reference": {
+        "la": "Eccli 42:15-16.; Ps 95:1",
+        "de": "Eccli 42:15-16.; Ps 95:1"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui beátum Joánnem Confessórem tuum ad fidem in géntibus propagándam mirabíliter excitáre dignátus es, ac per eum in erudiéndis fidélibus novam in Ecclésia tua famíliam congregásti: da nobis fámulis tuis; ita ejus institútis profícere, ut prǽmia consequámur ætérna."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Corinthios Fratres: Habéntes administratiónem juxta quod misericórdiam consecúti sumus, non defícimus, sed abdicámus occúlta dedécoris, non ambulántes in astútia, neque adulterántes verbum Dei, sed in manifestatióne veritátis commendántes nosmetípsos ad omnem consciéntiam hóminum coram Deo. Quod si étiam opértum est Evangélium nostrum: in iis, qui péreunt, est opértum: in quibus Deus hujus sǽculi excæcávit mentes infidélium, ut non fúlgeat illis illuminátio Evangélii glóriæ Christi, qui est imágo Dei. Non enim nosmetípsos prædicámus, sed Jesum Christum Dóminum nostrum: nos autem servos vestros per Jesum: quóniam Deus, qui dixit de ténebris lucem splendéscere, ipse illúxit in córdibus nostris ad illuminatiónem sciéntiæ claritátis Dei, in fácie Christi Jesu. Omnia enim propter vos: ut grátia abúndans, per multos in gratiárum actione, abúndet in glóriam Dei. Propter quod non deficimus: sed licet is, qui foris est, noster homo corrumpátur: tamen is, qui intus est, renovatur de die in diem. Id enim, quod in præsenti est momentáneum et leve tribulatiónis nostræ, supra modum in sublimitáte ætérnum glóriæ pondus operátur in nobis, non contemplántibus nobis quæ vidéntur, sed quæ non vidéntur. Quæ enim vidéntur, temporália sunt: quæ autem non vidéntur, ætérna sunt."
+      },
+      "reference": {
+        "la": "2 Cor 4:1-6, 15-18",
+        "de": "2 Cor 4:1-6, 15-18"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Inflammátum est cor meum, et renes mei commutáti sunt: zelus domus tuæ comédit me. Pósuit os meum quasi gládium acutum: in umbra manus suæ protéxit me, et pósuit me sicut sagíttam eléctam. Allelúja, allelúja. Tamquam prodígium factus sum multis: et tu adjútor fortis, Allelúja."
+      },
+      "reference": {
+        "la": "Ps 72:21; 68:10; Isa 49:2; Ps 70:7",
+        "de": "Ps 72:21; 68:10; Isa 49:2; Ps 70:7"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Contristátus sum in exercitatióne mea: et conturbátus sum a voce inimíci, et a tribulatióne peccatóris. Quóniam declinavérunt in me iniquitátes: et in ira molésti erant mihi. Ego autem ad Deum clamávi: et Dóminus salvábit me."
+      },
+      "reference": {
+        "la": "Ps 54:3-4; 64:17",
+        "de": "Ps 54:3-4; 64:17"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Lucam In illo témpore: Designávit Dóminus et álios septuagínta duos: et misit illos binos ante fáciem suam in omnem civitátem et locum, quo erat ipse ventúrus. ¶ Et dicebat illis: Messis quidem multa, operárii autem pauci. Rogáte ergo Dóminum messis, ut mittat operários in messem suam. Ite: ecce, ego mitto vos sicut agnos inter lupos. Nolíte portáre sácculum neque peram neque calceaménta; et néminem per viam salutavéritis. In quamcúmque domum intravéritis, primum dícite: Pax huic dómui: et si ibi fúerit fílius pacis, requiéscet super illum pax vestra: sin autem, ad vos revertétur. In eádem autem domo manéte, edéntes et bibéntes quæ apud illos sunt: dignus est enim operárius mercéde sua. Nolíte transíre de domo in domum. Et in quamcúmque civitátem intravéritis, et suscéperint vos, manducáte quæ apponúntur vobis: et curáte infírmos, qui in illa sunt, et dícite illis: Appropinquávit in vos regnum Dei."
+      },
+      "reference": {
+        "la": "Luc 10:1-9",
+        "de": "Luc 10:1-9"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Christi factus sum ego miníster secúndum dispensatiónem Dei, quæ data est mihi, ut ímpleam verbum Dómini."
+      },
+      "reference": {
+        "la": "Col 1:25",
+        "de": "Col 1:25"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Súscipe, Dómine, oblatiónem mundam salutáris hóstiæ: et præsta; ut, intercedénte beáto Joánne Confessóre tuo, úbique géntium júgiter offerátur."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Quæ mihi fuérunt lucra, hæc arbitrátus sum propter Christum detriménta."
+      },
+      "reference": {
+        "la": "Phil 3:7",
+        "de": "Phil 3:7"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Pretiósi córporis, et sánguinis tui sacris refécti mystériis, Dómine, adprecámur: ut beáti Joánnis Confessóris tui exémplo, studeámus confitéri quod crédidit, et ópere exercére quod dócuit:"
+      }
+    }
+  ]
+}

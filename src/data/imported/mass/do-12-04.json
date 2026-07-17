@@ -1,0 +1,63 @@
+{
+  "id": "do-12-04",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Petri Chrysologi Episcopi Confessoris et Ecclesiæ Doctoris",
+      "de": "Hl. Petrus Chrysologus, Bischof, Bekenner und Kirchenlehrer"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui beátum Petrum Chrysólogum Doctórem egrégium, divínitus præmonstrátum, ad regéndam et instruéndam Ecclésiam tuam éligi voluísti: præsta, quǽsumus; ut, quem Doctórem vitæ habúimus in terris, intercessórem habére mereámur in cœlis.",
+        "de": "O Gott, der du den heiligen hervorragenden Lehrer Petrus Chrysologus zur Leitung und Belehrung deiner Kirche auf wunderbare Weise vorbezeichnet hast, sodass er deinem Willen gemäß gewählt wurde, verleihe uns, wir bitten dich, die Gnade, daß wir verdienen, denjenigen, an dem wir auf Erden einen Lehrer dafür gehabt haben, wie wir leben sollen, nun auch als Fürsprecher im Himmel haben."
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Ecce sacérdos magnus, qui in diébus suis plácuit Deo. Non est invéntus símilis illi, qui conservaret legem Excélsi. Allelúja, allelúja. Tu es sacérdos in ætérnum, secúndum órdinem Melchísedech. Allelúja."
+      },
+      "reference": {
+        "la": "Eccli 44:16; Eccli 44:20; Ps 109:4",
+        "de": "Eccli 44:16; Eccli 44:20; Ps 109:4"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Dómine, quinque talénta tradidísti mihi, ecce, ália quinque superlucrátus sum. Euge, serve bone et fidélis, quia in pauca fuísti fidélis, supra multa te constítuam, intra in gáudium Dómini tui."
+      },
+      "reference": {
+        "la": "Matt 25:20; 20:21",
+        "de": "Matt 25:20; 20:21"
+      },
+      "chant": {
+        "chantable": true
+      }
+    }
+  ]
+}

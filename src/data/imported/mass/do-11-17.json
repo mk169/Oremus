@@ -1,0 +1,30 @@
+{
+  "id": "do-11-17",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Gregorii Thaumaturgi Episcopi et Confessoris",
+      "de": "Hl. Gregor der Wundertäter, Bischof und Bekenner"
+    },
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  "sections": [
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Marcum In illo témpore: Respóndens Jesus discípulis suis, ait illis: Habéte fidem Dei. Amen, dico vobis, quia, quicúmque díxerit huic monti: Tóllere et míttere in mare, et non hæsitáverit in corde suo, sed credíderit, quia, quodcúmque díxerit, fiat, fiet ei. Proptérea dico vobis: Omnia quæcúmque orántes pétitis, crédite quia accipiétis, et evénient vobis."
+      },
+      "reference": {
+        "la": "Marc 11:22-24",
+        "de": "Marc 11:22-24"
+      }
+    }
+  ]
+}

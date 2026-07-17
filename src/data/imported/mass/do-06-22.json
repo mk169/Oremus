@@ -1,0 +1,63 @@
+{
+  "id": "do-06-22",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Paulini Episcopi et Confessoris",
+      "de": "Hl. Paulinus von Nola, Bischof und Bekenner"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui ómnia pro te in hoc sǽculo relinquéntibus, céntuplum in futúro et vitam ætérnam promisísti: concéde propítius; ut, sancti Pontíficis Paulíni vestígiis inhæréntes, valeámus terréna despícere et sola cœléstia desideráre:"
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios Fratres: Scitis grátiam Dómini nostri Jesu Christi, quóniam propter vos egénus factus est, cum esset dives, ut illíus inópia vos dívites essétis. Et consílium in hoc do: hoc enim vobis útile est, qui non solum fácere, sed et velle cœpístis ab anno prióre: nunc vero et facto perfícite: ut, quemádmodum promptus est ánimus voluntátis, ita sit et perficiéndi ex eo quod habétis. Si enim volúntas prompta est, secúndum id quod habet, accépta est, non secúndum id quod non habet. Non enim ut áliis sit remíssio, vobis autem tribulátio, sed ex æqualitáte. In præsénti témpore vestra abundántia illórum inópiam súppleat: ut et illórum abundántia vestræ inópiæ sit suppleméntum, ut fiat æquálitas, sicut scriptum est: Qui multum, non abundávit: et qui módicum, non minorávit."
+      },
+      "reference": {
+        "la": "2 Cor 8:9-15",
+        "de": "2 Cor 8:9-15"
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Da nobis, Dómine, perféctæ caritátis sacrifícium, exémplo sancti Pontíficis Paulíni, cum altáris oblatióne conjúngere: et beneficéntiæ stúdio sempitérnam misericórdiam promeréri."
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Tríbue nobis per hæc sancta, Dómine, illum pietátis et humilitátis afféctum, quem ex hoc divíno fonte hausit sanctus Póntifex tuus Paulínus: et, ipsíus intercessióne, in omnes, qui te deprecántur, grátiæ tuæ divítias benígnus effúnde."
+      }
+    }
+  ]
+}

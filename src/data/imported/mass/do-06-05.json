@@ -1,0 +1,150 @@
+{
+  "id": "do-06-05",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Bonifatii Episcopi et Martyris",
+      "de": "Hl. Bonifatius, Bischof und Martyrer"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Exsultábo in Jerúsalem et gaudébo in pópulo meo: et non audiétur in eo ultra vos fletus et vox clamóris. Elécti mei non laborábunt frustra neque generábunt in conturbatióne: quia semen benedictórum Dómini est, et nepótes eórum cum eis. Deus, áuribus nostris audívimus: patres nostri narravérunt opus, quod operátus es in diébus eórum. Exsultábo in Jerúsalem et gaudébo in pópulo meo: et non audiétur in eo ultra vos fletus et vox clamóris. Elécti mei non laborábunt frustra neque generábunt in conturbatióne: quia semen benedictórum Dómini est, et nepótes eórum cum eis."
+      },
+      "reference": {
+        "la": "Is 65:19; 65:23; Ps 43:2",
+        "de": "Is 65:19; 65:23; Ps 43:2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui multitúdinem populórum, beáti Bonifátii Mártyris tui atque Pontíficis zelo, ad agnitiónem tui nóminis vocáre dignátus es: concéde propítius; ut, cujus sollémnia cólimus, étiam patrocínia sentiámus."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio libri Sapiéntiæ Laudémus viros gloriósos et paréntes nostros in generatióne sua. Multam glóriam fecit Dóminus magnificéntia sua a sǽculo. Dominántes in potestátibus suis, hómines magni virtúte et prudéntia sua præditi, nuntiántes in prophétis dignitátem prophetárum, et imperántes in præsénti pópulo, et virtúte prudéntiæ pópulis sanctíssima verba. In perítia sua requiréntes modos músicos, et narrántes cármina scripturárum. Hómines dívites in virtúte, pulchritúdinis stúdium habéntes: pacificántes in dómibus suis. Omnes isti in generatiónibus gentis suæ glóriam adépti sunt, et in diébus suis habéntur in láudibus. Qui de illis nati sunt, reliquérunt nomen narrándi laudes eórum. Et sunt, quorum non est memória: periérunt, quasi qui non fúerint: et nati sunt, quasi non nati, et fílii ipsórum cum ipsis. Sed illi viri misericórdiæ sunt, quorum pietátes non defuérunt: cum sémine eórum pérmanent bona, heréditas sancta nepótes eórum, et in testaméntis stetit semen eórum: et fílii eórum propter illos usque in ætérnum manent: semen eórum et glória eórum non derelinquétur. Córpora ipsórum in pace sepúlta sunt, et nomen eórum vivit in generatiónem et generatiónem. Sapiéntiam ipsórum narrent pópuli, et laudem eórum núntiet Ecclésia."
+      },
+      "reference": {
+        "la": "Eccli 44:1-15",
+        "de": "Eccli 44:1-15"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Communicántes Christi passiónibus gaudéte, ut in revelatióne glóriæ ejus gaudeátis exsultántes. Si exprobrámini in nómine Christi, beáti éritis: quóniam, quod est honóris, glóriæ et virtútis Dei, et qui est ejus Spíritus, super vos requiéscet. Allelúja, allelúja. Declinábo super eum quasi flúvium pacis, et quasi torréntem inundántem glóriam. Allelúja."
+      },
+      "reference": {
+        "la": "1 Pet 4:13-14; Is 66:12",
+        "de": "1 Pet 4:13-14; Is 66:12"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Videns Jesus turbas, ascéndit in montem, et cum sedísset, accessérunt ad eum discípuli ejus, et apériens os suum, docébat eos, dicens: Beáti páuperes spíritu: quóniam ipsórum est regnum cœlórum. Beáti mites: quóniam ipsi possidébunt terram. Beáti, qui lugent: quóniam ipsi consolabúntur. Beáti, qui esúriunt et sítiunt justítiam: quóniam ipsi saturabúntur. Beáti misericórdes: quóniam ipsi misericórdiam consequántur. Beáti mundo corde: quóniam ipsi Deum vidébunt. Beáti pacífici: quóniam fílii Dei vocabúntur. Beáti, qui persecutiónem patiúntur propter justítiam: quóniam ipsórum est regnum cœlórum. Beáti estis, cum maledíxerint vobis et persecúti vos fúerint, et díxerint omne malum advérsum vos, mentiéntes, propter me: gaudete et exsultáte, quóniam merces vestra copiósa est in cœlis."
+      },
+      "reference": {
+        "la": "Matt 5:1-12",
+        "de": "Matt 5:1-12"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Benedícam Dóminum, qui tríbuit mihi intelléctum: providébam Deum in conspéctu meo semper, quóniam a dextris est mihi ne commóvear. (Allelúja.)"
+      },
+      "reference": {
+        "la": "Ps 15:7; 15:8",
+        "de": "Ps 15:7; 15:8"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Super has hóstias, Dómine, quǽsumus, benedíctio copiósa descéndat: quæ et sanctificatiónem nostram misericórditer operátur; et de sancti Bonifátii Mártyris tui atque Pontíficis fáciat sollemnitáte gaudére."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Qui vícerit, dabo ei sedére mecum in throno meo: sicut et ego vici et sedi cum Patre meo in throno ejus. (Allelúja.)"
+      },
+      "reference": {
+        "la": "Apoc 3:21",
+        "de": "Apoc 3:21"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Sanctificáti, Dómine, salutári mystério: quǽsumus; ut nobis sancti Bonifátii Mártyris tui atque Pontíficis pia non desit orátio, cujus nos donásti patrocínio gubernári."
+      }
+    }
+  ]
+}

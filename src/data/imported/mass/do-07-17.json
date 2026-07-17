@@ -1,0 +1,30 @@
+{
+  "id": "do-07-17",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Alexii Confessoris",
+      "de": "Hl. Alexius, Bekenner"
+    },
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  "sections": [
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Timótheum Caríssime: Est quæstus magnus píetas cum sufficiéntia. Nihil enim intúlimus in hunc mundum: haud dúbium, quod nec auférre quid póssumus. Habéntes autem aliménta, et quibus tegámur, his conténti simus. Nam qui volunt dívites fíeri, incídunt in tentatiónem et in láqueum diáboli, et desidéria multa inutília et nocíva: quæ mergunt hómines in intéritum et perditiónem. Radix enim ómnium malórum est cupíditas: quam quidam appeténtes, erravérunt a fide, et inseruérunt se dolóribus multis. Tu autem, o homo Dei, hæc fuge: sectáre vero justítiam, pietátem, fidem, caritátem, patiéntiam, mansuetúdinem. Certa bonum certámen fídei, apprehénde vitam ætérnam."
+      },
+      "reference": {
+        "la": "1 Tim 6:6-12",
+        "de": "1 Tim 6:6-12"
+      }
+    }
+  ]
+}

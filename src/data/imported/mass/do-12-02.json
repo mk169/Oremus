@@ -1,0 +1,27 @@
+{
+  "id": "do-12-02",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Bibianæ Virginis et Martyris",
+      "de": "Hl. Bibiana, Jungfrau und Martyrin"
+    },
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, ómnium largítor bonórum, qui in fámula tua Bibiána cum virginitátis flore martýrii palmam conjunxísti: mentes nostras ejus intercessióne tibi caritáte conjúnge; ut, amótis perículis, prǽmia consequámur ætérna.",
+        "de": "O Gott, du Spender alles Guten, der du in deiner Dienerin Bibiana mit der Blume der Jungfräulichkeit die Palme des Martyriums vereinigt hast, vereinige auf ihre Fürsprache unsere Seelen in Liebe mit dir, damit wir nach Entfernung der Gefahren die ewige Belohnung erlangen."
+      }
+    }
+  ]
+}

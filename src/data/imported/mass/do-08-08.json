@@ -1,0 +1,157 @@
+{
+  "id": "do-08-08",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "Ss. Cyriaci, Largi et Smaragdi Martyrum",
+      "de": "Hll. Cyriacus, Largos und Smaragdus"
+    },
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Timéte Dóminum, omnes sancti ejus, quóniam nihil deest timéntibus eum: dívites eguérunt et esuriérunt: inquiréntes autem Dóminum non defícient omni bono. Benedícam Dóminum in omni témpore: semper laus ejus in ore meo. Timéte Dóminum, omnes sancti ejus, quóniam nihil deest timéntibus eum: dívites eguérunt et esuriérunt: inquiréntes autem Dóminum non defícient omni bono."
+      },
+      "reference": {
+        "la": "Ps 33:10-11; Ps 33:2",
+        "de": "Ps 33:10-11; Ps 33:2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Thessalonicénses Fratres: Grátias ágimus Deo sine intermissióne: quóniam, cum accepissétis a nobis verbum audítus Dei, accepístis illud, non ut verbum hóminum, sed - sicut est vere - verbum Dei, qui operátur in vobis, qui credidístis. Vos enim imitatóres facti estis, fratres, ecclesiárum Dei, quæ sunt in Judæa in Christo Jesu: quia éadem passi estis et vos a contribúlibus vestris, sicut et ipsi a Judæis: qui et Dóminum occidérunt Jesum et Prophétas: et nos persecúti sunt, et Deo non placent, et ómnibus homínibus adversántur, prohibéntes nos géntibus loqui, ut salvæ fiant, ut ímpleant peccáta sua semper: pervénit enim ira Dei super illos usque in finem."
+      },
+      "reference": {
+        "la": "1 Thess 2:13-16",
+        "de": "1 Thess 2:13-16"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Timéte Dóminum, omnes sancti ejus: quóniam nihil deest timéntibus eum. v. Inquiréntes autem Dóminum, non defícient omni bono. Allelúja, allelúja. Fulgébunt justi, et tamquam scintíllæ in arundinéto current in ætérnum. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 33:10; 33:11; Sap 3:7",
+        "de": "Ps 33:10; 33:11; Sap 3:7"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Qui séminant in lácrimis, in gáudio metent. Eúntes ibant et flebant, mitténtes sémina sua. Veniéntes autem vénient cum exsultatióne, portántes manípulos suos."
+      },
+      "reference": {
+        "la": "Ps 125:5-6",
+        "de": "Ps 125:5-6"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Marcum In illo témpore: Dixit Jesus discípulis suis: Eúntes in mundum univérsum, prædicáte Evangélium omni creatúræ. Qui credíderit, et baptizátus fúerit, salvus erit: qui vero non credíderit, condemnábitur. Signa autem eos, qui credíderint, hæc sequéntur: In nómine meo dæmónia ejícient: linguis loquéntur novis: serpéntes tollent: et si mortíferum quid bíberint, non eis nocébit: super ægros manus impónent, et bene habébunt."
+      },
+      "reference": {
+        "la": "Marc 16:15-18",
+        "de": "Marc 16:15-18"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Lætámini in Dómino et exsultáte, justi: et gloriámini, omnes recti corde."
+      },
+      "reference": {
+        "la": "Ps 31:11",
+        "de": "Ps 31:11"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Accépta sit in conspéctu tuo, Dómine, nostra devótio: et eórum nobis fiat supplicatióne salutáris, pro quorum sollemnitáte defértur."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Signa autem eos, qui in me credunt, hæc sequéntur: dæmónia ejícient: super ægros manus impónent, et bene habébunt."
+      },
+      "reference": {
+        "la": "Marc 16:17; 16:18",
+        "de": "Marc 16:17; 16:18"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Refécti participatióne múneris sacri, quǽsumus, Dómine, Deus noster: ut, cujus exséquimur cultum, intercedéntibus sanctis Martýribus tuis Cyríaco, Largo et Smarágdo, sentiámus efféctum."
+      }
+    }
+  ]
+}

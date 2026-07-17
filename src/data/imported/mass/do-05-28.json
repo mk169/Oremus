@@ -1,0 +1,78 @@
+{
+  "id": "do-05-28",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Augustini Episcopi et Confessoris",
+      "de": "Hl. Augustinus von Canterbury, Bischof und Bekenner"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui Anglórum gentes, prædicatióne et miráculis beáti Augustíni Confessóris tui atque Pontíficis, veræ fídei luce illustráre dignátus es: concéde; ut, ipso interveniénte, errántium corda ad veritátis tuæ rédeant unitátem, et nos in tua simus voluntáte concórdes."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Thessalonicénses Fratres: Fidúciam habúimus in Deo nostro loqui ad vos Evangélium Dei in multa sollicitúdine. Exhortátio enim nostra non de erróre neque de immundítia neque in dolo, sed sicut probáti sumus a Deo, ut crederétur nobis Evangélium: ita lóquimur, non quasi homínibus placéntes, sed Deo, qui probat corda nostra. Neque enim aliquándo fuimus in sermóne adulatiónis, sicut scitis: neque in occasióne avarítiæ: Deus testis est: nec quæréntes ab homínibus glóriam, neque a vobis neque ab áliis; cum possémus vobis óneri esse ut Christi Apóstoli: sed facti sumus párvuli in médio vestrum, tamquam si nutrix fóveat fílios suos. Ita desiderántes vos, cúpide volebámus trádere vobis non solum Evangélium Dei, sed étiam ánimas nostras: quóniam caríssimi nobis facti estis. Mémores enim estis, fratres, labóris nostri et fatigatiónis: nocte ac die operántes, ne quem vestrum gravarémus, prædicávimus in vobis Evangélium Dei."
+      },
+      "reference": {
+        "la": "1 Thess 2:2-9",
+        "de": "1 Thess 2:2-9"
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Lucam In illo témpore: Designávit Dóminus et álios septuagínta duos: et misit illos binos ante fáciem suam in omnem civitátem et locum, quo erat ipse ventúrus. ¶ Et dicebat illis: Messis quidem multa, operárii autem pauci. Rogáte ergo Dóminum messis, ut mittat operários in messem suam. Ite: ecce, ego mitto vos sicut agnos inter lupos. Nolíte portáre sácculum neque peram neque calceaménta; et néminem per viam salutavéritis. In quamcúmque domum intravéritis, primum dícite: Pax huic dómui: et si ibi fúerit fílius pacis, requiéscet super illum pax vestra: sin autem, ad vos revertétur. In eádem autem domo manéte, edéntes et bibéntes quæ apud illos sunt: dignus est enim operárius mercéde sua. Nolíte transíre de domo in domum. Et in quamcúmque civitátem intravéritis, et suscéperint vos, manducáte quæ apponúntur vobis: et curáte infírmos, qui in illa sunt, et dícite illis: Appropinquávit in vos regnum Dei."
+      },
+      "reference": {
+        "la": "Luc 10:1-9",
+        "de": "Luc 10:1-9"
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Sacrifícium tibi offérimus, Dómine, in sollemnitáte beáti Augustíni Pontíficis et Confessóris tui, humíliter deprecántes: ut oves, quæ periérunt, ad unum ovile revérsæ, hoc salutári pábulo nutriántur."
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Hóstia salutári refécti: te, Dómine, súpplices exorámus; ut eadem, beáti Augustíni interveniénte suffrágio, in omni loco nómini tuo júgiter immolétur."
+      }
+    }
+  ]
+}

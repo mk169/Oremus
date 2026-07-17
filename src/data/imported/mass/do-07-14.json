@@ -1,0 +1,33 @@
+{
+  "id": "do-07-14",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Bonaventuræ Episcopi Confessoris et Ecclesiæ Doctoris",
+      "de": "Hl. Bonaventura, Bischof, Bekenner und Kirchenlehrer"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Os justi meditábitur sapiéntiam, et lingua ejus loquétur judícium. Lex Dei ejus in corde ipsíus: et non supplantabúntur gressus ejus. Allelúja, allelúja. Jurávit Dóminus, et non pœnitébit eum: Tu es sacérdos in ætérnum, secúndum órdinem Melchísedech. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 36:30-31; Ps 109:4",
+        "de": "Ps 36:30-31; Ps 109:4"
+      },
+      "chant": {
+        "chantable": true
+      }
+    }
+  ]
+}

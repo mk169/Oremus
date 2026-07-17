@@ -1,0 +1,55 @@
+{
+  "id": "do-11-22",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Cæciliæ Virginis et Martyris",
+      "de": "Hl. Cäcilia, Jungfrau und Martyrerin"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui nos ánnua beátæ Cæcíliæ Vírginis et Mártyris tuæ sollemnitáte lætíficas: da, ut, quam venerámur offício, étiam piæ conversatiónis sequámur exémplo."
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Audi, fília, et vide, et inclína aurem tuam: quia concupívit Rex spéciem tuam. Spécie tua et pulchritúdine tua inténde, próspere procéde et regna. Allelúja, allelúja. Quinque prudéntes vírgines accepérunt óleum in vasis suis cum lampádibus: média autem nocte clamor factus est: Ecce, sponsus venit: exíte óbviam Christo Dómino. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 44:11; 44:12; Ps 44:5; Matt 25:4; 25:6",
+        "de": "Ps 44:11; 44:12; Ps 44:5; Matt 25:4; 25:6"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Hæc hóstia, Dómine, placatiónis et laudis, quǽsumus: ut, intercedénte beáta Cæcília Vírgine et Mártyre tua, nos propitiatióne tua dignos semper effíciat."
+      }
+    }
+  ]
+}

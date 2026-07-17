@@ -1,0 +1,114 @@
+{
+  "id": "do-09-17",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "Impressionis Stigmatum S. Francisci",
+      "de": "Stigmatisierung des Hl. Franziskus"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Mihi autem absit gloriári, nisi in Cruce Dómini nostri Jesu Christi: per quem mihi mundus crucifíxus est, et ego mundo. Voce mea ad Dóminum clamávi: voce mea ad Dóminum deprecátus sum. Mihi autem absit gloriári, nisi in Cruce Dómini nostri Jesu Christi: per quem mihi mundus crucifíxus est, et ego mundo."
+      },
+      "reference": {
+        "la": "Gal 6:14; Ps 141:2",
+        "de": "Gal 6:14; Ps 141:2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Dómine Jesu Christe, qui, frigescénte mundo, ad inflammándum corda nostra tui amóris igne, in carne beatíssimi Francísci passiónis tuæ sacra Stígmata renovásti: concéde propítius; ut ejus méritis et précibus crucem júgiter ferámus, et dignos fructus pæniténtiæ faciámus:"
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Gálatas Fratres: Mihi autem absit gloriári, nisi in Cruce Dómini nostri Jesu Christi: per quem mihi mundus crucifíxus est, et ego mundo. In Christo enim Jesu neque circumcísio áliquid valet neque præpútium, sed nova creatúra. Et quicúmque hanc régulam secúti fúerint, pax sin per illos et misericórdia, et super Israël Dei. De cetero nemo mihi moléstus sit: ego enim stígmata Dómini Jesu in córpore meo porto. Grátia Dómini nostri Jesu Christi cum spíritu vestro, fratres. Amen."
+      },
+      "reference": {
+        "la": "Gal 6:14-18",
+        "de": "Gal 6:14-18"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Os justi meditábitur sapiéntiam, et lingua ejus loquétur judícium. Lex Dei ejus in corde ipsíus: et non supplantabúntur gressus ejus. Allelúja, allelúja. Francíscus pauper et húmilis cœlum dives ingréditur, hymnis cœléstibus honorátur. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 36:30-31",
+        "de": "Ps 36:30-31"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Dixit Jesus discípulis suis: Si quis vult post me veníre, ábneget semetípsum, et tollat crucem suam, et sequátur me. Qui enim volúerit ánimam suam salvam fácere, perdet eam: qui autem perdíderit ánimam suam propter me, invéniet eam. Quid enim prodest hómini, si mundum univérsum lucrétur, ánimæ vero suæ detriméntum patiátur? Aut quam dabit homo commutatiónem pro ánima sua? Fílius enim hóminis ventúrus est in glória Patris sui cum Angelis suis: et tunc reddet unicuíque secúndum ópera ejus."
+      },
+      "reference": {
+        "la": "Matt 16:24-27",
+        "de": "Matt 16:24-27"
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Múnera tibi, Dómine, dicata sanctífica: et, intercedénte beáto Francísco, ab omni nos culpárum labe purífica."
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Deus, qui mira Crucis mystéria in beáto Francísco Confessóre tuo multifórmiter demonstrásti: da nobis, quǽsumus; devotiónis suæ semper exémpla sectári, et assídua ejúsdem Crucis meditatióne muníri."
+      }
+    }
+  ]
+}

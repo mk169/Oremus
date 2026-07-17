@@ -1,0 +1,81 @@
+{
+  "id": "do-07-28",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "Ss. Nazarii et Celsi Martyrum, Victoris I Papæ et Martyris ac Innocentii I Papæ et Confessoris",
+      "de": "Hll. Nazarius und Celsus, Märtyrer, Victor I., Papst und Martyrer, sowie Innozenz I., Papst und Bekenner"
+    },
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Sanctórum tuórum nos, Dómine, Nazárii, Celsi, Victóris et Innocéntii conféssio beáta commúniat: et fragilitáti nostræ subsídium dignánter exóret."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio libri Sapiéntiæ Réddidit Deus justis mercédem labórum suorum, et deduxit illos in via mirábili: et fuit illis in velaménto diei et in luce stellárum per noctem: tránstulit illos per Mare Rubrum, et transvéxit illos per aquam nímiam. Inimícos autem illórum demérsit in mare, et ab altitúdine inferórum edúxit illos. Ideo justi tulérunt spolia impiórum, et decantavérunt, Dómine, nomen sanctum tuum, et victrícem manum tuam laudavérunt páriter, Dómine, Deus noster."
+      },
+      "reference": {
+        "la": "Sap 10:17-20",
+        "de": "Sap 10:17-20"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Gloriósus Deus in Sanctis suis: mirábilis in majestáte, fáciens prodígia. Déxtera tua, Dómine, glorificáta est in virtúte: déxtera manus tua confrégit inimícos. Allelúja, allelúja. Córpora Sanctórum in pace sepúlta sunt, et nómina eórum vivent in generatiónem et generatiónem. Allelúja."
+      },
+      "reference": {
+        "la": "Exodi 15:11; Exodi 15:6; Sir 44:14",
+        "de": "Exodi 15:11; Exodi 15:6; Sir 44:14"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Concéde nobis, omnípotens Deus: ut his munéribus, quæ in sanctórum tuórum Nazarii, Celsi, Victóris et Innocéntii honóre deférimus, et te placémus exhíbitis, et nos vivificémur accéptis."
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Sanctórum Nazárii, Celsi, Victóris et Innocéntii, Dómine, intercessióne placátus: præsta, quǽsumus; ut, quod temporáli celebrámus actióne, perpétua salvatióne capiámus."
+      }
+    }
+  ]
+}

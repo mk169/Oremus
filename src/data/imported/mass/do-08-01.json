@@ -1,0 +1,118 @@
+{
+  "id": "do-08-01",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Petri ad Vincula",
+      "de": "Kettenfeier des hl. Petrus"
+    },
+    "color": "green",
+    "rank": "Duplex majus"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Nunc scio vere, quia misit Dóminus Angelum suum: et erípuit me de manu Heródis et de omni exspectatióne plebis Judæórum. Dómine; probásti me et cognovísti me: tu cognovísti sessiónem meam et resurrectiónem meam. Nunc scio vere, quia misit Dóminus Angelum suum: et erípuit me de manu Heródis et de omni exspectatióne plebis Judæórum."
+      },
+      "reference": {
+        "la": "Acts 12:11; Ps 138:1-2",
+        "de": "Acts 12:11; Ps 138:1-2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui beátum Petrum Apóstolum, a vínculis absolútum, illǽsum abíre fecísti: nostrórum, quǽsumus, absólve víncula peccatórum; et ómnia mala a nobis propitiátus exclúde. _ Deus, qui multitúdinem géntium beáti Pauli Apóstoli prædicatióne docuísti: da nobis, quǽsumus; ut, cujus commemoratiónem cólimus, ejus apud te patrocínia sentiámus.",
+        "de": "O Gott, der du den heiligen Apostel Petrus aus den Ketten befreit und ihn ohne Verletzung hast entkommen lassen, löse, wir bitten dich, auch die Ketten unserer Sünden und halte in deiner Güte alle Übel von uns fern. _ O Gott, der du alle Völker durch die Predigt des heiligen Apostels Paulus gelehrt hast, gewähre uns, wir bitten dich, die Gnade, daß wir von demjenigen, dessen Gedächtnis wir begehen, auch die Fürsprache bei dir fühlen."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Actuum Apostolórum In diébus illis: Misit Heródes rex manus, ut afflígeret quosdam de ecclésia. Occidit autem Jacóbum fratrem Joánnis gládio. Videns autem, quia placéret Judæis, appósuit, ut apprehénderet et Petrum. Erant autem dies azymórum. Quem cum apprehendísset, misit in cárcerem, tradens quátuor quaterniónibus mílitum custodiéndum, volens post Pascha prodúcere eum pópulo. Et Petrus quidem servabátur in cárcere. Orátio autem fiébat sine intermissióne ab ecclésia ad Deum pro eo. Cum autem productúrus eum esset Heródes, in ipsa nocte erat Petrus dórmiens inter duos mílites, vinctus caténis duábus: et custódes ante óstium custodiébant cárcerem. Et ecce, Angelus Dómini ástitit: et lumen refúlsit in habitáculo: percussóque látere Petri, excitávit eum, dicens: Surge velóciter. Et cecidérunt caténæ de mánibus ejus. Dixit autem Angelus ad eum: Præcíngere, et cálcea te cáligas tuas. Et fecit sic. Et dixit illi: Circúmda tibi vestiméntum tuum, et séquere me. Et éxiens sequebátur eum, et nesciébat, quia verum est, quod fiébat per Angelum: existimábat autem se visum vidére. Transeúntes autem primam et secúndam custódiam, venérunt ad portam férream, quæ ducit ad civitátem: quæ ultro apérta est eis. Et exeúntes processérunt vicum unum: et contínuo discéssit Angelus ab eo. Et Petrus ad se revérsus, dixit: Nunc scio vere, quia misit Dóminus Angelum suum, et erípuit me de manu Heródis et de omni exspectatióne plebis Judæórum."
+      },
+      "reference": {
+        "la": "Act 12:1-11",
+        "de": "Act 12:1-11"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Constítues eos príncipes super omnem terram: mémores erunt nóminis tui, Dómine. Pro pátribus tuis nati sunt tibi fílii: proptérea pópuli confitebúntur tibi. Allelúja, allelúja. Solve, jubénte Deo, terrárum, Petre, caténas: qui facis, ut páteant cœléstia regna beátis. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 44:17-18",
+        "de": "Ps 44:17-18"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Constítues eos príncipes super omnem terram: mémores erunt nóminis tui, Dómine, in omni progénie et generatióne."
+      },
+      "reference": {
+        "la": "Ps 44:17-18",
+        "de": "Ps 44:17-18"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Oblátum tibi, Dómine, sacrifícium, intercedénte beáto Petro Apostolo tuo, vivíficet nos semper et múniat. _ Apóstoli tui Pauli précibus, Dómine, plebis tuæ dona sanctífica: ut, quæ tibi tuo grata sunt institúto, gratióra fiant patrocínio supplicántis."
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Córporis sacri et pretiósi sánguinis repléti libámine, quǽsumus, Dómine, Deus noster: ut, quod pia devotióne gérimus, certa redemptióne capiámus. _ Percéptis, Dómine, sacramentis, beáto Paulo Apostolo tuo interveniénte, deprecámur: ut, quæ pro illíus celebráta sunt glória, nobis profíciant ad medélam."
+      }
+    }
+  ]
+}

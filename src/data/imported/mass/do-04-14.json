@@ -1,0 +1,168 @@
+{
+  "id": "do-04-14",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Justini Martyris",
+      "de": "S. Justini Martyris"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Narravérunt mihi iníqui fabulatiónes, sed non ut lex tua: ego autem loquébar de testimóniis tuis in conspéctu regum, et non confundébar. (Alleluia, alleluia.) Beáti immaculáti in via, qui ámbulant in lege Dómini. Narravérunt mihi iníqui fabulatiónes, sed non ut lex tua: ego autem loquébar de testimóniis tuis in conspéctu regum, et non confundébar. (Alleluia, alleluia.)"
+      },
+      "reference": {
+        "la": "Ps 118:85; 118:46;; Ps 118:1;",
+        "de": "Ps 118:85; 118:46;; Ps 118:1;"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui per stultítiam Crucis eminéntem Jesu Christi sciéntiam beátum Justínum Mártyrem mirabíliter docuísti: ejus nobis intercessióne concéde; ut, errórum circumventióne depúlsa, fídei firmitátem consequámur."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios Fratres: Verbum crucis pereúntibus quidem stultítia est: iis autem, qui salvi fiunt, id est nobis, Dei virtus est. Scriptum est enim: Perdam sapiéntiam sapiéntium et prudéntiam prudéntium reprobábo. Ubi sápiens? ubi scriba? ubi conquisítor hujus sǽculi? Nonne stultam fecit Deus sapiéntiam hujus mundi? Nam quia in Dei sapiéntia non cognóvit mundus per sapiéntiam Deum: placuit Deo per stultítiam prædicatiónis salvos fácere credéntes. Quóniam et Judæi signa petunt, et Græci sapiéntiam quærunt: nos autem prædicámus Christum crucifíxum: Judæis quidem scándalum, géntibus autem stultítiam, ipsis autem vocátis Judæis, atque Græcis. Christum Dei virtútem et Dei sapiéntiam: quia, quod stultum est Dei, sapiéntius est homínibus: et, quod infírmum est Dei, fórtius est homínibus. Ex ipso autem vos estis in Christo Jesu, qui factus est nobis sapiéntia a Deo et justítia ei sanctificátio et redémptio."
+      },
+      "reference": {
+        "la": "1 Cor 1:18-25; 1:30",
+        "de": "1 Cor 1:18-25; 1:30"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Sapiéntia hujus mundi stultítia est apud Deum, scriptum est enim: Dóminus novit cogitatiónes sapiéntium, quóniam vanæ sunt. Perdam sapiéntiam sapiéntium et prudentiam prudéntium reprobábo. Alleluja, alleluja. Sapiéntia hujus mundi stultítia est apud Deum, scriptum est enim: Dóminus novit cogitatiónes sapiéntium, quóniam vanæ sunt, alleluia Verúmtamen exístimo ómnia detriméntum esse propter eminéntem sciéntiam Jesu Christi, Dómini mei. Allelúja."
+      },
+      "reference": {
+        "la": "1 Cor 3:19; 3:20; 1 Cor 1:19; Phil 3:8",
+        "de": "1 Cor 3:19; 3:20; 1 Cor 1:19; Phil 3:8"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "_ Non judicávi me scire áliquid inter vos nisi Jesum Christum, et hunc crucifíxum. Lóquimur Dei sapiéntiam in mystério, quæ abscóndita est, quam prædestinávit Deus ante sǽcula in glóriam nostram. Quam nemo príncipum hujus sǽculi cognóvit. Si enim cognovíssent, numquam Dóminum glóriæ crucifixíssent."
+      },
+      "reference": {
+        "la": "Tractus; 1 Cor 2:2; 2:7-8",
+        "de": "Tractus; 1 Cor 2:2; 2:7-8"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Lucam. In illo témpore: Dixit Jesus discípulis suis: Nihil est opértum, quod non revelétur, neque abscónditum, quod non sciátur. Quóniam quæ in ténebris dixístis, in lúmine dicéntur: et quod in aurem locúti estis in cubículis, prædicábitur in tectis. Dico autem vobis amícis meis: Ne terreámini ab his, qui occidunt corpus et post hæc non habent ámplius, quid fáciant. Osténdam autem vobis, quem timeátis: timéte eum, qui, postquam occídent, habet potestátem míttere in gehénnam; ita dico vobis, hunc timéte. Nonne quinque pásseres véneunt dipóndio, et unus ex illis non est in oblivióne coram Deo? Sed et capílli capitis vestri omnes numeráti sunt. Nolíte ergo timére: multis passéribus pluris estis vos. Dico autem vobis: Omnis, quicúmque conféssus fúerit me coram homínibus, et Fílius hóminis confitébitur illum coram Angelis Dei."
+      },
+      "reference": {
+        "la": "Luc 12:2-8",
+        "de": "Luc 12:2-8"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Non enim judicávi me scire áliquid inter vos, nisi Jesum Christum, et hunc crucifíxum. (Alleluia.)"
+      },
+      "reference": {
+        "la": "1 Cor 2:2;",
+        "de": "1 Cor 2:2;"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Múnera nostra, Dómine Deus, benígnus súscipe: quorum mirábile mystérium sanctus Martyr Iustínus advérsum impiórum calúmnias strénue deféndit."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Repósita est mihi coróna justítiæ, quam reddet mihi Dóminus in illa die justus judex. (Alleluia)"
+      },
+      "reference": {
+        "la": "2 Tim 4:8;",
+        "de": "2 Tim 4:8;"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Cœlésti alimónia refécti, súpplices te, Dómine, deprecámur: ut, beáti Justíni Mártyris tui mónitis, de accéptis donis semper in gratiárum actióne maneámus."
+      }
+    }
+  ]
+}

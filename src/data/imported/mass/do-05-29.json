@@ -1,0 +1,26 @@
+{
+  "id": "do-05-29",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Mariæ Magdalenæ de Pazzis Virginis",
+      "de": "Hl. Maria Magdalena von Pazzi, Jungfrau"
+    },
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, virginitátis amátor, qui beátam Maríam Magdalénam Vírginem, tuo amóre succénsam, cœléstibus donis decorásti: da; ut, quam festíva celebritáte venerámur, puritáte et caritáte imitémur."
+      }
+    }
+  ]
+}

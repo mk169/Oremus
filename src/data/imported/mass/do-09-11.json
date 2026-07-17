@@ -1,0 +1,49 @@
+{
+  "id": "do-09-11",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "Ss. Proti et Hyacinthi Martyrum",
+      "de": "Hll. Protus und Hyazinth, Märtyrer"
+    },
+    "color": "green",
+    "rank": "Simplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Beatórum Mártyrum tuórum Proti et Hyacínthi nos, Dómine, fóveat pretiósa conféssio: et pia júgiter intercéssio tueátur.",
+        "de": "Deiner heiligen Martyrer Protus und Hyazinthus kostbares Bekenntnis des Glaubens lass uns, o Herr, angenehm und segensreich werden: und ihre fromme Fürbitte möge uns ständig vor Schaden bewahren."
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Pro sanctórum Mártyrum tuórum Proti et Hyacínthi commemoratióne, múnera tibi, Dómine, quæ debémus, exsólvimus: præsta, quǽsumus; ut remédium nobis perpétuæ salútis operéntur."
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Ut percépta nos, Dómine, tua sancta puríficent: beatórum Mártyrum tuórum Proti et Hyacínthi, quǽsumus, ímploret orátio."
+      }
+    }
+  ]
+}

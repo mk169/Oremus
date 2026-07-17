@@ -1,0 +1,110 @@
+{
+  "id": "do-05-12",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "Ss. Nerei, Achillei et Domitillæ Virg. atque Pancratii Martyrum",
+      "de": "Hll. Nereus, Achilleus und Domitilla, Jungfrau, sowie Pankratius, Märtyrer"
+    },
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Ecce, óculi Dómini super timéntes eum, sperántes in misericórdia ejus, allelúja: ut erípiat a morte ánimas eórum: quóniam adjútor et protéctor noster est, allelúja, allelúja. Exsultáte, justi, in Dómino: rectos decet collaudátio. Ecce, óculi Dómini super timéntes eum, sperántes in misericórdia ejus, allelúja: ut erípiat a morte ánimas eórum: quóniam adjútor et protéctor noster est, allelúja, allelúja."
+      },
+      "reference": {
+        "la": "Ps 32:18; 32:19; 32:20; Ps 32:1",
+        "de": "Ps 32:18; 32:19; 32:20; Ps 32:1"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Semper nos, Dómine, Mártyrum tuórum Nérei, Achíllei, Domitíllæ atque Pancrátii fóveat, quǽsumus, beáta solémnitas: et tuo dignos reddat obséquio."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio libri Sapiéntiæ Stabunt justi in magna constántia advérsus eos, qui se angustiavérunt et qui abstulérunt labóres eórum. Vidéntes turbabúntur timore horríbili, et mirabúntur in subitatióne insperátæ salútis, dicéntes intra se, pœniténtiam agéntes, et præ angústia spíritus geméntes: Hi sunt, quos habúimus aliquándo in derísum et in similitúdinem impropérii. Nos insensáti vitam illórum æstimabámus insániam, et finem illórum sine honóre: ecce, quómodo computáti sunt inter fílios Dei, et inter Sanctos sors illórum est."
+      },
+      "reference": {
+        "la": "Sap 5:1-5",
+        "de": "Sap 5:1-5"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Allelúja, allelúja. Hæc est vera fratérnitas, quæ vicit mundi crímina: Christum secúta est, ínclita tenens regna cœléstia. Allelúja. Te Mártyrum candidátus laudat exércitus, Dómine. Allelúja."
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Joánnem In illo témpore: Erat quidam régulus, cujus fílius infirmabátur Caphárnaum. Hic cum audísset, quia Jesus adveníret a Judǽa in Galilǽam, ábiit ad eum, et rogábat eum, ut descénderet et sanáret fílium ejus: incipiébat enim mori. Dixit ergo Jesus ad eum: Nisi signa et prodígia vidéritis, non créditis. Dicit ad eum régulus: Dómine, descénde, priúsquam moriátur fílius meus. Dicit ei Jesus: Vade, fílius tuus vivit. Crédidit homo sermóni, quem dixit ei Jesus, et ibat. Jam autem eo descendénte, servi occurrérunt ei et nuntiavérunt, dicéntes, quia fílius ejus víveret. Interrogábat ergo horam ab eis, in qua mélius habúerit. Et dixérunt ei: Quia heri hora séptima relíquit eum febris. Cognóvit ergo pater, quia illa hora erat, in qua dixit ei Jesus: Fílius tuus vivit: et crédidit ipse et domus ejus tota."
+      },
+      "reference": {
+        "la": "Joannes 4:46-53",
+        "de": "Joannes 4:46-53"
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Sanctórum Martyrum tuórum, quǽsumus. Dómine, Nérei, Achíllei, Domitíllæ atque Pancrátii sit tibi grata conféssio: quæ et múnera nostra comméndet, et tuam nobis indulgéntiam semper implóret."
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Quǽsumus, Dómine: ut beatórum Mártyrum tuórum Nérei, Achíllei, Domitíllæ atque Pancrátii deprecatiónibus, sacraménta sancta, quæ súmpsimus, ad tuæ nobis profíciant placatiónis augméntum."
+      }
+    }
+  ]
+}

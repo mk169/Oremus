@@ -1,0 +1,168 @@
+{
+  "id": "do-02-11",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "In Apparitione Beatæ Mariæ Virginis",
+      "de": "In Apparitione Beatæ Mariæ Virginis"
+    },
+    "color": "green",
+    "rank": "Duplex majus"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Vidi civitátem sanctam, Jerúsalem novam, descendéntem de cœlo a Deo, parátam sicut sponsam ornátam viro suo. Eructávit cor meum verbum bonum: dico ego ópera mea Regi. Vidi civitátem sanctam, Jerúsalem novam, descendéntem de cœlo a Deo, parátam sicut sponsam ornátam viro suo."
+      },
+      "reference": {
+        "la": "Apoc 21:2; Ps 44,2.",
+        "de": "Apoc 21:2; Ps 44,2."
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui per immaculátam Vírginis Conceptiónem dignum Filio tuo habitáculum præparásti: súpplices a te quǽsumus; ut, ejúsdem Vírginis Apparitiónem celebrántes, salútem mentis et córporis consequámur."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio libri Apocalýpsis beáti Joánnis Apóstoli Apértum est templum Dei in cœlo: et visa est arca testaménti ejus in templo ejus, et facta sunt fúlgura et voces et terræmótus et grando magna. Et signum magnum appáruit in cœlo: Múlier amícta sole, et luna sub pédibus ejus, et in cápite ejus coróna stellárum duódecim. Et audívi vocem magnam in cœlo dicéntem: Nunc facta est salus et virtus, et regnum Dei nostri et potéstas Christi ejus."
+      },
+      "reference": {
+        "la": "Apoc 11:19; 12:1, 10",
+        "de": "Apoc 11:19; 12:1, 10"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Flores apparuérunt in terra nostra, tempus putatiónis advénit, vox túrturis audíta est in terra nostra. Surge, amíca mea, speciósa mea, et veni: colúmba mea in foramínibus petræ, in cavérna macériæ. Allelúia, allelúia. Osténde mihi fáciem tuam, sonet vox tua in áuribus meis: vox enim tua dulcis, et fácies tua decóra. Allelúia."
+      },
+      "reference": {
+        "la": "Cant 2:12; Cant 2:10 et 14",
+        "de": "Cant 2:12; Cant 2:10 et 14"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Flores apparuérunt in terra nostra, tempus putatiónis advénit, vox túrturis audíta est in terra nostra. Surge, amíca mea, speciósa mea, et veni: colúmba mea in foramínibus petræ, in cavérna macériæ. _ Tu glória Jerúsalem, tu lætítia Israël, tu honorificéntia pópuli nostri. Tota pulchra es, María: et mácula originális non est in te. Felix es, sacra Virgo María, et omni laude digníssima, quæ serpéntis caput virgíneo pede contrivísti."
+      },
+      "reference": {
+        "la": "Cant 2:12; Cant 2:10 et 14; Tractus; Judith 15:10; Cant 4:7",
+        "de": "Cant 2:12; Cant 2:10 et 14; Tractus; Judith 15:10; Cant 4:7"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Lucam In illo témpore: Missus est Angelus Gábriel a Deo in civitátem Galilææ, cui nomen Názareth, ad Vírginem desponsátam viro, cui nomen erat Joseph, de domo David, et nomen Vírginis María. Et ingréssus Angelus ad eam dixit: Ave, grátia plena; Dóminus tecum: benedícta tu in muliéribus. Quæ cum audísset, turbáta est in sermóne ejus: et cogitábat, qualis esset ista salutátio. Et ait Angelus ei: Ne tímeas, María, invenísti enim grátiam apud Deum: ecce, concípies in útero et páries fílium, et vocábis nomen ejus Jesum."
+      },
+      "reference": {
+        "la": "Luc 1:26-31",
+        "de": "Luc 1:26-31"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Ave, grátia plena; Dóminus tecum: benedícta tu in muliéribus."
+      },
+      "reference": {
+        "la": "Luc 1:28",
+        "de": "Luc 1:28"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Hóstia laudis, quam tibi, Dómine, per mérita gloriósæ et immaculátæ Vírginis offérimus, sit tibi in odórem suavitátis, et nobis optátam cónferat córporis et ánimæ sanitátem."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Visitásti terram et inebriásti eam, multiplicásti locupletáre eam."
+      },
+      "reference": {
+        "la": "Ps 64:10",
+        "de": "Ps 64:10"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Quos cœlésti, Dómine, aliménto satiásti, súblevet dextera Genetrícis tuæ immaculátæ: ut ad ætérnam pátriam, ipsa adjuvánte, perveníre mereámur:"
+      }
+    }
+  ]
+}

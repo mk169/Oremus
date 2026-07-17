@@ -1,0 +1,48 @@
+{
+  "id": "do-08-13",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "Ss. Hippolyti et Cassiani Martyrum",
+      "de": "Hll. Hippolytus und Cassian, Märtyrer"
+    },
+    "color": "green",
+    "rank": "Simplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Da, quǽsumus, omnípotens Deus: ut beatórum Mártyrum tuórum Hippolýti et Cassiáni veneránda sollémnitas, et devotiónem nobis áugeat et salútem."
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Réspice, Dómine, múnera pópuli tui, Sanctórum festivitáte votíva: et tuæ testificátio veritátis nobis profíciat ad salútem."
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Sacramentórum tuórum, Dómine, commúnio sumpta nos salvet: et in tuæ veritátis luce confírmet."
+      }
+    }
+  ]
+}

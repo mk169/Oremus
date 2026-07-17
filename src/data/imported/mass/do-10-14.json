@@ -1,0 +1,48 @@
+{
+  "id": "do-10-14",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Callisti Papæ et Martyris",
+      "de": "Hl. Kallistus, Papst und Martyrer"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui nos cónspicis ex nostra infirmitáte defícere: ad amórem tuum nos misericórditer per Sanctórum tuórum exémpla restáura."
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Mýstica nobis, Dómine, prosit oblátio: quæ nos et a reátibus nostris expédiat, et perpétua salvatióne confírmet."
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Quǽsumus, omnípotens Deus: ut reátus nostros múnera sacráta puríficent, et recte vivéndi nobis operéntur efféctum."
+      }
+    }
+  ]
+}

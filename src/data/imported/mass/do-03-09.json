@@ -1,0 +1,27 @@
+{
+  "id": "do-03-09",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Franciscæ Romanæ Viduæ",
+      "de": "Hl. Franziska von Rom, Witwe"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui beátam Francíscam fámulam tuam, inter cétera grátiæ tuæ dona, familiári Angeli consuetúdine decorásti: concéde, quǽsumus; ut, intercessiónis ejus auxílio, Angelórum consórtium cónsequi mereámur.",
+        "de": "O Gott, der du deine heilige Dienerin Franziska unter anderen Gaben deiner Huld durch einen vertraulichen Umgang mit dem Engel ausgezeichnet hast, verleihe uns, wir bitten dich, die Gnade, daß wir mit Hilfe ihrer Fürsprache würdig werden, zur Gemeinschaft mit den Engeln zu gelangen."
+      }
+    }
+  ]
+}

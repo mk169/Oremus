@@ -1,0 +1,26 @@
+{
+  "id": "do-07-15",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Henrici Imperatoris Confessoris",
+      "de": "Hl. Heinrich, Kaiser und Bekenner"
+    },
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui hodiérna die beátum Henrícum Confessórem tuum e terréni cúlmine impérii ad regnum ætérnum transtulísti: te súpplices exorámus; ut, sicut illum, grátiæ tuæ ubertáte prævéntum, illécebras sǽculi superáre fecísti, ita nos fácias, ejus imitatióne, mundi hujus blandiménta vitáre, et ad te puris méntibus perveníre."
+      }
+    }
+  ]
+}

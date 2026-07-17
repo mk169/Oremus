@@ -1,0 +1,150 @@
+{
+  "id": "do-07-20",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Hieronymi Æmiliani Confessoris",
+      "de": "Hl. Hieronymus Emilianus, Bekenner"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Effúsum est in terra jecur meum super contritióne fíliæ pópuli mei, cum defíceret párvulus et lactens in platéis óppidi. Laudáte, pueri, Dóminum: laudáte nomen Dómini. Effúsum est in terra jecur meum super contritióne fíliæ pópuli mei, cum defíceret párvulus et lactens in platéis óppidi."
+      },
+      "reference": {
+        "la": "Thren 2:11; Ps 112:1",
+        "de": "Thren 2:11; Ps 112:1"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, misericordiárum pater, per mérita et intercessiónem beáti Hieronymi, quem órphanis adjutorem et patrem esse voluísti: concéde; ut spíritum adoptiónis, quo fílii tui nominámur et sumus, fidéliter custodiámus."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Isaíæ Prophétæ Hæc dicit Dóminus: Frange esuriénti panem tuum, et egénos vagósque induc in domum tuam: cum víderis nudum, operi eum, et carnem tuam ne despéxeris. Tunc erúmpet quasi mane lumen tuum, et sánitas tua citius oriétur, et anteíbit fáciem tuam justítia tua, et glória Dómini cólliget te. Tunc invocábis, et Dóminus exáudiet: clamabis, et dicet: Ecce, adsum; si abstúleris de médio tui caténam, et desíeris exténdere dígitum, et loqui quod non prodest. Cum effúderis esuriénti ánimam tuam, et ánimam afflíctam repléveris. Oriétur in tenebris lux tua, et ténebræ tuæ erunt sicut merídies. Et réquiem tibi dabit Dóminus semper, et implébit splendóribus ánimam tuam, et ossa tua liberábit, et eris quasi hortus irríguus, et sicut fons aquárum, cujus non defícient aquæ."
+      },
+      "reference": {
+        "la": "Is 58:7-11.",
+        "de": "Is 58:7-11."
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Derivéntur fontes tui foras, et in platéis aquas tuas divide. Jucúndus homo, qui miserétur et cómmodat: dispónet sermónes suos in judício, quia in ætérnum non commovébitur. Allelúja, allelúja. Dispérsit, dedit paupéribus: justítia ejus manet in sǽculum sǽculi. Allelúja."
+      },
+      "reference": {
+        "la": "Prov 5:16; Ps 111:5-6; Ps 111:9",
+        "de": "Prov 5:16; Ps 111:5-6; Ps 111:9"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Obláti sunt Jesu párvuli, ut manus eis impóneret et oráret. ¶ Discípuli autem increpábant eos. Jesus vero ait eis: Sínite párvulos, et nolíte eos prohibére ad me veníre: tálium est enim regnum cœlórum. Et cum imposuísset eis manus, ábiit inde. Et ecce, unus accedens, ait illi: Magíster bone, quid boni fáciam, ut hábeam vitam ætérnam? Qui dixit ei: Quid me intérrogas de bono? Unus est bonus, Deus. Si autem vis ad vitam íngredi, serva mandáta. Dicit illi: Quæ? Jesus autem dixit: Non homicídium fácies: Non adulterábis: Non fácies furtum: Non falsum testimónium dices: Hónora patrem tuum et matrem tuam, et díliges próximum tuum sicut te ipsum. Dicit illi adoléscens: Omnia hæc custodívi a juventúte mea: quid adhuc mihi deest? Ait illi Jesus: Si vis perféctus esse, vade, vende, quæ habes, et da paupéribus, et habébis thesáurum in cœlo: et veni, séquere me."
+      },
+      "reference": {
+        "la": "Matt 19:13-21",
+        "de": "Matt 19:13-21"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Quando orábas cum lácrimis, et sepeliébas mórtuos, et derelinquébas prándium tuum, et mórtuos abscondébas per diem in domo tua, et nocte sepeliébas eos: ego óbtuli oratiónem tuam Dómino."
+      },
+      "reference": {
+        "la": "Tob 12:12",
+        "de": "Tob 12:12"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Clementíssime Deus, qui, véteri homine consúmpto, novum secúndum te in beáto Hierónymo creáre dignátus es: da, per mérita ipsíus; ut nos, páriter renováti, hanc placatiónis hóstiam in odórem tibi suavíssimum offerámus."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Relígio munda et immaculáta apud Deum et Patrem hæc est: Visitáre pupíllos et víduas in tribulatióne eórum, et immaculátum se custodíre ab hoc sǽculo."
+      },
+      "reference": {
+        "la": "Jac 1:27",
+        "de": "Jac 1:27"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Angelórum pane refécti te, Dómine, supplíciter deprecámur: ut, qui ánnuam beáti Hierónymi Confessóris tui memóriam celebráre gaudémus; ejúsdem étiam et exémplum imitémur, et amplíssimum in regno tuo præmium obtinére valeámus."
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "do-05-05",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Pii V Papæ et Confessoris",
+      "de": "Hl. Pius V., Papst und Bekenner"
+    },
+    "color": "green",
+    "rank": "Duplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui, ad conteréndos Ecclésiæ tuæ hostes et ad divínum cultum reparándum, beátum Pium Pontíficem Máximum elígere dignátus es: fac nos ipsíus deféndi præsídiis et ita tuis inhærére obséquiis; ut, ómnium hóstium superátis insídiis, perpétua pace lætémur. [Secreta] (nisi rubrica 196) [Postcommunio] (nisi rubrica 196)"
+      }
+    }
+  ]
+}

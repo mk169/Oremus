@@ -1,0 +1,135 @@
+{
+  "id": "do-08-16",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Joachim Confessoris, Patris B. M. V.",
+      "de": "Hl. Joachim, Bekenner, Vater der Seligen Jungfrau Maria"
+    },
+    "color": "green",
+    "rank": "Duplex II classis"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Dispérsit, dedit paupéribus: justítia ejus manet in sǽculum sǽculi: cornu ejus exaltábitur in glória. Beátus vir, qui timet Dóminum: in mandátis ejus cupit nimis. Dispérsit, dedit paupéribus: justítia ejus manet in sǽculum sǽculi: cornu ejus exaltábitur in glória."
+      },
+      "reference": {
+        "la": "Ps 111:9; Ps 111:1",
+        "de": "Ps 111:9; Ps 111:1"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui præ ómnibus Sanctis tuis beátum Jóachim Genetrícis Fílii tui patrem esse voluísti: concéde, quǽsumus; ut, cujus festa venerámur, ejus quoque perpétuo patrocínia sentiámus."
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Dispérsit, dedit paupéribus: justítia ejus manet in sǽculum sǽculi. Potens in terra erit semen ejus: generátio rectórum benedicétur. Allelúja, allelúja. O Jóachim, sanctæ conjux Annæ, pater almæ Vírginis, hic fámulis ferto salútis opem. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 111:9; 111:2",
+        "de": "Ps 111:9; 111:2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Desidérium ánimæ ejus tribuísti ei: et voluntáte labiórum ejus non fraudásti eum. Quóniam prævenísti eum in benedictiónibus dulcédinis. Posuísti in cápite ejus corónam de lápide pretióso."
+      },
+      "reference": {
+        "la": "Ps 20:3-4",
+        "de": "Ps 20:3-4"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Initium ++ sancti Evangélii secúndum Matthǽum Liber generatiónis Jesu Christi, fílii David, fílii Abraham. Abraham génuit Isaac. Isaac autem génuit Jacob. Jacob autem génuit Judam et fratres ejus. Judas autem génuit Phares et Zaram de Thamar. Phares autem génuit Esron. Esron autem génuit Aram. Aram autem génuit Amínadab. Amínadab autem génuit Naásson. Naásson autem génuit Salmon. Salmon autem génuit Booz de Rahab. Booz autem génuit Obed ex Ruth. Obed autem génuit Jesse. Jesse autem génuit David regem. David autem rex génuit Salomónem ex ea, quæ fuit Uriæ. Sálomon autem génuit Róboam. Róboam autem génuit Abíam. Abías autem génuit Asa. Asa autem génuit Jósaphat. Jósaphat autem génuit Joram. Joram autem génuit Ozíam. Ozías autem génuit Jóatham. Jóatham autem génuit Achaz. Achaz autem génuit Ezechíam. Ezechías autem génuit Manássen. Manásses autem génuit Amon. Amon autem génuit Josíam. Josías autem génuit Jechoníam et fratres ejus in transmigratióne Babylónis. Et post transmigratiónem Babylónis: Jechonías génuit Saláthiel. Saláthiel autem génuit Zoróbabel. Zoróbabel autem génuit Abiud. Abiud autem génuit Elíacim. Elíacim autem génuit Azor. Azor autem génuit Sadoc. Sadoc autem génuit Achim. Achim autem génuit Eliud. Eliud autem génuit Eleázar. Eleázar autem génuit Mathan. Mathan autem génuit Jacob. Jacob autem génuit Joseph, virum Maríæ, de qua natus est Jesus, qui vocátur Christus."
+      },
+      "reference": {
+        "la": "Matt 1:1-16",
+        "de": "Matt 1:1-16"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Glória et honóre coronásti eum: et constituísti eum super ópera mánuum tuárum, Dómine."
+      },
+      "reference": {
+        "la": "Ps 8:6-7",
+        "de": "Ps 8:6-7"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Súscipe, clementíssime Deus, sacrifícium in honórem sancti Patriarchæ Jóachim, patris Maríæ Vírginis, majestáti tuæ oblátum: ut, ipso cum cónjuge sua et beatíssima prole intercedénte, perféctam cónsequi mereámur remissiónem peccatórum et glóriam sempitérnam."
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Quǽsumus, omnípotens Deus: ut per hæc sacraménta, quæ súmpsimus, intercedéntibus méritis et précibus beáti Jóachim patris Genetrícis dilécti Fílii tui, Dómini nostri Jesu Christi, tuæ grátiæ in præsénti et ætérnæ glóriæ in futúro partícipes esse mereámur."
+      }
+    }
+  ]
+}

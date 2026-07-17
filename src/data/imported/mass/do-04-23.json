@@ -1,0 +1,48 @@
+{
+  "id": "do-04-23",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Georgii Martyris",
+      "de": "Hl. Georg, Martyrer"
+    },
+    "color": "green",
+    "rank": "Semiduplex"
+  },
+  "sections": [
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui nos beáti Geórgii Mártyris tui méritis et intercessióne lætíficas: concéde propítius; ut, qui tua per eum benefícia póscimus, dono tuæ grátiæ consequámur."
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Múnera, Dómine, obláta sanctífica: et, intercedénte beáto Geórgio Mártyre tuo, nos per hæc a peccatórum nostrórum máculis emúnda."
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Súpplices te rogámus, omnípotens Deus: ut, quos tuis réficis sacraméntis, intercedénte beáto Geórgio Mártyre tuo, tibi étiam plácitis móribus dignánter tríbuas deservíre."
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "do-06-15",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "Ss. Viti, Modesti atque Crescentiæ Martyrum",
+      "de": "Hll. Vitus, Modestus und Crescentia, Märtyrer"
+    },
+    "color": "green",
+    "rank": "Simplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Multæ tribulatiónes justórum, et de his ómnibus liberávit eos Dóminus: Dóminus custódit ómnia ossa eórum: unum ex his non conterétur. Benedícam Dóminum in omni témpore: semper laus ejus in ore meo. Multæ tribulatiónes justórum, et de his ómnibus liberávit eos Dóminus: Dóminus custódit ómnia ossa eórum: unum ex his non conterétur."
+      },
+      "reference": {
+        "la": "Ps 33:20-21; Ps 33:2",
+        "de": "Ps 33:20-21; Ps 33:2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Da Ecclésiæ tuæ, quǽsumus, Dómine, sanctis Martýribus tuis Vito, Modésto atque Crescéntia intercedéntibus, supérbe non sápere, sed tibi plácita humilitáte profícere: ut, prava despíciens, quæcúmque recta sunt, libera exérceat caritáte."
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Exsultábunt Sancti in glória: lætabúntur in cubílibus suis. Cantáte Dómino cánticum novum: laus ejus in ecclésia sanctórum. Allelúja, allelúja. Sancti tui, Dómine, benedícent te: glóriam regni tui dicent. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 149:5; 149:1; Ps 144:10-11",
+        "de": "Ps 149:5; 149:1; Ps 144:10-11"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Lucam In illo témpore: Dixit Jesus discípulis suis: Qui vos audit, me audit: et qui vos spernit, me spernit. Qui autem me spernit, spernit eum, qui misit me. Revérsi sunt autem septuagínta duo cum gáudio, dicéntes: Dómine, étiam dæmónia subjiciúntur nobis in nómine tuo. Et ait illis: Vidébam sátanam sicut fulgur de cœlo cadéntem. Ecce, dedi vobis potestátem calcandi supra serpéntes et scorpiónes, et super omnem virtútem inimíci: et nihil vobis nocébit. Verúmtamen in hoc nolíte gaudére, quia spíritus vobis subjiciúntur: gaudéte autem, quod nómina vestra scripta sunt in cœlis."
+      },
+      "reference": {
+        "la": "Luc 10:16-20",
+        "de": "Luc 10:16-20"
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Sicut glóriam divínæ poténtiæ múnera pro Sanctis obláta testántur: sic nobis efféctum, Dómine, tuæ salvatiónis impéndant."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Justórum ánimæ in manu Dei sunt, et non tanget illos torméntum malítiæ: visi sunt óculis insipiéntium mori: illi autem sunt in pace."
+      },
+      "reference": {
+        "la": "Sap 3:1-2; 3:3",
+        "de": "Sap 3:1-2; 3:3"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Repléti, Dómine, benedictióne sollémni: quǽsumus; ut, per intercessiónem sanctórum Mártyrum tuórum Viti, Modésti et Crescéntiæ, medicína sacraménti et corpóribus nostris prosit et méntibus."
+      }
+    }
+  ]
+}
