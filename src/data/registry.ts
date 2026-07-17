@@ -10,6 +10,7 @@ import { komplet1962, kompletNeu } from './office/komplet'
 import importedMassIndex from './imported/mass/index.json'
 import importedOfficeIndex from './imported/office/index.json'
 import weekIndexJson from './imported/office/week/week-index.json'
+import { resolveCelebration } from './liturgicalCalendar'
 import type { Hour, LiturgicalForm, MassFormulary } from './types'
 
 export const massByForm: Record<LiturgicalForm, MassFormulary> = {
@@ -78,4 +79,22 @@ export const hoursByForm: Record<LiturgicalForm, Hour[]> = {
 export const FORM_LABEL: Record<LiturgicalForm, { de: string; la: string }> = {
   '1962': { de: 'Überlieferte Form (1962)', la: 'Forma extraordinaria' },
   novusOrdo: { de: 'Ordentliche Form (Novus Ordo)', la: 'Forma ordinaria' },
+}
+
+// ---- Datum → Tagesformular ---------------------------------------------
+// Verbindet die Kalender-Engine mit den importierten Formularen: die Feier
+// des Tages (resolveCelebration) liefert Kandidat-IDs, die hier gegen den
+// tatsächlich vorhandenen Bestand geprüft werden. Nur existierende IDs werden
+// zurückgegeben – so bleiben Kalenderlinks stets gültig.
+
+/** Messformular-ID für ein Datum in der gewählten Form (oder undefined). */
+export function massIdForDate(date: Date, form: LiturgicalForm): string | undefined {
+  const id = resolveCelebration(date, form).massIdCandidate
+  return id && id in importedMassById ? id : undefined
+}
+
+/** Offiziums-ID für ein Datum in der gewählten Form (oder undefined). */
+export function officeIdForDate(date: Date, form: LiturgicalForm): string | undefined {
+  const id = resolveCelebration(date, form).officeIdCandidate
+  return id && id in importedOfficeById ? id : undefined
 }

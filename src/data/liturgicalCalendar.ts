@@ -18,6 +18,10 @@ export interface Celebration {
   season: string
   /** Mitgefeierte Gedächtnisse (Kommemorationen). */
   commemorations?: BilingualText[]
+  /** Kandidat-ID des Tagesmessformulars (do-*), ungeprüft. */
+  massIdCandidate?: string
+  /** Kandidat-ID des Tagesoffiziums (do-*), ungeprüft. */
+  officeIdCandidate?: string
 }
 
 // ---- Datums-Hilfen ------------------------------------------------------
@@ -165,6 +169,14 @@ export function resolveCelebration(date: Date, form: LiturgicalForm): Celebratio
   if (sol) {
     const sanct = sanctoraleFor(d)
     if (sanct) sol.commemorations = [{ la: sanct.la, de: sanct.de }]
+    // Nur Ostern und Palmsonntag haben ein eigenes importiertes Formular.
+    if (sameDay(d, m.easter)) {
+      sol.massIdCandidate = 'do-Pasc0-0'
+      sol.officeIdCandidate = 'do-Pasc0-0'
+    } else if (sameDay(d, m.palmSunday)) {
+      sol.massIdCandidate = 'do-Quad6-0'
+      sol.officeIdCandidate = 'do-Quad6-0'
+    }
     return sol
   }
 
@@ -172,12 +184,15 @@ export function resolveCelebration(date: Date, form: LiturgicalForm): Celebratio
   const season = seasonName(d, m, form)
   const temporal = temporalTitle(d, m, form, isSunday, dow)
   const tCls = temporalClass(d, m, isSunday)
+  const tempId = temporalFormularyId(d, m)
   const temporalCel: Celebration = {
     form,
     title: temporal,
     color: season.color,
     season: season.de,
     rank: isSunday ? `Sonntag · ${CLASS_LABEL[tCls]}` : undefined,
+    massIdCandidate: tempId,
+    officeIdCandidate: tempId,
   }
 
   // 3) Sanktorale (Heiligenkalender) und Präzedenz.
@@ -192,6 +207,10 @@ export function resolveCelebration(date: Date, form: LiturgicalForm): Celebratio
     if (isSunday) commemorations.push({ la: temporal.la, de: temporal.de })
     // Eigene Gedächtnisse des Festes.
     if (sanct.comm) for (const c of sanct.comm) commemorations.push({ la: c.la, de: c.de })
+    // Messformular des Heiligen (do-MM-DD), falls vorhanden. Für Heilige gibt
+    // es kein eigenes Offizium im Bestand.
+    const mm = String(sanct.m).padStart(2, '0')
+    const dd = String(sanct.d).padStart(2, '0')
     return {
       form,
       title: { la: sanct.la, de: sanct.de },
@@ -199,6 +218,7 @@ export function resolveCelebration(date: Date, form: LiturgicalForm): Celebratio
       color: sanct.color,
       season: season.de,
       commemorations: commemorations.length ? commemorations : undefined,
+      massIdCandidate: `do-${mm}-${dd}`,
     }
   }
 
@@ -293,6 +313,51 @@ function temporalTitle(d: Date, m: Movable, form: LiturgicalForm, isSunday: bool
   // Weihnachtszeit / Septuagesima / Fallback
   if (isSunday) return { la: 'Dominica', de: 'Sonntag' }
   return { la: WEEKDAY_LA[dow], de: 'Wochentag' }
+}
+
+/**
+ * ID des temporalen Tagesmessformulars (`do-<Saison><Woche>-0`), sofern eines
+ * existieren kann. Nur Sonntage (die importierten Temporalformulare enden auf
+ * `-0`). Die Rechnung spiegelt `temporalTitle` und verwendet stets die
+ * überlieferte (1962er) Zählung, da alle importierten Formulare 1962 sind.
+ * Rückgabe ist ein *Kandidat* – die Existenz wird in der Registry geprüft.
+ */
+function temporalFormularyId(d: Date, m: Movable): string | undefined {
+  if (d.getDay() !== 0) return undefined // nur Sonntagsformulare (…-0)
+  const year = d.getFullYear()
+  const christmas = new Date(year, 11, 25)
+
+  // Advent (Adv1–Adv4)
+  if (d >= m.adventThisYear && d < christmas) {
+    const n = Math.floor(diffDays(d, m.adventThisYear) / 7) + 1
+    return `do-Adv${n}-0`
+  }
+  // Weihnachtszeit – Sonntag in der Weihnachtsoktav (Nat1)
+  if (d >= christmas || d < new Date(year, 0, 6)) return 'do-Nat1-0'
+  // Vorfastenzeit / Septuagesima (Quadp1–Quadp3)
+  if (d >= m.septuagesima && d < m.ashWed) {
+    const n = Math.floor(diffDays(d, m.septuagesima) / 7) + 1
+    return `do-Quadp${n}-0`
+  }
+  // Fasten- & Passionssonntage (Quad1–Quad6; Passion=5, Palm=6)
+  if (d >= m.ashWed && d < m.easter) {
+    const n = Math.floor(diffDays(d, addDays(m.ashWed, 4)) / 7) + 1
+    return `do-Quad${n}-0`
+  }
+  // Osterzeit (Pasc0=Ostern, Pasc1=Weißer Sonntag …)
+  if (d >= m.easter && d <= m.pentecost) {
+    const n = Math.floor(diffDays(d, m.easter) / 7) + 1
+    return `do-Pasc${n - 1}-0`
+  }
+  // Zeit nach Erscheinung (Epi1–Epi6)
+  if (d < m.septuagesima) {
+    const n = Math.max(1, Math.floor(diffDays(d, addDays(new Date(year, 0, 6), 1)) / 7) + 1)
+    return `do-Epi${n}-0`
+  }
+  // Zeit nach Pfingsten (Pent01–Pent24, zweistellig)
+  const n = Math.floor(diffDays(d, m.pentecost) / 7)
+  if (n >= 1) return `do-Pent${String(n).padStart(2, '0')}-0`
+  return undefined
 }
 
 /** Übersicht: die nächsten `count` Tage ab `from` in der gewünschten Form. */

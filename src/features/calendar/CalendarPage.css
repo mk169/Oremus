@@ -91,6 +91,39 @@
   margin-top: 0.1rem;
 }
 
+.cal-row__title--link {
+  text-decoration: none;
+  color: var(--accent);
+  transition: color 0.15s ease;
+}
+
+.cal-row__title--link:hover {
+  color: var(--gold);
+  text-decoration: underline;
+}
+
+.cal-row__links {
+  display: flex;
+  gap: 0.6rem;
+  margin-top: 0.25rem;
+}
+
+.cal-row__link {
+  font-size: 0.78rem;
+  font-variant: small-caps;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+  color: var(--gold);
+  border: 1px solid var(--surface-line);
+  border-radius: 999px;
+  padding: 0.05rem 0.6rem;
+  transition: background 0.15s ease;
+}
+
+.cal-row__link:hover {
+  background: var(--oxblood);
+}
+
 /* Jahresansicht */
 .cal-year__nav {
   display: flex;

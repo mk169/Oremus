@@ -1,4 +1,5 @@
 import { useMemo, useState } from 'react'
+import { Link } from 'react-router-dom'
 import { PageHeader } from '../../components/PageHeader'
 import {
   upcomingCelebrations,
@@ -7,7 +8,7 @@ import {
 } from '../../data/liturgicalCalendar'
 import type { SeasonColor } from '../../data/calendar'
 import type { LiturgicalForm } from '../../data/types'
-import { FORM_LABEL } from '../../data/registry'
+import { FORM_LABEL, massIdForDate, officeIdForDate } from '../../data/registry'
 import './CalendarPage.css'
 
 const COLOR_VAR: Record<SeasonColor, string> = {
@@ -54,18 +55,28 @@ function CalendarRow({
   entry,
   label,
   today,
+  form,
 }: {
   entry: CalendarDay
   label: string
   today: boolean
+  form: LiturgicalForm
 }) {
-  const { cel } = entry
+  const { cel, date } = entry
+  const massId = massIdForDate(date, form)
+  const officeId = officeIdForDate(date, form)
   return (
     <li className={`cal-row ${today ? 'is-today' : ''}`}>
       <span className="cal-row__date">{label}</span>
       <span className="cal-row__dot" style={{ background: COLOR_VAR[cel.color] }} aria-hidden />
       <span className="cal-row__body">
-        <span className="cal-row__title">{cel.title.de}</span>
+        {massId ? (
+          <Link to={`/liturgie/formular/${massId}`} className="cal-row__title cal-row__title--link">
+            {cel.title.de}
+          </Link>
+        ) : (
+          <span className="cal-row__title">{cel.title.de}</span>
+        )}
         <span className="cal-row__meta">
           {cel.rank ? `${cel.rank} · ` : ''}
           {cel.season}
@@ -73,6 +84,20 @@ function CalendarRow({
         {cel.commemorations && cel.commemorations.length > 0 && (
           <span className="cal-row__comm">
             Gedächtnis: {cel.commemorations.map((c) => c.de).join(' · ')}
+          </span>
+        )}
+        {(massId || officeId) && (
+          <span className="cal-row__links">
+            {massId && (
+              <Link to={`/liturgie/formular/${massId}`} className="cal-row__link">
+                Messe
+              </Link>
+            )}
+            {officeId && (
+              <Link to={`/brevier/proprium/${officeId}`} className="cal-row__link">
+                Offizium
+              </Link>
+            )}
           </span>
         )}
       </span>
@@ -140,6 +165,7 @@ export function CalendarPage() {
               entry={{ date, cel }}
               label={i === 0 ? 'Heute' : fmt.format(date)}
               today={i === 0}
+              form={form}
             />
           ))}
         </ol>
@@ -167,6 +193,7 @@ export function CalendarPage() {
                     entry={{ date, cel }}
                     label={`${weekdayFmt.format(date)} ${date.getDate()}.`}
                     today={isSameDate(date, today)}
+                    form={form}
                   />
                 ))}
               </ol>
