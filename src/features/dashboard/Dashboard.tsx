@@ -1,8 +1,10 @@
 import { useState } from 'react'
+import { Link } from 'react-router-dom'
 import { Tile } from '../../components/Tile'
 import { BookIcon, ChaliceIcon, CandleIcon, CrossIcon } from '../../components/Icons'
 import { getLiturgicalDayInfo } from '../../data/calendar'
 import { resolveCelebration } from '../../data/liturgicalCalendar'
+import { massIdForDate } from '../../data/registry'
 import type { SeasonColor } from '../../data/calendar'
 import './Dashboard.css'
 
@@ -21,6 +23,8 @@ export function Dashboard() {
   const day = getLiturgicalDayInfo()
   const cel1962 = resolveCelebration(day.date, '1962')
   const celNO = resolveCelebration(day.date, 'novusOrdo')
+  const massIdNO = massIdForDate(day.date, 'novusOrdo')
+  const massId1962 = massIdForDate(day.date, '1962')
   const [heroOk, setHeroOk] = useState(true)
 
   return (
@@ -49,13 +53,25 @@ export function Dashboard() {
           <li>
             <span className="daybar__dot" style={{ background: COLOR_VAR[celNO.color] }} aria-hidden />
             <span className="daybar__form-label smallcaps">Novus Ordo</span>
-            <span className="daybar__cel">{celNO.title.de}</span>
+            {massIdNO ? (
+              <Link to={`/liturgie/formular/${massIdNO}`} className="daybar__cel daybar__cel--link">
+                {celNO.title.de}
+              </Link>
+            ) : (
+              <span className="daybar__cel">{celNO.title.de}</span>
+            )}
             {celNO.rank && <span className="daybar__rank">{celNO.rank}</span>}
           </li>
           <li>
             <span className="daybar__dot" style={{ background: COLOR_VAR[cel1962.color] }} aria-hidden />
             <span className="daybar__form-label smallcaps">1962</span>
-            <span className="daybar__cel">{cel1962.title.de}</span>
+            {massId1962 ? (
+              <Link to={`/liturgie/formular/${massId1962}`} className="daybar__cel daybar__cel--link">
+                {cel1962.title.de}
+              </Link>
+            ) : (
+              <span className="daybar__cel">{cel1962.title.de}</span>
+            )}
             {cel1962.rank && <span className="daybar__rank">{cel1962.rank}</span>}
           </li>
         </ul>

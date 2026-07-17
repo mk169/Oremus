@@ -1,6 +1,13 @@
+.cal-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  align-items: center;
+  margin-bottom: 1.2rem;
+}
+
 .cal-forms {
   display: inline-flex;
-  margin-bottom: 1.2rem;
   border: 1px solid var(--surface-line);
   border-radius: 999px;
   overflow: hidden;
@@ -75,6 +82,95 @@
 .cal-row__meta {
   color: var(--text-muted);
   font-size: 0.82rem;
+}
+
+.cal-row__comm {
+  color: var(--text-muted);
+  font-size: 0.8rem;
+  font-style: italic;
+  margin-top: 0.1rem;
+}
+
+.cal-row__title--link {
+  text-decoration: none;
+  color: var(--accent);
+  transition: color 0.15s ease;
+}
+
+.cal-row__title--link:hover {
+  color: var(--gold);
+  text-decoration: underline;
+}
+
+.cal-row__links {
+  display: flex;
+  gap: 0.6rem;
+  margin-top: 0.25rem;
+}
+
+.cal-row__link {
+  font-size: 0.78rem;
+  font-variant: small-caps;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+  color: var(--gold);
+  border: 1px solid var(--surface-line);
+  border-radius: 999px;
+  padding: 0.05rem 0.6rem;
+  transition: background 0.15s ease;
+}
+
+.cal-row__link:hover {
+  background: var(--oxblood);
+}
+
+/* Jahresansicht */
+.cal-year__nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.2rem;
+  margin: 0.4rem 0 1.4rem;
+}
+
+.cal-year__nav button {
+  width: 2.2rem;
+  height: 2.2rem;
+  border-radius: 50%;
+  border: 1px solid var(--surface-line);
+  background: transparent;
+  color: var(--accent);
+  font-size: 1.3rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.cal-year__nav button:hover {
+  background: var(--oxblood);
+  color: var(--gold);
+}
+
+.cal-year__label {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  color: var(--accent);
+  min-width: 4rem;
+  text-align: center;
+}
+
+.cal-month {
+  margin-bottom: 1.6rem;
+}
+
+.cal-month__title {
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  color: var(--gold);
+  font-variant: small-caps;
+  letter-spacing: 0.05em;
+  margin: 0 0 0.4rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--surface-line);
 }
 
 .cal-note {
