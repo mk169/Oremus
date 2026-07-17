@@ -2,6 +2,12 @@ import type { LiturgicalSection, MassFormulary } from '../types'
 import { ordinarium1962 } from './ordinarium1962'
 import { aspersionFor } from './asperges'
 import { kyrialeMasses, kyrialeCredos } from '../kyriale'
+import { stufengebet } from './ordoStufengebet'
+import { salutatioAnteOrationem, mundaCor, perEvangelica } from './ordoWortgottesdienst'
+import { salutatioOffertorium, offertoriumGebete } from './ordoOffertorium'
+import { praefatioSanctus, canonRomanus } from './ordoCanon'
+import { paterNosterIntro, postPaterNoster, postAgnus } from './ordoCommunio'
+import { salutatioPostcommunio, salutatioAnteIte, conclusio } from './ordoConclusio'
 
 const ORD = Object.fromEntries(ordinarium1962.map((s) => [s.id, s]))
 
@@ -68,6 +74,55 @@ export function buildFullMass(proper: MassFormulary, opts: BuildOptions = {}): M
     p.communio,
     p.postcommunio,
     ORD['ite-missa-est'],
+  ]
+  return { ...proper, sections: seq.filter((s): s is LiturgicalSection => Boolean(s)) }
+}
+
+/**
+ * Setzt das **vollständige Ordo Missae 1962** zusammen: die festen Gebete des
+ * Ordo (Stufengebet, Opferung, Kanon, Kommunion, Schlussevangelium – jedes
+ * Gebet ein eigener Abschnitt, mit allen Dialogen/Antworten) verwoben mit dem
+ * **Tagesproprium** (importiertes Formular) an den richtigen Stellen und dem
+ * **gewählten Kyriale** (Kyrie/Gloria/Credo/Sanctus/Agnus mit echter Melodie).
+ * Sonntägliche Formulare beginnen mit der Besprengung (Asperges / Vidi aquam).
+ */
+export function buildOrdo1962(proper: MassFormulary, opts: BuildOptions = {}): MassFormulary {
+  const p = Object.fromEntries(proper.sections.map((s) => [s.id, s]))
+  const isSunday = /-0$/.test(proper.id.replace(/^do-/, ''))
+  const seq: (LiturgicalSection | undefined)[] = [
+    isSunday ? aspersionFor(proper.id) : undefined,
+    ...stufengebet,
+    p.introitus,
+    ordinaryPart('kyrie', opts),
+    ordinaryPart('gloria', opts),
+    ...salutatioAnteOrationem,
+    p.collecta,
+    p.lectio ?? p.epistola,
+    p.graduale,
+    p.tractus ?? p.alleluia,
+    p.sequentia,
+    ...mundaCor,
+    p.evangelium,
+    ...perEvangelica,
+    ordinaryPart('credo', opts),
+    ...salutatioOffertorium,
+    p.offertorium,
+    ...offertoriumGebete,
+    p.secreta,
+    ...praefatioSanctus,
+    ordinaryPart('sanctus', opts),
+    ...canonRomanus,
+    ...paterNosterIntro,
+    ORD['pater-noster'],
+    ...postPaterNoster,
+    ordinaryPart('agnus', opts),
+    ...postAgnus,
+    p.communio,
+    ...salutatioPostcommunio,
+    p.postcommunio,
+    ...salutatioAnteIte,
+    ORD['ite-missa-est'],
+    ...conclusio,
   ]
   return { ...proper, sections: seq.filter((s): s is LiturgicalSection => Boolean(s)) }
 }

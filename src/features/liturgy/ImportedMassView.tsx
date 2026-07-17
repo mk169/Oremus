@@ -1,6 +1,6 @@
 import { Link, useParams } from 'react-router-dom'
 import { importedMassById } from '../../data/registry'
-import { buildFullMass } from '../../data/mass/buildMass'
+import { buildOrdo1962 } from '../../data/mass/buildMass'
 import { useSettings } from '../../context/SettingsContext'
 import { MassArticle } from './MassArticle'
 
@@ -17,7 +17,7 @@ export function ImportedMassView() {
       </p>
     )
   }
-  const mass = buildFullMass(proper, { ordinaryId, credoId })
+  const mass = buildOrdo1962(proper, { ordinaryId, credoId })
   const subtitle = `Überlieferte Form (1962)${mass.day.rank ? ' · ' + mass.day.rank : ''}`
   return <MassArticle mass={mass} subtitle={subtitle} showOrdinary />
 }
