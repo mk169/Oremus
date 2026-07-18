@@ -12,6 +12,24 @@
   },
   "sections": [
     {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Intret in conspéctu tuo, Dómine, gémitus compeditórum: redde vicínis nostris séptuplum in sinu eórum: víndica sánguinem Sanctórum tuórum, qui effúsus est. Deus, venérunt gentes in hereditátem tuam: polluérunt templum sanctum tuum: posuérunt Jerúsalem in pomórum custódiam. Intret in conspéctu tuo, Dómine, gémitus compeditórum: redde vicínis nostris séptuplum in sinu eórum: víndica sánguinem Sanctórum tuórum, qui effúsus est."
+      },
+      "reference": {
+        "la": "Ps 78:11-12; 78:10; Ps 78:1",
+        "de": "Ps 78:11-12; 78:10; Ps 78:1"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
       "id": "collecta",
       "kind": "proprium",
       "title": {
@@ -20,6 +38,57 @@
       },
       "text": {
         "la": "Beatórum Mártyrum tuórum, Dómine, Chrysánthi et Daríæ, quǽsumus, adsit nobis orátio: ut, quos venerámur obséquio, eórum pium júgiter experiámur auxílium."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio libri Sapiéntiæ Justorum ánimæ in manu Dei sunt, et non tanget illos torméntum mortis. Visi sunt oculis insipiéntium mori: et æstimála est afflíctio exitus illórum: et quod a nobis est iter, extermínium: illi autem sunt in pace. Et si coram homínibus torménta passi sunt, spes illórum immortalitáte plena est. In paucis vexáti, in multis bene disponéntur: quóniam Deus tentávit eos, et invenit illos dignos se. Tamquam aurum in fornáce probávit illos, et quasi holocáusti hóstiam accépit illos, et in témpore erit respéctus illorum. Fulgébunt justi, et tamquam scintíllæ in arundinéto discúrrent. Judicábunt natiónes, et dominabúntur pópulis, et regnábit Dóminus illórum in perpétuum."
+      },
+      "reference": {
+        "la": "Sap 3:1-8",
+        "de": "Sap 3:1-8"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Gloriósus Deus in Sanctis suis: mirábilis in majestáte, fáciens prodígia. Déxtera tua, Dómine, glorificáta est in virtúte: déxtera manus tua confrégit inimícos. Allelúja, allelúja. Córpora Sanctórum in pace sepúlta sunt, et nómina eórum vivent in generatiónem et generatiónem. Allelúja."
+      },
+      "reference": {
+        "la": "Exod 15:11; Exod 15:6; Eccl 44:14",
+        "de": "Exod 15:11; Exod 15:6; Eccl 44:14"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Gloriósus Deus in Sanctis suis: mirábilis in majestáte, fáciens prodígia. Déxtera tua, Dómine, glorificáta est in virtúte: déxtera manus tua confrégit inimícos. Qui séminant in lácrimis, in gáudio metent. Eúntes ibant et flebant, mitténtes sémina sua. Veniéntes autem vénient cum exsultatióne, portántes manípulos suos."
+      },
+      "reference": {
+        "la": "Exod 15:11; Exod 15:6; Ps 125:5-6",
+        "de": "Exod 15:11; Exod 15:6; Ps 125:5-6"
+      },
+      "chant": {
+        "chantable": true
       }
     },
     {
@@ -38,6 +107,24 @@
       }
     },
     {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Mirábilis Deus in Sanctis suis: Deus Israël, ipse dabit virtútem et fortitúdinem plebi suæ: benedíctus Deus, allelúja. [Offertorium] (tempore post Septuagesimam) Mirábilis Deus in Sanctis suis: Deus Israël, ipse dabit virtútem et fortitúdinem plebi suæ: benedíctus Deus."
+      },
+      "reference": {
+        "la": "Ps 67:36; Ps 67:36",
+        "de": "Ps 67:36; Ps 67:36"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
       "id": "secreta",
       "kind": "proprium",
       "title": {
@@ -46,6 +133,24 @@
       },
       "text": {
         "la": "Pópuli tui, quǽsumus, Dómine, tibi grata sit hóstia, quæ in natalítiis sanctórum Mártyrum tuórum Chrysánthi et Daríæ sollémniter immolátur."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Et si coram homínibus torménta passi sunt, Deus tentávit eos: tamquam aurum in fornáce probávit eos, et quasi holocáusta accépit eos."
+      },
+      "reference": {
+        "la": "Sap 3:4-6",
+        "de": "Sap 3:4-6"
+      },
+      "chant": {
+        "chantable": true
       }
     },
     {

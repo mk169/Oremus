@@ -12,6 +12,24 @@
   },
   "sections": [
     {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Lætábitur justus in Dómino, et sperábit in eo: et laudabúntur omnes recti corde. (Allelúja, allelúja.) Exáudi, Deus, oratiónem meam cum déprecor: a timóre inimíci éripe ánimam meam. Lætábitur justus in Dómino, et sperábit in eo: et laudabúntur omnes recti corde. (Allelúja, allelúja.)"
+      },
+      "reference": {
+        "la": "Ps 63:11; Ps 63:2",
+        "de": "Ps 63:11; Ps 63:2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
       "id": "collecta",
       "kind": "proprium",
       "title": {
@@ -39,6 +57,42 @@
       }
     },
     {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Invéni David servum meum, óleo sancto meo unxi eum: manus enim mea auxiliábitur ei, et bráchium meum confortábit eum. Nihil profíciet inimícus in eo, et fílius iniquitátis non nocébit ei. Allelúja, allelúja Jurávit Dóminus, et non pœnitébit eum: Tu es sacérdos in ætérnum, secúndum órdinem Melchísedech. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 88:21-23; Ps 109:4",
+        "de": "Ps 88:21-23; Ps 109:4"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Invéni David servum meum, óleo sancto meo unxi eum: manus enim mea auxiliábitur ei, et bráchium meum confortábit eum. Nihil profíciet inimícus in eo, et fílius iniquitátis non nocébit ei. Desidérium ánimæ ejus tribuísti ei: et voluntáte labiórum ejus non fraudásti eum. Quóniam prævenísti eum in benedictiónibus dulcédinis. Posuísti in cápite ejus corónam de lápide pretióso."
+      },
+      "reference": {
+        "la": "Ps 88:21-23; Ps 20:3-4",
+        "de": "Ps 88:21-23; Ps 20:3-4"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
       "id": "evangelium",
       "kind": "proprium",
       "title": {
@@ -51,6 +105,24 @@
       "reference": {
         "la": "Luc 22:24-30",
         "de": "Luc 22:24-30"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Véritas mea et misericórdia mea cum ipso: et in nómine meo exaltábitur cornu ejus. (Allelúja.)"
+      },
+      "reference": {
+        "la": "Ps 88:25",
+        "de": "Ps 88:25"
+      },
+      "chant": {
+        "chantable": true
       }
     },
     {

@@ -74,6 +74,24 @@
       }
     },
     {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Anima nostra, sicut passer, erépta est de láqueo venántium. Láqueus contrítus est, et nos liberáti sumus: adjutórium nostrum in nómine Dómini, qui fecit cœlum et terram. Qui séminant in lácrimis, in gáudio metent. Eúntes ibant et flebant, mitténtes sémina sua. Veniéntes autem vénient cum exsultatióne, portántes manípulos suos."
+      },
+      "reference": {
+        "la": "Ps 123:7-8; Ps 125:5-6",
+        "de": "Ps 123:7-8; Ps 125:5-6"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
       "id": "evangelium",
       "kind": "proprium",
       "title": {

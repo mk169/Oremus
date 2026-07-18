@@ -41,6 +41,21 @@
       }
     },
     {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Hebrǽos Fratres: Rememorámini prístinos dies, in quibus illumináti magnum certámen sustinuístis passiónum: et in áltero quidem oppróbriis et tribulatiónibus spectáculum facti: in áltero autem sócii táliter conversántium effécti. Nam et vinctis compássi estis, et rapínam bonórum vestrórum cum gáudio suscepístis, cognoscéntes vos habere meliórem et manéntem substántiam. Nolíte itaque amíttere confidéntiam vestram, quæ magnam habet remuneratiónem. Patiéntia enim vobis necessária est: ut, voluntátem Dei faciéntes, reportétis promissiónem. Adhuc enim módicum aliquántulum, qui ventúrus est, véniet, et non tardábit. Justus autem meus ex fide vivit."
+      },
+      "reference": {
+        "la": "Hebr 10:32-38",
+        "de": "Hebr 10:32-38"
+      }
+    },
+    {
       "id": "graduale",
       "kind": "proprium",
       "title": {
@@ -118,6 +133,24 @@
       },
       "text": {
         "la": "Preces, Dómine, tuórum réspice oblationésque fidélium: ut et tibi gratæ sint pro tuórum festivitáte Sanctórum, et nobis cónferant tuæ propitiatiónis auxílium."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Dico autem vobis amícis meis: Ne terreámini ab his, qui vos persequúntur."
+      },
+      "reference": {
+        "la": "Luc 12:4",
+        "de": "Luc 12:4"
+      },
+      "chant": {
+        "chantable": true
       }
     },
     {

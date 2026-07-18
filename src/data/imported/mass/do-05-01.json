@@ -135,6 +135,17 @@
       "chant": {
         "chantable": true
       }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Quǽsumus, Dómine, salutáribus repléti mystériis: ut, quorum sollémnia celebrámus, eórum oratiónibus adjuvémur."
+      }
     }
   ]
 }

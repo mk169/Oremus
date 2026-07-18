@@ -75,6 +75,24 @@
       }
     },
     {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Invéni David servum meum, óleo sancto meo unxi eum: manus enim mea auxiliábitur ei, et bráchium meum confortábit eum. Nihil profíciet inimícus in eo, et fílius iniquitátis non nocébit ei. Desidérium ánimæ ejus tribuísti ei: et voluntáte labiórum ejus non fraudásti eum. Quóniam prævenísti eum in benedictiónibus dulcédinis. Posuísti in cápite ejus corónam de lápide pretióso."
+      },
+      "reference": {
+        "la": "Ps 88:21-23; Ps 20:3-4",
+        "de": "Ps 88:21-23; Ps 20:3-4"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
       "id": "evangelium",
       "kind": "proprium",
       "title": {
@@ -87,6 +105,35 @@
       "reference": {
         "la": "Joann 10:11-16",
         "de": "Joann 10:11-16"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Posuísti, Dómine, in cápite ejus corónam de lápide pretióso: vitam pétiit a te, et tribuísti ei, allelúja."
+      },
+      "reference": {
+        "la": "Ps 20:4-5",
+        "de": "Ps 20:4-5"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Hóstias tibi, Dómine, beáti N. Mártyris tui atque Pontíficis dicátas méritis, benígnus assúme: et ad perpétuum nobis tríbue proveníre subsídium."
       }
     },
     {
@@ -105,6 +152,17 @@
       },
       "chant": {
         "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Refécti participatióne múneris sacri, quǽsumus, Dómine, Deus noster: ut, cujus exséquimur cultum, intercedénte beáto N. Mártyre tuo atque Pontífice, sentiámus efféctum."
       }
     }
   ]

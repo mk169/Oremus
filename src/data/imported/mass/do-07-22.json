@@ -12,6 +12,24 @@
   },
   "sections": [
     {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Me exspectavérunt peccatóres, ut pérderent me: testimónia tua, Dómine, intelléxi: omnis consummatiónis vidi finem: latum mandátum tuum nimis. (Allelúja, allelúja.) Beáti immaculáti in via: qui ámbulant in lege Dómini. Me exspectavérunt peccatóres, ut pérderent me: testimónia tua, Dómine, intelléxi: omnis consummatiónis vidi finem: latum mandátum tuum nimis. (Allelúja, allelúja.)"
+      },
+      "reference": {
+        "la": "Ps 118:95-96; Ps 118:1",
+        "de": "Ps 118:95-96; Ps 118:1"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
       "id": "collecta",
       "kind": "proprium",
       "title": {
@@ -56,6 +74,24 @@
       }
     },
     {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Diffúsa est grátia in labiis tuis: proptérea benedíxit te Deus in ætérnum. Propter veritátem et mansuetúdinem et justítiam: et de ducet te mirabíliter déxtera tua. _ Veni, Sponsa Christi, áccipe coronam, quam tibi Dóminus præparávit in ætérnum. Dilexísti justítiam, et odísti iniquitátem: proptérea unxit te Deus, Deus tuus, oleo lætítiæ præ consórtibus tuis. Spécie tua et pulchritúdine tua inténde, próspere procéde et regna."
+      },
+      "reference": {
+        "la": "Ps 44:3; 44:5; Tractus; Ps 44:8; 44:5",
+        "de": "Ps 44:3; 44:5; Tractus; Ps 44:8; 44:5"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
       "id": "evangelium",
       "kind": "proprium",
       "title": {
@@ -71,6 +107,24 @@
       }
     },
     {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Fíliæ regum in honóre tuo, ástitit regína a dextris tuis in vestítu deauráto, circúmdata varietáte. (Allelúja.)"
+      },
+      "reference": {
+        "la": "Ps 44:10",
+        "de": "Ps 44:10"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
       "id": "secreta",
       "kind": "proprium",
       "title": {
@@ -79,6 +133,24 @@
       },
       "text": {
         "la": "Múnera nostra, quǽsumus. Dómine, beátæ Maríæ Magdalénæ gloriósa mérita tibi reddant accépta: cujus oblatiónis obséquium unigénitus Fílius tuus cleménter suscépit impénsum:"
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Feci judícium et justítiam, Dómine, non calumniéntur mihi supérbi: ad ómnia mandáta tua dirigébar, omnem viam iniquitátis ódio hábui. (Allelúja.)"
+      },
+      "reference": {
+        "la": "Ps 118:121; 118:122; 118:128",
+        "de": "Ps 118:121; 118:122; 118:128"
+      },
+      "chant": {
+        "chantable": true
       }
     },
     {

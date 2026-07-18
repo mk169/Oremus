@@ -12,6 +12,24 @@
   },
   "sections": [
     {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Os justi meditábitur sapiéntiam, et lingua ejus loquétur judícium: lex Dei ejus in corde ipsíus. (Allelúja, allelúja.) Noli æmulári in malignántibus: neque zeláveris faciéntes iniquitátem. Os justi meditábitur sapiéntiam, et lingua ejus loquétur judícium: lex Dei ejus in corde ipsíus. (Allelúja, allelúja.)"
+      },
+      "reference": {
+        "la": "Ps 36:30-31; Ps 36:1",
+        "de": "Ps 36:30-31; Ps 36:1"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
       "id": "collecta",
       "kind": "proprium",
       "title": {
@@ -20,6 +38,57 @@
       },
       "text": {
         "la": "Deus, qui beátum Ludovícum Confessórem tuum de terréno regno ad cœléstis regni glóriam transtulísti: ejus, quǽsumus, méritis et intercessióne; Regis regum Jesu Christi, Fílii tui, fácias nos esse consórtes:"
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio libri Sapiéntiæ Justum dedúxit Dóminus per vias rectas, et ostendit illi regnum Dei, et dedit illi sciéntiam sanctórum: honestávit illum in labóribus, et complévit labores illíus. In fraude circumveniéntium illum áffuit illi, et honéstum fecit illum. Custodívit illum ab inimícis, et a seductóribus tutávit illum, et certámen forte dedit illi, ut vínceret et sciret, quóniam ómnium poténtior est sapiéntia. Hæc vénditum justum non derelíquit, sed a peccatóribus liberávit eum: descendítque cum illo in fóveam, et in vínculis non derelíquit illum, donec afférret illi sceptrum regni, et poténtiam advérsus eos, qui eum deprimébant: et mendáces osténdit, qui maculavérunt illum, et dedit illi claritátem ætérnam, Dóminus, Deus noster."
+      },
+      "reference": {
+        "la": "Sap 10:10-14",
+        "de": "Sap 10:10-14"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Justus ut palma florébit: sicut cedrus Líbani multiplicábitur in domo Dómini. Ad annuntiándum mane misericórdiam tuam, et veritátem tuam per noctem. Allelúja, allelúja Beátus vir, qui suffert tentatiónem: quóniam, cum probátus fúerit, accípiet corónam vitæ. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 91:13; 91:14; Ps 91:3; Ja 1:12",
+        "de": "Ps 91:13; 91:14; Ps 91:3; Ja 1:12"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Justus ut palma florébit: sicut cedrus Líbani multiplicábitur in domo Dómini. Ad annuntiándum mane misericórdiam tuam, et veritátem tuam per noctem. Beátus vir, qui timet Dóminum: in mandátis ejus cupit nimis. Potens in terra erit semen ejus: generátio rectórum benedicétur. Glória et divítiæ in domo ejus: et justítia ejus manet in sǽculum sǽculi."
+      },
+      "reference": {
+        "la": "Ps 91:13; 91:14; Ps 91:3; Ps 111:1-3",
+        "de": "Ps 91:13; 91:14; Ps 91:3; Ps 111:1-3"
+      },
+      "chant": {
+        "chantable": true
       }
     },
     {
@@ -38,6 +107,24 @@
       }
     },
     {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Véritas mea et misericórdia mea cum ipso: et in nómine meo exaltábitur cornu ejus. (Allelúja.)"
+      },
+      "reference": {
+        "la": "Ps 88:25",
+        "de": "Ps 88:25"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
       "id": "secreta",
       "kind": "proprium",
       "title": {
@@ -46,6 +133,24 @@
       },
       "text": {
         "la": "Præsta, quǽsumus, omnípotens Deus: ut, sicut beátus Ludovícus Conféssor tuus, spretis mundi oblectaméntis, soli Regi Christo placére stúduit; ita ejus orátio nos tibi reddat accéptos."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Beátus servus, quem, cum vénerit dóminus, invénerit vigilántem: amen, dico vobis, super ómnia bona sua constítuet eum. (Allelúja.)"
+      },
+      "reference": {
+        "la": "Matt 24:46-47",
+        "de": "Matt 24:46-47"
+      },
+      "chant": {
+        "chantable": true
       }
     },
     {

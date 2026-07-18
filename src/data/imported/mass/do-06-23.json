@@ -89,6 +89,24 @@
       }
     },
     {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Glória et honore coronásti eum: et constituísti eum super ópera mánuum tuárum, Dómine."
+      },
+      "reference": {
+        "la": "Ps 8:6-7",
+        "de": "Ps 8:6-7"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
       "id": "secreta",
       "kind": "proprium",
       "title": {
@@ -97,6 +115,24 @@
       },
       "text": {
         "la": "Múnera, Dómine, obláta sanctífica: et, intercedénte beáto Joánne Baptista, nos per hæc a peccatórum nostrórum máculis emúnda."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Magna est glória ejus in salutári tuo: glóriam et magnum decórem impónes super eum, Dómine."
+      },
+      "reference": {
+        "la": "Ps 20:6",
+        "de": "Ps 20:6"
+      },
+      "chant": {
+        "chantable": true
       }
     },
     {

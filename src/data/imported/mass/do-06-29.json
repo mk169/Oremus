@@ -103,6 +103,24 @@
       }
     },
     {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Tu es Petrus, et super hanc petram ædificábo Ecclésiam meam. (Allelúja.)"
+      },
+      "reference": {
+        "la": "Matt 16:18",
+        "de": "Matt 16:18"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
       "id": "postcommunio",
       "kind": "proprium",
       "title": {

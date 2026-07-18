@@ -70,6 +70,24 @@
       }
     },
     {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Anima nostra, sicut passer, erépta est de láqueo venántium. Láqueus contrítus est, et nos liberáti sumus: adjutórium nostrum in nómine Dómini, qui fecit cœlum et terram. Qui séminant in lácrimis, in gáudio metent. Eúntes ibant et flebant, mitténtes sémina sua. Veniéntes autem vénient cum exsultatióne, portántes manípulos suos."
+      },
+      "reference": {
+        "la": "Ps 123:7-8; Ps 125:5-6",
+        "de": "Ps 123:7-8; Ps 125:5-6"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
       "id": "evangelium",
       "kind": "proprium",
       "title": {
@@ -85,6 +103,24 @@
       }
     },
     {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Exsultábunt Sancti in glória, lætabúntur in cubílibus suis: exaltatiónes Dei in fáucibus eórum, allelúja. (sed post Septuagesimam dicitur) Exsultábunt Sancti in glória, lætabúntur in cubílibus suis: exaltatiónes Dei in fáucibus eórum."
+      },
+      "reference": {
+        "la": "Ps 149:5-6",
+        "de": "Ps 149:5-6"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
       "id": "secreta",
       "kind": "proprium",
       "title": {
@@ -93,6 +129,24 @@
       },
       "text": {
         "la": "Sanctórum Martyrum tuórum, quǽsumus. Dómine, Nérei, Achíllei, Domitíllæ atque Pancrátii sit tibi grata conféssio: quæ et múnera nostra comméndet, et tuam nobis indulgéntiam semper implóret."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Gaudéte, justi, in Dómino, allelúja: rectos decet collaudátio, allelúja."
+      },
+      "reference": {
+        "la": "Ps 32:1",
+        "de": "Ps 32:1"
+      },
+      "chant": {
+        "chantable": true
       }
     },
     {

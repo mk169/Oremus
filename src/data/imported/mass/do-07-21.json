@@ -1,0 +1,157 @@
+{
+  "id": "do-07-21",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "S. Praxedis Virginis",
+      "de": "Hl. Praxedis, Jungfrau"
+    },
+    "color": "green",
+    "rank": "Simplex"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Loquébar de testimóniis tuis in conspéctu regum, et non confundébar: et meditábar in mandátis tuis, quæ diléxi nimis. (Allelúja, allelúja.) Beáti immaculáti in via: qui ámbulant in lege Dómini. Loquébar de testimóniis tuis in conspéctu regum, et non confundébar: et meditábar in mandátis tuis, quæ diléxi nimis. (Allelúja, allelúja.)"
+      },
+      "reference": {
+        "la": "Ps 118:46-47; Ps 118:1",
+        "de": "Ps 118:46-47; Ps 118:1"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios Fratres: De virgínibus præcéptum Dómini non hábeo: consílium autem do, tamquam misericórdiam consecútus a Dómino, ut sim fidélis. Exístimo ergo hoc bonum esse propter instántem necessitátem, quóniam bo; num est hómini sic esse. Alligátus es uxóri? noli quǽrere solutiónem. Solútus es ab uxóre? noli quǽrere uxórem. Si autem accéperis uxórem, non peccásti. Et si núpserit virgo, non peccávit: tribulatiónem tamen carnis habébunt hujúsmodi. Ego autem vobis parce. Hoc ítaque dico, fratres: Tempus breve est: réliquum est, ut, et qui habent uxóres, tamquam non habéntes sint; et qui flent, tamquam non flentes; et qui gaudent, tamquam non gaudéntes; et qui emunt, tamquam non possidéntes; et qui utúntur hoc mundo, tamquam non utántur; prǽterit enim figúra hujus mundi. Volo autem vos sine sollicitúdine esse. Qui sine uxóre est, sollícitus est, quæ Dómini sunt, quómodo pláceat Deo. Qui autem cum uxóre est, sollícitus est, quæ sunt mundi, quómodo pláceat uxóri, et divísus est. Et múlier innúpta et virgo cógitat, quæ Dómini sunt, ut sit sancta córpore et spíritu: in Christo Jesu, Dómino nostro."
+      },
+      "reference": {
+        "la": "1 Cor 7:25-34",
+        "de": "1 Cor 7:25-34"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Dilexísti justítiam, et odísti iniquitátem. Proptérea unxit te Deus, Deus tuus, óleo lætítiæ. Allelúja, allelúja. Spécie tua et pulchritúdine tua inténde, próspere procéde et regna. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 44:8; Ps 44:5",
+        "de": "Ps 44:8; Ps 44:5"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Spécie tua et pulchritúdine tua inténde, próspere procéde et regna. Propter veritátem et mansuetúdinem et justítiam: et dedúcet te mirabíliter déxtera tua. _ Audi, fília, et vide, et inclína aurem tuam: quia concupívit Rex spéciem tuam. Vultum tuum deprecabúntur omnes dívites plebis: fíliæ regum in honóre tuo. Adducéntur Regi Vírgines post eam: próximæ ejus afferéntur tibi. Afferéntur in lætítia et exsultatióne: adducéntur in templum Regis."
+      },
+      "reference": {
+        "la": "Ps 44:5; Tractus; Ps 44:11-12; Ps 44:13; 44:10; Ps 44:15-16",
+        "de": "Ps 44:5; Tractus; Ps 44:11-12; Ps 44:13; 44:10; Ps 44:15-16"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Dixit Jesus discípulis suis parábolam hanc: Símile est regnum cœlórum thesáuro abscóndito in agro: quem qui invénit homo, abscóndit, et præ gáudio illíus vadit, et vendit univérsa, quæ habet, et emit agrum illum. Íterum símile est regnum cœlórum hómini negotiatóri, quærénti bonas margarítas. Invénta autem una pretiósa margaríta, ábiit, et véndidit ómnia, quæ hábuit, et emit eam. Íterum símile est regnum cœlórum sagénæ missæ in mare et ex omni génere píscium congregánti. Quam, cum impléta esset, educéntes, et secus litus sedéntes, elegérunt bonos in vasa, malos autem foras misérunt. Sic erit in consummatióne sǽculi: exíbunt Angeli, et separábunt malos de médio justórum, et mittent eos in camínum ignis: ibi erit fletus et stridor déntium. Intellexístis hæc ómnia? Dicunt ei: Etiam. Ait illis: Ideo omnis scriba doctus in regno cœlórum símilis est hómini patrifamílias, qui profert de thesáuro suo nova et vétera."
+      },
+      "reference": {
+        "la": "Matt 13:44-52",
+        "de": "Matt 13:44-52"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Diffúsa est grátia in lábiis tuis: proptérea benedíxit te Deus in ætérnum, et in sǽculum sǽculi. (Allelúja.)"
+      },
+      "reference": {
+        "la": "Ps 44:3",
+        "de": "Ps 44:3"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Accépta tibi sit, Dómine, sacrátæ plebis oblátio pro tuórum honóre Sanctórum: quorum se méritis de tribulatióne percepísse cognóscit auxílium."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Símile est regnum cœlórum hómini negotiatóri, quærénti bonas margarítas: invénta autem una pretiósa margaríta, dedit ómnia sua, et comparávit eam."
+      },
+      "reference": {
+        "la": "Matt 13:45-46",
+        "de": "Matt 13:45-46"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Satiásti, Dómine, famíliam tuam munéribus sacris: ejus, quǽsumus, semper interventióne nos réfove, cujus sollémnia celebrámus."
+      }
+    }
+  ]
+}

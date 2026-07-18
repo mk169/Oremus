@@ -12,6 +12,24 @@
   },
   "sections": [
     {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Salve, sancta parens, eníxa puérpera Regem: qui cælum terrámque regit in sǽcula sæculórum. Eructávit cor meum verbum bonum: dico ego ópera mea Regi. Salve, sancta parens, eníxa puérpera Regem: qui cælum terrámque regit in sǽcula sæculórum."
+      },
+      "reference": {
+        "la": "Sedulius; Ps 44:2",
+        "de": "Sedulius; Ps 44:2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
       "id": "collecta",
       "kind": "proprium",
       "title": {
@@ -67,6 +85,20 @@
       }
     },
     {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Beáta es, Virgo María, quæ ómnium portásti Creatórem: genuísti qui te fecit, et in ætérnum pérmanes Virgo. (Allelúja.)"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
       "id": "secreta",
       "kind": "proprium",
       "title": {
@@ -75,6 +107,20 @@
       },
       "text": {
         "la": "Unigéniti tui, Dómine, nobis succúrrat humánitas: ut, qui natus de Vírgine, matris integritátem non mínuit, sed sacrávit; in Nativitátis ejus sollémniis, nostris nos piáculis éxuens, oblatiónem nostram tibi fáciat accéptam Jesus Christus, Dóminus noster:"
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Beáta víscera Maríæ Vírginis, quæ portavérunt ætérni Patris Fílium. (Allelúja.)"
+      },
+      "chant": {
+        "chantable": true
       }
     },
     {

@@ -30,6 +30,17 @@
       }
     },
     {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Quǽsumus omnípotens Deus, ut beátus N. Apóstolus, cujus prævenímus festivitátem, tuum pro nobis implóret auxílium: ut a nostris reátibus absolúti a cunctis étiam perículis eruámur."
+      }
+    },
+    {
       "id": "graduale",
       "kind": "proprium",
       "title": {

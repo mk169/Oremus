@@ -12,6 +12,24 @@
   },
   "sections": [
     {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Dilexísti justítiam, et odísti iniquitátem: proptérea unxit te Deus, Deus tuus, óleo lætítiæ præ consórtibus tuis. (Allelúja, allelúja.) Eructávit cor meum verbum bonum: dico ego ópera mea Regi. Dilexísti justítiam, et odísti iniquitátem: proptérea unxit te Deus, Deus tuus, óleo lætítiæ præ consórtibus tuis. (Allelúja, allelúja.)"
+      },
+      "reference": {
+        "la": "Ps 44:8; Ps 44:2",
+        "de": "Ps 44:8; Ps 44:2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
       "id": "collecta",
       "kind": "proprium",
       "title": {
@@ -20,6 +38,115 @@
       },
       "text": {
         "la": "Deus, qui in corde beátæ Gertrudis Vírginis jucúndam tibi mansionem præparásti: ipsíus méritis et intercessióne; cordis nostri máculas cleménter abstérge, et ejúsdem tríbue gaudére consórtio."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios Fratres: Qui gloriátur, in Dómino gloriétur. Non enim, qui seípsum comméndat, ille probátus est; sed quem Deus comméndat. Utinam sustinerétis módicum quid insipiéntiæ meæ, sed et supportáte me: æmulor enim vos Dei æmulatióne. Despóndi enim vos uni viro vírginem castam exhibére Christo."
+      },
+      "reference": {
+        "la": "2 Cor 10:17-18; 11:1-2",
+        "de": "2 Cor 10:17-18; 11:1-2"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Spécie tua et pulchritúdine tua inténde, próspere procéde et regna. Propter veritátem et mansuetúdinem et justítiam: et dedúcet te mirabíliter déxtera tua. Allelúja, allelúja. Adducéntur Regi Vírgines post eam: próximæ ejus afferéntur tibi in lætítia. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 44:5; Ps 44:15-16",
+        "de": "Ps 44:5; Ps 44:15-16"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Spécie tua et pulchritúdine tua inténde, próspere procéde et regna. Propter veritátem et mansuetúdinem et justítiam: et dedúcet te mirabíliter déxtera tua. _ Audi, fília, et vide, et inclína aurem tuam: quia concupívit Rex spéciem tuam. Vultum tuum deprecabúntur omnes dívites plebis: fíliæ regum in honóre tuo. Adducéntur Regi Vírgines post eam: próximæ ejus afferéntur tibi. Afferéntur in lætítia et exsultatióne: adducéntur in templum Regis."
+      },
+      "reference": {
+        "la": "Ps 44:5; Tractus; Ps 44:11-12; Ps 44:13; 44:10; Ps 44:15-16",
+        "de": "Ps 44:5; Tractus; Ps 44:11-12; Ps 44:13; 44:10; Ps 44:15-16"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Fíliæ regum in honóre tuo, ástitit regína a dextris tuis in vestítu deauráto, circúmdata varietáte. (Allelúja.)"
+      },
+      "reference": {
+        "la": "Ps 44:10",
+        "de": "Ps 44:10"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Accépta tibi sit, Dómine, sacrátæ plebis oblátio pro tuórum honóre Sanctórum: quorum se méritis de tribulatióne percepísse cognóscit auxílium."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Quinque prudéntes vírgines accepérunt óleum in vasis suis cum lampádibus: média autem nocte clamor factus est: Ecce, sponsus venit: exíte óbviam Christo Dómino. (Allelúja.)"
+      },
+      "reference": {
+        "la": "Matt 25:4-6",
+        "de": "Matt 25:4-6"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Satiásti, Dómine, famíliam tuam munéribus sacris: ejus, quǽsumus, semper interventióne nos réfove, cujus sollémnia celebrámus."
       }
     }
   ]

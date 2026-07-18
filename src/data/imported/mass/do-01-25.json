@@ -92,6 +92,21 @@
       }
     },
     {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Lucam In illo témpore: Dixit Jesus discípulis suis: Nolíte timére, pusíllus grex, quia complácuit Patri vestro dare vobis regnum. Véndite quæ possidétis, et date eleemósynam. Fácite vobis sácculos, qui non veteráscunt, thesáurum non deficiéntem in cœlis: quo fur non apprópiat, neque tínea corrúmpit. Ubi enim thesáurus vester est, ibi et cor vestrum erit."
+      },
+      "reference": {
+        "la": "Luc 12:32-34",
+        "de": "Luc 12:32-34"
+      }
+    },
+    {
       "id": "offertorium",
       "kind": "proprium",
       "title": {
@@ -118,6 +133,24 @@
       },
       "text": {
         "la": "(deinde dicuntur semper) _ (sed rubrica 196 omittuntur)"
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Amen, dico vobis: quod vos, qui reliquístis ómnia et secúti estis me, céntuplum accipiétis, et vitam ætérnam possidébitis. (Allelúja.)"
+      },
+      "reference": {
+        "la": "Matt 19:28-29",
+        "de": "Matt 19:28-29"
+      },
+      "chant": {
+        "chantable": true
       }
     },
     {

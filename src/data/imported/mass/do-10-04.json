@@ -107,6 +107,24 @@
       }
     },
     {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Véritas mea et misericórdia mea cum ipso: et in nómine meo exaltábitur cornu ejus. (Allelúja.)"
+      },
+      "reference": {
+        "la": "Ps 88:25",
+        "de": "Ps 88:25"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
       "id": "secreta",
       "kind": "proprium",
       "title": {
@@ -115,6 +133,24 @@
       },
       "text": {
         "la": "Múnera tibi, Dómine, dicata sanctífica: et, intercedénte beáto Francísco, ab omni nos culpárum labe purífica."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Fidélis servus et prudens, quem constítuit dóminus super famíliam suam: ut det illis in témpore trítici mensúram. (Allelúja.)"
+      },
+      "reference": {
+        "la": "Luc 12:42",
+        "de": "Luc 12:42"
+      },
+      "chant": {
+        "chantable": true
       }
     },
     {

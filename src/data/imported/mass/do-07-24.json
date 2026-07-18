@@ -1,0 +1,150 @@
+{
+  "id": "do-07-24",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "day": {
+    "title": {
+      "la": "In Vigilia S. Jacobi Ap.",
+      "de": "Vigil vom Feste des heiligen Apostels Jakobus"
+    },
+    "color": "green",
+    "rank": "Vigilia"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Ego autem, sicut olíva fructífera in domo Dómini, sperávi in misericórdia Dei mei: et exspectábo nomen tuum, quóniam bonum est ante conspéctum sanctórum tuorum. Quid gloriáris in malítia: qui potens es in iniquitáte? Ego autem, sicut olíva fructífera in domo Dómini, sperávi in misericórdia Dei mei: et exspectábo nomen tuum, quóniam bonum est ante conspéctum sanctórum tuorum."
+      },
+      "reference": {
+        "la": "Ps 51:10-11; Ps 51:3",
+        "de": "Ps 51:10-11; Ps 51:3"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "(sed commune C4)"
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio libri Sapiéntiæ Benedíctio Dómini super caput justi. Ideo dedit illi Dóminus hereditátem, et divísit illi partem in tríbubus duódecim: et invénit grátiam in conspéctu omnis carnis. Et magnificávit eum in timóre inimicórum, et in verbis suis monstra placávit. Glorificávit illum in conspéctu regum, et jussit illi coram pópulo suo, et osténdit illi glóriam suam. In fide et lenitáte ipsíus sanctum fecit illum, et elégit eum ex omni carne. Et dedit illi coram præcépta, et legem vitæ et disciplínæ, et excélsum fecit illum. Statuit ei testaméntum ætérnum, et circumcínxit eum zona justítiæ: et índuit eum Dóminus corónam glóriæ."
+      },
+      "reference": {
+        "la": "Eccli 44:25-27; 45:2-4; 45:6-9",
+        "de": "Eccli 44:25-27; 45:2-4; 45:6-9"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Justus ut palma florébit: sicut cedrus Líbani multiplicábitur in domo Dómini. Ad annuntiándum mane misericórdiam tuam, et veritátem tuam per noctem."
+      },
+      "reference": {
+        "la": "Ps 91:13-14; Ps 91:3",
+        "de": "Ps 91:13-14; Ps 91:3"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Joánnem In illo témpore: Dixit Jesus discípulis suis: Hoc est præcéptum meum, ut diligátis ínvicem, sicut diléxi vos. Majórem hac dilectiónem nemo habet, ut ánimam suam ponat quis pro amícis suis. Vos amíci mei estis, si fecéritis quæ ego præcípio vobis. Jam non dicam vos servos: quia servus nescit, quid fáciat dóminus ejus. Vos autem dixi amícos: quia ómnia, quæcúmque audívi a Patre meo, nota feci vobis. Non vos me elegístis: sed ego elégi vos, et pósui vos, ut eátis, et fructum afferátis: et fructus vester maneat: ut, quodcúmque petiéritis Patrem in nómine meo, det vobis."
+      },
+      "reference": {
+        "la": "Joannes 15:12-16",
+        "de": "Joannes 15:12-16"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Glória et honore coronásti eum: et constituísti eum super ópera mánuum tuárum, Dómine."
+      },
+      "reference": {
+        "la": "Ps 8:6-7",
+        "de": "Ps 8:6-7"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Apostólici reveréntia cúlminis offeréntes tibi sacra mystéria, Dómine, quae; sumus: ut beáti N. Apóstoli tui suffrágiis, cujus natalícia prævenímus; plebs tua semper et sua vota deprómat, et desideráta percípiat."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Magna est glória ejus in salutári tuo: glóriam et magnum decórem impónes super eum, Dómine."
+      },
+      "reference": {
+        "la": "Ps 20:6",
+        "de": "Ps 20:6"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Sancti Apóstoli tui N., quǽsumus. Dómine, supplicatióne placátus: et veniam nobis tríbue, et remédia sempitérna concéde."
+      }
+    }
+  ]
+}

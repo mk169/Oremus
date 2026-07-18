@@ -19,6 +19,9 @@ import { dirname, resolve } from 'node:path'
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const OUT_DIR = resolve(__dirname, '../src/data/imported/mass')
 const RAW = 'https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa'
+// Die „Gemeinsamen Messen" (Commune) liegen bei DO im Offiziums-Zweig (horas);
+// dort enthalten die Commune-Dateien auch die Messteile ([Introitus]…[Evangelium]…).
+const RAW_COMMUNE = 'https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/horas/Latin/Commune'
 
 // DO-Abschnittsname -> unser Modell (Reihenfolge = Ablauf des Proopriums)
 const SECTION_MAP = {
@@ -57,6 +60,32 @@ async function getLatinSections(path) {
   return secs
 }
 
+const communeCache = new Map()
+/** Holt eine Commune-Datei (Gemeinsame Messe) und zerlegt sie – mit Cache. */
+async function getCommuneSections(key) {
+  if (communeCache.has(key)) return communeCache.get(key)
+  const txt = await fetchText(`${RAW_COMMUNE}/${key}.txt`)
+  const secs = txt ? splitSections(txt) : null
+  communeCache.set(key, secs)
+  return secs
+}
+
+/** Bestimmt das einschlägige Commune eines Festes: bevorzugt „vide C…" aus
+ *  [Rank]/[Rule], sonst ein explizites @Commune/C… aus den Abschnitten. */
+function communeKeyFor(laS) {
+  for (const field of ['Rank', 'Rule']) {
+    const joined = (laS[field] || []).join(' ')
+    const m = joined.match(/vide\s+(C\w+)/i)
+    if (m) return m[1]
+  }
+  for (const name of Object.keys(laS)) {
+    const line = (laS[name] || []).map((l) => l.trim()).find((l) => /^@Commune\//.test(l))
+    const m = line && line.match(/^@Commune\/(\S+)/)
+    if (m) return m[1]
+  }
+  return null
+}
+
 /**
  * Löst einen Abschnitt auf: liefert die bereinigten Zeilen. Ist der Abschnitt leer,
  * aber verweist per @Sancti/... bzw. @Tempora/... auf einen anderen, wird dieser
@@ -65,11 +94,13 @@ async function getLatinSections(path) {
 async function resolveSection(rawLines, name, depth = 0) {
   const cleaned = cleanSection(rawLines || [])
   if (cleaned.text || depth > 2 || !rawLines) return cleaned
-  const ref = rawLines.map((l) => l.trim()).find((l) => /^@(Sancti|Tempora)\//.test(l))
+  const ref = rawLines.map((l) => l.trim()).find((l) => /^@(Sancti|Tempora|Commune)\//.test(l))
   if (!ref) return cleaned
-  const m = ref.match(/^@((?:Sancti|Tempora)\/[^:\s]+)(?::(.+))?$/)
+  const m = ref.match(/^@((?:Sancti|Tempora|Commune)\/[^:\s]+)(?::(.+))?$/)
   if (!m) return cleaned
-  const secs = await getLatinSections(m[1])
+  const secs = m[1].startsWith('Commune/')
+    ? await getCommuneSections(m[1].slice('Commune/'.length))
+    : await getLatinSections(m[1])
   if (!secs) return cleaned
   const targetName = (m[2] || name).trim()
   return resolveSection(secs[targetName], targetName, depth + 1)
@@ -136,19 +167,39 @@ async function importKey(cat, key) {
   const laS = splitSections(la)
   const deS = de ? splitSections(de) : {}
 
-  const sections = []
+  // 1) Abschnitte aus dem eigenen Proprium des Festes.
+  const byName = {}
   for (const name of ORDER) {
     if (!laS[name]) continue
     const cleaned = await resolveSection(laS[name], name)
     if (!cleaned.text) continue
+    byName[name] = { cleaned, deClean: deS[name] ? cleanSection(deS[name]) : null }
+  }
+  // 2) Fehlende Messteile aus der Gemeinsamen Messe (Commune) ergänzen.
+  const commune = communeKeyFor(laS)
+  if (commune) {
+    const cs = await getCommuneSections(commune)
+    if (cs) {
+      for (const name of ORDER) {
+        if (byName[name] || !cs[name]) continue
+        const cleaned = await resolveSection(cs[name], name)
+        if (!cleaned.text) continue
+        byName[name] = { cleaned, deClean: null }
+      }
+    }
+  }
+  // 3) In liturgischer Reihenfolge ausgeben.
+  const sections = []
+  for (const name of ORDER) {
+    const e = byName[name]
+    if (!e) continue
     const map = SECTION_MAP[name]
-    const deClean = deS[name] ? cleanSection(deS[name]) : null
     sections.push({
       id: map.id,
       kind: 'proprium',
       title: { la: map.la, de: map.de },
-      text: { la: cleaned.text, de: deClean?.text || undefined },
-      reference: cleaned.refs.length ? { la: cleaned.refs.join('; '), de: cleaned.refs.join('; ') } : undefined,
+      text: { la: e.cleaned.text, de: e.deClean?.text || undefined },
+      reference: e.cleaned.refs.length ? { la: e.cleaned.refs.join('; '), de: e.cleaned.refs.join('; ') } : undefined,
       chant: map.chant ? { chantable: true } : undefined,
     })
   }

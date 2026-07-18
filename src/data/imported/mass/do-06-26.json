@@ -74,6 +74,39 @@
       }
     },
     {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Gloriósus Deus in Sanctis suis: mirábilis in majestáte, fáciens prodígia. Déxtera tua, Dómine, glorificáta est in virtúte: déxtera manus tua confrégit inimícos. Qui séminant in lácrimis, in gáudio metent. Eúntes ibant et flebant, mitténtes sémina sua. Veniéntes autem vénient cum exsultatióne, portántes manípulos suos."
+      },
+      "reference": {
+        "la": "Exod 15:11; Exod 15:6; Ps 125:5-6",
+        "de": "Exod 15:11; Exod 15:6; Ps 125:5-6"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Lucam In illo témpore: Dixit Jesus discípulis suis: Atténdite a ferménto pharisæórum, quod est hypócrisis. Nihil autem opértum est, quod non revelétur: neque abscónditum, quod non sciátur. ¶ Quóniam, quæ in ténebris dixístis, in lúmine dicéntur: et quod in aurem locúti estis in cubículis, prædicábitur in tectis. Dico autem vobis amícis meis: Ne terreámini ab his, qui occídunt corpus, et post hæc non habent ámplius quid fáciant. Osténdam autem vobis, quem timeátis: timéte eum, qui postquam occíderit, habet potestátem míttere in gehénnam. Ita dico vobis: hunc timéte. Nonne quinque pásseres véneunt dipóndio, et unus ex illis non est in oblivióne coram Deo? Sed et capílli cápitis vestri omnes numeráti sunt. Nolíte ergo timére: multis passéribus pluris estis vos. Dico autem vobis: Omnis, quicúmque conféssus fúerit me coram homínibus, et Fílius hóminis confitébitur illum coram Angelis Dei."
+      },
+      "reference": {
+        "la": "Luc 12:1-8",
+        "de": "Luc 12:1-8"
+      }
+    },
+    {
       "id": "offertorium",
       "kind": "proprium",
       "title": {
@@ -100,6 +133,24 @@
       },
       "text": {
         "la": "Hóstias tibi, Dómine, sanctórum Martyrum tuórum Joánnis et Pauli dicátas méritis, benígnus assúme: et ad perpétuum nobis tríbue proveníre subsídium."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Et si coram homínibus torménta passi sunt, Deus tentávit eos: tamquam aurum in fornáce probávit eos, et quasi holocáusta accépit eos."
+      },
+      "reference": {
+        "la": "Sap 3:4-6",
+        "de": "Sap 3:4-6"
+      },
+      "chant": {
+        "chantable": true
       }
     },
     {

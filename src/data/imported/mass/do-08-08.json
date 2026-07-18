@@ -30,6 +30,17 @@
       }
     },
     {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui nos concédis sanctórum Mártyrum tuórum N. et N. natalítia cólere: da nobis in ætérna beatitúdine de eórum societáte gaudére."
+      }
+    },
+    {
       "id": "lectio",
       "kind": "proprium",
       "title": {

@@ -12,6 +12,86 @@
   },
   "sections": [
     {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Cognóvi, Dómine, quia ǽquitas judícia tua, et in veritáte tua humiliásti me: confíge timóre tuo carnes meas, a mandátis tuis tímui. (Allelúja, allelúja.) Beáti immaculáti in via: qui ámbulant in lege Dómini. Cognóvi, Dómine, quia ǽquitas judícia tua, et in veritáte tua humiliásti me: confíge timóre tuo carnes meas, a mandátis tuis tímui. (Allelúja, allelúja.)"
+      },
+      "reference": {
+        "la": "Ps 118:75; 118:120; Ps 118:1",
+        "de": "Ps 118:75; 118:120; Ps 118:1"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Exáudi nos, Deus, salutáris noster: ut sicut de beátæ N. festivitáte gaudémus; ita piæ devotiónis erudiámur afféctu."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Timótheum Caríssime: Víduas honóra, quæ vere víduæ sunt. Si qua autem vídua fílios aut nepótes habet, discat primum domum suam régere, et mútuam vicem réddere paréntibus: hoc enim accéptum est coram Deo. Quæ autem vere vídua est et desoláta, speret in Deum, et instet obsecratiónibus et oratiónibus nocte ac die. Nam quæ in delíciis est, vivens mórtua est. Et hoc prǽcipe, ut irreprehensíbiles sint. Si quis autem suórum, et máxime domesticórum curam non habet, fidem negávit, et est infidéli detérior. Vídua eligátur non minus sexagínta annórum, quæ fúerit uníus viri uxor, in opéribus bonis testimónium habens, si fílios educávit, si hospítio recépit, si sanctórum pedes lavit, si tribulatiónem patiéntibus subministrávit, si omne opus bonum subsecúta est."
+      },
+      "reference": {
+        "la": "1 Tim 5:3-10",
+        "de": "1 Tim 5:3-10"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Diffúsa est grátia in labiis tuis: proptérea benedíxit te Deus in ætérnum. Propter veritátem et mansuetúdinem et justítiam: et dedúcet te mirabíliter déxtera tua. Allelúja, allelúja. Spécie tua et pulchritúdine tua inténde, próspere procéde et regna. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 44:3; 44:5; Ps 44:5",
+        "de": "Ps 44:3; 44:5; Ps 44:5"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Diffúsa est grátia in labiis tuis: proptérea benedíxit te Deus in ætérnum. Propter veritátem et mansuetúdinem et justítiam: et de ducet te mirabíliter déxtera tua. _ Veni, Sponsa Christi, áccipe coronam, quam tibi Dóminus præparávit in ætérnum. Dilexísti justítiam, et odísti iniquitátem: proptérea unxit te Deus, Deus tuus, oleo lætítiæ præ consórtibus tuis. Spécie tua et pulchritúdine tua inténde, próspere procéde et regna."
+      },
+      "reference": {
+        "la": "Ps 44:3; 44:5; Tractus; Ps 44:8; 44:5",
+        "de": "Ps 44:3; 44:5; Tractus; Ps 44:8; 44:5"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
       "id": "evangelium",
       "kind": "proprium",
       "title": {
@@ -24,6 +104,46 @@
       "reference": {
         "la": "Luc 7:11-16",
         "de": "Luc 7:11-16"
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Accépta tibi sit, Dómine, sacrátæ plebis oblátio pro tuórum honóre Sanctórum: quorum se méritis de tribulatióne percepísse cognóscit auxílium."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Dilexísti justítiam, et odísti iniquitátem: proptérea unxit te Deus, Deus tuus, óleo lætítiæ præ consórtibus tuis. (Allelúja.)"
+      },
+      "reference": {
+        "la": "Ps 44:8",
+        "de": "Ps 44:8"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Satiásti, Dómine, famíliam tuam munéribus sacris: ejus, quǽsumus, semper interventióne nos réfove, cujus sollémnia celebrámus."
       }
     }
   ]
