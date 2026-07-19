@@ -1,7 +1,7 @@
 {
   "id": "do-Nat2-0",
   "form": "1962",
-  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung (eigene, gemeinfrei) ergänzt.",
   "day": {
     "title": {
       "la": "Sanctissimi Nominis Jesu",
@@ -19,7 +19,8 @@
         "de": "Eröffnungsvers"
       },
       "text": {
-        "la": "In nómine Jesu omne genu flectátur, cœléstium, terréstrium et infernórum: et omnis lingua confiteátur, quia Dóminus Jesus Christus in glória est Dei Patris Dómine, Dóminus noster, quam admirábile est nomen tuum in univérsa terra! In nómine Jesu omne genu flectátur, cœléstium, terréstrium et infernórum: et omnis lingua confiteátur, quia Dóminus Jesus Christus in glória est Dei Patris"
+        "la": "In nómine Jesu omne genu flectátur, cœléstium, terréstrium et infernórum: et omnis lingua confiteátur, quia Dóminus Jesus Christus in glória est Dei Patris Dómine, Dóminus noster, quam admirábile est nomen tuum in univérsa terra! In nómine Jesu omne genu flectátur, cœléstium, terréstrium et infernórum: et omnis lingua confiteátur, quia Dóminus Jesus Christus in glória est Dei Patris",
+        "de": "Im Namen Jesu soll sich jedes Knie beugen im Himmel, auf Erden und unter der Erde, und jede Zunge bekenne, dass der Herr Jesus Christus in der Herrlichkeit Gottes des Vaters ist. O Herr, unser Herrscher, wie wunderbar ist dein Name auf der ganzen Erde! Im Namen Jesu soll sich jedes Knie beugen im Himmel, auf Erden und unter der Erde, und jede Zunge bekenne, dass der Herr Jesus Christus in der Herrlichkeit Gottes des Vaters ist."
       },
       "reference": {
         "la": "Phil 2:10-11; Ps 8:2.",
@@ -38,7 +39,8 @@
         "de": "Tagesgebet"
       },
       "text": {
-        "la": "Deus, qui unigénitum Fílium tuum constituísti humáni géneris Salvatórem, et Jesum vocári jussísti: concéde propítius; ut, cujus sanctum nomen venerámur in terris, ejus quoque aspéctu perfruámur in cœlis."
+        "la": "Deus, qui unigénitum Fílium tuum constituísti humáni géneris Salvatórem, et Jesum vocári jussísti: concéde propítius; ut, cujus sanctum nomen venerámur in terris, ejus quoque aspéctu perfruámur in cœlis.",
+        "de": "O Gott, du hast deinen eingeborenen Sohn zum Erlöser des Menschengeschlechtes bestimmt und befohlen, ihn Jesus zu nennen: Gewähre gnädig, dass wir, die wir seinen heiligen Namen auf Erden verehren, auch seines Anblickes im Himmel uns erfreuen."
       }
     },
     {
@@ -49,7 +51,8 @@
         "de": "Lesung"
       },
       "text": {
-        "la": "Léctio Actuum Apostolorum In diébus illis: Petrus, replétus Spíritu Sancto, dixit: Príncipes pópuli et senióres, audíte: Si nos hódie dijudicámur in benefácto hóminis infírmi, in quo iste salvus factus est, notum sit ómnibus vobis et omni plebi Israël: quia in nómine Dómini nostri Jesu Christi Nazaréni, quem vos crucifixístis, quem Deus suscitávit a mórtuis, in hoc iste astat coram vobis sanus. Hic est lapis, qui reprobátus est a vobis ædificántibus: qui factus est in caput ánguli: et non est in alio áliquo salus. Nec enim aliud nomen est sub cœlo datum homínibus, in quo opórteat nos salvos fíeri."
+        "la": "Léctio Actuum Apostolorum In diébus illis: Petrus, replétus Spíritu Sancto, dixit: Príncipes pópuli et senióres, audíte: Si nos hódie dijudicámur in benefácto hóminis infírmi, in quo iste salvus factus est, notum sit ómnibus vobis et omni plebi Israël: quia in nómine Dómini nostri Jesu Christi Nazaréni, quem vos crucifixístis, quem Deus suscitávit a mórtuis, in hoc iste astat coram vobis sanus. Hic est lapis, qui reprobátus est a vobis ædificántibus: qui factus est in caput ánguli: et non est in alio áliquo salus. Nec enim aliud nomen est sub cœlo datum homínibus, in quo opórteat nos salvos fíeri.",
+        "de": "Lesung aus der Apostelgeschichte. In jenen Tagen sprach Petrus, erfüllt vom Heiligen Geiste: Ihr Fürsten des Volkes und ihr Ältesten, höret: Wenn wir heute wegen einer Wohltat an einem kranken Menschen verhört werden, durch wen dieser geheilt worden ist, so sei euch allen und dem ganzen Volke Israel kund: im Namen unseres Herrn Jesus Christus von Nazareth, den ihr gekreuzigt habt, den Gott von den Toten auferweckt hat — in ihm steht dieser gesund vor euch. Dieser ist der Stein, der von euch Bauleuten verworfen wurde und zum Eckstein geworden ist. Und in keinem andern ist das Heil; denn es ist kein anderer Name unter dem Himmel den Menschen gegeben, in dem wir selig werden sollen."
       },
       "reference": {
         "la": "Act 4:8-12",
@@ -64,7 +67,8 @@
         "de": "Graduale"
       },
       "text": {
-        "la": "Salvos fac nos, Dómine, Deus noster, et cóngrega nos de natiónibus: ut confiteámur nómini sancto tuo, et gloriémur in glória tua. Tu, Dómine, Pater noster et Redémptor noster: a sǽculo nomen tuum. Allelúja, allelúja Laudem Dómini loquétur os meum, et benedícat omnis caro nomen sanctum ejus. Allelúja."
+        "la": "Salvos fac nos, Dómine, Deus noster, et cóngrega nos de natiónibus: ut confiteámur nómini sancto tuo, et gloriémur in glória tua. Tu, Dómine, Pater noster et Redémptor noster: a sǽculo nomen tuum. Allelúja, allelúja Laudem Dómini loquétur os meum, et benedícat omnis caro nomen sanctum ejus. Allelúja.",
+        "de": "Hilf uns, Herr, unser Gott, und sammle uns aus den Völkern, damit wir deinen heiligen Namen preisen und uns rühmen in deinem Ruhme. Du, o Herr, bist unser Vater und unser Erlöser; von Ewigkeit her ist dein Name. Alleluja, alleluja. Das Lob des Herrn verkünde mein Mund, und alles Fleisch preise seinen heiligen Namen. Alleluja."
       },
       "reference": {
         "la": "Ps 105:47; Isa 63:16; Ps 144:21",
@@ -83,7 +87,8 @@
         "de": "Traktus"
       },
       "text": {
-        "la": "Dómine, Deus virtútum, convérte nos: et osténde fáciem tuam, et salvi érimus: sonet vox tua in áuribus meis. Vox enim tua dulcis, et fácies tua decóra nimis. Oleum effúsum nomen tuum, Jesu: ideo adolescéntulæ dilexérunt te."
+        "la": "Dómine, Deus virtútum, convérte nos: et osténde fáciem tuam, et salvi érimus: sonet vox tua in áuribus meis. Vox enim tua dulcis, et fácies tua decóra nimis. Oleum effúsum nomen tuum, Jesu: ideo adolescéntulæ dilexérunt te.",
+        "de": "Herr, Gott der Heerscharen, führe uns zurück; zeige uns dein Angesicht, so werden wir gerettet. Deine Stimme töne in meinen Ohren; denn deine Stimme ist süß und dein Angesicht überaus lieblich. Ausgegossenes Öl ist dein Name, Jesus; darum haben die Jungfrauen dich geliebt."
       },
       "reference": {
         "la": "Ps 79:20; Cant 2:14; Cant 1:2",
@@ -101,7 +106,8 @@
         "de": "Evangelium"
       },
       "text": {
-        "la": "Sequéntia ++ sancti Evangélii secúndum Lucam In illo témpore: Postquam consummáti sunt dies octo, ut circumciderétur Puer: vocátum est nomen ejus Jesus, quod vocátum est ab Angelo, priúsquam in útero conciperétur."
+        "la": "Sequéntia ++ sancti Evangélii secúndum Lucam In illo témpore: Postquam consummáti sunt dies octo, ut circumciderétur Puer: vocátum est nomen ejus Jesus, quod vocátum est ab Angelo, priúsquam in útero conciperétur.",
+        "de": "Fortsetzung des heiligen Evangeliums nach Lukas. In jener Zeit, als acht Tage vollendet waren, damit das Kind beschnitten würde, gab man ihm den Namen Jesus, den der Engel genannt hatte, ehe es im Mutterschoße empfangen ward."
       },
       "reference": {
         "la": "Luc 2:21",
@@ -116,7 +122,8 @@
         "de": "Gabenvers"
       },
       "text": {
-        "la": "Confitébor tibi, Dómine, Deus meus, in toto corde meo, et glorificábo nomen tuum in ætérnum: quóniam tu, Dómine, suávis et mitis es: et multæ misericórdiæ ómnibus invocántibus te, allelúja."
+        "la": "Confitébor tibi, Dómine, Deus meus, in toto corde meo, et glorificábo nomen tuum in ætérnum: quóniam tu, Dómine, suávis et mitis es: et multæ misericórdiæ ómnibus invocántibus te, allelúja.",
+        "de": "Ich will dich preisen, Herr, mein Gott, aus meinem ganzen Herzen und deinen Namen verherrlichen in Ewigkeit; denn du, o Herr, bist gütig und milde und reich an Erbarmen für alle, die dich anrufen. Alleluja."
       },
       "reference": {
         "la": "Ps 85:12; 85:5",
@@ -135,7 +142,8 @@
         "de": "Stillgebet (Secreta)"
       },
       "text": {
-        "la": "Benedíctio tua, clementíssime Deus, qua omnis viget creatúra, sanctíficet, quǽsumus, hoc sacrifícium nostrum, quod ad glóriam nóminis Fílii tui, Dómini nostri Jesu Christi, offérimus tibi: ut majestáti tuæ placére possit ad laudem, et nobis profícere ad salútem."
+        "la": "Benedíctio tua, clementíssime Deus, qua omnis viget creatúra, sanctíficet, quǽsumus, hoc sacrifícium nostrum, quod ad glóriam nóminis Fílii tui, Dómini nostri Jesu Christi, offérimus tibi: ut majestáti tuæ placére possit ad laudem, et nobis profícere ad salútem.",
+        "de": "Dein Segen, gütigster Gott, durch den alle Schöpfung besteht, heilige, so bitten wir, dieses unser Opfer, das wir dir zur Ehre des Namens deines Sohnes, unseres Herrn Jesus Christus, darbringen, damit es deiner Majestät zum Lobe gefalle und uns zum Heile gereiche."
       }
     },
     {
@@ -146,7 +154,8 @@
         "de": "Kommunionvers"
       },
       "text": {
-        "la": "Omnes gentes, quascúmque fecísti, vénient et adorábunt coram te, Dómine, et glorificábunt nomen tuum: quóniam magnus es tu et fáciens mirabília: tu es Deus solus, allelúja."
+        "la": "Omnes gentes, quascúmque fecísti, vénient et adorábunt coram te, Dómine, et glorificábunt nomen tuum: quóniam magnus es tu et fáciens mirabília: tu es Deus solus, allelúja.",
+        "de": "Alle Völker, die du geschaffen hast, werden kommen und vor dir anbeten, o Herr, und deinen Namen verherrlichen; denn groß bist du und tust Wunder; du allein bist Gott. Alleluja."
       },
       "reference": {
         "la": "Ps 85:9-10",
@@ -165,7 +174,8 @@
         "de": "Schlussgebet"
       },
       "text": {
-        "la": "Omnípotens ætérne Deus, qui creásti et redemísti nos, réspice propítius vota nostra: et sacrifícium salutáris hóstiæ, quod in honórem nóminis Fílii tui, Dómini nostri Jesu Christi, majestáti tuæ obtúlimus, plácido et benígno vultu suscípere dignéris; ut grátia tua nobis infúsa, sub glorióso nómine Jesu, ætérnæ prædestinatiónis titulo gaudeámus nómina nostra scripta esse in cœlis."
+        "la": "Omnípotens ætérne Deus, qui creásti et redemísti nos, réspice propítius vota nostra: et sacrifícium salutáris hóstiæ, quod in honórem nóminis Fílii tui, Dómini nostri Jesu Christi, majestáti tuæ obtúlimus, plácido et benígno vultu suscípere dignéris; ut grátia tua nobis infúsa, sub glorióso nómine Jesu, ætérnæ prædestinatiónis titulo gaudeámus nómina nostra scripta esse in cœlis.",
+        "de": "Allmächtiger, ewiger Gott, der du uns erschaffen und erlöst hast, blicke gnädig auf unsere Gebete und nimm das Opfer der heilbringenden Gabe, das wir zur Ehre des Namens deines Sohnes, unseres Herrn Jesus Christus, deiner Majestät dargebracht haben, mit gütigem und wohlwollendem Angesicht an; damit wir, erfüllt von deiner Gnade, uns unter dem glorreichen Namen Jesu freuen, dass unsere Namen im Himmel geschrieben stehen."
       }
     }
   ]

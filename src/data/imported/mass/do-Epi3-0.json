@@ -1,7 +1,7 @@
 {
   "id": "do-Epi3-0",
   "form": "1962",
-  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung (eigene, gemeinfrei) ergänzt.",
   "day": {
     "title": {
       "la": "Dominica III Post Epiphaniam",
@@ -19,7 +19,8 @@
         "de": "Eröffnungsvers"
       },
       "text": {
-        "la": "Adoráte Deum, omnes Angeli ejus: audívit, et lætáta est Sion: et exsultavérunt fíliæ Judæ. Dóminus regnávit, exsúltet terra: læténtur ínsulæ multæ. Adoráte Deum, omnes Angeli ejus: audívit, et lætáta est Sion: et exsultavérunt fíliæ Judæ."
+        "la": "Adoráte Deum, omnes Angeli ejus: audívit, et lætáta est Sion: et exsultavérunt fíliæ Judæ. Dóminus regnávit, exsúltet terra: læténtur ínsulæ multæ. Adoráte Deum, omnes Angeli ejus: audívit, et lætáta est Sion: et exsultavérunt fíliæ Judæ.",
+        "de": "Betet Gott an, all seine Engel! Sion hört es und freut sich, und die Töchter Judas frohlocken. Der Herr ist König; es juble die Erde, es mögen sich freuen die vielen Inseln. Betet Gott an, all seine Engel! Sion hört es und freut sich, und die Töchter Judas frohlocken."
       },
       "reference": {
         "la": "Ps 96:7-8; Ps 96:1",
@@ -38,7 +39,8 @@
         "de": "Tagesgebet"
       },
       "text": {
-        "la": "Omnípotens sempitérne Deus, infirmitatem nostram propítius réspice: atque, ad protegéndum nos, déxteram tuæ majestátis exténde."
+        "la": "Omnípotens sempitérne Deus, infirmitatem nostram propítius réspice: atque, ad protegéndum nos, déxteram tuæ majestátis exténde.",
+        "de": "Allmächtiger, ewiger Gott, blicke gnädig auf unsere Schwachheit und strecke zu unserem Schutze die Rechte deiner Majestät aus."
       }
     },
     {
@@ -49,7 +51,8 @@
         "de": "Lesung"
       },
       "text": {
-        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános. Fratres: Nolíte esse prudéntes apud vosmetípsos: nulli malum pro malo reddéntes: providéntes bona non tantum coram Deo, sed étiam coram ómnibus homínibus. Si fíeri potest, quod ex vobis est, cum ómnibus homínibus pacem habéntes: Non vosmetípsos defendéntes, caríssimi, sed date locum iræ. Scriptum est enim: Mihi vindícta: ego retríbuam, dicit Dóminus. Sed si esuríerit inimícus tuus, ciba illum: si sitit, potum da illi: hoc enim fáciens, carbónes ignis cóngeres super caput ejus. Noli vinci a malo, sed vince in bono malum."
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános. Fratres: Nolíte esse prudéntes apud vosmetípsos: nulli malum pro malo reddéntes: providéntes bona non tantum coram Deo, sed étiam coram ómnibus homínibus. Si fíeri potest, quod ex vobis est, cum ómnibus homínibus pacem habéntes: Non vosmetípsos defendéntes, caríssimi, sed date locum iræ. Scriptum est enim: Mihi vindícta: ego retríbuam, dicit Dóminus. Sed si esuríerit inimícus tuus, ciba illum: si sitit, potum da illi: hoc enim fáciens, carbónes ignis cóngeres super caput ejus. Noli vinci a malo, sed vince in bono malum.",
+        "de": "Lesung aus dem Brief des heiligen Apostels Paulus an die Römer. Brüder! Haltet euch nicht selbst für klug. Vergeltet niemandem Böses mit Bösem. Seid auf das Gute bedacht nicht nur vor Gott, sondern auch vor allen Menschen. Wenn möglich, soviel an euch liegt, haltet mit allen Menschen Frieden. Rächet euch nicht selbst, Geliebte, sondern lasset Raum dem Zorne; denn es steht geschrieben: Mein ist die Rache, ich will vergelten, spricht der Herr. Vielmehr: Wenn deinen Feind hungert, so speise ihn; dürstet ihn, so gib ihm zu trinken; denn wenn du das tust, wirst du feurige Kohlen auf sein Haupt sammeln. Lass dich nicht vom Bösen überwinden, sondern überwinde das Böse durch das Gute."
       },
       "reference": {
         "la": "Rom 12:16-21",
@@ -64,7 +67,8 @@
         "de": "Graduale"
       },
       "text": {
-        "la": "Timébunt gentes nomen tuum, Dómine, et omnes reges terræ glóriam tuam. Quóniam ædificávit Dóminus Sion, et vidébitur in majestáte sua. Allelúja, allelúja. Dóminus regnávit, exsúltet terra: læténtur ínsulæ multæ. Allelúja."
+        "la": "Timébunt gentes nomen tuum, Dómine, et omnes reges terræ glóriam tuam. Quóniam ædificávit Dóminus Sion, et vidébitur in majestáte sua. Allelúja, allelúja. Dóminus regnávit, exsúltet terra: læténtur ínsulæ multæ. Allelúja.",
+        "de": "Die Völker werden deinen Namen fürchten, o Herr, und alle Könige der Erde deine Herrlichkeit. Denn der Herr hat Sion erbaut, und er wird erscheinen in seiner Herrlichkeit. Alleluja, alleluja. Der Herr ist König; es juble die Erde, es mögen sich freuen die vielen Inseln. Alleluja."
       },
       "reference": {
         "la": "Ps 101:16-17; Ps 96:1",
@@ -83,7 +87,8 @@
         "de": "Evangelium"
       },
       "text": {
-        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum. In illo témpore: Cum descendísset Jesus de monte, secútæ sunt eum turbæ multæ: et ecce, leprósus véniens adorábat eum, dicens: Dómine, si vis, potes me mundáre. Et exténdens Jesus manum, tétigit eum, dicens: Volo. Mundáre. Et conféstim mundáta est lepra ejus. Et ait illi Jesus: Vide, némini díxeris: sed vade, osténde te sacerdóti, et offer munus, quod præcépit Móyses, in testimónium illis. Cum autem introísset Caphárnaum, accéssit ad eum centúrio, rogans eum et dicens: Dómine, puer meus jacet in domo paralýticus, et male torquetur. Et ait illi Jesus: Ego véniam, et curábo eum. Et respóndens centúrio, ait: Dómine, non sum dignus, ut intres sub tectum meum: sed tantum dic verbo, et sanábitur puer meus. Nam et ego homo sum sub potestáte constitútus, habens sub me mílites, et dico huic: Vade, et vadit; et alii: Veni, et venit; et servo meo: Fac hoc, et facit. Audiens autem Jesus, mirátus est, et sequéntibus se dixit: Amen, dico vobis, non inveni tantam fidem in Israël. Dico autem vobis, quod multi ab Oriénte et Occidénte vénient, et recúmbent cum Abraham et Isaac et Jacob in regno cœlórum: fílii autem regni ejiciéntur in ténebras exterióres: ibi erit fletus et stridor déntium. Et dixit Jesus centurióni: Vade et, sicut credidísti, fiat tibi. Et sanátus est puer in illa hora."
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum. In illo témpore: Cum descendísset Jesus de monte, secútæ sunt eum turbæ multæ: et ecce, leprósus véniens adorábat eum, dicens: Dómine, si vis, potes me mundáre. Et exténdens Jesus manum, tétigit eum, dicens: Volo. Mundáre. Et conféstim mundáta est lepra ejus. Et ait illi Jesus: Vide, némini díxeris: sed vade, osténde te sacerdóti, et offer munus, quod præcépit Móyses, in testimónium illis. Cum autem introísset Caphárnaum, accéssit ad eum centúrio, rogans eum et dicens: Dómine, puer meus jacet in domo paralýticus, et male torquetur. Et ait illi Jesus: Ego véniam, et curábo eum. Et respóndens centúrio, ait: Dómine, non sum dignus, ut intres sub tectum meum: sed tantum dic verbo, et sanábitur puer meus. Nam et ego homo sum sub potestáte constitútus, habens sub me mílites, et dico huic: Vade, et vadit; et alii: Veni, et venit; et servo meo: Fac hoc, et facit. Audiens autem Jesus, mirátus est, et sequéntibus se dixit: Amen, dico vobis, non inveni tantam fidem in Israël. Dico autem vobis, quod multi ab Oriénte et Occidénte vénient, et recúmbent cum Abraham et Isaac et Jacob in regno cœlórum: fílii autem regni ejiciéntur in ténebras exterióres: ibi erit fletus et stridor déntium. Et dixit Jesus centurióni: Vade et, sicut credidísti, fiat tibi. Et sanátus est puer in illa hora.",
+        "de": "Fortsetzung des heiligen Evangeliums nach Matthäus. In jener Zeit, als Jesus vom Berge herabstieg, folgten ihm viele Scharen. Und siehe, ein Aussätziger kam, fiel vor ihm nieder und sprach: Herr, wenn du willst, kannst du mich rein machen. Und Jesus streckte die Hand aus, rührte ihn an und sprach: Ich will, sei rein. Und sogleich ward sein Aussatz rein. Und Jesus sprach zu ihm: Sieh zu, sage es niemandem; sondern geh hin, zeige dich dem Priester und opfere die Gabe, die Moses vorgeschrieben hat, ihnen zum Zeugnis. Als er aber nach Kapharnaum gekommen war, trat ein Hauptmann zu ihm, bat ihn und sprach: Herr, mein Knecht liegt gelähmt zu Hause und wird schwer gequält. Und Jesus sprach zu ihm: Ich will kommen und ihn heilen. Der Hauptmann aber antwortete und sprach: Herr, ich bin nicht würdig, dass du eingehst unter mein Dach; aber sprich nur ein Wort, so wird mein Knecht gesund. Denn auch ich bin ein Mensch, der Obrigkeit unterstellt, und habe Soldaten unter mir; und sage ich zu diesem: Geh!, so geht er; und zu einem andern: Komm!, so kommt er; und zu meinem Knechte: Tu das!, so tut er es. Als Jesus das hörte, wunderte er sich und sprach zu denen, die ihm folgten: Wahrlich, ich sage euch: Einen so großen Glauben habe ich in Israel nicht gefunden. Ich sage euch aber: Viele werden von Osten und Westen kommen und mit Abraham, Isaak und Jakob im Himmelreiche zu Tische sitzen; die Kinder des Reiches aber werden hinausgeworfen werden in die äußerste Finsternis; dort wird Heulen und Zähneknirschen sein. Und Jesus sprach zum Hauptmann: Geh hin; wie du geglaubt hast, so geschehe dir. Und der Knecht ward gesund in derselben Stunde."
       },
       "reference": {
         "la": "Matt 8:1-13",
@@ -98,7 +103,8 @@
         "de": "Gabenvers"
       },
       "text": {
-        "la": "Déxtera Dómini fecit virtutem, déxtera Dómini exaltávit me: non móriar, sed vivam, et narrábo ópera Dómini."
+        "la": "Déxtera Dómini fecit virtutem, déxtera Dómini exaltávit me: non móriar, sed vivam, et narrábo ópera Dómini.",
+        "de": "Die Rechte des Herrn hat Macht erwiesen, die Rechte des Herrn hat mich erhöht; ich werde nicht sterben, sondern leben und die Werke des Herrn verkünden."
       },
       "reference": {
         "la": "Ps 117:16; 117:17",
@@ -117,7 +123,8 @@
         "de": "Stillgebet (Secreta)"
       },
       "text": {
-        "la": "Hæc hóstia, Dómine, quǽsumus, emúndet nostra delícta: et, ad sacrifícium celebrándum, subditórum tibi córpora mentésque sanctíficet."
+        "la": "Hæc hóstia, Dómine, quǽsumus, emúndet nostra delícta: et, ad sacrifícium celebrándum, subditórum tibi córpora mentésque sanctíficet.",
+        "de": "Dieses Opfer, o Herr, so bitten wir, tilge unsere Sünden und heilige zur Feier des Opfers die Leiber und Seelen deiner Diener."
       }
     },
     {
@@ -128,7 +135,8 @@
         "de": "Kommunionvers"
       },
       "text": {
-        "la": "Mirabántur omnes de his, quæ procedébant de ore Dei."
+        "la": "Mirabántur omnes de his, quæ procedébant de ore Dei.",
+        "de": "Alle staunten über die Worte, die aus dem Munde Gottes kamen."
       },
       "reference": {
         "la": "Luc 4:22",
@@ -147,7 +155,8 @@
         "de": "Schlussgebet"
       },
       "text": {
-        "la": "Quos tantis, Dómine, largíris uti mystériis: quǽsumus; ut efféctibus nos eórum veráciter aptáre dignéris."
+        "la": "Quos tantis, Dómine, largíris uti mystériis: quǽsumus; ut efféctibus nos eórum veráciter aptáre dignéris.",
+        "de": "Die du, o Herr, so große Geheimnisse zu empfangen gewährst, mache uns, so bitten wir, ihrer Wirkungen wahrhaft teilhaftig."
       }
     }
   ]

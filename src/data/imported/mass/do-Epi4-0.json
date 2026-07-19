@@ -1,7 +1,7 @@
 {
   "id": "do-Epi4-0",
   "form": "1962",
-  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung (eigene, gemeinfrei) ergänzt.",
   "day": {
     "title": {
       "la": "Dominica IV Post Epiphaniam",
@@ -19,7 +19,8 @@
         "de": "Eröffnungsvers"
       },
       "text": {
-        "la": "Adoráte Deum, omnes Angeli ejus: audívit, et lætáta est Sion: et exsultavérunt fíliæ Judæ. Dóminus regnávit, exsúltet terra: læténtur ínsulæ multæ. Adoráte Deum, omnes Angeli ejus: audívit, et lætáta est Sion: et exsultavérunt fíliæ Judæ."
+        "la": "Adoráte Deum, omnes Angeli ejus: audívit, et lætáta est Sion: et exsultavérunt fíliæ Judæ. Dóminus regnávit, exsúltet terra: læténtur ínsulæ multæ. Adoráte Deum, omnes Angeli ejus: audívit, et lætáta est Sion: et exsultavérunt fíliæ Judæ.",
+        "de": "Betet Gott an, all seine Engel! Sion hört es und freut sich, und die Töchter Judas frohlocken. Der Herr ist König; es juble die Erde, es mögen sich freuen die vielen Inseln. Betet Gott an, all seine Engel! Sion hört es und freut sich, und die Töchter Judas frohlocken."
       },
       "reference": {
         "la": "Ps 96:7-8; Ps 96:1",
@@ -38,7 +39,8 @@
         "de": "Tagesgebet"
       },
       "text": {
-        "la": "Deus, qui nos, in tantis perículis constitútos, pro humána scis fragilitáte non posse subsístere: da nobis salútem mentis et córporis; ut ea, quæ pro peccátis nostris pátimur, te adjuvánte vincámus."
+        "la": "Deus, qui nos, in tantis perículis constitútos, pro humána scis fragilitáte non posse subsístere: da nobis salútem mentis et córporis; ut ea, quæ pro peccátis nostris pátimur, te adjuvánte vincámus.",
+        "de": "O Gott, du weißt, dass wir, die wir in so großen Gefahren stehen, ob der menschlichen Gebrechlichkeit nicht bestehen können: Gib uns Gesundheit der Seele und des Leibes, damit wir das, was wir um unserer Sünden willen leiden, mit deiner Hilfe überwinden."
       }
     },
     {
@@ -49,7 +51,8 @@
         "de": "Lesung"
       },
       "text": {
-        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános. Fratres: Némini quidquam debeátis, nisi ut ínvicem diligátis: qui enim díligit próximum, legem implévit. Nam: Non adulterábis, Non occídes, Non furáberis, Non falsum testimónium dices, Non concupísces: et si quod est áliud mandátum, in hoc verbo instaurátur: Díliges próximum tuum sicut teípsum. Diléctio próximi malum non operátur. Plenitúdo ergo legis est diléctio."
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános. Fratres: Némini quidquam debeátis, nisi ut ínvicem diligátis: qui enim díligit próximum, legem implévit. Nam: Non adulterábis, Non occídes, Non furáberis, Non falsum testimónium dices, Non concupísces: et si quod est áliud mandátum, in hoc verbo instaurátur: Díliges próximum tuum sicut teípsum. Diléctio próximi malum non operátur. Plenitúdo ergo legis est diléctio.",
+        "de": "Lesung aus dem Brief des heiligen Apostels Paulus an die Römer. Brüder! Seid niemandem etwas schuldig, außer dass ihr einander liebet; denn wer den Nächsten liebt, hat das Gesetz erfüllt. Denn: Du sollst nicht ehebrechen; du sollst nicht töten; du sollst nicht stehlen; du sollst kein falsches Zeugnis geben; du sollst nicht begehren — und wenn es noch ein anderes Gebot gibt, so ist es in diesem Worte zusammengefasst: Du sollst deinen Nächsten lieben wie dich selbst. Die Liebe tut dem Nächsten nichts Böses. So ist die Liebe die Erfüllung des Gesetzes."
       },
       "reference": {
         "la": "Rom 13:8-10",
@@ -64,7 +67,8 @@
         "de": "Graduale"
       },
       "text": {
-        "la": "Timébunt gentes nomen tuum, Dómine, et omnes reges terræ glóriam tuam. Quóniam ædificávit Dóminus Sion, et vidébitur in majestáte sua. Allelúja, allelúja. Dóminus regnávit, exsúltet terra: læténtur ínsulæ multæ. Allelúja."
+        "la": "Timébunt gentes nomen tuum, Dómine, et omnes reges terræ glóriam tuam. Quóniam ædificávit Dóminus Sion, et vidébitur in majestáte sua. Allelúja, allelúja. Dóminus regnávit, exsúltet terra: læténtur ínsulæ multæ. Allelúja.",
+        "de": "Die Völker werden deinen Namen fürchten, o Herr, und alle Könige der Erde deine Herrlichkeit. Denn der Herr hat Sion erbaut, und er wird erscheinen in seiner Herrlichkeit. Alleluja, alleluja. Der Herr ist König; es juble die Erde, es mögen sich freuen die vielen Inseln. Alleluja."
       },
       "reference": {
         "la": "Ps 101:16-17; Ps 96:1",
@@ -83,7 +87,8 @@
         "de": "Evangelium"
       },
       "text": {
-        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum. In illo témpore: Ascendénte Jesu in navículam, secúti sunt eum discípuli ejus: et ecce, motus magnus factus est in mari, ita ut navícula operirétur flúctibus, ipse vero dormiébat. Et accessérunt ad eum discípuli ejus, et suscitavérunt eum, dicéntes: Dómine, salva nos, perímus. Et dicit eis Jesus: Quid tímidi estis, módicæ fídei? Tunc surgens, imperávit ventis et mari, et facta est tranquíllitas magna. Porro hómines miráti sunt, dicéntes: Qualis est hic, quia venti et mare obœ́diunt ei?"
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum. In illo témpore: Ascendénte Jesu in navículam, secúti sunt eum discípuli ejus: et ecce, motus magnus factus est in mari, ita ut navícula operirétur flúctibus, ipse vero dormiébat. Et accessérunt ad eum discípuli ejus, et suscitavérunt eum, dicéntes: Dómine, salva nos, perímus. Et dicit eis Jesus: Quid tímidi estis, módicæ fídei? Tunc surgens, imperávit ventis et mari, et facta est tranquíllitas magna. Porro hómines miráti sunt, dicéntes: Qualis est hic, quia venti et mare obœ́diunt ei?",
+        "de": "Fortsetzung des heiligen Evangeliums nach Matthäus. In jener Zeit stieg Jesus in ein Schifflein, und seine Jünger folgten ihm. Und siehe, es erhob sich ein großer Sturm auf dem Meere, so dass das Schifflein von den Wogen bedeckt wurde; er aber schlief. Und seine Jünger traten zu ihm, weckten ihn und sprachen: Herr, rette uns, wir gehen zugrunde! Und Jesus sprach zu ihnen: Was seid ihr so furchtsam, ihr Kleingläubigen? Dann stand er auf, gebot den Winden und dem Meere, und es ward eine große Stille. Die Menschen aber wunderten sich und sprachen: Wer ist dieser, dass ihm Wind und Meer gehorchen?"
       },
       "reference": {
         "la": "Matt 8:23-27",
@@ -98,7 +103,8 @@
         "de": "Gabenvers"
       },
       "text": {
-        "la": "Déxtera Dómini fecit virtutem, déxtera Dómini exaltávit me: non móriar, sed vivam, et narrábo ópera Dómini."
+        "la": "Déxtera Dómini fecit virtutem, déxtera Dómini exaltávit me: non móriar, sed vivam, et narrábo ópera Dómini.",
+        "de": "Die Rechte des Herrn hat Macht erwiesen, die Rechte des Herrn hat mich erhöht; ich werde nicht sterben, sondern leben und die Werke des Herrn verkünden."
       },
       "reference": {
         "la": "Ps 117:16; 117:17",
@@ -117,7 +123,8 @@
         "de": "Stillgebet (Secreta)"
       },
       "text": {
-        "la": "Concéde, quǽsumus, omnípotens Deus: ut hujus sacrifícii munus oblátum fragilitátem nostram ab omni malo purget semper et múniat."
+        "la": "Concéde, quǽsumus, omnípotens Deus: ut hujus sacrifícii munus oblátum fragilitátem nostram ab omni malo purget semper et múniat.",
+        "de": "Verleihe, wir bitten dich, allmächtiger Gott, dass die Gabe dieses dargebrachten Opfers unsere Gebrechlichkeit von allem Übel stets reinige und schütze."
       }
     },
     {
@@ -128,7 +135,8 @@
         "de": "Kommunionvers"
       },
       "text": {
-        "la": "Mirabántur omnes de his, quæ procedébant de ore Dei."
+        "la": "Mirabántur omnes de his, quæ procedébant de ore Dei.",
+        "de": "Alle staunten über die Worte, die aus dem Munde Gottes kamen."
       },
       "reference": {
         "la": "Luc 4:22",
@@ -147,7 +155,8 @@
         "de": "Schlussgebet"
       },
       "text": {
-        "la": "Múnera tua nos, Deus, a delectatiónibus terrenis expédiant: et cœléstibus semper instáurent aliméntis."
+        "la": "Múnera tua nos, Deus, a delectatiónibus terrenis expédiant: et cœléstibus semper instáurent aliméntis.",
+        "de": "Deine Gaben, o Gott, mögen uns von den irdischen Lüsten befreien und uns immer durch die himmlischen Speisen erneuern."
       }
     }
   ]

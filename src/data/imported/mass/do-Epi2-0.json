@@ -1,7 +1,7 @@
 {
   "id": "do-Epi2-0",
   "form": "1962",
-  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung (eigene, gemeinfrei) ergänzt.",
   "day": {
     "title": {
       "la": "Dominica II post Epiphaniam",
@@ -19,7 +19,8 @@
         "de": "Eröffnungsvers"
       },
       "text": {
-        "la": "Omnis terra adóret te, Deus, et psallat tibi: psalmum dicat nómini tuo, Altíssime. Jubiláte Deo, omnis terra, psalmum dícite nómini ejus: date glóriam laudi ejus. Omnis terra adóret te, Deus, et psallat tibi: psalmum dicat nómini tuo, Altíssime."
+        "la": "Omnis terra adóret te, Deus, et psallat tibi: psalmum dicat nómini tuo, Altíssime. Jubiláte Deo, omnis terra, psalmum dícite nómini ejus: date glóriam laudi ejus. Omnis terra adóret te, Deus, et psallat tibi: psalmum dicat nómini tuo, Altíssime.",
+        "de": "Alle Welt bete dich an, o Gott, und singe dir; sie singe ein Loblied deinem Namen, o Allerhöchster. Jauchzet Gott, alle Lande, singet ein Lied seinem Namen; gebet Ehre seinem Lobe. Alle Welt bete dich an, o Gott, und singe dir; sie singe ein Loblied deinem Namen, o Allerhöchster."
       },
       "reference": {
         "la": "Ps 65:4; Ps 65:1-2",
@@ -38,7 +39,8 @@
         "de": "Tagesgebet"
       },
       "text": {
-        "la": "Omnípotens sempitérne Deus, qui cœléstia simul et terréna moderáris: supplicatiónes pópuli tui cleménter exáudi; et pacem tuam nostris concéde tempóribus."
+        "la": "Omnípotens sempitérne Deus, qui cœléstia simul et terréna moderáris: supplicatiónes pópuli tui cleménter exáudi; et pacem tuam nostris concéde tempóribus.",
+        "de": "Allmächtiger, ewiger Gott, der du das Himmlische zugleich und das Irdische lenkst: Erhöre gnädig die Bitten deines Volkes und schenke deinen Frieden unseren Zeiten."
       }
     },
     {
@@ -49,7 +51,8 @@
         "de": "Lesung"
       },
       "text": {
-        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános. Fratres: Habéntes donatiónes secúndum grátiam, quæ data est nobis, differéntes: sive prophetíam secúndum ratiónem fídei, sive ministérium in ministrándo, sive qui docet in doctrína, qui exhortátur in exhortándo, qui tríbuit in simplicitáte, qui præest in sollicitúdine, qui miserétur in hilaritáte. Diléctio sine simulatióne. Odiéntes malum, adhæréntes bono: Caritáte fraternitátis ínvicem diligéntes: Honóre ínvicem præveniéntes: Sollicitúdine non pigri: Spíritu fervéntes: Dómino serviéntes: Spe gaudéntes: In tribulatióne patiéntes: Oratióni instántes: Necessitátibus sanctórum communicántes: Hospitalitátem sectántes. Benedícite persequéntibus vos: benedícite, et nolíte maledícere. Gaudére cum gaudéntibus, flere cum fléntibus: Idípsum ínvicem sentiéntes: Non alta sapiéntes, sed humílibus consentiéntes."
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános. Fratres: Habéntes donatiónes secúndum grátiam, quæ data est nobis, differéntes: sive prophetíam secúndum ratiónem fídei, sive ministérium in ministrándo, sive qui docet in doctrína, qui exhortátur in exhortándo, qui tríbuit in simplicitáte, qui præest in sollicitúdine, qui miserétur in hilaritáte. Diléctio sine simulatióne. Odiéntes malum, adhæréntes bono: Caritáte fraternitátis ínvicem diligéntes: Honóre ínvicem præveniéntes: Sollicitúdine non pigri: Spíritu fervéntes: Dómino serviéntes: Spe gaudéntes: In tribulatióne patiéntes: Oratióni instántes: Necessitátibus sanctórum communicántes: Hospitalitátem sectántes. Benedícite persequéntibus vos: benedícite, et nolíte maledícere. Gaudére cum gaudéntibus, flere cum fléntibus: Idípsum ínvicem sentiéntes: Non alta sapiéntes, sed humílibus consentiéntes.",
+        "de": "Lesung aus dem Brief des heiligen Apostels Paulus an die Römer. Brüder! Wir haben verschiedene Gaben nach der Gnade, die uns gegeben ist: hat einer die Weissagung, so übe er sie gemäß dem Glauben; hat einer ein Amt, so warte er des Amtes; wer lehrt, bleibe bei der Lehre; wer ermahnt, bei der Ermahnung; wer gibt, gebe in Einfalt; wer vorsteht, tue es mit Eifer; wer Barmherzigkeit übt, tue es mit Freudigkeit. Die Liebe sei ohne Heuchelei. Hasset das Böse, hanget dem Guten an. In brüderlicher Liebe seid einander zugetan; in der Ehrerbietung komme einer dem andern zuvor. Im Eifer seid nicht säumig, im Geiste seid brennend, dem Herrn dienet. In der Hoffnung seid fröhlich, in der Trübsal geduldig, im Gebete beharrlich. Nehmet Anteil an den Nöten der Heiligen, befleißiget euch der Gastfreundschaft. Segnet, die euch verfolgen; segnet und fluchet nicht. Freuet euch mit den Fröhlichen, weinet mit den Weinenden. Seid untereinander eines Sinnes; trachtet nicht nach hohen Dingen, sondern haltet euch zu den Niedrigen."
       },
       "reference": {
         "la": "Rom 12:6-16",
@@ -64,7 +67,8 @@
         "de": "Graduale"
       },
       "text": {
-        "la": "Misit Dóminus verbum suum, et sanávit eos: et erípuit eos de intéritu eórum. Confiteántur Dómino misericórdiæ ejus: et mirabília ejus fíliis hóminum. Allelúja, allelúja. Laudáte Dóminum, omnes Angeli ejus: laudáte eum, omnes virtútes ejus. Allelúja."
+        "la": "Misit Dóminus verbum suum, et sanávit eos: et erípuit eos de intéritu eórum. Confiteántur Dómino misericórdiæ ejus: et mirabília ejus fíliis hóminum. Allelúja, allelúja. Laudáte Dóminum, omnes Angeli ejus: laudáte eum, omnes virtútes ejus. Allelúja.",
+        "de": "Der Herr sandte sein Wort und heilte sie und entriss sie ihrem Verderben. Preisen sollen den Herrn seine Erbarmungen und seine Wunder an den Menschenkindern. Alleluja, alleluja. Lobet den Herrn, all seine Engel; lobet ihn, all seine Heerscharen. Alleluja."
       },
       "reference": {
         "la": "Ps 106:20-21; Ps 148:2",
@@ -84,7 +88,7 @@
       },
       "text": {
         "la": "Sequéntia ++ sancti Evangélii secúndum Joánnem. In illo témpore: Núptiæ factæ sunt in Cana Galilǽæ: et erat Mater Jesu ibi. Vocátus est autem et Jesus, et discípuli ejus ad núptias. Et deficiénte vino, dicit Mater Jesu ad eum: Vinum non habent. Et dicit ei Jesus: Quid mihi et tibi est, mulier? nondum venit hora mea. Dicit Mater ejus minístris: Quodcúmque díxerit vobis, fácite. Erant autem ibi lapídeæ hýdriæ sex pósitæ secúndum purificatiónem Judæórum, capiéntes síngulæ metrétas binas vel ternas. Dicit eis Jesus: Implete hýdrias aqua. Et implevérunt eas usque ad summum. Et dicit eis Jesus: Hauríte nunc, et ferte architriclíno. Et tulérunt. Ut autem gustávit architriclínus aquam vinum fáctam, et non sciébat unde esset, minístri autem sciébant, qui háuserant aquam: vocat sponsum architriclínus, et dicit ei: Omnis homo primum bonum vinum ponit: et cum inebriáti fúerint, tunc id, quod detérius est. Tu autem servásti bonum vinum usque adhuc. Hoc fecit inítium signórum Jesus in Cana Galilǽæ: et manifestávit glóriam suam, et credidérunt in eum discípuli ejus.",
-        "de": "Aus dem heiligen Evangelium nach Johannes In jener Zeit war eine Hochzeit zu Kana in Galiläa. Die Mutter Jesu war dabei, und auch Jesus und Seine Jünger waren zur Hochzeit geladen. Als nun der Wein ausging, sagte die Mutter Jesu zu Ihm: \"Sie haben keinen Wein mehr.\" Jesus erwiderte ihr: \"Frau, was habe Ich mit dir zu tun? Meine Stunde ist noch nicht gekommen.\" Da sagte Seine Mutter zu den Dienern: \"Tuet alles, was Er euch sagen wird.\" Es standen aber daselbst sechs steinerne Wasserkrüge für die bei den Juden üblichen Reinigungen; jeder von ihnen faßte zwei bis drei Maß. Jesus sprach nun zu ihnen: \"Füllet die Krüge mit Wasser.\" Und sie füllten sie bis an den Rand. Dann sprach Jesus zu ihnen: \"Schöpfet jetzt und bringet davon dem Speisemeister.\" Sie brachten ihm davon. Der Speisemeister kostete das zu Wein gewordene Wasser und wußte nicht, woher der Wein war; die Diener aber, die das Wasser geschöpft hatten, wußten es. Nun rief er den Bräutigam und sprach zu ihm: \"Jedermann setzt zuerst den guten Wein vor, und wenn die Gäste genug getrunken haben, dann den geringeren; durch aber hast den guten Wein bis jetzt aufgehoben.\" – So machte Jesus zu Kana in Galiläa den Anfang mit Seinen Wundern und offenbarte Seine Herrlichkeit. Und Seine Jünger glaubten an Ihn."
+        "de": "Fortsetzung des heiligen Evangeliums nach Johannes. In jener Zeit war eine Hochzeit zu Kana in Galiläa, und die Mutter Jesu war dort. Es waren aber auch Jesus und seine Jünger zur Hochzeit geladen. Und als der Wein ausging, sprach die Mutter Jesu zu ihm: Sie haben keinen Wein. Und Jesus sprach zu ihr: Frau, was willst du von mir? Meine Stunde ist noch nicht gekommen. Seine Mutter sprach zu den Dienern: Was er euch sagt, das tut. Es standen aber dort sechs steinerne Wasserkrüge nach der Reinigungssitte der Juden, von denen jeder zwei oder drei Maß fasste. Jesus sprach zu ihnen: Füllet die Krüge mit Wasser. Und sie füllten sie bis zum Rande. Und Jesus sprach zu ihnen: Schöpfet nun und bringt es dem Speisemeister. Und sie brachten es. Als aber der Speisemeister das zu Wein gewordene Wasser gekostet hatte und nicht wusste, woher es war — die Diener aber, die das Wasser geschöpft hatten, wussten es —, rief der Speisemeister den Bräutigam und sprach zu ihm: Jeder Mensch setzt zuerst den guten Wein vor, und wenn sie trunken geworden sind, dann den geringeren; du aber hast den guten Wein bis jetzt aufbewahrt. Dies tat Jesus als Anfang der Zeichen zu Kana in Galiläa und offenbarte seine Herrlichkeit; und seine Jünger glaubten an ihn."
       },
       "reference": {
         "la": "Joann 2:1-11",
@@ -99,7 +103,8 @@
         "de": "Gabenvers"
       },
       "text": {
-        "la": "Jubiláte Deo, univérsa terra: psalmum dícite nómini ejus: veníte et audíte, et narrábo vobis, omnes qui timétis Deum, quanta fecit Dóminus ánimæ meæ, allelúja."
+        "la": "Jubiláte Deo, univérsa terra: psalmum dícite nómini ejus: veníte et audíte, et narrábo vobis, omnes qui timétis Deum, quanta fecit Dóminus ánimæ meæ, allelúja.",
+        "de": "Jauchzet Gott, alle Lande; singet ein Lied seinem Namen. Kommt und höret, alle, die ihr Gott fürchtet, und ich will euch erzählen, wie Großes der Herr an meiner Seele getan hat. Alleluja."
       },
       "reference": {
         "la": "Ps 65:1-2; 65:16",
@@ -118,7 +123,8 @@
         "de": "Stillgebet (Secreta)"
       },
       "text": {
-        "la": "Oblata, Dómine, múnera sanctífica: nosque a peccatórum nostrórum máculis emúnda."
+        "la": "Oblata, Dómine, múnera sanctífica: nosque a peccatórum nostrórum máculis emúnda.",
+        "de": "Heilige, o Herr, die dargebrachten Gaben und reinige uns von den Flecken unserer Sünden."
       }
     },
     {
@@ -129,7 +135,8 @@
         "de": "Kommunionvers"
       },
       "text": {
-        "la": "Dicit Dóminus: Implete hýdrias aqua et ferte architriclíno. Cum gustásset architriclínus aquam vinum factam, dicit sponso: Servásti bonum vinum usque adhuc. Hoc signum fecit Jesus primum coram discípulis suis."
+        "la": "Dicit Dóminus: Implete hýdrias aqua et ferte architriclíno. Cum gustásset architriclínus aquam vinum factam, dicit sponso: Servásti bonum vinum usque adhuc. Hoc signum fecit Jesus primum coram discípulis suis.",
+        "de": "Der Herr spricht: Füllet die Krüge mit Wasser und bringt es dem Speisemeister. Als der Speisemeister das zu Wein gewordene Wasser gekostet hatte, sprach er zum Bräutigam: Du hast den guten Wein bis jetzt aufbewahrt. Dieses erste Zeichen tat Jesus vor seinen Jüngern."
       },
       "reference": {
         "la": "Joann 2:7; 2:8; 2:9; 2:10-11",
@@ -148,7 +155,8 @@
         "de": "Schlussgebet"
       },
       "text": {
-        "la": "Augeátur in nobis, quǽsumus, Dómine, tuæ virtútis operatio: ut divínis vegetáti sacraméntis, ad eórum promíssa capiénda, tuo múnere præparémur."
+        "la": "Augeátur in nobis, quǽsumus, Dómine, tuæ virtútis operatio: ut divínis vegetáti sacraméntis, ad eórum promíssa capiénda, tuo múnere præparémur.",
+        "de": "Es wachse in uns, wir bitten dich, o Herr, die Wirkung deiner Kraft, damit wir, durch die göttlichen Sakramente gestärkt, durch deine Gabe auf den Empfang ihrer Verheißungen vorbereitet werden."
       }
     }
   ]
