@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
 import { PageHeader } from '../../components/PageHeader'
 import { SectionRenderer } from '../../components/SectionRenderer'
-import { importedMassList } from '../../data/registry'
+import { importedMassList, type ImportedMassEntry } from '../../data/registry'
 import { aspergesMe, vidiAquam, aspergesOratio } from '../../data/mass/asperges'
 import './LiturgyHub.css'
 
@@ -14,7 +14,57 @@ const COLOR_VAR: Record<string, string> = {
   black: 'var(--season-black)',
 }
 
+// Gruppierung der Formulare: Temporale nach liturgischen Zeiten, Sanktorale
+// nach Monaten – damit die ~300 Einträge navigierbar bleiben.
+const SEASON_ORDER = ['Adv', 'Nat', 'Epi', 'Quadp', 'Quad', 'Pasc', 'Pent'] as const
+const SEASON_LABEL: Record<string, string> = {
+  Adv: 'Advent',
+  Nat: 'Weihnachtszeit',
+  Epi: 'Zeit nach Erscheinung',
+  Quadp: 'Vorfastenzeit',
+  Quad: 'Fastenzeit',
+  Pasc: 'Osterzeit',
+  Pent: 'Zeit nach Pfingsten',
+}
+const MONTHS = ['Januar', 'Februar', 'März', 'April', 'Mai', 'Juni', 'Juli', 'August', 'September', 'Oktober', 'November', 'Dezember']
+
+function groupFormulars(list: ImportedMassEntry[]) {
+  const temporal: Record<string, ImportedMassEntry[]> = {}
+  const sanctoral: Record<number, ImportedMassEntry[]> = {}
+  for (const m of list) {
+    const t = m.id.match(/^do-([A-Za-z]+)\d*-\d+$/)
+    const s = m.id.match(/^do-(\d\d)-\d\d$/)
+    if (t) (temporal[t[1]] ??= []).push(m)
+    else if (s) (sanctoral[Number(s[1])] ??= []).push(m)
+  }
+  return { temporal, sanctoral }
+}
+
+function MassGroup({ label, entries }: { label: string; entries: ImportedMassEntry[] }) {
+  if (!entries.length) return null
+  return (
+    <details className="mass-group">
+      <summary className="mass-group__summary">
+        <span className="mass-group__label">{label}</span>
+        <span className="mass-group__count">{entries.length}</span>
+      </summary>
+      <ul className="mass-index">
+        {entries.map((m) => (
+          <li key={m.id}>
+            <Link to={`/liturgie/formular/${m.id}`} className="mass-index__link">
+              <span className="mass-index__dot" style={{ background: COLOR_VAR[m.color] }} aria-hidden />
+              <span className="mass-index__name">{m.titleDe}</span>
+              <span className="mass-index__la">{m.titleLa}</span>
+            </Link>
+          </li>
+        ))}
+      </ul>
+    </details>
+  )
+}
+
 export function LiturgyHub() {
+  const { temporal, sanctoral } = groupFormulars(importedMassList)
   return (
     <div>
       <PageHeader
@@ -56,17 +106,16 @@ export function LiturgyHub() {
         automatisch das Ordinarium (Latein/Deutsch); das gewünschte Kyriale lässt sich im Formular
         auswählen. Die deutsche Übersetzung des Propriums folgt.
       </p>
-      <ul className="mass-index">
-        {importedMassList.map((m) => (
-          <li key={m.id}>
-            <Link to={`/liturgie/formular/${m.id}`} className="mass-index__link">
-              <span className="mass-index__dot" style={{ background: COLOR_VAR[m.color] }} aria-hidden />
-              <span className="mass-index__name">{m.titleDe}</span>
-              <span className="mass-index__la">{m.titleLa}</span>
-            </Link>
-          </li>
-        ))}
-      </ul>
+
+      <h3 className="liturgy-hub__group-title">Herrenjahr · Temporale</h3>
+      {SEASON_ORDER.map((s) => (
+        <MassGroup key={s} label={SEASON_LABEL[s]} entries={temporal[s] ?? []} />
+      ))}
+
+      <h3 className="liturgy-hub__group-title">Heiligenkalender · Sanktorale</h3>
+      {MONTHS.map((name, i) => (
+        <MassGroup key={name} label={name} entries={sanctoral[i + 1] ?? []} />
+      ))}
     </div>
   )
 }
