@@ -1,7 +1,7 @@
 {
   "id": "do-Adv3-0",
   "form": "1962",
-  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung (eigene, gemeinfrei) ergänzt.",
   "day": {
     "title": {
       "la": "Dominica III Adventus",
@@ -19,7 +19,8 @@
         "de": "Eröffnungsvers"
       },
       "text": {
-        "la": "Gaudéte in Dómino semper: íterum dico, gaudéte. Modéstia vestra nota sit ómnibus homínibus: Dóminus enim prope est. Nihil sollíciti sitis: sed in omni oratióne petitiónes vestræ innotéscant apud Deum. Benedixísti, Dómine, terram tuam: avertísti captivitátem Jacob. Gaudéte in Dómino semper: íterum dico, gaudéte. Modéstia vestra nota sit ómnibus homínibus: Dóminus enim prope est. Nihil sollíciti sitis: sed in omni oratióne petitiónes vestræ innotéscant apud Deum."
+        "la": "Gaudéte in Dómino semper: íterum dico, gaudéte. Modéstia vestra nota sit ómnibus homínibus: Dóminus enim prope est. Nihil sollíciti sitis: sed in omni oratióne petitiónes vestræ innotéscant apud Deum. Benedixísti, Dómine, terram tuam: avertísti captivitátem Jacob. Gaudéte in Dómino semper: íterum dico, gaudéte. Modéstia vestra nota sit ómnibus homínibus: Dóminus enim prope est. Nihil sollíciti sitis: sed in omni oratióne petitiónes vestræ innotéscant apud Deum.",
+        "de": "Freuet euch im Herrn allezeit; abermals sage ich: Freuet euch. Eure Bescheidenheit sei allen Menschen bekannt; denn der Herr ist nahe. Sorget euch um nichts; sondern in jedem Gebete lasset eure Anliegen vor Gott kund werden. Du hast, o Herr, dein Land gesegnet; die Gefangenschaft Jakobs hast du gewendet. Freuet euch im Herrn allezeit; abermals sage ich: Freuet euch. Eure Bescheidenheit sei allen Menschen bekannt; denn der Herr ist nahe. Sorget euch um nichts; sondern in jedem Gebete lasset eure Anliegen vor Gott kund werden."
       },
       "reference": {
         "la": "Phil 4:4-6; Ps 84:2",
@@ -38,7 +39,8 @@
         "de": "Tagesgebet"
       },
       "text": {
-        "la": "Aurem tuam, quǽsumus, Dómine, précibus nostris accómmoda: et mentis nostræ ténebras, grátia tuæ visitatiónis illústra:"
+        "la": "Aurem tuam, quǽsumus, Dómine, précibus nostris accómmoda: et mentis nostræ ténebras, grátia tuæ visitatiónis illústra:",
+        "de": "Neige, wir bitten dich, o Herr, dein Ohr unseren Gebeten und erleuchte die Finsternis unseres Geistes durch die Gnade deiner Heimsuchung."
       }
     },
     {
@@ -49,7 +51,8 @@
         "de": "Lesung"
       },
       "text": {
-        "la": "Lectio Epístolæ beáti Pauli Apóstoli ad Philippénses Fratres: Gaudéte in Dómino semper: íterum dico, gaudéte. Modéstia vestra nota sit ómnibus homínibus: Dóminus prope est. Nihil sollíciti sitis: sed in omni oratióne et obsecratióne, cum gratiárum actióne, petitiónes vestræ innotéscant apud Deum. Et pax Dei, quæ exsúperat omnem sensum, custódiat corda vestra et intellegéntias vestras, in Christo Jesu, Dómino nostro."
+        "la": "Lectio Epístolæ beáti Pauli Apóstoli ad Philippénses Fratres: Gaudéte in Dómino semper: íterum dico, gaudéte. Modéstia vestra nota sit ómnibus homínibus: Dóminus prope est. Nihil sollíciti sitis: sed in omni oratióne et obsecratióne, cum gratiárum actióne, petitiónes vestræ innotéscant apud Deum. Et pax Dei, quæ exsúperat omnem sensum, custódiat corda vestra et intellegéntias vestras, in Christo Jesu, Dómino nostro.",
+        "de": "Lesung aus dem Brief des heiligen Apostels Paulus an die Philipper. Brüder! Freuet euch im Herrn allezeit; abermals sage ich: Freuet euch. Eure Bescheidenheit sei allen Menschen bekannt; der Herr ist nahe. Sorget euch um nichts; sondern in jedem Gebete und Flehen, mit Danksagung, lasset eure Anliegen vor Gott kund werden. Und der Friede Gottes, der allen Verstand übersteigt, bewahre eure Herzen und eure Gedanken in Christus Jesus, unserem Herrn."
       },
       "reference": {
         "la": "Philipp 4:4-7",
@@ -64,7 +67,8 @@
         "de": "Graduale"
       },
       "text": {
-        "la": "Qui sedes, Dómine, super Chérubim, éxcita poténtiam tuam, et veni. Qui regis Israël, inténde: qui dedúcis, velut ovem, Joseph. Allelúja, allelúja, Excita, Dómine, potentiam tuam, et veni, ut salvos fácias nos. Allelúja."
+        "la": "Qui sedes, Dómine, super Chérubim, éxcita poténtiam tuam, et veni. Qui regis Israël, inténde: qui dedúcis, velut ovem, Joseph. Allelúja, allelúja, Excita, Dómine, potentiam tuam, et veni, ut salvos fácias nos. Allelúja.",
+        "de": "Der du über den Cherubim thronst, o Herr, erwecke deine Macht und komm. Der du Israel regierst, merke auf; der du Joseph leitest wie ein Schaf. Alleluja, alleluja. Erwecke, o Herr, deine Macht und komm, um uns zu erretten. Alleluja."
       },
       "reference": {
         "la": "Ps 79:2; 79:3; 79:2",
@@ -83,7 +87,8 @@
         "de": "Evangelium"
       },
       "text": {
-        "la": "Sequéntia ++ sancti Evangélii secúndum Joánnem In illo tempore: Misérunt Judǽi ab Jerosólymis sacerdótes et levítas ad Joánnem, ut interrogárent eum: Tu quis es? Et conféssus est, et non negávit: et conféssus est: Quia non sum ego Christus. Et interrogavérunt eum: Quid ergo? Elías es tu? Et dixit: Non sum. Prophéta es tu? Et respondit: Non. Dixérunt ergo ei: Quis es, ut respónsum demus his, qui misérunt nos? Quid dicis de te ipso? Ait: Ego vox clamántis in desérto: Dirígite viam Dómini, sicut dixit Isaías Prophéta. Et qui missi fúerant, erant ex pharisǽis. Et interrogavérunt eum, et dixérunt ei: Quid ergo baptízas, si tu non es Christus, neque Elías, neque Prophéta? Respóndit eis Joánnes, dicens: Ego baptízo in aqua: médius autem vestrum stetit, quem vos nescítis. Ipse est, qui post me ventúrus est, qui ante me factus est: cujus ego non sum dignus ut solvam ejus corrígiam calceaménti. Hæc in Bethánia facta sunt trans Jordánem, ubi erat Joánnes baptízans."
+        "la": "Sequéntia ++ sancti Evangélii secúndum Joánnem In illo tempore: Misérunt Judǽi ab Jerosólymis sacerdótes et levítas ad Joánnem, ut interrogárent eum: Tu quis es? Et conféssus est, et non negávit: et conféssus est: Quia non sum ego Christus. Et interrogavérunt eum: Quid ergo? Elías es tu? Et dixit: Non sum. Prophéta es tu? Et respondit: Non. Dixérunt ergo ei: Quis es, ut respónsum demus his, qui misérunt nos? Quid dicis de te ipso? Ait: Ego vox clamántis in desérto: Dirígite viam Dómini, sicut dixit Isaías Prophéta. Et qui missi fúerant, erant ex pharisǽis. Et interrogavérunt eum, et dixérunt ei: Quid ergo baptízas, si tu non es Christus, neque Elías, neque Prophéta? Respóndit eis Joánnes, dicens: Ego baptízo in aqua: médius autem vestrum stetit, quem vos nescítis. Ipse est, qui post me ventúrus est, qui ante me factus est: cujus ego non sum dignus ut solvam ejus corrígiam calceaménti. Hæc in Bethánia facta sunt trans Jordánem, ubi erat Joánnes baptízans.",
+        "de": "Fortsetzung des heiligen Evangeliums nach Johannes. In jener Zeit sandten die Juden von Jerusalem Priester und Leviten zu Johannes, um ihn zu fragen: Wer bist du? Und er bekannte und leugnete nicht; und er bekannte: Ich bin nicht der Christus. Und sie fragten ihn: Was denn? Bist du Elias? Und er sagte: Ich bin es nicht. Bist du der Prophet? Und er antwortete: Nein. Da sprachen sie zu ihm: Wer bist du denn, damit wir denen Antwort geben, die uns gesandt haben? Was sagst du über dich selbst? Er sprach: Ich bin die Stimme eines Rufenden in der Wüste: Machet gerade den Weg des Herrn, wie der Prophet Isaias gesagt hat. Und die gesandt waren, gehörten zu den Pharisäern. Und sie fragten ihn und sprachen zu ihm: Warum taufst du denn, wenn du nicht der Christus bist, noch Elias, noch der Prophet? Johannes antwortete ihnen und sprach: Ich taufe mit Wasser; mitten unter euch aber steht einer, den ihr nicht kennet. Er ist es, der nach mir kommen wird, der vor mir gewesen ist; ich bin nicht würdig, ihm den Riemen seines Schuhes zu lösen. Dies geschah zu Bethanien jenseits des Jordan, wo Johannes taufte."
       },
       "reference": {
         "la": "Joann 1:19-28",
@@ -98,7 +103,8 @@
         "de": "Gabenvers"
       },
       "text": {
-        "la": "Benedixísti, Dómine, terram tuam: avertísti captivitátem Jacob: remisísti iniquitatem plebis tuæ."
+        "la": "Benedixísti, Dómine, terram tuam: avertísti captivitátem Jacob: remisísti iniquitatem plebis tuæ.",
+        "de": "Du hast, o Herr, dein Land gesegnet; die Gefangenschaft Jakobs hast du gewendet; du hast die Schuld deines Volkes vergeben."
       },
       "reference": {
         "la": "Ps 84:2",
@@ -117,7 +123,8 @@
         "de": "Stillgebet (Secreta)"
       },
       "text": {
-        "la": "Devotiónis nostræ tibi, quǽsumus, Dómine, hóstia júgiter immolétur: quæ et sacri péragat institúta mystérii, et salutáre tuum in nobis mirabíliter operétur."
+        "la": "Devotiónis nostræ tibi, quǽsumus, Dómine, hóstia júgiter immolétur: quæ et sacri péragat institúta mystérii, et salutáre tuum in nobis mirabíliter operétur.",
+        "de": "Möge dir, wir bitten dich, o Herr, das Opfer unserer Hingabe unablässig dargebracht werden, das sowohl die Einsetzung des heiligen Geheimnisses erfülle als auch dein Heil auf wunderbare Weise in uns wirke."
       }
     },
     {
@@ -128,7 +135,8 @@
         "de": "Kommunionvers"
       },
       "text": {
-        "la": "Dícite: pusillánimes, confortámini et nolíte timére: ecce, Deus noster véniet et salvábit nos."
+        "la": "Dícite: pusillánimes, confortámini et nolíte timére: ecce, Deus noster véniet et salvábit nos.",
+        "de": "Saget: Ihr Kleinmütigen, fasset Mut und fürchtet euch nicht; siehe, unser Gott wird kommen und uns erretten."
       },
       "reference": {
         "la": "Is 35:4.",
@@ -147,7 +155,8 @@
         "de": "Schlussgebet"
       },
       "text": {
-        "la": "Implorámus, Dómine, cleméntiam tuam: ut hæc divína subsídia, a vítiis expiátos, ad festa ventúra nos prǽparent."
+        "la": "Implorámus, Dómine, cleméntiam tuam: ut hæc divína subsídia, a vítiis expiátos, ad festa ventúra nos prǽparent.",
+        "de": "Wir flehen zu deiner Milde, o Herr: Diese göttlichen Hilfen mögen uns, von den Lastern gereinigt, auf die kommenden Feste vorbereiten."
       }
     }
   ]

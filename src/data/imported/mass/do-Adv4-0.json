@@ -1,7 +1,7 @@
 {
   "id": "do-Adv4-0",
   "form": "1962",
-  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung (eigene, gemeinfrei) ergänzt.",
   "day": {
     "title": {
       "la": "Dominica IV Adventus",
@@ -19,7 +19,8 @@
         "de": "Eröffnungsvers"
       },
       "text": {
-        "la": "Roráte, cœli, désuper, et nubes pluant justum: aperiátur terra, et gérminet Salvatórem Cœli enárrant glóriam Dei: et ópera mánuum ejus annúntiat firmaméntum. Roráte, cœli, désuper, et nubes pluant justum: aperiátur terra, et gérminet Salvatórem"
+        "la": "Roráte, cœli, désuper, et nubes pluant justum: aperiátur terra, et gérminet Salvatórem Cœli enárrant glóriam Dei: et ópera mánuum ejus annúntiat firmaméntum. Roráte, cœli, désuper, et nubes pluant justum: aperiátur terra, et gérminet Salvatórem",
+        "de": "Tauet, ihr Himmel, von oben, und die Wolken mögen den Gerechten regnen; es öffne sich die Erde und sprosse den Heiland hervor. Die Himmel erzählen die Herrlichkeit Gottes, und das Firmament verkündet die Werke seiner Hände. Tauet, ihr Himmel, von oben, und die Wolken mögen den Gerechten regnen; es öffne sich die Erde und sprosse den Heiland hervor."
       },
       "reference": {
         "la": "Isa 45:8; Ps 18:2",
@@ -38,7 +39,8 @@
         "de": "Tagesgebet"
       },
       "text": {
-        "la": "Excita, quǽsumus, Dómine, poténtiam tuam, et veni: et magna nobis virtúte succúrre; ut per auxílium grátiæ tuæ, quod nostra peccáta præpédiunt, indulgéntia tuæ propitiatiónis accéleret:"
+        "la": "Excita, quǽsumus, Dómine, poténtiam tuam, et veni: et magna nobis virtúte succúrre; ut per auxílium grátiæ tuæ, quod nostra peccáta præpédiunt, indulgéntia tuæ propitiatiónis accéleret:",
+        "de": "Erwecke, wir bitten dich, o Herr, deine Macht und komm; und mit großer Kraft komm uns zu Hilfe, damit durch den Beistand deiner Gnade das, was unsere Sünden hemmen, die Nachsicht deiner Erbarmung beschleunige."
       }
     },
     {
@@ -49,7 +51,8 @@
         "de": "Lesung"
       },
       "text": {
-        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios Fratres: Sic nos exístimet homo ut minístros Christi, et dispensatóres mysteriórum Dei. Hic jam quǽritur inter dispensatóres, ut fidélis quis inveniátur. Mihi autem pro mínimo est, ut a vobis júdicer aut ab humáno die: sed neque meípsum júdico. Nihil enim mihi cónscius sum: sed non in hoc justificátus sum: qui autem júdicat me, Dóminus est. Ítaque nolíte ante tempus judicáre, quoadúsque véniat Dóminus: qui et illuminábit abscóndita tenebrárum, et manifestábit consília córdium: et tunc laus erit unicúique a Deo."
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios Fratres: Sic nos exístimet homo ut minístros Christi, et dispensatóres mysteriórum Dei. Hic jam quǽritur inter dispensatóres, ut fidélis quis inveniátur. Mihi autem pro mínimo est, ut a vobis júdicer aut ab humáno die: sed neque meípsum júdico. Nihil enim mihi cónscius sum: sed non in hoc justificátus sum: qui autem júdicat me, Dóminus est. Ítaque nolíte ante tempus judicáre, quoadúsque véniat Dóminus: qui et illuminábit abscóndita tenebrárum, et manifestábit consília córdium: et tunc laus erit unicúique a Deo.",
+        "de": "Lesung aus dem ersten Brief des heiligen Apostels Paulus an die Korinther. Brüder! So halte man uns für Diener Christi und Verwalter der Geheimnisse Gottes. Hier wird nun von den Verwaltern verlangt, dass einer treu erfunden werde. Mir aber ist es das Geringste, dass ich von euch gerichtet werde oder von einem menschlichen Gerichtstag; ja, ich richte mich nicht einmal selbst. Denn ich bin mir keiner Schuld bewusst; doch dadurch bin ich nicht gerechtfertigt; der aber mich richtet, ist der Herr. Darum richtet nicht vor der Zeit, bis der Herr kommt, der auch das Verborgene der Finsternis ans Licht bringen und die Ratschläge der Herzen offenbar machen wird; und dann wird einem jeden das Lob zuteil werden von Gott."
       },
       "reference": {
         "la": "1 Cor 4:1-5",
@@ -64,7 +67,8 @@
         "de": "Graduale"
       },
       "text": {
-        "la": "Prope est Dóminus ómnibus invocántibus eum: ómnibus, qui ínvocant eum in veritáte. Laudem Dómini loquétur os meum: et benedícat omnis caro nomen sanctum ejus. Allelúja, allelúja, Veni, Dómine, et noli tardáre: reláxa facínora plebis tuæ Israël. Allelúja."
+        "la": "Prope est Dóminus ómnibus invocántibus eum: ómnibus, qui ínvocant eum in veritáte. Laudem Dómini loquétur os meum: et benedícat omnis caro nomen sanctum ejus. Allelúja, allelúja, Veni, Dómine, et noli tardáre: reláxa facínora plebis tuæ Israël. Allelúja.",
+        "de": "Nahe ist der Herr allen, die ihn anrufen, allen, die ihn anrufen in Wahrheit. Das Lob des Herrn verkünde mein Mund, und alles Fleisch preise seinen heiligen Namen. Alleluja, alleluja. Komm, o Herr, und säume nicht; erlass die Missetaten deines Volkes Israel. Alleluja."
       },
       "reference": {
         "la": "Ps 144:18; 144:21",
@@ -83,7 +87,8 @@
         "de": "Evangelium"
       },
       "text": {
-        "la": "Sequéntia ++ sancti Evangélii secundum Lucam Anno quintodécimo impérii Tibérii Cǽsaris, procuránte Póntio Piláto Judǽam, tetrárcha autem Galilǽæ Heróde, Philíppo autem fratre ejus tetrárcha Iturǽæ et Trachonítidis regionis, et Lysánia Abilínæ tetrárcha, sub princípibus sacerdotum Anna et Cáipha: factum est verbum Domini super Joannem, Zacharíæ filium, in deserto. Et venit in omnem regiónem Jordánis, prǽdicans baptísmum pæniténtiæ in remissiónem peccatórum, sicut scriptum est in libro sermónum Isaíæ Prophétæ: Vox clamántis in desérto: Paráte viam Dómini: rectas fácite sémitas ejus: omnis vallis implébitur: et omnis mons et collis humiliábitur: et erunt prava in dirécta, et áspera in vias planas: et vidébit omnis caro salutáre Dei."
+        "la": "Sequéntia ++ sancti Evangélii secundum Lucam Anno quintodécimo impérii Tibérii Cǽsaris, procuránte Póntio Piláto Judǽam, tetrárcha autem Galilǽæ Heróde, Philíppo autem fratre ejus tetrárcha Iturǽæ et Trachonítidis regionis, et Lysánia Abilínæ tetrárcha, sub princípibus sacerdotum Anna et Cáipha: factum est verbum Domini super Joannem, Zacharíæ filium, in deserto. Et venit in omnem regiónem Jordánis, prǽdicans baptísmum pæniténtiæ in remissiónem peccatórum, sicut scriptum est in libro sermónum Isaíæ Prophétæ: Vox clamántis in desérto: Paráte viam Dómini: rectas fácite sémitas ejus: omnis vallis implébitur: et omnis mons et collis humiliábitur: et erunt prava in dirécta, et áspera in vias planas: et vidébit omnis caro salutáre Dei.",
+        "de": "Fortsetzung des heiligen Evangeliums nach Lukas. Im fünfzehnten Jahre der Regierung des Kaisers Tiberius, als Pontius Pilatus Judäa verwaltete, Herodes Vierfürst von Galiläa war, sein Bruder Philippus Vierfürst von Ituräa und der Landschaft Trachonitis und Lysanias Vierfürst von Abilene, unter den Hohenpriestern Annas und Kaiphas: da erging das Wort des Herrn an Johannes, den Sohn des Zacharias, in der Wüste. Und er kam in die ganze Gegend am Jordan und predigte die Taufe der Buße zur Vergebung der Sünden, wie geschrieben steht im Buche der Reden des Propheten Isaias: Die Stimme eines Rufenden in der Wüste: Bereitet den Weg des Herrn, machet gerade seine Pfade. Jedes Tal soll ausgefüllt, jeder Berg und Hügel erniedrigt werden; was krumm ist, soll gerade, und was rau ist, soll zu ebenen Wegen werden; und alles Fleisch wird das Heil Gottes schauen."
       },
       "reference": {
         "la": "Luc 3:1-6",
@@ -98,7 +103,8 @@
         "de": "Gabenvers"
       },
       "text": {
-        "la": "Ave, María, gratia plena; Dóminus tecum: benedícta tu in muliéribus, et benedíctus fructus ventris tui."
+        "la": "Ave, María, gratia plena; Dóminus tecum: benedícta tu in muliéribus, et benedíctus fructus ventris tui.",
+        "de": "Gegrüßet seist du, Maria, voll der Gnade; der Herr ist mit dir; du bist gebenedeit unter den Frauen, und gebenedeit ist die Frucht deines Leibes."
       },
       "reference": {
         "la": "Luc 1:28",
@@ -117,7 +123,8 @@
         "de": "Stillgebet (Secreta)"
       },
       "text": {
-        "la": "Sacrifíciis præséntibus, quǽsumus, Dómine, placátus inténde: ut et devotióni nostræ profíciant et salúti."
+        "la": "Sacrifíciis præséntibus, quǽsumus, Dómine, placátus inténde: ut et devotióni nostræ profíciant et salúti.",
+        "de": "Blicke, wir bitten dich, o Herr, versöhnt auf die gegenwärtigen Opfergaben, damit sie sowohl unserer Hingabe als auch unserem Heile nützen."
       }
     },
     {
@@ -128,7 +135,8 @@
         "de": "Schlussgebet"
       },
       "text": {
-        "la": "Sumptis munéribus, quǽsumus, Dómine: ut, cum frequentatióne mystérii, crescat nostræ salútis efféctus."
+        "la": "Sumptis munéribus, quǽsumus, Dómine: ut, cum frequentatióne mystérii, crescat nostræ salútis efféctus.",
+        "de": "Nachdem wir die Gaben empfangen haben, bitten wir dich, o Herr: Mit dem häufigen Empfang des Geheimnisses wachse in uns die Wirkung unseres Heiles."
       }
     }
   ]
