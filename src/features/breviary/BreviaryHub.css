@@ -1,3 +1,80 @@
+.brev-today {
+  margin-bottom: 1.8rem;
+  padding: 1.1rem 1.2rem;
+  background: var(--surface-raised);
+  border: 1px solid var(--surface-line);
+  border-left: 3px solid var(--gold);
+  border-radius: var(--radius);
+}
+
+.brev-today__head {
+  display: flex;
+  gap: 0.7rem;
+  align-items: flex-start;
+}
+
+.brev-today__dot {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  flex: 0 0 auto;
+  margin-top: 0.4rem;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+.brev-today__date {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin: 0;
+}
+
+.brev-today__title {
+  font-size: 1.5rem;
+  border: none;
+  padding: 0;
+  margin: 0.1rem 0 0;
+}
+
+.brev-today__la {
+  color: var(--gold);
+  font-size: 0.9rem;
+  font-weight: 400;
+}
+
+.brev-today__meta {
+  color: var(--text-muted);
+  font-style: italic;
+  font-size: 0.9rem;
+  margin: 0.15rem 0 0;
+}
+
+.brev-today__hours {
+  margin-top: 1rem;
+}
+
+.brev-today__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-top: 0.9rem;
+}
+
+.brev-today__link {
+  display: inline-block;
+  padding: 0.45rem 0.8rem;
+  border: 1px solid var(--surface-line);
+  border-radius: var(--radius);
+  color: var(--accent);
+  font-size: 0.92rem;
+  transition: border-color 0.15s ease;
+}
+
+.brev-today__link:hover {
+  border-color: var(--gold);
+}
+
 .brev-form {
   margin-bottom: 1.6rem;
 }
