@@ -16,14 +16,15 @@ interface Props {
  */
 export function SectionRenderer({ section }: Props) {
   const { isSung, language } = useSettings()
-  const chantable = section.chant?.chantable ?? false
+  // GregoBase-Melodie bevorzugen, sonst das eingebettete Incipit.
+  const resolvedGabc = section.chant ? gabcFor(section.id, section.chant.gabc) : undefined
+  // Als „gesungen" gilt ein Abschnitt nur, wenn auch wirklich eine Melodie
+  // vorliegt – sonst erschiene ein irreführender „Neumen folgen"-Platzhalter.
+  const chantable = (section.chant?.chantable ?? false) && Boolean(resolvedGabc)
   const sung = chantable && isSung(section.id)
   // Deutsch gewünscht, aber (noch) nicht übersetzt → dezenter Hinweis.
   const deMissing = language === 'de' && !section.text.de?.trim() && Boolean(section.text.la?.trim())
-  // GregoBase-Melodie bevorzugen, sonst das eingebettete Incipit.
-  const chant = section.chant
-    ? { ...section.chant, gabc: gabcFor(section.id, section.chant.gabc) }
-    : undefined
+  const chant = section.chant ? { ...section.chant, gabc: resolvedGabc } : undefined
   // Die Wandlungsworte erhalten eigene, hervorgehobene Darstellung.
   const isConsecration = section.id === 'qui-pridie' || section.id === 'simili-modo'
   const className = [

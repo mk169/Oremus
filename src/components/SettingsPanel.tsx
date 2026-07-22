@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { useSettings } from '../context/SettingsContext'
 import { kyrialeMasses, kyrialeCredos } from '../data/kyriale'
+import { gabcFor } from '../data/gabc'
 import type { LanguageMode, LiturgicalSection } from '../data/types'
 import './SettingsPanel.css'
 
@@ -26,7 +27,8 @@ export function SettingsPanel({ sections = [], showOrdinary = false }: Props) {
   const { language, setLanguage, isSung, toggleSung, ordinaryId, setOrdinary, credoId, setCredo } =
     useSettings()
   const [open, setOpen] = useState(false)
-  const chantable = sections.filter((s) => s.chant?.chantable)
+  // Nur Abschnitte anbieten, die tatsächlich eine Melodie besitzen.
+  const chantable = sections.filter((s) => s.chant?.chantable && gabcFor(s.id, s.chant.gabc))
 
   return (
     <div className={`settings-panel ${open ? 'is-open' : ''}`}>
