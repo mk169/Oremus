@@ -1,7 +1,7 @@
 {
   "id": "do-Pent07-0",
   "form": "1962",
-  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung (eigene, gemeinfrei) ergänzt.",
   "day": {
     "title": {
       "la": "Dominica VII Post Pentecosten",
@@ -19,7 +19,8 @@
         "de": "Eröffnungsvers"
       },
       "text": {
-        "la": "Omnes gentes, pláudite mánibus: jubiláte Deo in voce exsultatiónis. Quóniam Dóminus excélsus, terríbilis: Rex magnus super omnem terram. Omnes gentes, pláudite mánibus: jubiláte Deo in voce exsultatiónis."
+        "la": "Omnes gentes, pláudite mánibus: jubiláte Deo in voce exsultatiónis. Quóniam Dóminus excélsus, terríbilis: Rex magnus super omnem terram. Omnes gentes, pláudite mánibus: jubiláte Deo in voce exsultatiónis.",
+        "de": "Alle Völker, klatschet in die Hände; jauchzet Gott mit Jubelschall. Denn der Herr ist erhaben und furchtbar, ein großer König über die ganze Erde. Alle Völker, klatschet in die Hände; jauchzet Gott mit Jubelschall."
       },
       "reference": {
         "la": "Ps 46:2; Ps 46:3",
@@ -38,7 +39,8 @@
         "de": "Tagesgebet"
       },
       "text": {
-        "la": "Deus, cujus providéntia in sui dispositióne non fállitur: te súpplices exorámus; ut nóxia cuncta submóveas, et ómnia nobis profutúra concédas."
+        "la": "Deus, cujus providéntia in sui dispositióne non fállitur: te súpplices exorámus; ut nóxia cuncta submóveas, et ómnia nobis profutúra concédas.",
+        "de": "O Gott, dessen Vorsehung in ihren Anordnungen nicht fehlgeht: Wir flehen dich demütig an, dass du alles Schädliche von uns fernhaltest und alles Nützliche uns gewährest."
       }
     },
     {
@@ -49,7 +51,8 @@
         "de": "Lesung"
       },
       "text": {
-        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános Fratres: Humánum dico, propter infirmitátem carnis vestræ: sicut enim exhibuístis membra vestra servíre immundítiæ et iniquitáti ad iniquitátem, ita nunc exhibéte membra vestra servíre justítiæ in sanctificatiónem. Cum enim servi essétis peccáti, líberi fuístis justítiæ. Quem ergo fructum habuístis tunc in illis, in quibus nunc erubéscitis? Nam finis illórum mors est. Nunc vero liberáti a peccáto, servi autem facti Deo, habétis fructum vestrum in sanctificatiónem, finem vero vitam ætérnam. Stipéndia enim peccáti mors. Grátia autem Dei vita ætérna, in Christo Jesu, Dómino nostro."
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános Fratres: Humánum dico, propter infirmitátem carnis vestræ: sicut enim exhibuístis membra vestra servíre immundítiæ et iniquitáti ad iniquitátem, ita nunc exhibéte membra vestra servíre justítiæ in sanctificatiónem. Cum enim servi essétis peccáti, líberi fuístis justítiæ. Quem ergo fructum habuístis tunc in illis, in quibus nunc erubéscitis? Nam finis illórum mors est. Nunc vero liberáti a peccáto, servi autem facti Deo, habétis fructum vestrum in sanctificatiónem, finem vero vitam ætérnam. Stipéndia enim peccáti mors. Grátia autem Dei vita ætérna, in Christo Jesu, Dómino nostro.",
+        "de": "Lesung aus dem Brief des heiligen Apostels Paulus an die Römer. Brüder! Ich rede menschlich wegen der Schwachheit eures Fleisches. Wie ihr nämlich eure Glieder in den Dienst der Unreinheit und der Ungerechtigkeit gestellt habt zur Ungerechtigkeit, so stellet nun eure Glieder in den Dienst der Gerechtigkeit zur Heiligung. Denn als ihr Knechte der Sünde wart, wart ihr frei von der Gerechtigkeit. Welche Frucht hattet ihr nun damals von dem, dessen ihr euch jetzt schämt? Denn das Ende davon ist der Tod. Jetzt aber, von der Sünde befreit und Gott dienstbar geworden, habt ihr eure Frucht zur Heiligung, das Ende aber ist das ewige Leben. Denn der Sünde Sold ist der Tod; die Gnade Gottes aber ist das ewige Leben in Christus Jesus, unserem Herrn."
       },
       "reference": {
         "la": "Rom 6:19-23",
@@ -64,7 +67,8 @@
         "de": "Graduale"
       },
       "text": {
-        "la": "Veníte, fílii, audíte me: timórem Dómini docébo vos. Accédite ad eum, et illuminámini: et fácies vestræ non confundéntur. Allelúja, allelúja. Omnes gentes, pláudite mánibus: jubiláte Deo in voce exsultatiónis. Allelúja."
+        "la": "Veníte, fílii, audíte me: timórem Dómini docébo vos. Accédite ad eum, et illuminámini: et fácies vestræ non confundéntur. Allelúja, allelúja. Omnes gentes, pláudite mánibus: jubiláte Deo in voce exsultatiónis. Allelúja.",
+        "de": "Kommet, ihr Kinder, höret mir zu; ich will euch die Furcht des Herrn lehren. Tretet zu ihm hin, so werdet ihr erleuchtet, und euer Angesicht wird nicht zuschanden. Alleluja, alleluja. Alle Völker, klatschet in die Hände; jauchzet Gott mit Jubelschall. Alleluja."
       },
       "reference": {
         "la": "Ps 33:12; 33:6; Ps 46:2",
@@ -83,7 +87,8 @@
         "de": "Evangelium"
       },
       "text": {
-        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Dixit Jesus discípulis suis: Atténdite a falsis prophétis, qui véniunt ad vos in vestiméntis óvium, intrínsecus autem sunt lupi rapáces: a frúctibus eórum cognoscétis eos. Numquid cólligunt de spinis uvas, aut de tríbulis ficus? Sic omnis arbor bona fructus bonos facit: mala autem arbor malos fructus facit. Non potest arbor bona malos fructus fácere: neque arbor mala bonos fructus fácere. Omnis arbor, quæ non facit fructum bonum, excidétur et in ignem mittétur. Igitur ex frúctibus eórum cognoscétis eos. Non omnis, qui dicit mihi, Dómine, Dómine, intrábit in regnum cœlórum: sed qui facit voluntátem Patris mei, qui in cœlis est, ipse intrábit in regnum cœlórum.~"
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Dixit Jesus discípulis suis: Atténdite a falsis prophétis, qui véniunt ad vos in vestiméntis óvium, intrínsecus autem sunt lupi rapáces: a frúctibus eórum cognoscétis eos. Numquid cólligunt de spinis uvas, aut de tríbulis ficus? Sic omnis arbor bona fructus bonos facit: mala autem arbor malos fructus facit. Non potest arbor bona malos fructus fácere: neque arbor mala bonos fructus fácere. Omnis arbor, quæ non facit fructum bonum, excidétur et in ignem mittétur. Igitur ex frúctibus eórum cognoscétis eos. Non omnis, qui dicit mihi, Dómine, Dómine, intrábit in regnum cœlórum: sed qui facit voluntátem Patris mei, qui in cœlis est, ipse intrábit in regnum cœlórum.~",
+        "de": "Fortsetzung des heiligen Evangeliums nach Matthäus. In jener Zeit sprach Jesus zu seinen Jüngern: Hütet euch vor den falschen Propheten, die in Schafskleidern zu euch kommen, inwendig aber reißende Wölfe sind. An ihren Früchten werdet ihr sie erkennen. Sammelt man etwa Trauben von Dornen oder Feigen von Disteln? So bringt jeder gute Baum gute Früchte, der schlechte Baum aber bringt schlechte Früchte. Ein guter Baum kann keine schlechten Früchte bringen, noch ein schlechter Baum gute Früchte. Jeder Baum, der keine gute Frucht bringt, wird umgehauen und ins Feuer geworfen. Also werdet ihr sie an ihren Früchten erkennen. Nicht jeder, der zu mir sagt: Herr, Herr! wird in das Himmelreich eingehen, sondern wer den Willen meines Vaters tut, der im Himmel ist, der wird in das Himmelreich eingehen."
       },
       "reference": {
         "la": "Matt 7:15-21",
@@ -98,7 +103,8 @@
         "de": "Gabenvers"
       },
       "text": {
-        "la": "Sicut in holocáustis aríetum et taurórum, et sicut in mílibus agnórum pínguium: sic fiat sacrifícium nostrum in conspéctu tuo hódie, ut pláceat tibi: quia non est confúsio confidéntibus in te, Dómine."
+        "la": "Sicut in holocáustis aríetum et taurórum, et sicut in mílibus agnórum pínguium: sic fiat sacrifícium nostrum in conspéctu tuo hódie, ut pláceat tibi: quia non est confúsio confidéntibus in te, Dómine.",
+        "de": "Wie Brandopfer von Widdern und Stieren und wie Tausende fetter Lämmer, so sei heute unser Opfer vor dir, dass es dir gefalle; denn keine Beschämung trifft die, welche auf dich vertrauen, o Herr."
       },
       "reference": {
         "la": "Dan 3:40",
@@ -117,7 +123,8 @@
         "de": "Stillgebet (Secreta)"
       },
       "text": {
-        "la": "Deus, qui legálium differéntiam hostiárum unius sacrifícii perfectione sanxísti: accipe sacrifícium a devótis tibi fámulis, et pari benedictióne, sicut múnera Abel, sanctífica; ut, quod sínguli obtulérunt ad majestátis tuæ honórem, cunctis profíciat ad salútem."
+        "la": "Deus, qui legálium differéntiam hostiárum unius sacrifícii perfectione sanxísti: accipe sacrifícium a devótis tibi fámulis, et pari benedictióne, sicut múnera Abel, sanctífica; ut, quod sínguli obtulérunt ad majestátis tuæ honórem, cunctis profíciat ad salútem.",
+        "de": "O Gott, du hast die Verschiedenheit der gesetzlichen Opfer durch die Vollendung des einen Opfers bekräftigt: Nimm das Opfer von deinen ergebenen Dienern an und heilige es mit gleichem Segen wie die Gaben Abels, damit, was jeder einzelne zur Ehre deiner Majestät dargebracht hat, allen zum Heile gereiche."
       }
     },
     {
@@ -128,7 +135,8 @@
         "de": "Kommunionvers"
       },
       "text": {
-        "la": "Inclína aurem tuam, accélera, ut erípias me."
+        "la": "Inclína aurem tuam, accélera, ut erípias me.",
+        "de": "Neige dein Ohr, eile, mich zu befreien."
       },
       "reference": {
         "la": "Ps 30:3",
@@ -147,7 +155,8 @@
         "de": "Schlussgebet"
       },
       "text": {
-        "la": "Tua nos, Dómine, medicinális operátio, et a nostris perversitátibus cleménter expédiat, et ad ea, quæ sunt recta, perdúcat."
+        "la": "Tua nos, Dómine, medicinális operátio, et a nostris perversitátibus cleménter expédiat, et ad ea, quæ sunt recta, perdúcat.",
+        "de": "Dein heilkräftiges Wirken, o Herr, befreie uns gnädig von unseren Verkehrtheiten und führe uns zu dem, was recht ist."
       }
     }
   ]

@@ -1,7 +1,7 @@
 {
   "id": "do-Pent22-0",
   "form": "1962",
-  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung (eigene, gemeinfrei) ergänzt.",
   "day": {
     "title": {
       "la": "Dominica XXII Post Pentecosten",
@@ -19,7 +19,8 @@
         "de": "Eröffnungsvers"
       },
       "text": {
-        "la": "Si iniquitátes observáveris, Dómine: Dómine, quis sustinébit? quia apud te propitiátio est, Deus Israël. De profúndis clamávi ad te, Dómine: Dómine, exáudi vocem meam. Si iniquitátes observáveris, Dómine: Dómine, quis sustinébit? quia apud te propitiátio est, Deus Israël."
+        "la": "Si iniquitátes observáveris, Dómine: Dómine, quis sustinébit? quia apud te propitiátio est, Deus Israël. De profúndis clamávi ad te, Dómine: Dómine, exáudi vocem meam. Si iniquitátes observáveris, Dómine: Dómine, quis sustinébit? quia apud te propitiátio est, Deus Israël.",
+        "de": "Wenn du die Sünden anrechnest, o Herr — o Herr, wer wird bestehen? Doch bei dir ist Vergebung, o Gott Israels. Aus der Tiefe rufe ich zu dir, o Herr; Herr, erhöre meine Stimme. Wenn du die Sünden anrechnest, o Herr — o Herr, wer wird bestehen? Doch bei dir ist Vergebung, o Gott Israels."
       },
       "reference": {
         "la": "Ps 129:3-4; Ps 129:1-2",
@@ -38,7 +39,8 @@
         "de": "Tagesgebet"
       },
       "text": {
-        "la": "Deus, refúgium nostrum et virtus: adésto piis Ecclésiæ tuæ précibus, auctor ipse pietátis, et præsta; ut, quod fidéliter pétimus, efficáciter consequámur."
+        "la": "Deus, refúgium nostrum et virtus: adésto piis Ecclésiæ tuæ précibus, auctor ipse pietátis, et præsta; ut, quod fidéliter pétimus, efficáciter consequámur.",
+        "de": "O Gott, unsere Zuflucht und Stärke, sei den frommen Gebeten deiner Kirche gegenwärtig, du selbst der Urheber der Frömmigkeit, und gewähre, dass wir, was wir gläubig erbitten, auch wirksam erlangen."
       }
     },
     {
@@ -49,7 +51,8 @@
         "de": "Lesung"
       },
       "text": {
-        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Philippénses Fratres: Confídimus in Dómino Jesu, quia, qui cœpit in vobis opus bonum, perfíciet usque in diem Christi Jesu. Sicut est mihi justum hoc sentíre pro ómnibus vobis: eo quod hábeam vos in corde, et in vínculis meis, et in defensióne, et confirmatióne Evangélii, sócios gáudii mei omnes vos esse. Testis enim mihi est Deus, quómodo cúpiam omnes vos in viscéribus Jesu Christi. Et hoc oro, ut cáritas vestra magis ac magis abúndet in sciéntia et in omni sensu: ut probétis potióra, ut sitis sincéri et sine offénsa in diem Christi, repléti fructu justítiæ per Jesum Christum, in glóriam et laudem Dei."
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Philippénses Fratres: Confídimus in Dómino Jesu, quia, qui cœpit in vobis opus bonum, perfíciet usque in diem Christi Jesu. Sicut est mihi justum hoc sentíre pro ómnibus vobis: eo quod hábeam vos in corde, et in vínculis meis, et in defensióne, et confirmatióne Evangélii, sócios gáudii mei omnes vos esse. Testis enim mihi est Deus, quómodo cúpiam omnes vos in viscéribus Jesu Christi. Et hoc oro, ut cáritas vestra magis ac magis abúndet in sciéntia et in omni sensu: ut probétis potióra, ut sitis sincéri et sine offénsa in diem Christi, repléti fructu justítiæ per Jesum Christum, in glóriam et laudem Dei.",
+        "de": "Lesung aus dem Brief des heiligen Apostels Paulus an die Philipper. Brüder! Wir vertrauen im Herrn Jesus, dass der, welcher in euch das gute Werk begonnen hat, es vollenden wird bis auf den Tag Christi Jesu. Es ist ja recht, dass ich so von euch allen denke, weil ich euch im Herzen trage, da ihr sowohl in meinen Fesseln als auch in der Verteidigung und Bekräftigung des Evangeliums alle Teilhaber meiner Freude seid. Denn Gott ist mein Zeuge, wie ich mich nach euch allen sehne in der Liebe Jesu Christi. Und das erbitte ich, dass eure Liebe mehr und mehr überströme an Erkenntnis und aller Einsicht, damit ihr das Bessere prüfet und lauter und ohne Anstoß seid auf den Tag Christi, erfüllt mit der Frucht der Gerechtigkeit durch Jesus Christus, zur Ehre und zum Lobe Gottes."
       },
       "reference": {
         "la": "Phil 1:6-11",
@@ -64,7 +67,8 @@
         "de": "Graduale"
       },
       "text": {
-        "la": "Ecce, quam bonum et quam jucúndum, habitáre fratres in unum! Sicut unguéntum in cápite, quod descéndit in barbam, barbam Aaron. Allelúja, allelúja. Qui timent Dóminum sperent in eo: adjútor et protéctor eórum est. Allelúja."
+        "la": "Ecce, quam bonum et quam jucúndum, habitáre fratres in unum! Sicut unguéntum in cápite, quod descéndit in barbam, barbam Aaron. Allelúja, allelúja. Qui timent Dóminum sperent in eo: adjútor et protéctor eórum est. Allelúja.",
+        "de": "Siehe, wie gut und wie lieblich ist es, wenn Brüder einträchtig beisammen wohnen! Wie das Salböl auf dem Haupte, das herabfließt auf den Bart, den Bart Aarons. Alleluja, alleluja. Die den Herrn fürchten, sollen auf ihn hoffen; er ist ihr Helfer und ihr Beschützer. Alleluja."
       },
       "reference": {
         "la": "Ps 132:1-2; Ps 113:11",
@@ -83,7 +87,8 @@
         "de": "Evangelium"
       },
       "text": {
-        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Abeúntes pharisǽi consílium iniérunt, ut cáperent Jesum in sermóne. Et mittunt ei discípulos suos cum Herodiánis, dicéntes: Magíster, scimus, quia verax es et viam Dei in veritáte doces, et non est tibi cura de áliquo: non enim réspicis persónam hóminum: dic ergo nobis, quid tibi vidétur, licet censum dare Cǽsari, an non? Cógnita autem Jesus nequítia eórum, ait: Quid me tentátis, hypócritæ? Osténdite mihi numísma census. At illi obtulérunt ei denárium. Et ait illis Jesus: Cujus est imágo hæc et superscríptio? Dicunt ei: Cǽsaris. Tunc ait illis: Réddite ergo, quæ sunt Cǽsaris, Cǽsari; et, quæ sunt Dei, Deo."
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Abeúntes pharisǽi consílium iniérunt, ut cáperent Jesum in sermóne. Et mittunt ei discípulos suos cum Herodiánis, dicéntes: Magíster, scimus, quia verax es et viam Dei in veritáte doces, et non est tibi cura de áliquo: non enim réspicis persónam hóminum: dic ergo nobis, quid tibi vidétur, licet censum dare Cǽsari, an non? Cógnita autem Jesus nequítia eórum, ait: Quid me tentátis, hypócritæ? Osténdite mihi numísma census. At illi obtulérunt ei denárium. Et ait illis Jesus: Cujus est imágo hæc et superscríptio? Dicunt ei: Cǽsaris. Tunc ait illis: Réddite ergo, quæ sunt Cǽsaris, Cǽsari; et, quæ sunt Dei, Deo.",
+        "de": "Fortsetzung des heiligen Evangeliums nach Matthäus. In jener Zeit gingen die Pharisäer hin und hielten Rat, wie sie Jesus in der Rede fangen könnten. Und sie sandten ihre Jünger samt den Herodianern zu ihm und ließen sagen: Meister, wir wissen, dass du wahrhaftig bist und den Weg Gottes in Wahrheit lehrst und dich um niemand kümmerst; denn du siehst nicht auf die Person der Menschen. So sage uns denn, was dünkt dich: Ist es erlaubt, dem Kaiser Steuer zu geben, oder nicht? Da Jesus aber ihre Bosheit erkannte, sprach er: Was versuchet ihr mich, ihr Heuchler? Zeiget mir die Steuermünze. Und sie reichten ihm einen Denar. Und Jesus sprach zu ihnen: Wessen ist dieses Bild und die Aufschrift? Sie sagten ihm: Des Kaisers. Da sprach er zu ihnen: So gebet dem Kaiser, was des Kaisers ist, und Gott, was Gottes ist."
       },
       "reference": {
         "la": "Matt 22:15-21",
@@ -98,7 +103,8 @@
         "de": "Gabenvers"
       },
       "text": {
-        "la": "Recordáre mei, Dómine, omni potentátui dóminans: et da sermónem rectum in os meum, ut pláceant verba mea in conspéctu príncipis."
+        "la": "Recordáre mei, Dómine, omni potentátui dóminans: et da sermónem rectum in os meum, ut pláceant verba mea in conspéctu príncipis.",
+        "de": "Gedenke meiner, o Herr, der du über alle Macht herrschest; und lege ein rechtes Wort in meinen Mund, damit meine Worte gefallen vor dem Angesichte des Fürsten."
       },
       "reference": {
         "la": "Esth 14:12; 14:13",
@@ -117,7 +123,8 @@
         "de": "Stillgebet (Secreta)"
       },
       "text": {
-        "la": "Da, miséricors Deus: ut hæc salutáris oblátio et a própriis nos reátibus indesinénter expédiat, et ab ómnibus tueátur advérsis."
+        "la": "Da, miséricors Deus: ut hæc salutáris oblátio et a própriis nos reátibus indesinénter expédiat, et ab ómnibus tueátur advérsis.",
+        "de": "Gib, barmherziger Gott, dass dieses heilbringende Opfer uns sowohl von unseren eigenen Verschuldungen unablässig befreie als auch vor allem Widerwärtigen beschütze."
       }
     },
     {
@@ -128,7 +135,8 @@
         "de": "Kommunionvers"
       },
       "text": {
-        "la": "Ego clamávi, quóniam exaudísti me, Deus: inclína aurem tuam et exáudi verba mea."
+        "la": "Ego clamávi, quóniam exaudísti me, Deus: inclína aurem tuam et exáudi verba mea.",
+        "de": "Ich rief, weil du mich erhörtest, o Gott; neige dein Ohr und erhöre meine Worte."
       },
       "reference": {
         "la": "Ps 16:6",
@@ -147,7 +155,8 @@
         "de": "Schlussgebet"
       },
       "text": {
-        "la": "Súmpsimus, Dómine, sacri dona mystérii, humíliter deprecántes: ut, quæ in tui commemoratiónem nos fácere præcepísti, in nostræ profíciant infirmitátis auxílium:"
+        "la": "Súmpsimus, Dómine, sacri dona mystérii, humíliter deprecántes: ut, quæ in tui commemoratiónem nos fácere præcepísti, in nostræ profíciant infirmitátis auxílium:",
+        "de": "Wir haben, o Herr, die Gaben des heiligen Geheimnisses empfangen und flehen demütig, dass das, was du zu deinem Gedächtnis zu tun uns geboten hast, uns zur Hilfe in unserer Schwachheit gereiche."
       }
     }
   ]

@@ -1,7 +1,7 @@
 {
   "id": "do-Pent12-0",
   "form": "1962",
-  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung (eigene, gemeinfrei) ergänzt.",
   "day": {
     "title": {
       "la": "Dominica XII Post Pentecosten",
@@ -19,7 +19,8 @@
         "de": "Eröffnungsvers"
       },
       "text": {
-        "la": "Deus, in adjutórium meum inténde: Dómine, ad adjuvándum me festína: confundántur et revereántur inimíci mei, qui quærunt ánimam meam. Avertántur retrórsum et erubéscant: qui cógitant mihi mala. Deus, in adjutórium meum inténde: Dómine, ad adjuvándum me festína: confundántur et revereántur inimíci mei, qui quærunt ánimam meam."
+        "la": "Deus, in adjutórium meum inténde: Dómine, ad adjuvándum me festína: confundántur et revereántur inimíci mei, qui quærunt ánimam meam. Avertántur retrórsum et erubéscant: qui cógitant mihi mala. Deus, in adjutórium meum inténde: Dómine, ad adjuvándum me festína: confundántur et revereántur inimíci mei, qui quærunt ánimam meam.",
+        "de": "O Gott, sei bedacht auf meine Hilfe; o Herr, eile, mir zu helfen. Beschämt und in Verwirrung sollen meine Feinde werden, die mir nach dem Leben trachten. Zurückweichen und erröten sollen, die mir Böses sinnen. O Gott, sei bedacht auf meine Hilfe; o Herr, eile, mir zu helfen."
       },
       "reference": {
         "la": "Ps 69:2-3; Ps 69:4",
@@ -38,7 +39,8 @@
         "de": "Tagesgebet"
       },
       "text": {
-        "la": "Omnípotens et miséricors Deus, de cujus múnere venit, ut tibi a fidélibus tuis digne et laudabíliter serviátur: tríbue, quǽsumus, nobis; ut ad promissiónes tuas sine offensióne currámus."
+        "la": "Omnípotens et miséricors Deus, de cujus múnere venit, ut tibi a fidélibus tuis digne et laudabíliter serviátur: tríbue, quǽsumus, nobis; ut ad promissiónes tuas sine offensióne currámus.",
+        "de": "Allmächtiger und barmherziger Gott, aus dessen Gnade es kommt, dass dir von deinen Gläubigen würdig und löblich gedient wird: Gewähre uns, wir bitten dich, dass wir ohne Anstoß deinen Verheißungen zueilen."
       }
     },
     {
@@ -49,7 +51,8 @@
         "de": "Lesung"
       },
       "text": {
-        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios Fratres: Fidúciam talem habémus per Christum ad Deum: non quod sufficiéntes simus cogitáre áliquid a nobis, quasi ex nobis: sed sufficiéntia nostra ex Deo est: qui et idóneos nos fecit minístros novi testaménti: non líttera, sed spíritu: líttera enim occídit, spíritus autem vivíficat. Quod si ministrátio mortis, lítteris deformáta in lapídibus, fuit in glória; ita ut non possent inténdere fili Israël in fáciem Moysi, propter glóriam vultus ejus, quæ evacuátur: quómodo non magis ministrátio Spíritus erit in glória? Nam si ministrátio damnatiónis glória est multo magis abúndat ministérium justítiæ in glória."
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios Fratres: Fidúciam talem habémus per Christum ad Deum: non quod sufficiéntes simus cogitáre áliquid a nobis, quasi ex nobis: sed sufficiéntia nostra ex Deo est: qui et idóneos nos fecit minístros novi testaménti: non líttera, sed spíritu: líttera enim occídit, spíritus autem vivíficat. Quod si ministrátio mortis, lítteris deformáta in lapídibus, fuit in glória; ita ut non possent inténdere fili Israël in fáciem Moysi, propter glóriam vultus ejus, quæ evacuátur: quómodo non magis ministrátio Spíritus erit in glória? Nam si ministrátio damnatiónis glória est multo magis abúndat ministérium justítiæ in glória.",
+        "de": "Lesung aus dem Brief des heiligen Apostels Paulus an die Korinther. Brüder! Solches Vertrauen haben wir durch Christus zu Gott; nicht dass wir von uns aus fähig wären, etwas zu denken, als aus uns selbst, sondern unsere Fähigkeit ist aus Gott, der uns auch fähig gemacht hat zu Dienern des neuen Bundes, nicht des Buchstabens, sondern des Geistes; denn der Buchstabe tötet, der Geist aber macht lebendig. Wenn nun der Dienst des Todes, mit Buchstaben in Stein gegraben, in Herrlichkeit war, so dass die Söhne Israels nicht in das Angesicht des Moses schauen konnten wegen der Herrlichkeit seines Angesichtes, die doch vergeht: wie sollte nicht vielmehr der Dienst des Geistes in Herrlichkeit sein? Denn wenn der Dienst der Verdammnis Herrlichkeit hat, so ist um so mehr der Dienst der Gerechtigkeit überreich an Herrlichkeit."
       },
       "reference": {
         "la": "2 Cor 3:4-9",
@@ -64,7 +67,8 @@
         "de": "Graduale"
       },
       "text": {
-        "la": "Benedícam Dóminum in omni témpore: semper laus ejus in ore meo. In Dómino laudábitur ánima mea: áudiant mansuéti, et læténtur. Allelúja, allelúja Dómine, Deus salútis meæ, in die clamávi et nocte coram te. Allelúja."
+        "la": "Benedícam Dóminum in omni témpore: semper laus ejus in ore meo. In Dómino laudábitur ánima mea: áudiant mansuéti, et læténtur. Allelúja, allelúja Dómine, Deus salútis meæ, in die clamávi et nocte coram te. Allelúja.",
+        "de": "Ich will den Herrn preisen zu jeder Zeit, immerdar sei sein Lob in meinem Munde. Im Herrn soll sich meine Seele rühmen; die Sanftmütigen mögen es hören und sich freuen. Alleluja, alleluja. Herr, Gott meines Heiles, bei Tag und Nacht habe ich vor dir gerufen. Alleluja."
       },
       "reference": {
         "la": "Ps 33:2-3; Ps 87:2",
@@ -83,7 +87,8 @@
         "de": "Evangelium"
       },
       "text": {
-        "la": "Sequéntia ++ sancti Evangélii secúndum Lucam In illo témpore: Dixit Jesus discípulis suis: Beáti óculi, qui vident quæ vos videtis. Dico enim vobis, quod multi prophétæ et reges voluérunt vidére quæ vos videtis, et non vidérunt: et audire quæ audítis, et non audiérunt. Et ecce, quidam legisperítus surréxit, tentans illum, et dicens: Magister, quid faciéndo vitam ætérnam possidébo? At ille dixit ad eum: In lege quid scriptum est? quómodo legis? Ille respóndens, dixit: Díliges Dóminum, Deum tuum, ex toto corde tuo, et ex tota ánima tua, et ex ómnibus víribus tuis; et ex omni mente tua: et próximum tuum sicut teípsum. Dixítque illi: Recte respondísti: hoc fac, et vives. Ille autem volens justificáre seípsum, dixit ad Jesum: Et quis est meus próximus? Suscípiens autem Jesus, dixit: Homo quidam descendébat ab Jerúsalem in Jéricho, et íncidit in latrónes, qui étiam despoliavérunt eum: et plagis impósitis abiérunt, semivívo relícto. Accidit autem, ut sacerdos quidam descénderet eádem via: et viso illo præterívit. Simíliter et levíta, cum esset secus locum et vidéret eum, pertránsiit. Samaritánus autem quidam iter fáciens, venit secus eum: et videns eum, misericórdia motus est. Et apprópians, alligávit vulnera ejus, infúndens óleum et vinum: et impónens illum in juméntum suum, duxit in stábulum, et curam ejus egit. Et áltera die prótulit duos denários et dedit stabulário, et ait: Curam illíus habe: et quodcúmque supererogáveris, ego cum redíero, reddam tibi. Quis horum trium vidétur tibi próximus fuísse illi, qui íncidit in latrónes? At ille dixit: Qui fecit misericórdiam in illum. Et ait illi Jesus: Vade, et tu fac simíliter."
+        "la": "Sequéntia ++ sancti Evangélii secúndum Lucam In illo témpore: Dixit Jesus discípulis suis: Beáti óculi, qui vident quæ vos videtis. Dico enim vobis, quod multi prophétæ et reges voluérunt vidére quæ vos videtis, et non vidérunt: et audire quæ audítis, et non audiérunt. Et ecce, quidam legisperítus surréxit, tentans illum, et dicens: Magister, quid faciéndo vitam ætérnam possidébo? At ille dixit ad eum: In lege quid scriptum est? quómodo legis? Ille respóndens, dixit: Díliges Dóminum, Deum tuum, ex toto corde tuo, et ex tota ánima tua, et ex ómnibus víribus tuis; et ex omni mente tua: et próximum tuum sicut teípsum. Dixítque illi: Recte respondísti: hoc fac, et vives. Ille autem volens justificáre seípsum, dixit ad Jesum: Et quis est meus próximus? Suscípiens autem Jesus, dixit: Homo quidam descendébat ab Jerúsalem in Jéricho, et íncidit in latrónes, qui étiam despoliavérunt eum: et plagis impósitis abiérunt, semivívo relícto. Accidit autem, ut sacerdos quidam descénderet eádem via: et viso illo præterívit. Simíliter et levíta, cum esset secus locum et vidéret eum, pertránsiit. Samaritánus autem quidam iter fáciens, venit secus eum: et videns eum, misericórdia motus est. Et apprópians, alligávit vulnera ejus, infúndens óleum et vinum: et impónens illum in juméntum suum, duxit in stábulum, et curam ejus egit. Et áltera die prótulit duos denários et dedit stabulário, et ait: Curam illíus habe: et quodcúmque supererogáveris, ego cum redíero, reddam tibi. Quis horum trium vidétur tibi próximus fuísse illi, qui íncidit in latrónes? At ille dixit: Qui fecit misericórdiam in illum. Et ait illi Jesus: Vade, et tu fac simíliter.",
+        "de": "Fortsetzung des heiligen Evangeliums nach Lukas. In jener Zeit sprach Jesus zu seinen Jüngern: Selig die Augen, die sehen, was ihr sehet. Denn ich sage euch: Viele Propheten und Könige wollten sehen, was ihr sehet, und haben es nicht gesehen, und hören, was ihr höret, und haben es nicht gehört. Und siehe, ein Gesetzeslehrer stand auf, um ihn zu versuchen, und sprach: Meister, was muss ich tun, um das ewige Leben zu erlangen? Er aber sprach zu ihm: Was steht im Gesetze geschrieben? Wie liesest du? Er antwortete und sprach: Du sollst den Herrn, deinen Gott, lieben aus deinem ganzen Herzen und aus deiner ganzen Seele und aus allen deinen Kräften und aus deinem ganzen Gemüte, und deinen Nächsten wie dich selbst. Und er sprach zu ihm: Du hast recht geantwortet; tue das, so wirst du leben. Er aber wollte sich selbst rechtfertigen und sprach zu Jesus: Und wer ist mein Nächster? Da nahm Jesus das Wort und sprach: Ein Mensch ging von Jerusalem nach Jericho hinab und fiel unter die Räuber; die plünderten ihn aus, schlugen ihn und gingen davon und ließen ihn halbtot liegen. Es traf sich aber, dass ein Priester denselben Weg hinabzog; und als er ihn sah, ging er vorüber. Ebenso auch ein Levit; als er an den Ort kam und ihn sah, ging er vorüber. Ein Samariter aber, der auf der Reise war, kam zu ihm; und als er ihn sah, ward er von Mitleid bewegt. Und er trat hinzu, verband seine Wunden und goss Öl und Wein darauf, hob ihn auf sein Lasttier, brachte ihn in eine Herberge und trug Sorge für ihn. Und am anderen Tage zog er zwei Denare hervor, gab sie dem Wirte und sprach: Trage Sorge für ihn; und was du mehr aufwendest, will ich dir bei meiner Rückkehr erstatten. Wer von diesen dreien scheint dir der Nächste dessen gewesen zu sein, der unter die Räuber gefallen war? Er sprach: Der ihm Barmherzigkeit erwiesen hat. Und Jesus sprach zu ihm: Geh hin und tue desgleichen."
       },
       "reference": {
         "la": "Luc 10:23-37",
@@ -98,7 +103,8 @@
         "de": "Gabenvers"
       },
       "text": {
-        "la": "Precátus est Moyses in conspéctu Dómini, Dei sui, et dixit: Quare, Dómine, irásceris in pópulo tuo? Parce iræ ánimæ tuæ: meménto Abraham, Isaac et Jacob, quibus jurásti dare terram fluéntem lac et mel. Et placátus factus est Dóminus de malignitáte, quam dixit fácere pópulo suo."
+        "la": "Precátus est Moyses in conspéctu Dómini, Dei sui, et dixit: Quare, Dómine, irásceris in pópulo tuo? Parce iræ ánimæ tuæ: meménto Abraham, Isaac et Jacob, quibus jurásti dare terram fluéntem lac et mel. Et placátus factus est Dóminus de malignitáte, quam dixit fácere pópulo suo.",
+        "de": "Moses betete vor dem Angesichte des Herrn, seines Gottes, und sprach: Warum, o Herr, zürnst du deinem Volke? Lass ab vom Zorne deiner Seele; gedenke Abrahams, Isaaks und Jakobs, denen du geschworen hast, das Land zu geben, das von Milch und Honig fließt. Und der Herr ließ sich besänftigen und ließ ab von dem Übel, das er seinem Volke anzutun gedroht hatte."
       },
       "reference": {
         "la": "Exod 32:11 32:13; 32:14",
@@ -117,7 +123,8 @@
         "de": "Stillgebet (Secreta)"
       },
       "text": {
-        "la": "Hóstias, quǽsumus, Dómine, propítius inténde, quas sacris altáribus exhibémus: ut, nobis indulgéntiam largiéndo, tuo nómini dent honórem."
+        "la": "Hóstias, quǽsumus, Dómine, propítius inténde, quas sacris altáribus exhibémus: ut, nobis indulgéntiam largiéndo, tuo nómini dent honórem.",
+        "de": "Auf die Opfer, o Herr, die wir auf den heiligen Altären darbringen, blicke gnädig herab, damit sie uns Nachlass gewähren und deinem Namen Ehre bringen."
       }
     },
     {
@@ -128,7 +135,8 @@
         "de": "Kommunionvers"
       },
       "text": {
-        "la": "De fructu óperum tuórum, Dómine, satiábitur terra: ut edúcas panem de terra, et vinum lætíficet cor hóminis: ut exhílaret fáciem in óleo, et panis cor hóminis confírmet."
+        "la": "De fructu óperum tuórum, Dómine, satiábitur terra: ut edúcas panem de terra, et vinum lætíficet cor hóminis: ut exhílaret fáciem in óleo, et panis cor hóminis confírmet.",
+        "de": "Von der Frucht deiner Werke, o Herr, wird die Erde gesättigt, damit du Brot aus der Erde hervorbringst und der Wein das Herz des Menschen erfreue, damit sein Angesicht von Öl glänze und das Brot das Herz des Menschen stärke."
       },
       "reference": {
         "la": "Ps 103:13; 103:14-15",
@@ -147,7 +155,8 @@
         "de": "Schlussgebet"
       },
       "text": {
-        "la": "Vivíficet nos, quǽsumus, Dómine, hujus participátio sancta mystérii: et páriter nobis expiatiónem tríbuat et múnimen."
+        "la": "Vivíficet nos, quǽsumus, Dómine, hujus participátio sancta mystérii: et páriter nobis expiatiónem tríbuat et múnimen.",
+        "de": "Es belebe uns, wir bitten dich, o Herr, die heilige Teilnahme an diesem Geheimnis und verleihe uns zugleich Sühne und Schutz."
       }
     }
   ]

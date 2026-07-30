@@ -1,7 +1,7 @@
 {
   "id": "do-Pent01-0",
   "form": "1962",
-  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung (eigene, gemeinfrei) ergänzt.",
   "day": {
     "title": {
       "la": "Dominica Sanctissimæ Trinitatis",
@@ -19,7 +19,8 @@
         "de": "Eröffnungsvers"
       },
       "text": {
-        "la": "Benedícta sit sancta Trínitas atque indivísa Unitas: confitébimur ei, quia fecit nobíscum misericórdiam suam. Dómine, Dóminus noster, quam admirábile est nomen tuum in univérsa terra! Benedícta sit sancta Trínitas atque indivísa Unitas: confitébimur ei, quia fecit nobíscum misericórdiam suam."
+        "la": "Benedícta sit sancta Trínitas atque indivísa Unitas: confitébimur ei, quia fecit nobíscum misericórdiam suam. Dómine, Dóminus noster, quam admirábile est nomen tuum in univérsa terra! Benedícta sit sancta Trínitas atque indivísa Unitas: confitébimur ei, quia fecit nobíscum misericórdiam suam.",
+        "de": "Gepriesen sei die heilige Dreifaltigkeit und die ungeteilte Einheit; wir wollen sie preisen, denn sie hat an uns ihre Barmherzigkeit erwiesen. O Herr, unser Herr, wie wunderbar ist dein Name auf der ganzen Erde! Gepriesen sei die heilige Dreifaltigkeit und die ungeteilte Einheit; wir wollen sie preisen, denn sie hat an uns ihre Barmherzigkeit erwiesen."
       },
       "reference": {
         "la": "Tob 12:6; Ps 8:2",
@@ -38,7 +39,8 @@
         "de": "Tagesgebet"
       },
       "text": {
-        "la": "Omnípotens sempitérne Deus, qui dedísti fámulis tuis in confessióne veræ fídei, ætérnæ Trinitátis glóriam agnóscere, et in poténtia majestátis adoráre Unitátem: quǽsumus; ut, ejúsdem fídei firmitáte, ab ómnibus semper muniámur advérsis."
+        "la": "Omnípotens sempitérne Deus, qui dedísti fámulis tuis in confessióne veræ fídei, ætérnæ Trinitátis glóriam agnóscere, et in poténtia majestátis adoráre Unitátem: quǽsumus; ut, ejúsdem fídei firmitáte, ab ómnibus semper muniámur advérsis.",
+        "de": "Allmächtiger, ewiger Gott, du hast deinen Dienern im Bekenntnis des wahren Glaubens verliehen, die Herrlichkeit der ewigen Dreifaltigkeit zu erkennen und in der Macht der Majestät die Einheit anzubeten: Wir bitten dich, dass wir durch die Festigkeit desselben Glaubens gegen alle Widerwärtigkeiten allezeit geschützt werden."
       }
     },
     {
@@ -49,7 +51,8 @@
         "de": "Lesung"
       },
       "text": {
-        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános O altitúdo divitiárum sapiéntiæ et sciéntiæ Dei: quam incomprehensibília sunt judícia ejus, et investigábiles viæ ejus! Quis enim cognovit sensum Dómini? Aut quis consiliárius ejus fuit? Aut quis prior dedit illi, et retribuétur ei? Quóniam ex ipso et per ipsum et in ipso sunt ómnia: ipsi glória in sǽcula. Amen."
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános O altitúdo divitiárum sapiéntiæ et sciéntiæ Dei: quam incomprehensibília sunt judícia ejus, et investigábiles viæ ejus! Quis enim cognovit sensum Dómini? Aut quis consiliárius ejus fuit? Aut quis prior dedit illi, et retribuétur ei? Quóniam ex ipso et per ipsum et in ipso sunt ómnia: ipsi glória in sǽcula. Amen.",
+        "de": "Lesung aus dem Brief des heiligen Apostels Paulus an die Römer. O Tiefe des Reichtums der Weisheit und der Erkenntnis Gottes! Wie unbegreiflich sind seine Ratschlüsse und unerforschlich seine Wege! Denn wer hat den Sinn des Herrn erkannt, oder wer ist sein Ratgeber gewesen? Oder wer hat ihm zuerst gegeben, dass ihm vergolten würde? Denn aus ihm und durch ihn und in ihm ist alles; ihm sei Ehre in Ewigkeit. Amen."
       },
       "reference": {
         "la": "Rom 11:33-36.",
@@ -64,7 +67,8 @@
         "de": "Graduale"
       },
       "text": {
-        "la": "Benedíctus es, Dómine, qui intuéris abýssos, et sedes super Chérubim, Benedíctus es, Dómine, in firmaménto cæli, et laudábilis in sǽcula. Allelúja, allelúja. Benedíctus es, Dómine, Deus patrum nostrórum, et laudábilis in sǽcula. Allelúja."
+        "la": "Benedíctus es, Dómine, qui intuéris abýssos, et sedes super Chérubim, Benedíctus es, Dómine, in firmaménto cæli, et laudábilis in sǽcula. Allelúja, allelúja. Benedíctus es, Dómine, Deus patrum nostrórum, et laudábilis in sǽcula. Allelúja.",
+        "de": "Gepriesen bist du, o Herr, der du die Tiefen schaust und über den Cherubim thronst. Gepriesen bist du, o Herr, am Firmament des Himmels und lobwürdig in Ewigkeit. Alleluja, alleluja. Gepriesen bist du, o Herr, Gott unserer Väter, und lobwürdig in Ewigkeit. Alleluja."
       },
       "reference": {
         "la": "Dan 3:55-56; Dan 3:52",
@@ -83,7 +87,8 @@
         "de": "Evangelium"
       },
       "text": {
-        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Dixit Jesus discípulis suis: Data est mihi omnis potéstas in cœlo et in terra. Eúntes ergo docéte omnes gentes, baptizántes eos in nómine Patris, et Fílii, et Spíritus Sancti: docéntes eos serváre ómnia, quæcúmque mandávi vobis. Et ecce, ego vobíscum sum ómnibus diébus usque ad consummatiónem sǽculi."
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Dixit Jesus discípulis suis: Data est mihi omnis potéstas in cœlo et in terra. Eúntes ergo docéte omnes gentes, baptizántes eos in nómine Patris, et Fílii, et Spíritus Sancti: docéntes eos serváre ómnia, quæcúmque mandávi vobis. Et ecce, ego vobíscum sum ómnibus diébus usque ad consummatiónem sǽculi.",
+        "de": "Fortsetzung des heiligen Evangeliums nach Matthäus. In jener Zeit sprach Jesus zu seinen Jüngern: Mir ist alle Gewalt gegeben im Himmel und auf Erden. Gehet also hin und lehret alle Völker und taufet sie im Namen des Vaters und des Sohnes und des Heiligen Geistes und lehret sie alles halten, was ich euch geboten habe. Und siehe, ich bin bei euch alle Tage bis ans Ende der Welt."
       },
       "reference": {
         "la": "Matt 28:18-20",
@@ -98,7 +103,8 @@
         "de": "Gabenvers"
       },
       "text": {
-        "la": "Benedíctus sit Deus Pater, unigenitúsque Dei Fílius, Sanctus quoque Spíritus: quia fecit nobíscum misericórdiam suam."
+        "la": "Benedíctus sit Deus Pater, unigenitúsque Dei Fílius, Sanctus quoque Spíritus: quia fecit nobíscum misericórdiam suam.",
+        "de": "Gepriesen sei Gott der Vater und der eingeborene Sohn Gottes und auch der Heilige Geist; denn er hat an uns seine Barmherzigkeit erwiesen."
       },
       "reference": {
         "la": "Tob 12:6.",
@@ -117,7 +123,8 @@
         "de": "Stillgebet (Secreta)"
       },
       "text": {
-        "la": "Sanctífica, quǽsumus, Dómine, Deus noster, per tui sancti nóminis invocatiónem, hujus oblatiónis hóstiam: et per eam nosmetípsos tibi pérfice munus ætérnum."
+        "la": "Sanctífica, quǽsumus, Dómine, Deus noster, per tui sancti nóminis invocatiónem, hujus oblatiónis hóstiam: et per eam nosmetípsos tibi pérfice munus ætérnum.",
+        "de": "Heilige, wir bitten dich, o Herr, unser Gott, durch die Anrufung deines heiligen Namens die Opfergabe dieser Darbringung, und mache durch sie uns selbst dir zur ewigen Gabe."
       }
     },
     {
@@ -128,7 +135,8 @@
         "de": "Kommunionvers"
       },
       "text": {
-        "la": "Benedícimus Deum cœli et coram ómnibus vivéntibus confitébimur ei: quia fecit nobíscum misericórdiam suam."
+        "la": "Benedícimus Deum cœli et coram ómnibus vivéntibus confitébimur ei: quia fecit nobíscum misericórdiam suam.",
+        "de": "Wir preisen den Gott des Himmels und bekennen ihn vor allen Lebenden; denn er hat an uns seine Barmherzigkeit erwiesen."
       },
       "reference": {
         "la": "Tob 12:6",
@@ -147,7 +155,8 @@
         "de": "Schlussgebet"
       },
       "text": {
-        "la": "Profíciat nobis ad salútem córporis et ánimæ, Dómine, Deus noster, hujus sacraménti suscéptio: et sempitérnæ sanctæ Trinitátis ejusdémque indivíduæ Unitátis conféssio."
+        "la": "Profíciat nobis ad salútem córporis et ánimæ, Dómine, Deus noster, hujus sacraménti suscéptio: et sempitérnæ sanctæ Trinitátis ejusdémque indivíduæ Unitátis conféssio.",
+        "de": "Zum Heile des Leibes und der Seele gereiche uns, o Herr, unser Gott, der Empfang dieses Sakramentes und das Bekenntnis der ewigen heiligen Dreifaltigkeit und ihrer ungeteilten Einheit."
       }
     }
   ]

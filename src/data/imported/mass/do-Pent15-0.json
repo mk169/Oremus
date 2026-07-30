@@ -1,7 +1,7 @@
 {
   "id": "do-Pent15-0",
   "form": "1962",
-  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung (eigene, gemeinfrei) ergänzt.",
   "day": {
     "title": {
       "la": "Dominica XV Post Pentecosten",
@@ -19,7 +19,8 @@
         "de": "Eröffnungsvers"
       },
       "text": {
-        "la": "Inclína, Dómine, aurem tuam ad me, et exáudi me: salvum fac servum tuum, Deus meus, sperántem in te: miserére mihi, Dómine, quóniam ad te clamávi tota die. Lætífica ánimam servi tui: quia ad te, Dómine, ánimam meam levávi. Inclína, Dómine, aurem tuam ad me, et exáudi me: salvum fac servum tuum, Deus meus, sperántem in te: miserére mihi, Dómine, quóniam ad te clamávi tota die."
+        "la": "Inclína, Dómine, aurem tuam ad me, et exáudi me: salvum fac servum tuum, Deus meus, sperántem in te: miserére mihi, Dómine, quóniam ad te clamávi tota die. Lætífica ánimam servi tui: quia ad te, Dómine, ánimam meam levávi. Inclína, Dómine, aurem tuam ad me, et exáudi me: salvum fac servum tuum, Deus meus, sperántem in te: miserére mihi, Dómine, quóniam ad te clamávi tota die.",
+        "de": "Neige, o Herr, dein Ohr zu mir und erhöre mich; hilf deinem Knechte, mein Gott, der auf dich hofft. Erbarme dich meiner, o Herr, denn den ganzen Tag habe ich zu dir gerufen. Erfreue die Seele deines Knechtes; denn zu dir, o Herr, erhebe ich meine Seele. Neige, o Herr, dein Ohr zu mir und erhöre mich; hilf deinem Knechte, mein Gott, der auf dich hofft. Erbarme dich meiner, o Herr, denn den ganzen Tag habe ich zu dir gerufen."
       },
       "reference": {
         "la": "Ps 85:1; 85:2-3; Ps 85:4",
@@ -38,7 +39,8 @@
         "de": "Tagesgebet"
       },
       "text": {
-        "la": "Ecclésiam tuam, Dómine, miserátio continuáta mundet et múniat: et quia sine te non potest salva consístere; tuo semper múnere gubernétur."
+        "la": "Ecclésiam tuam, Dómine, miserátio continuáta mundet et múniat: et quia sine te non potest salva consístere; tuo semper múnere gubernétur.",
+        "de": "Deine Kirche, o Herr, reinige und beschütze fortdauerndes Erbarmen; und weil sie ohne dich nicht wohlbehalten bestehen kann, so werde sie allezeit durch deine Gabe gelenkt."
       }
     },
     {
@@ -49,7 +51,8 @@
         "de": "Lesung"
       },
       "text": {
-        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Gálatas. Fratres: Si spíritu vívimus, spíritu et ambulémus. Non efficiámur inanis glóriæ cúpidi, ínvicem provocántes, ínvicem invidéntes. Fratres, et si præoccupátus fúerit homo in áliquo delícto, vos, qui spirituáles estis, hujúsmodi instrúite in spíritu lenitátis, consíderans teípsum, ne et tu tentéris. Alter alteríus ónera portáte, et sic adimplébitis legem Christi. Nam si quis exístimat se áliquid esse, cum nihil sit, ipse se sedúcit. Opus autem suum probet unusquísque, et sic in semetípso tantum glóriam habébit, et non in áltero. Unusquísque enim onus suum portábit. Commúnicet autem is, qui catechizátur verbo, ei, qui se catechízat, in ómnibus bonis. Nolíte erráre: Deus non irridétur. Quæ enim semináverit homo, hæc et metet. Quóniam qui séminat in carne sua, de carne et metet corruptiónem: qui autem séminat in spíritu, de spíritu metet vitam ætérnam. Bonum autem faciéntes, non deficiámus: témpore enim suo metémus, non deficiéntes. Ergo, dum tempus habémus, operémur bonum ad omnes, maxime autem ad domésticos fídei."
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Gálatas. Fratres: Si spíritu vívimus, spíritu et ambulémus. Non efficiámur inanis glóriæ cúpidi, ínvicem provocántes, ínvicem invidéntes. Fratres, et si præoccupátus fúerit homo in áliquo delícto, vos, qui spirituáles estis, hujúsmodi instrúite in spíritu lenitátis, consíderans teípsum, ne et tu tentéris. Alter alteríus ónera portáte, et sic adimplébitis legem Christi. Nam si quis exístimat se áliquid esse, cum nihil sit, ipse se sedúcit. Opus autem suum probet unusquísque, et sic in semetípso tantum glóriam habébit, et non in áltero. Unusquísque enim onus suum portábit. Commúnicet autem is, qui catechizátur verbo, ei, qui se catechízat, in ómnibus bonis. Nolíte erráre: Deus non irridétur. Quæ enim semináverit homo, hæc et metet. Quóniam qui séminat in carne sua, de carne et metet corruptiónem: qui autem séminat in spíritu, de spíritu metet vitam ætérnam. Bonum autem faciéntes, non deficiámus: témpore enim suo metémus, non deficiéntes. Ergo, dum tempus habémus, operémur bonum ad omnes, maxime autem ad domésticos fídei.",
+        "de": "Lesung aus dem Brief des heiligen Apostels Paulus an die Galater. Brüder! Wenn wir im Geiste leben, so lasset uns auch im Geiste wandeln. Lasset uns nicht nach eitler Ehre begierig sein, einander nicht reizen, einander nicht beneiden. Brüder, wenn auch ein Mensch von einem Fehltritt übereilt wird, so unterweiset ihr, die ihr geistlich seid, einen solchen im Geiste der Sanftmut, und sieh auf dich selbst, dass nicht auch du versucht werdest. Einer trage des anderen Last, so werdet ihr das Gesetz Christi erfüllen. Denn wenn einer meint, etwas zu sein, während er nichts ist, so betrügt er sich selbst. Ein jeder aber prüfe sein eigenes Werk, und dann wird er seinen Ruhm für sich allein haben und nicht gegenüber dem anderen; denn ein jeder wird seine eigene Bürde tragen. Wer aber im Worte unterwiesen wird, der gebe dem, der ihn unterweist, Anteil an allen Gütern. Irret euch nicht: Gott lässt sich nicht spotten. Denn was der Mensch sät, das wird er auch ernten. Wer auf sein Fleisch sät, wird vom Fleische Verderben ernten; wer aber auf den Geist sät, wird vom Geiste das ewige Leben ernten. Lasset uns nicht müde werden, das Gute zu tun; denn zu seiner Zeit werden wir ernten, wenn wir nicht nachlassen. Solange wir also Zeit haben, lasset uns Gutes tun an allen, am meisten aber an den Hausgenossen des Glaubens."
       },
       "reference": {
         "la": "Gal 5:25-26; 6:1-10",
@@ -64,7 +67,8 @@
         "de": "Graduale"
       },
       "text": {
-        "la": "Bonum est confitéri Dómino: et psallere nómini tuo, Altíssime. Ad annuntiándum mane misericórdiam tuam, et veritátem tuam per noctem. Allelúja, allelúja. Quóniam Deus magnus Dóminus, et Rex magnus super omnem terram. Allelúja."
+        "la": "Bonum est confitéri Dómino: et psallere nómini tuo, Altíssime. Ad annuntiándum mane misericórdiam tuam, et veritátem tuam per noctem. Allelúja, allelúja. Quóniam Deus magnus Dóminus, et Rex magnus super omnem terram. Allelúja.",
+        "de": "Gut ist es, den Herrn zu preisen und deinem Namen zu lobsingen, o Allerhöchster. Am Morgen deine Barmherzigkeit zu verkünden und deine Treue in der Nacht. Alleluja, alleluja. Denn ein großer Gott ist der Herr und ein großer König über die ganze Erde. Alleluja."
       },
       "reference": {
         "la": "Ps 91:2-3; Ps 94:3",
@@ -83,7 +87,8 @@
         "de": "Evangelium"
       },
       "text": {
-        "la": "Sequéntia ++ sancti Evangélii secúndum Lucam In illo témpore: Ibat Jesus in civitátem, quæ vocátur Naim: et ibant cum eo discípuli ejus et turba copiósa. Cum autem appropinquáret portæ civitátis, ecce, defúnctus efferebátur fílius únicus matris suæ: et hæc vídua erat, et turba civitátis multa cum illa. Quam cum vidísset Dóminus, misericórdia motus super eam, dixit illi: Noli flere. Et accéssit et tétigit lóculum. - Hi autem, qui portábant, stetérunt - Et ait: Adoléscens, tibi dico, surge. Et resédit, qui erat mórtuus, et cœpit loqui. Et dedit illum matri suæ. Accépit autem omnes timor: et magnificábant Deum, dicéntes: Quia Prophéta magnus surréxit in nobis: et quia Deus visitávit plebem suam."
+        "la": "Sequéntia ++ sancti Evangélii secúndum Lucam In illo témpore: Ibat Jesus in civitátem, quæ vocátur Naim: et ibant cum eo discípuli ejus et turba copiósa. Cum autem appropinquáret portæ civitátis, ecce, defúnctus efferebátur fílius únicus matris suæ: et hæc vídua erat, et turba civitátis multa cum illa. Quam cum vidísset Dóminus, misericórdia motus super eam, dixit illi: Noli flere. Et accéssit et tétigit lóculum. - Hi autem, qui portábant, stetérunt - Et ait: Adoléscens, tibi dico, surge. Et resédit, qui erat mórtuus, et cœpit loqui. Et dedit illum matri suæ. Accépit autem omnes timor: et magnificábant Deum, dicéntes: Quia Prophéta magnus surréxit in nobis: et quia Deus visitávit plebem suam.",
+        "de": "Fortsetzung des heiligen Evangeliums nach Lukas. In jener Zeit ging Jesus in eine Stadt namens Naim, und mit ihm gingen seine Jünger und eine große Volksmenge. Als er sich aber dem Stadttore näherte, siehe, da trug man einen Toten heraus, den einzigen Sohn seiner Mutter; und diese war Witwe, und viel Volk aus der Stadt war bei ihr. Als der Herr sie sah, ward er von Mitleid mit ihr bewegt und sprach zu ihr: Weine nicht! Und er trat hinzu und berührte die Bahre; die Träger aber blieben stehen. Und er sprach: Jüngling, ich sage dir, steh auf! Und der Tote richtete sich auf und begann zu reden; und er gab ihn seiner Mutter. Da ergriff alle Furcht, und sie priesen Gott und sprachen: Ein großer Prophet ist unter uns erstanden, und Gott hat sein Volk heimgesucht."
       },
       "reference": {
         "la": "Luc 7:11-16",
@@ -98,7 +103,8 @@
         "de": "Gabenvers"
       },
       "text": {
-        "la": "Exspéctans exspectávi Dóminum, et respéxit me: et exaudívit deprecatiónem meam: et immísit in os meum cánticum novum, hymnum Deo nostro."
+        "la": "Exspéctans exspectávi Dóminum, et respéxit me: et exaudívit deprecatiónem meam: et immísit in os meum cánticum novum, hymnum Deo nostro.",
+        "de": "Harrend habe ich auf den Herrn geharrt, und er neigte sich zu mir und erhörte mein Flehen und legte in meinen Mund ein neues Lied, einen Lobgesang für unseren Gott."
       },
       "reference": {
         "la": "Ps 39:2; 39:3; 39:4",
@@ -117,7 +123,8 @@
         "de": "Stillgebet (Secreta)"
       },
       "text": {
-        "la": "Tua nos, Dómine, sacramenta custodiant: et contra diabólicos semper tueántur incúrsus."
+        "la": "Tua nos, Dómine, sacramenta custodiant: et contra diabólicos semper tueántur incúrsus.",
+        "de": "Deine Sakramente, o Herr, mögen uns behüten und uns stets gegen die Angriffe des Teufels beschützen."
       }
     },
     {
@@ -128,7 +135,8 @@
         "de": "Kommunionvers"
       },
       "text": {
-        "la": "Panis, quem ego dédero, caro mea est pro sǽculi vita."
+        "la": "Panis, quem ego dédero, caro mea est pro sǽculi vita.",
+        "de": "Das Brot, das ich geben werde, ist mein Fleisch für das Leben der Welt."
       },
       "reference": {
         "la": "Joann 6:52",
@@ -147,7 +155,8 @@
         "de": "Schlussgebet"
       },
       "text": {
-        "la": "Mentes nostras et córpora possídeat, quǽsumus, Dómine, doni cœléstis operátio: ut non noster sensus in nobis, sed júgiter ejus prævéniat efféctus."
+        "la": "Mentes nostras et córpora possídeat, quǽsumus, Dómine, doni cœléstis operátio: ut non noster sensus in nobis, sed júgiter ejus prævéniat efféctus.",
+        "de": "Unsere Seelen und Leiber, wir bitten dich, o Herr, durchdringe die Wirkung der himmlischen Gabe, damit nicht unser Sinn in uns walte, sondern beständig ihre Wirkung uns zuvorkomme."
       }
     }
   ]

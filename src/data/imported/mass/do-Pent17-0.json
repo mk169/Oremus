@@ -1,7 +1,7 @@
 {
   "id": "do-Pent17-0",
   "form": "1962",
-  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung (eigene, gemeinfrei) ergänzt.",
   "day": {
     "title": {
       "la": "Dominica XVII Post Pentecosten",
@@ -19,7 +19,8 @@
         "de": "Eröffnungsvers"
       },
       "text": {
-        "la": "Justus es, Dómine, et rectum judícium tuum: fac cum servo tuo secúndum misericórdiam tuam. Beáti immaculáti in via: qui ámbulant in lege Dómini. Justus es, Dómine, et rectum judicium tuum: fac cum servo tuo secúndum misericórdiam tuam."
+        "la": "Justus es, Dómine, et rectum judícium tuum: fac cum servo tuo secúndum misericórdiam tuam. Beáti immaculáti in via: qui ámbulant in lege Dómini. Justus es, Dómine, et rectum judicium tuum: fac cum servo tuo secúndum misericórdiam tuam.",
+        "de": "Gerecht bist du, o Herr, und recht ist dein Gericht; handle an deinem Knechte nach deiner Barmherzigkeit. Selig, die unbefleckt auf ihrem Wege sind, die im Gesetze des Herrn wandeln. Gerecht bist du, o Herr, und recht ist dein Gericht; handle an deinem Knechte nach deiner Barmherzigkeit."
       },
       "reference": {
         "la": "Ps 118:137; 118:124; Ps 118:1",
@@ -38,7 +39,8 @@
         "de": "Tagesgebet"
       },
       "text": {
-        "la": "Da, quǽsumus, Dómine, pópulo tuo diabólica vitáre contágia: et te solum Deum pura mente sectári."
+        "la": "Da, quǽsumus, Dómine, pópulo tuo diabólica vitáre contágia: et te solum Deum pura mente sectári.",
+        "de": "Gib, wir bitten dich, o Herr, deinem Volke, die Ansteckungen des Teufels zu meiden und dir allein, dem wahren Gott, mit reinem Herzen zu folgen."
       }
     },
     {
@@ -49,7 +51,8 @@
         "de": "Lesung"
       },
       "text": {
-        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Ephésios Fratres: Obsecro vos ego vinctus in Dómino, ut digne ambulétis vocatióne, qua vocáti estis, cum omni humilitáte et mansuetúdine, cum patiéntia, supportántes ínvicem in caritáte, sollíciti serváre unitátem spíritus in vínculo pacis. Unum corpus et unus spíritus, sicut vocáti estis in una spe vocatiónis vestræ. Unus Dóminus, una fides, unum baptísma. Unus Deus et Pater ómnium, qui est super omnes et per ómnia et in ómnibus nobis. Qui est benedíctus in sǽcula sæculórum. Amen."
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Ephésios Fratres: Obsecro vos ego vinctus in Dómino, ut digne ambulétis vocatióne, qua vocáti estis, cum omni humilitáte et mansuetúdine, cum patiéntia, supportántes ínvicem in caritáte, sollíciti serváre unitátem spíritus in vínculo pacis. Unum corpus et unus spíritus, sicut vocáti estis in una spe vocatiónis vestræ. Unus Dóminus, una fides, unum baptísma. Unus Deus et Pater ómnium, qui est super omnes et per ómnia et in ómnibus nobis. Qui est benedíctus in sǽcula sæculórum. Amen.",
+        "de": "Lesung aus dem Brief des heiligen Apostels Paulus an die Epheser. Brüder! Ich, der Gefangene im Herrn, ermahne euch, würdig zu wandeln der Berufung, mit der ihr berufen seid, in aller Demut und Sanftmut, in Geduld, und ertraget einander in Liebe, bemüht, die Einheit des Geistes im Bande des Friedens zu wahren. Ein Leib und ein Geist, wie ihr auch berufen seid in einer Hoffnung eurer Berufung. Ein Herr, ein Glaube, eine Taufe. Ein Gott und Vater aller, der über allen und durch alle und in uns allen ist, der gepriesen ist von Ewigkeit zu Ewigkeit. Amen."
       },
       "reference": {
         "la": "Ephes 4:1-6",
@@ -64,7 +67,8 @@
         "de": "Graduale"
       },
       "text": {
-        "la": "Beáta gens, cujus est Dóminus Deus eórum: pópulus, quem elégit Dóminus in hereditátem sibi. Verbo Dómini cœli firmáti sunt: et spíritu oris ejus omnis virtus eórum. Allelúja, allelúja Dómine, exáudi oratiónem meam, et clamor meus ad te pervéniat. Allelúja."
+        "la": "Beáta gens, cujus est Dóminus Deus eórum: pópulus, quem elégit Dóminus in hereditátem sibi. Verbo Dómini cœli firmáti sunt: et spíritu oris ejus omnis virtus eórum. Allelúja, allelúja Dómine, exáudi oratiónem meam, et clamor meus ad te pervéniat. Allelúja.",
+        "de": "Selig das Volk, dessen Gott der Herr ist, das Volk, das der Herr sich zum Erbe erwählt hat. Durch das Wort des Herrn sind die Himmel befestigt und durch den Hauch seines Mundes all ihr Heer. Alleluja, alleluja. Herr, erhöre mein Gebet, und mein Rufen dringe zu dir. Alleluja."
       },
       "reference": {
         "la": "Ps 32:12; 32:6; Ps 101:2",
@@ -83,7 +87,8 @@
         "de": "Evangelium"
       },
       "text": {
-        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Accessérunt ad Jesum pharisǽi: et interrogávit eum unus ex eis legis doctor, tentans eum: Magíster, quod est mandátum magnum in lege? Ait illi Jesus: Díliges Dóminum, Deum tuum, ex toto corde tuo et in tota ánima tua et in tota mente tua. Hoc est máximum et primum mandátum. Secúndum autem símile est huic: Díliges próximum tuum sicut teípsum. In his duóbus mandátis univérsa lex pendet et prophétæ. Congregátis autem pharisǽis, interrogávit eos Jesus, dicens: Quid vobis vidétur de Christo? cujus fílius est? Dicunt ei: David. Ait illis: Quómodo ergo David in spíritu vocat eum Dóminum, dicens: Dixit Dóminus Dómino meo, sede a dextris meis, donec ponam inimícos tuos scabéllum pedum tuórum? Si ergo David vocat eum Dóminum, quómodo fílius ejus est? Et nemo poterat ei respóndere verbum: neque ausus fuit quisquam ex illa die eum ámplius interrogáre."
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Accessérunt ad Jesum pharisǽi: et interrogávit eum unus ex eis legis doctor, tentans eum: Magíster, quod est mandátum magnum in lege? Ait illi Jesus: Díliges Dóminum, Deum tuum, ex toto corde tuo et in tota ánima tua et in tota mente tua. Hoc est máximum et primum mandátum. Secúndum autem símile est huic: Díliges próximum tuum sicut teípsum. In his duóbus mandátis univérsa lex pendet et prophétæ. Congregátis autem pharisǽis, interrogávit eos Jesus, dicens: Quid vobis vidétur de Christo? cujus fílius est? Dicunt ei: David. Ait illis: Quómodo ergo David in spíritu vocat eum Dóminum, dicens: Dixit Dóminus Dómino meo, sede a dextris meis, donec ponam inimícos tuos scabéllum pedum tuórum? Si ergo David vocat eum Dóminum, quómodo fílius ejus est? Et nemo poterat ei respóndere verbum: neque ausus fuit quisquam ex illa die eum ámplius interrogáre.",
+        "de": "Fortsetzung des heiligen Evangeliums nach Matthäus. In jener Zeit traten die Pharisäer zu Jesus, und einer von ihnen, ein Gesetzeslehrer, fragte ihn, um ihn zu versuchen: Meister, welches ist das große Gebot im Gesetze? Jesus sprach zu ihm: Du sollst den Herrn, deinen Gott, lieben aus deinem ganzen Herzen und aus deiner ganzen Seele und aus deinem ganzen Gemüte. Das ist das größte und erste Gebot. Das zweite aber ist diesem gleich: Du sollst deinen Nächsten lieben wie dich selbst. An diesen zwei Geboten hängt das ganze Gesetz und die Propheten. Als aber die Pharisäer versammelt waren, fragte sie Jesus und sprach: Was dünkt euch von Christus? Wessen Sohn ist er? Sie sagten ihm: Davids. Er sprach zu ihnen: Wie nennt ihn dann David im Geiste seinen Herrn, wenn er sagt: Es sprach der Herr zu meinem Herrn: Setze dich zu meiner Rechten, bis ich deine Feinde zum Schemel deiner Füße lege? Wenn nun David ihn Herrn nennt, wie ist er dann sein Sohn? Und niemand konnte ihm ein Wort erwidern, und keiner wagte es von jenem Tage an, ihn weiter zu fragen."
       },
       "reference": {
         "la": "Matt 22:34-46",
@@ -98,7 +103,8 @@
         "de": "Gabenvers"
       },
       "text": {
-        "la": "Orávi Deum meum ego Dániel, dicens: Exáudi, Dómine, preces servi tui: illúmina fáciem tuam super sanctuárium tuum: et propítius inténde pópulum istum, super quem invocátum est nomen tuum, Deus."
+        "la": "Orávi Deum meum ego Dániel, dicens: Exáudi, Dómine, preces servi tui: illúmina fáciem tuam super sanctuárium tuum: et propítius inténde pópulum istum, super quem invocátum est nomen tuum, Deus.",
+        "de": "Ich, Daniel, betete zu meinem Gott und sprach: Erhöre, o Herr, das Gebet deines Knechtes; lass dein Angesicht leuchten über dein Heiligtum und blicke gnädig auf dieses Volk, über dem dein Name angerufen ist, o Gott."
       },
       "reference": {
         "la": "Dan 9:17; 9:18; 9:19",
@@ -117,7 +123,8 @@
         "de": "Stillgebet (Secreta)"
       },
       "text": {
-        "la": "Majestátem tuam, Dómine, supplíciter deprecámur: ut hæc sancta, quæ gérimus, et a prætéritis nos delictis éxuant et futúris."
+        "la": "Majestátem tuam, Dómine, supplíciter deprecámur: ut hæc sancta, quæ gérimus, et a prætéritis nos delictis éxuant et futúris.",
+        "de": "Deine Majestät, o Herr, flehen wir demütig an, dass diese heiligen Handlungen, die wir vollziehen, uns sowohl von den vergangenen Sünden befreien als auch vor den künftigen."
       }
     },
     {
@@ -128,7 +135,8 @@
         "de": "Kommunionvers"
       },
       "text": {
-        "la": "Vovéte et réddite Dómino, Deo vestro, omnes, qui in circúitu ejus affértis múnera: terríbili, et ei qui aufert spíritum príncipum: terríbili apud omnes reges terræ."
+        "la": "Vovéte et réddite Dómino, Deo vestro, omnes, qui in circúitu ejus affértis múnera: terríbili, et ei qui aufert spíritum príncipum: terríbili apud omnes reges terræ.",
+        "de": "Gelobet und erfüllt eure Gelübde dem Herrn, eurem Gott, alle, die ihr rings um ihn Gaben darbringt, dem Furchtbaren, der den Mut der Fürsten bricht, dem Furchtbaren bei allen Königen der Erde."
       },
       "reference": {
         "la": "Ps 75:12-13",
@@ -147,7 +155,8 @@
         "de": "Schlussgebet"
       },
       "text": {
-        "la": "Sanctificatiónibus tuis, omnípotens Deus, et vítia nostra curéntur, et remédia nobis ætérna provéniant."
+        "la": "Sanctificatiónibus tuis, omnípotens Deus, et vítia nostra curéntur, et remédia nobis ætérna provéniant.",
+        "de": "Durch deine heiligenden Gaben, allmächtiger Gott, mögen sowohl unsere Fehler geheilt werden als auch uns ewige Heilmittel zuteil werden."
       }
     }
   ]

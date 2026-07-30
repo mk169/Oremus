@@ -1,7 +1,7 @@
 {
   "id": "do-Pent05-0",
   "form": "1962",
-  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung (eigene, gemeinfrei) ergänzt.",
   "day": {
     "title": {
       "la": "Dominica V Post Pentecosten",
@@ -19,7 +19,8 @@
         "de": "Eröffnungsvers"
       },
       "text": {
-        "la": "Exáudi, Dómine, vocem meam, qua clamávi ad te: adjútor meus esto, ne derelínquas me neque despícias me, Deus, salutáris meus. Dóminus illuminátio mea et salus mea, quem timébo? Exáudi, Dómine, vocem meam, qua clamávi ad te: adjútor meus esto, ne derelínquas me neque despícias me, Deus, salutáris meus."
+        "la": "Exáudi, Dómine, vocem meam, qua clamávi ad te: adjútor meus esto, ne derelínquas me neque despícias me, Deus, salutáris meus. Dóminus illuminátio mea et salus mea, quem timébo? Exáudi, Dómine, vocem meam, qua clamávi ad te: adjútor meus esto, ne derelínquas me neque despícias me, Deus, salutáris meus.",
+        "de": "Erhöre, o Herr, meine Stimme, mit der ich zu dir gerufen habe; sei mein Helfer, verlass mich nicht und verschmähe mich nicht, o Gott, mein Heiland. Der Herr ist mein Licht und mein Heil; wen sollte ich fürchten? Erhöre, o Herr, meine Stimme, mit der ich zu dir gerufen habe; sei mein Helfer, verlass mich nicht und verschmähe mich nicht, o Gott, mein Heiland."
       },
       "reference": {
         "la": "Ps 26:7; 26:9; Ps 26:1",
@@ -38,7 +39,8 @@
         "de": "Tagesgebet"
       },
       "text": {
-        "la": "Deus, qui diligéntibus te bona invisibília præparásti: infúnde córdibus nostris tui amóris afféctum; ut te in ómnibus et super ómnia diligéntes, promissiónes tuas, quæ omne desidérium súperant, consequámur."
+        "la": "Deus, qui diligéntibus te bona invisibília præparásti: infúnde córdibus nostris tui amóris afféctum; ut te in ómnibus et super ómnia diligéntes, promissiónes tuas, quæ omne desidérium súperant, consequámur.",
+        "de": "O Gott, du hast denen, die dich lieben, unsichtbare Güter bereitet: Gieße in unsere Herzen die Glut deiner Liebe, damit wir, die wir dich in allem und über alles lieben, deine Verheißungen erlangen, die jedes Verlangen übersteigen."
       }
     },
     {
@@ -49,7 +51,8 @@
         "de": "Lesung"
       },
       "text": {
-        "la": "Léctio Epístolæ beáti Petri Apóstoli Caríssimi: Omnes unánimes in oratióne estóte, compatiéntes, fraternitátis amatóres, misericórdes, modésti, húmiles: non reddéntes malum pro malo, nec maledíctum pro maledícto, sed e contrário benedicéntes: quia in hoc vocáti estis, ut benedictiónem hereditáte possideátis. Qui enim vult vitam dilígere et dies vidére bonos, coérceat linguam suam a malo, et lábia ejus ne loquántur dolum. Declínet a malo, et fáciat bonum: inquírat pacem, et sequátur eam. Quia óculi Dómini super justos, et aures ejus in preces eórum: vultus autem Dómini super faciéntes mala. Et quis est, qui vobis nóceat, si boni æmulatóres fuéritis? Sed et si quid patímini propter justítiam, beáti. Timórem autem eórum ne timuéritis: et non conturbémini. Dóminum autem Christum sanctificáte in córdibus vestris."
+        "la": "Léctio Epístolæ beáti Petri Apóstoli Caríssimi: Omnes unánimes in oratióne estóte, compatiéntes, fraternitátis amatóres, misericórdes, modésti, húmiles: non reddéntes malum pro malo, nec maledíctum pro maledícto, sed e contrário benedicéntes: quia in hoc vocáti estis, ut benedictiónem hereditáte possideátis. Qui enim vult vitam dilígere et dies vidére bonos, coérceat linguam suam a malo, et lábia ejus ne loquántur dolum. Declínet a malo, et fáciat bonum: inquírat pacem, et sequátur eam. Quia óculi Dómini super justos, et aures ejus in preces eórum: vultus autem Dómini super faciéntes mala. Et quis est, qui vobis nóceat, si boni æmulatóres fuéritis? Sed et si quid patímini propter justítiam, beáti. Timórem autem eórum ne timuéritis: et non conturbémini. Dóminum autem Christum sanctificáte in córdibus vestris.",
+        "de": "Lesung aus dem Brief des heiligen Apostels Petrus. Geliebteste! Seid alle einmütig im Gebet, mitleidend, voll brüderlicher Liebe, barmherzig, bescheiden und demütig; vergeltet nicht Böses mit Bösem noch Schmähung mit Schmähung, sondern segnet vielmehr; denn dazu seid ihr berufen, damit ihr den Segen als Erbe besitzet. Denn wer das Leben lieben und gute Tage sehen will, der bewahre seine Zunge vor Bösem, und seine Lippen sollen keinen Trug reden. Er wende sich vom Bösen und tue Gutes, er suche den Frieden und jage ihm nach. Denn die Augen des Herrn ruhen auf den Gerechten, und seine Ohren hören auf ihr Flehen; das Angesicht des Herrn aber ist wider die, welche Böses tun. Und wer wird euch schaden, wenn ihr dem Guten nacheifert? Doch wenn ihr auch um der Gerechtigkeit willen leidet, seid ihr selig. Fürchtet euch nicht vor ihren Drohungen und lasset euch nicht verwirren, sondern heiliget den Herrn Christus in euren Herzen."
       },
       "reference": {
         "la": "1 Pet 3:8-15",
@@ -64,7 +67,8 @@
         "de": "Graduale"
       },
       "text": {
-        "la": "Protéctor noster, áspice, Deus, et réspice super servos tuos. Dómine, Deus virtútum, exáudi preces servórum tuórum. Allelúja, allelúja. Dómine, in virtúte tua lætábitur rex: et super salutáre tuum exsultábit veheménter. Allelúja."
+        "la": "Protéctor noster, áspice, Deus, et réspice super servos tuos. Dómine, Deus virtútum, exáudi preces servórum tuórum. Allelúja, allelúja. Dómine, in virtúte tua lætábitur rex: et super salutáre tuum exsultábit veheménter. Allelúja.",
+        "de": "Blicke her, o Gott, unser Beschützer, und schau auf deine Knechte. O Herr, Gott der Heerscharen, erhöre das Flehen deiner Knechte. Alleluja, alleluja. O Herr, in deiner Kraft freut sich der König und über dein Heil frohlockt er mächtig. Alleluja."
       },
       "reference": {
         "la": "Ps 83:10; 83:9; Ps 20:1",
@@ -83,7 +87,8 @@
         "de": "Evangelium"
       },
       "text": {
-        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Dixit Jesus discípulis suis: Nisi abundáverit justítia vestra plus quam scribárum et pharisæórum, non intrábitis in regnum cœlórum. Audístis, quia dictum est antíquis: Non occídes: qui autem occíderit, reus erit judício. Ego autem dico vobis: quia omnis, qui iráscitur fratri suo, reus erit judício. Qui autem díxerit fratri suo, raca: reus erit concílio. Qui autem díxerit, fátue: reus erit gehénnæ ignis. Si ergo offers munus tuum ad altáre, et ibi recordátus fúeris, quia frater tuus habet áliquid advérsum te: relínque ibi munus tuum ante altáre et vade prius reconciliári fratri tuo: et tunc véniens ófferes munus tuum."
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Dixit Jesus discípulis suis: Nisi abundáverit justítia vestra plus quam scribárum et pharisæórum, non intrábitis in regnum cœlórum. Audístis, quia dictum est antíquis: Non occídes: qui autem occíderit, reus erit judício. Ego autem dico vobis: quia omnis, qui iráscitur fratri suo, reus erit judício. Qui autem díxerit fratri suo, raca: reus erit concílio. Qui autem díxerit, fátue: reus erit gehénnæ ignis. Si ergo offers munus tuum ad altáre, et ibi recordátus fúeris, quia frater tuus habet áliquid advérsum te: relínque ibi munus tuum ante altáre et vade prius reconciliári fratri tuo: et tunc véniens ófferes munus tuum.",
+        "de": "Fortsetzung des heiligen Evangeliums nach Matthäus. In jener Zeit sprach Jesus zu seinen Jüngern: Wenn eure Gerechtigkeit nicht größer ist als die der Schriftgelehrten und Pharisäer, werdet ihr nicht in das Himmelreich eingehen. Ihr habt gehört, dass zu den Alten gesagt worden ist: Du sollst nicht töten; wer aber tötet, soll dem Gerichte verfallen sein. Ich aber sage euch: Jeder, der seinem Bruder zürnt, soll dem Gerichte verfallen sein. Wer aber zu seinem Bruder sagt: Raka! der soll dem Hohen Rate verfallen sein. Wer aber sagt: Du Tor! der soll dem Feuer der Hölle verfallen sein. Wenn du also deine Gabe zum Altare bringst und dich dort erinnerst, dass dein Bruder etwas wider dich hat, so lass deine Gabe dort vor dem Altare und geh zuvor hin und versöhne dich mit deinem Bruder, und dann komm und bring deine Gabe dar."
       },
       "reference": {
         "la": "Matt 5:20-24",
@@ -98,7 +103,8 @@
         "de": "Gabenvers"
       },
       "text": {
-        "la": "Benedícam Dóminum, qui tríbuit mihi intelléctum: providébam Deum in conspéctu meo semper: quóniam a dextris est mihi, ne commóvear."
+        "la": "Benedícam Dóminum, qui tríbuit mihi intelléctum: providébam Deum in conspéctu meo semper: quóniam a dextris est mihi, ne commóvear.",
+        "de": "Ich will den Herrn preisen, der mir Einsicht gegeben hat; ich sehe Gott allezeit vor mir; denn er ist zu meiner Rechten, damit ich nicht wanke."
       },
       "reference": {
         "la": "Ps 15:7 et 8",
@@ -117,7 +123,8 @@
         "de": "Stillgebet (Secreta)"
       },
       "text": {
-        "la": "Propitiáre, Dómine, supplicatiónibus nostris: et has oblatiónes famulórum famularúmque tuárum benígnus assúme; ut, quod sínguli obtulérunt ad honórem nóminis tui, cunctis profíciat ad salútem."
+        "la": "Propitiáre, Dómine, supplicatiónibus nostris: et has oblatiónes famulórum famularúmque tuárum benígnus assúme; ut, quod sínguli obtulérunt ad honórem nóminis tui, cunctis profíciat ad salútem.",
+        "de": "Sei gnädig, o Herr, unserem Flehen und nimm huldvoll diese Opfergaben deiner Diener und Dienerinnen an, damit, was jeder einzelne zur Ehre deines Namens dargebracht hat, allen zum Heile gereiche."
       }
     },
     {
@@ -128,7 +135,8 @@
         "de": "Kommunionvers"
       },
       "text": {
-        "la": "Unam pétii a Dómino, hanc requíram: ut inhábitem in domo Dómini ómnibus diébus vitæ meæ."
+        "la": "Unam pétii a Dómino, hanc requíram: ut inhábitem in domo Dómini ómnibus diébus vitæ meæ.",
+        "de": "Eines habe ich vom Herrn erbeten, danach will ich verlangen: dass ich im Hause des Herrn wohne alle Tage meines Lebens."
       },
       "reference": {
         "la": "Ps 26:4",
@@ -147,7 +155,8 @@
         "de": "Schlussgebet"
       },
       "text": {
-        "la": "Quos cœlésti, Dómine, dono satiásti: præsta, quǽsumus; ut a nostris mundémur occúltis et ab hóstium liberémur insídiis."
+        "la": "Quos cœlésti, Dómine, dono satiásti: præsta, quǽsumus; ut a nostris mundémur occúltis et ab hóstium liberémur insídiis.",
+        "de": "Die du, o Herr, mit der himmlischen Gabe gesättigt hast, gewähre, wir bitten dich, dass wir von unseren verborgenen Sünden gereinigt und aus den Nachstellungen der Feinde befreit werden."
       }
     }
   ]

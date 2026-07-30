@@ -1,7 +1,7 @@
 {
   "id": "do-Pent18-0",
   "form": "1962",
-  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung (eigene, gemeinfrei) ergänzt.",
   "day": {
     "title": {
       "la": "Dominica XVIII Post Pentecosten",
@@ -19,7 +19,8 @@
         "de": "Eröffnungsvers"
       },
       "text": {
-        "la": "Da pacem, Dómine, sustinéntibus te, ut prophétæ tui fidéles inveniántur: exáudi preces servi tui et plebis tuæ Israël Lætátus sum in his, quæ dicta sunt mihi: in domum Dómini íbimus. Da pacem, Dómine, sustinéntibus te, ut prophétæ tui fidéles inveniántur: exáudi preces servi tui et plebis tuæ Israël"
+        "la": "Da pacem, Dómine, sustinéntibus te, ut prophétæ tui fidéles inveniántur: exáudi preces servi tui et plebis tuæ Israël Lætátus sum in his, quæ dicta sunt mihi: in domum Dómini íbimus. Da pacem, Dómine, sustinéntibus te, ut prophétæ tui fidéles inveniántur: exáudi preces servi tui et plebis tuæ Israël",
+        "de": "Gib Frieden, o Herr, denen, die auf dich harren, damit deine Propheten treu erfunden werden; erhöre die Gebete deines Knechtes und deines Volkes Israel. Ich freute mich über das, was mir gesagt ward: Wir werden ziehen zum Hause des Herrn. Gib Frieden, o Herr, denen, die auf dich harren, damit deine Propheten treu erfunden werden; erhöre die Gebete deines Knechtes und deines Volkes Israel."
       },
       "reference": {
         "la": "Eccli 36:18; Ps 121:1",
@@ -38,7 +39,8 @@
         "de": "Tagesgebet"
       },
       "text": {
-        "la": "Dírigat corda nostra, quǽsumus, Dómine, tuæ miseratiónis operátio: quia tibi sine te placére non póssumus."
+        "la": "Dírigat corda nostra, quǽsumus, Dómine, tuæ miseratiónis operátio: quia tibi sine te placére non póssumus.",
+        "de": "Es lenke unsere Herzen, wir bitten dich, o Herr, das Wirken deines Erbarmens; denn ohne dich können wir dir nicht gefallen."
       }
     },
     {
@@ -49,7 +51,8 @@
         "de": "Lesung"
       },
       "text": {
-        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Corinthios Fratres: Grátias ago Deo meo semper pro vobis in grátia Dei, quæ data est vobis in Christo Jesu: quod in ómnibus dívites facti estis in illo, in omni verbo et in omni sciéntia: sicut testimónium Christi confirmátum est in vobis: ita ut nihil vobis desit in ulla grátia, exspectántibus revelatiónem Dómini nostri Jesu Christi, qui et confirmábit vos usque in finem sine crímine, in die advéntus Dómini nostri Jesu Christi."
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Corinthios Fratres: Grátias ago Deo meo semper pro vobis in grátia Dei, quæ data est vobis in Christo Jesu: quod in ómnibus dívites facti estis in illo, in omni verbo et in omni sciéntia: sicut testimónium Christi confirmátum est in vobis: ita ut nihil vobis desit in ulla grátia, exspectántibus revelatiónem Dómini nostri Jesu Christi, qui et confirmábit vos usque in finem sine crímine, in die advéntus Dómini nostri Jesu Christi.",
+        "de": "Lesung aus dem Brief des heiligen Apostels Paulus an die Korinther. Brüder! Ich danke meinem Gott allezeit euretwegen für die Gnade Gottes, die euch in Christus Jesus gegeben ist, dass ihr in allem reich geworden seid in ihm, in aller Rede und in aller Erkenntnis, so wie das Zeugnis von Christus in euch gefestigt wurde, so dass euch an keiner Gnadengabe etwas fehlt, während ihr die Offenbarung unseres Herrn Jesus Christus erwartet, der euch auch festigen wird bis ans Ende, dass ihr ohne Tadel seid am Tage der Ankunft unseres Herrn Jesus Christus."
       },
       "reference": {
         "la": "1 Cor 1:4-8",
@@ -64,7 +67,8 @@
         "de": "Graduale"
       },
       "text": {
-        "la": "Lætátus sum in his, quæ dicta sunt mihi: in domum Dómini íbimus. Fiat pax in virtúte tua: et abundántia in túrribus tuis. Allelúja, allelúja Timébunt gentes nomen tuum, Dómine, et omnes reges terræ glóriam tuam. Allelúja."
+        "la": "Lætátus sum in his, quæ dicta sunt mihi: in domum Dómini íbimus. Fiat pax in virtúte tua: et abundántia in túrribus tuis. Allelúja, allelúja Timébunt gentes nomen tuum, Dómine, et omnes reges terræ glóriam tuam. Allelúja.",
+        "de": "Ich freute mich über das, was mir gesagt ward: Wir werden ziehen zum Hause des Herrn. Friede walte in deiner Kraft und Fülle in deinen Türmen. Alleluja, alleluja. Die Völker werden deinen Namen fürchten, o Herr, und alle Könige der Erde deine Herrlichkeit. Alleluja."
       },
       "reference": {
         "la": "Ps 121:1; 121:7; Ps 101:16",
@@ -83,7 +87,8 @@
         "de": "Evangelium"
       },
       "text": {
-        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Ascéndens Jesus in navículam, transfretávit et venit in civitátem suam. Et ecce, offerébant ei paralýticum jacéntem in lecto. Et videns Jesus fidem illórum, dixit paralýtico: Confíde, fili, remittúntur tibi peccáta tua. Et ecce, quidam de scribis dixérunt intra se: Hic blasphémat. Et cum vidísset Jesus cogitatiónes eórum, dixit: Ut quid cogitátis mala in córdibus vestris? Quid est facílius dícere: Dimittúntur tibi peccáta tua; an dícere: Surge et ámbula? Ut autem sciátis, quia Fílius hóminis habet potestátem in terra dimitténdi peccáta, tunc ait paralýtico: Surge, tolle lectum tuum, et vade in domum tuam. Et surréxit et ábiit in domum suam. Vidéntes autem turbæ timuérunt, et glorificavérunt Deum, qui dedit potestátem talem homínibus."
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Ascéndens Jesus in navículam, transfretávit et venit in civitátem suam. Et ecce, offerébant ei paralýticum jacéntem in lecto. Et videns Jesus fidem illórum, dixit paralýtico: Confíde, fili, remittúntur tibi peccáta tua. Et ecce, quidam de scribis dixérunt intra se: Hic blasphémat. Et cum vidísset Jesus cogitatiónes eórum, dixit: Ut quid cogitátis mala in córdibus vestris? Quid est facílius dícere: Dimittúntur tibi peccáta tua; an dícere: Surge et ámbula? Ut autem sciátis, quia Fílius hóminis habet potestátem in terra dimitténdi peccáta, tunc ait paralýtico: Surge, tolle lectum tuum, et vade in domum tuam. Et surréxit et ábiit in domum suam. Vidéntes autem turbæ timuérunt, et glorificavérunt Deum, qui dedit potestátem talem homínibus.",
+        "de": "Fortsetzung des heiligen Evangeliums nach Matthäus. In jener Zeit stieg Jesus in ein Schiff, fuhr über den See und kam in seine Stadt. Und siehe, man brachte ihm einen Gichtbrüchigen, der auf einem Bette lag. Als Jesus ihren Glauben sah, sprach er zu dem Gichtbrüchigen: Sei getrost, mein Sohn; deine Sünden sind dir vergeben. Und siehe, einige von den Schriftgelehrten sprachen bei sich: Dieser lästert Gott. Als Jesus ihre Gedanken sah, sprach er: Warum denkt ihr Böses in euren Herzen? Was ist leichter, zu sagen: Deine Sünden sind dir vergeben, oder zu sagen: Steh auf und wandle? Damit ihr aber wisset, dass der Menschensohn Macht hat auf Erden, Sünden zu vergeben — da sprach er zum Gichtbrüchigen: Steh auf, nimm dein Bett und geh in dein Haus. Und er stand auf und ging in sein Haus. Als aber das Volk das sah, fürchtete es sich und pries Gott, der solche Macht den Menschen gegeben hat."
       },
       "reference": {
         "la": "Matt 9:1-8",
@@ -98,7 +103,8 @@
         "de": "Gabenvers"
       },
       "text": {
-        "la": "Sanctificávit Móyses altáre Dómino, ófferens super illud holocáusta et ímmolans víctimas: fecit sacrifícium vespertínum in odórem suavitátis Dómino Deo, in conspéctu filiórum Israël."
+        "la": "Sanctificávit Móyses altáre Dómino, ófferens super illud holocáusta et ímmolans víctimas: fecit sacrifícium vespertínum in odórem suavitátis Dómino Deo, in conspéctu filiórum Israël.",
+        "de": "Moses weihte dem Herrn einen Altar, indem er darauf Brandopfer darbrachte und Opfertiere schlachtete; er brachte ein Abendopfer dar zum lieblichen Wohlgeruch für Gott den Herrn vor den Augen der Söhne Israels."
       },
       "reference": {
         "la": "Exodi 24:4; 24:5",
@@ -117,7 +123,8 @@
         "de": "Stillgebet (Secreta)"
       },
       "text": {
-        "la": "Deus, qui nos, per hujus sacrifícii veneránda commércia, uníus summæ divinitátis partícipes éfficis: præsta, quǽsumus; ut, sicut tuam cognóscimus veritátem, sic eam dignis móribus assequámur."
+        "la": "Deus, qui nos, per hujus sacrifícii veneránda commércia, uníus summæ divinitátis partícipes éfficis: præsta, quǽsumus; ut, sicut tuam cognóscimus veritátem, sic eam dignis móribus assequámur.",
+        "de": "O Gott, der du uns durch den ehrwürdigen Austausch dieses Opfers der einen höchsten Gottheit teilhaftig machst: Gewähre, wir bitten dich, dass wir, wie wir deine Wahrheit erkennen, ihr auch durch würdigen Wandel folgen."
       }
     },
     {
@@ -128,7 +135,8 @@
         "de": "Kommunionvers"
       },
       "text": {
-        "la": "Tóllite hóstias, et introíte in átria ejus: adoráte Dóminum in aula sancta ejus."
+        "la": "Tóllite hóstias, et introíte in átria ejus: adoráte Dóminum in aula sancta ejus.",
+        "de": "Nehmet Opfergaben und tretet ein in seine Vorhöfe; betet den Herrn an in seiner heiligen Halle."
       },
       "reference": {
         "la": "Ps 95:8-9",
@@ -147,7 +155,8 @@
         "de": "Schlussgebet"
       },
       "text": {
-        "la": "Grátias tibi reférimus, Dómine, sacro múnere vegetáti: tuam misericórdiam deprecántes; ut dignos nos ejus participatióne perfícias."
+        "la": "Grátias tibi reférimus, Dómine, sacro múnere vegetáti: tuam misericórdiam deprecántes; ut dignos nos ejus participatióne perfícias.",
+        "de": "Dank sagen wir dir, o Herr, gestärkt durch die heilige Gabe, und flehen zu deiner Barmherzigkeit, dass du uns würdig machest ihrer Teilhaftigkeit."
       }
     }
   ]
