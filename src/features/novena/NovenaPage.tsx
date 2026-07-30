@@ -1,17 +1,23 @@
 import { useState } from 'react'
+import { Link, useParams } from 'react-router-dom'
 import { PageHeader } from '../../components/PageHeader'
 import { BilingualText } from '../../components/BilingualText'
-import { novenas } from '../../data/novenas'
+import { novenaById, novenas } from '../../data/novenas'
 import './NovenaPage.css'
 
 export function NovenaPage() {
-  const novena = novenas[0]
+  const { novenaId } = useParams()
+  // Ohne id (oder unbekannt) die erste Novene zeigen – abwärtskompatibel.
+  const novena = novenaById(novenaId) ?? novenas[0]
   const [activeDay, setActiveDay] = useState(1)
   const day = novena.days.find((d) => d.day === activeDay) ?? novena.days[0]
 
   return (
     <div>
-      <PageHeader title={novena.title.de ?? 'Novene'} latin={novena.title.la} />
+      <p className="prayers-breadcrumb">
+        <Link to="/novene">Novenen</Link>
+      </p>
+      <PageHeader title={novena.title.de ?? 'Novene'} latin={novena.title.la} subtitle={novena.subtitle?.de} />
 
       <p className="novena-intro">{novena.intro.de}</p>
 

@@ -41,6 +41,7 @@ const GROUPS: Record<string, Group> = {
   allgemein: {
     title: 'Allgemeine Gebete',
     latin: 'Orationes communes',
+    subtitle: 'Die klassischen Grundgebete – Kreuzzeichen, Vaterunser, Ave Maria, Glaubensbekenntnis und marianische Antiphonen.',
     prayers: allgemeineGebete,
     empty: 'Diese Sammlung wird noch ergänzt.',
   },

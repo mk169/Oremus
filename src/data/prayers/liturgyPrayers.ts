@@ -60,5 +60,89 @@ export const gratiarumActioPrayers: Prayer[] = [
   },
 ]
 
-/** Allgemeine Gebete – wird noch ergänzt. */
-export const allgemeineGebete: Prayer[] = []
+/** Allgemeine Gebete – die klassischen Grundgebete (gemeinfrei). */
+export const allgemeineGebete: Prayer[] = [
+  {
+    id: 'signum-crucis',
+    title: { la: 'Signum crucis', de: 'Kreuzzeichen' },
+    text: {
+      la: 'In nómine Patris, et Fílii, et Spíritus Sancti. Amen.',
+      de: 'Im Namen des Vaters und des Sohnes und des Heiligen Geistes. Amen.',
+    },
+  },
+  {
+    id: 'pater-noster',
+    title: { la: 'Pater noster', de: 'Vaterunser' },
+    text: {
+      la: 'Pater noster, qui es in cælis: sanctificétur nomen tuum; advéniat regnum tuum; fiat volúntas tua, sicut in cælo, et in terra. Panem nostrum cotidiánum da nobis hódie; et dimítte nobis débita nostra, sicut et nos dimíttimus debitóribus nostris; et ne nos indúcas in tentatiónem; sed líbera nos a malo. Amen.',
+      de: 'Vater unser im Himmel, geheiligt werde dein Name. Dein Reich komme. Dein Wille geschehe, wie im Himmel so auf Erden. Unser tägliches Brot gib uns heute. Und vergib uns unsere Schuld, wie auch wir vergeben unsern Schuldigern. Und führe uns nicht in Versuchung, sondern erlöse uns von dem Bösen. Amen.',
+    },
+  },
+  {
+    id: 'ave-maria',
+    title: { la: 'Ave Maria', de: 'Gegrüßet seist du, Maria' },
+    text: {
+      la: 'Ave María, grátia plena, Dóminus tecum; benedícta tu in muliéribus, et benedíctus fructus ventris tui, Iesus. Sancta María, Mater Dei, ora pro nobis peccatóribus, nunc et in hora mortis nostræ. Amen.',
+      de: 'Gegrüßet seist du, Maria, voll der Gnade, der Herr ist mit dir. Du bist gebenedeit unter den Frauen, und gebenedeit ist die Frucht deines Leibes, Jesus. Heilige Maria, Mutter Gottes, bitte für uns Sünder jetzt und in der Stunde unseres Todes. Amen.',
+    },
+  },
+  {
+    id: 'gloria-patri',
+    title: { la: 'Gloria Patri', de: 'Ehre sei dem Vater' },
+    text: {
+      la: 'Glória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.',
+      de: 'Ehre sei dem Vater und dem Sohn und dem Heiligen Geist. Wie im Anfang, so auch jetzt und allezeit und in Ewigkeit. Amen.',
+    },
+  },
+  {
+    id: 'credo-apostolicum',
+    title: { la: 'Symbolum Apostolorum', de: 'Apostolisches Glaubensbekenntnis' },
+    text: {
+      la: 'Credo in Deum, Patrem omnipoténtem, Creatórem cæli et terræ. Et in Iesum Christum, Fílium eius únicum, Dóminum nostrum: qui concéptus est de Spíritu Sancto, natus ex María Vírgine, passus sub Póntio Piláto, crucifíxus, mórtuus, et sepúltus: descéndit ad ínferos; tértia die resurréxit a mórtuis; ascéndit ad cælos; sedet ad déxteram Dei Patris omnipoténtis: inde ventúrus est iudicáre vivos et mórtuos. Credo in Spíritum Sanctum, sanctam Ecclésiam cathólicam, Sanctórum communiónem, remissiónem peccatórum, carnis resurrectiónem, vitam ætérnam. Amen.',
+      de: 'Ich glaube an Gott, den Vater, den Allmächtigen, den Schöpfer des Himmels und der Erde, und an Jesus Christus, seinen eingeborenen Sohn, unsern Herrn, empfangen durch den Heiligen Geist, geboren von der Jungfrau Maria, gelitten unter Pontius Pilatus, gekreuzigt, gestorben und begraben, hinabgestiegen in das Reich des Todes, am dritten Tage auferstanden von den Toten, aufgefahren in den Himmel; er sitzt zur Rechten Gottes, des allmächtigen Vaters; von dort wird er kommen, zu richten die Lebenden und die Toten. Ich glaube an den Heiligen Geist, die heilige katholische Kirche, Gemeinschaft der Heiligen, Vergebung der Sünden, Auferstehung der Toten und das ewige Leben. Amen.',
+    },
+  },
+  {
+    id: 'salve-regina',
+    title: { la: 'Salve Regina', de: 'Sei gegrüßt, o Königin' },
+    rubric: { de: 'Marianische Antiphon, besonders nach der Komplet.' },
+    text: {
+      la: 'Salve, Regína, Mater misericórdiæ; vita, dulcédo, et spes nostra, salve. Ad te clamámus, éxsules fílii Hevæ. Ad te suspirámus, geméntes et flentes in hac lacrimárum valle. Eia ergo, advocáta nostra, illos tuos misericórdes óculos ad nos convérte. Et Iesum, benedíctum fructum ventris tui, nobis post hoc exsílium osténde. O clemens, o pia, o dulcis Virgo María.',
+      de: 'Sei gegrüßt, o Königin, Mutter der Barmherzigkeit, unser Leben, unsere Wonne und unsere Hoffnung, sei gegrüßt. Zu dir rufen wir verbannte Kinder Evas. Zu dir seufzen wir trauernd und weinend in diesem Tal der Tränen. Wohlan denn, unsere Fürsprecherin, wende deine barmherzigen Augen uns zu und nach diesem Elend zeige uns Jesus, die gebenedeite Frucht deines Leibes. O gütige, o milde, o süße Jungfrau Maria.',
+    },
+  },
+  {
+    id: 'sub-tuum',
+    title: { la: 'Sub tuum præsidium', de: 'Unter deinen Schutz und Schirm' },
+    text: {
+      la: 'Sub tuum præsídium confúgimus, sancta Dei Génetrix; nostras deprecatiónes ne despícias in necessitátibus nostris, sed a perículis cunctis líbera nos semper, Virgo gloriósa et benedícta. Amen.',
+      de: 'Unter deinen Schutz und Schirm fliehen wir, o heilige Gottesmutter. Verschmähe nicht unser Gebet in unsern Nöten, sondern erlöse uns jederzeit von allen Gefahren, o du glorreiche und gebenedeite Jungfrau. Amen.',
+    },
+  },
+  {
+    id: 'angelus',
+    title: { la: 'Angelus Domini', de: 'Der Engel des Herrn' },
+    rubric: { de: 'Morgens, mittags und abends; in der Osterzeit „Regina cæli“.' },
+    text: {
+      la: 'V. Ángelus Dómini nuntiávit Maríæ. R. Et concépit de Spíritu Sancto. — Ave María … — V. Ecce ancílla Dómini. R. Fiat mihi secúndum verbum tuum. — Ave María … — V. Et Verbum caro factum est. R. Et habitávit in nobis. — Ave María … — V. Ora pro nobis, sancta Dei Génetrix. R. Ut digni efficiámur promissiónibus Christi. Orémus. Grátiam tuam, quǽsumus, Dómine, méntibus nostris infúnde; ut qui, Ángelo nuntiánte, Christi Fílii tui incarnatiónem cognóvimus, per passiónem eius et crucem, ad resurrectiónis glóriam perducámur. Per eúndem Christum Dóminum nostrum. Amen.',
+      de: 'V. Der Engel des Herrn brachte Maria die Botschaft. R. Und sie empfing vom Heiligen Geist. — Gegrüßet seist du, Maria … — V. Maria sprach: Siehe, ich bin die Magd des Herrn. R. Mir geschehe nach deinem Wort. — Gegrüßet seist du, Maria … — V. Und das Wort ist Fleisch geworden. R. Und hat unter uns gewohnt. — Gegrüßet seist du, Maria … — V. Bitte für uns, heilige Gottesmutter. R. Auf dass wir würdig werden der Verheißungen Christi. Lasset uns beten. Allmächtiger Gott, gieße deine Gnade in unsere Herzen ein. Durch die Botschaft des Engels haben wir die Menschwerdung Christi, deines Sohnes, erkannt. Lass uns durch sein Leiden und Kreuz zur Herrlichkeit der Auferstehung gelangen. Darum bitten wir durch Christus, unsern Herrn. Amen.',
+    },
+  },
+  {
+    id: 'regina-caeli',
+    title: { la: 'Regina cæli', de: 'Freu dich, du Himmelskönigin' },
+    rubric: { de: 'In der Osterzeit anstelle des „Angelus“.' },
+    text: {
+      la: 'Regína cæli, lætáre, allelúia. Quia quem meruísti portáre, allelúia. Resurréxit, sicut dixit, allelúia. Ora pro nobis Deum, allelúia.',
+      de: 'Freu dich, du Himmelskönigin, halleluja. Den du zu tragen würdig warst, halleluja, er ist erstanden, wie er gesagt, halleluja. Bitt Gott für uns, o Königin, halleluja.',
+    },
+  },
+  {
+    id: 'actus-contritionis',
+    title: { la: 'Actus contritionis', de: 'Reueakt' },
+    text: {
+      la: 'Deus meus, ex toto corde pǽnitet me ómnium meórum peccatórum, éaque detéstor, quia peccándo non solum pœnas a te iuste statútas proméritus sum, sed præsértim quia offéndi te, summe bonum ac dignum qui super ómnia diligáris. Ideo fírmiter propóno, adiuvánte grátia tua, de cétero me non peccatúrum peccandíque occasiónes próximas fugitúrum. Amen.',
+      de: 'Mein Gott, aus ganzem Herzen bereue ich alle meine Sünden, nicht nur wegen der gerechten Strafen, die ich verdient habe, sondern vor allem, weil ich dich, das höchste Gut, beleidigt habe, der du der Liebe über alles würdig bist. Ich nehme mir fest vor, mit Hilfe deiner Gnade nicht mehr zu sündigen und die Gelegenheiten zur Sünde zu meiden. Amen.',
+    },
+  },
+]

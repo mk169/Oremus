@@ -136,6 +136,8 @@ export interface NovenaDay {
 export interface Novena {
   id: string
   title: BilingualText
+  /** Kurzer Untertitel für Übersicht/Kachel (z.B. Anlass oder Festbezug). */
+  subtitle?: BilingualText
   intro: BilingualText
   /** Gebet, das an jedem Tag gebetet wird. */
   dailyPrayer: Prayer
