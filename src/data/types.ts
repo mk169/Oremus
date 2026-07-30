@@ -123,6 +123,8 @@ export interface Prayer {
   title: BilingualText
   text: BilingualText
   rubric?: BilingualText
+  /** Optionale Quellenangabe, z.B. „Lk 1,46–55" oder „Mt 5,3–10". */
+  reference?: BilingualText
 }
 
 /** Novene über neun Tage. */
