@@ -85,6 +85,25 @@
       }
     },
     {
+      "id": "week-dominica-prim-quicumque",
+      "kind": "proprium",
+      "title": {
+        "la": "Symbolum S. Athanasii",
+        "de": "Athanasianisches Glaubensbekenntnis"
+      },
+      "reference": {
+        "la": "Quicúmque",
+        "de": "Quicumque"
+      },
+      "rubric": {
+        "la": "Ad Primam diebus dominicis (juxta antiquiorem usum; secundum rubricas 1960 in festo Ss. Trinitatis)",
+        "de": "Bei der Prim an den Sonntagen (nach älterem Brauch; nach den Rubriken von 1960 am Dreifaltigkeitssonntag). Deutsche Übersetzung folgt."
+      },
+      "text": {
+        "la": "Quicúmque vult salvus esse, * ante ómnia opus est, ut téneat cathólicam fidem:\nQuam nisi quisque íntegram inviolatámque serváverit, * absque dúbio in ætérnum períbit.\nFides autem cathólica hæc est: * ut unum Deum in Trinitáte, et Trinitátem in unitáte venerémur.\nNeque confundéntes persónas, * neque substántiam separántes.\nAlia est enim persóna Patris, ália Fílii, * ália Spíritus Sancti:\nSed Patris, et Fílii, et Spíritus Sancti una est divínitas, * æquális glória, coætérna majéstas.\nQualis Pater, talis Fílius, * talis Spíritus Sanctus.\nIncreátus Pater, increátus Fílius, * increátus Spíritus Sanctus.\nImménsus Pater, imménsus Fílius, * imménsus Spíritus Sanctus.\nÆtérnus Pater, ætérnus Fílius, * ætérnus Spíritus Sanctus.\nEt tamen non tres ætérni, * sed unus ætérnus.\nSicut non tres increáti, nec tres imménsi, * sed unus increátus, et unus imménsus.\nSimíliter omnípotens Pater, omnípotens Fílius, * omnípotens Spíritus Sanctus.\nEt tamen non tres omnipoténtes, * sed unus omnípotens.\nIta Deus Pater, Deus Fílius, * Deus Spíritus Sanctus.\nEt tamen non tres Dii, * sed unus est Deus.\nIta Dóminus Pater, Dóminus Fílius, * Dóminus Spíritus Sanctus.\nEt tamen non tres Dómini, * sed unus est Dóminus.\nQuia, sicut singillátim unamquámque persónam Deum ac Dóminum confitéri christiána veritáte compéllimur: * ita tres Deos aut Dóminos dícere cathólica religióne prohibémur.\nPater a nullo est factus: * nec creátus, nec génitus.\nFílius a Patre solo est: * non factus, nec creátus, sed génitus.\nSpíritus Sanctus a Patre et Fílio: * non factus, nec creátus, nec génitus, sed procédens.\nUnus ergo Pater, non tres Patres: unus Fílius, non tres Fílii: * unus Spíritus Sanctus, non tres Spíritus Sancti.\nEt in hac Trinitáte nihil prius aut postérius, nihil majus aut minus: * sed totæ tres persónæ coætérnæ sibi sunt et coæquáles.\nIta ut per ómnia, sicut jam supra dictum est, * et únitas in Trinitáte, et Trínitas in unitáte veneránda sit.\nQui vult ergo salvus esse, * ita de Trinitáte séntiat.\nSed necessárium est ad ætérnam salútem, * ut Incarnatiónem quoque Dómini nostri Jesu Christi fidéliter credat.\nEst ergo fides recta ut credámus et confiteámur, * quia Dóminus noster Jesus Christus, Dei Fílius, Deus et homo est.\nDeus est ex substántia Patris ante sǽcula génitus: * et homo est ex substántia matris in sǽculo natus.\nPerféctus Deus, perféctus homo: * ex ánima rationáli et humána carne subsístens.\nÆquális Patri secúndum divinitátem: * minor Patre secúndum humanitátem.\nQui licet Deus sit et homo, * non duo tamen, sed unus est Christus.\nUnus autem non conversióne divinitátis in carnem, * sed assumptióne humanitátis in Deum.\nUnus omníno, non confusióne substántiæ, * sed unitáte persónæ.\nNam sicut ánima rationális et caro unus est homo: * ita Deus et homo unus est Christus.\nQui passus est pro salúte nostra: descéndit ad ínferos: * tértia die resurréxit a mórtuis.\nAscéndit ad cælos, sedet ad déxteram Dei Patris omnipoténtis: * inde ventúrus est judicáre vivos et mórtuos.\nAd cujus advéntum omnes hómines resúrgere habent cum corpóribus suis; * et redditúri sunt de factis própriis ratiónem.\nEt qui bona egérunt, ibunt in vitam ætérnam: * qui vero mala, in ignem ætérnum.\nHæc est fides cathólica, * quam nisi quisque fidéliter firmitérque credíderit, salvus esse non póterit.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen."
+      }
+    },
+    {
       "id": "week-dominica-prim-capitulum",
       "kind": "proprium",
       "title": {

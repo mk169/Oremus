@@ -356,6 +356,30 @@ async function psalmSection(prefix, idx, antLa, antDe, refToken) {
   return section
 }
 
+// Symbolum S. Athanasii (Quicumque) – bei der Prim an Sonntagen. In den DO-Daten
+// ist es „Psalm 234" (ohne Versnummern; eine echte deutsche Fassung fehlt bei DO,
+// daher zunächst nur Latein). Die abschließende Doxologie wird ergänzt.
+async function athanasianSection(prefix) {
+  const raw = await fetchText('Latin/Psalterium/Psalmorum/Psalm234.txt')
+  if (!raw) return null
+  const lines = raw
+    .split(/\r?\n/)
+    .map((l) => l.trim())
+    .filter((l) => l && !/^\(/.test(l)) // Kopfzeile „(Canticum Quicumque …)" entfernen
+  lines.push(GLORIA.la)
+  return {
+    id: `${prefix}-quicumque`,
+    kind: 'proprium',
+    title: bilingual('Symbolum S. Athanasii', 'Athanasianisches Glaubensbekenntnis'),
+    reference: bilingual('Quicúmque', 'Quicumque'),
+    rubric: bilingual(
+      'Ad Primam diebus dominicis (juxta antiquiorem usum; secundum rubricas 1960 in festo Ss. Trinitatis)',
+      'Bei der Prim an den Sonntagen (nach älterem Brauch; nach den Rubriken von 1960 am Dreifaltigkeitssonntag). Deutsche Übersetzung folgt.',
+    ),
+    text: bilingual(lines.join('\n'), ''),
+  }
+}
+
 function canticleSection(prefix, c) {
   return {
     id: `${prefix}-${c.titleLa.includes('Zach') ? 'benedictus' : c.titleLa.includes('Maria') ? 'magnificat' : 'nunc'}`,
@@ -639,6 +663,11 @@ async function buildHour(day, hourDef, data) {
       // Antiphon nur beim ersten Psalm zeigen (kleine Horen: eine Antiphon).
       const s = await psalmSection(prefix, ++ps, ps === 1 ? antLa : '', ps === 1 ? antDe : '', tok)
       if (s) sections.push(s)
+    }
+    // Athanasianisches Glaubensbekenntnis: bei der Prim an Sonntagen, nach den Psalmen.
+    if (hourDef.id === 'prim' && day.n === 0) {
+      const q = await athanasianSection(prefix)
+      if (q) sections.push(q)
     }
     const word = hourDef.section // Tertia | Sexta | Nona | Prima | Completorium
     if (hourDef.id === 'komplet') {
