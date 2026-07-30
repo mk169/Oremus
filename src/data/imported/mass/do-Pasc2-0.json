@@ -1,7 +1,7 @@
 {
   "id": "do-Pasc2-0",
   "form": "1962",
-  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung (eigene, gemeinfrei) ergänzt.",
   "day": {
     "title": {
       "la": "Dominica II Post Pascha",
@@ -19,7 +19,8 @@
         "de": "Eröffnungsvers"
       },
       "text": {
-        "la": "Misericórdia Dómini plena est terra, allelúja: verbo Dómini cœli firmáti sunt, allelúja, allelúja. Exsultáte, justi, in Dómino: rectos decet collaudátio. Misericórdia Dómini plena est terra, allelúja: verbo Dómini cœli firmáti sunt, allelúja, allelúja."
+        "la": "Misericórdia Dómini plena est terra, allelúja: verbo Dómini cœli firmáti sunt, allelúja, allelúja. Exsultáte, justi, in Dómino: rectos decet collaudátio. Misericórdia Dómini plena est terra, allelúja: verbo Dómini cœli firmáti sunt, allelúja, allelúja.",
+        "de": "Der Barmherzigkeit des Herrn ist die Erde voll, alleluja; durch das Wort des Herrn sind die Himmel befestigt, alleluja, alleluja. Frohlocket, ihr Gerechten, im Herrn; den Redlichen ziemt der Lobgesang. Der Barmherzigkeit des Herrn ist die Erde voll, alleluja; durch das Wort des Herrn sind die Himmel befestigt, alleluja, alleluja."
       },
       "reference": {
         "la": "Ps 32:5-6; Ps 32:1",
@@ -38,7 +39,8 @@
         "de": "Tagesgebet"
       },
       "text": {
-        "la": "Deus, qui in Fílii tui humilitáte jacéntem mundum erexísti: fidélibus tuis perpétuam concéde lætítiam; ut, quos perpétuæ mortis eripuísti cásibus, gáudiis fácias pérfrui sempitérnis."
+        "la": "Deus, qui in Fílii tui humilitáte jacéntem mundum erexísti: fidélibus tuis perpétuam concéde lætítiam; ut, quos perpétuæ mortis eripuísti cásibus, gáudiis fácias pérfrui sempitérnis.",
+        "de": "O Gott, du hast in der Niedrigkeit deines Sohnes die darniederliegende Welt aufgerichtet: Gewähre deinen Gläubigen immerwährende Freude, damit du denen, die du den Fällen des ewigen Todes entrissen hast, ewige Freuden zu genießen gebest."
       }
     },
     {
@@ -49,7 +51,8 @@
         "de": "Lesung"
       },
       "text": {
-        "la": "Léctio Epístolæ beáti Petri Apóstoli Caríssimi: Christus passus est pro nobis, vobis relínquens exémplum, ut sequámini vestígia ejus. Qui peccátum non fecit, nec invéntus est dolus in ore ejus: qui cum maledicerétur, non maledicébat: cum paterétur, non comminabátur: tradébat autem judicánti se injúste: qui peccáta nostra ipse pértulit in córpore suo super lignum: ut, peccátis mórtui, justítiæ vivámus: cujus livóre sanáti estis. Erátis enim sicut oves errántes, sed convérsi estis nunc ad pastórem et epíscopum animárum vestrárum."
+        "la": "Léctio Epístolæ beáti Petri Apóstoli Caríssimi: Christus passus est pro nobis, vobis relínquens exémplum, ut sequámini vestígia ejus. Qui peccátum non fecit, nec invéntus est dolus in ore ejus: qui cum maledicerétur, non maledicébat: cum paterétur, non comminabátur: tradébat autem judicánti se injúste: qui peccáta nostra ipse pértulit in córpore suo super lignum: ut, peccátis mórtui, justítiæ vivámus: cujus livóre sanáti estis. Erátis enim sicut oves errántes, sed convérsi estis nunc ad pastórem et epíscopum animárum vestrárum.",
+        "de": "Lesung aus dem Brief des heiligen Apostels Petrus. Geliebteste! Christus hat für uns gelitten und euch ein Beispiel hinterlassen, damit ihr seinen Fußspuren nachfolget. Er hat keine Sünde getan, und kein Trug ward in seinem Munde gefunden. Da er geschmäht wurde, schmähte er nicht wieder; da er litt, drohte er nicht, sondern überließ sich dem, der ungerecht richtete. Er hat unsere Sünden selbst an seinem Leibe auf das Holz getragen, damit wir, den Sünden abgestorben, der Gerechtigkeit leben; durch seine Wunden seid ihr geheilt. Denn ihr wart wie irrende Schafe, doch nun seid ihr zurückgekehrt zum Hirten und Bischof eurer Seelen."
       },
       "reference": {
         "la": "1 Petri 2:21-25",
@@ -64,7 +67,8 @@
         "de": "Graduale"
       },
       "text": {
-        "la": "Allelúja, allelúja. Cognovérunt discípuli Dóminum Jesum in fractióne panis. Allelúja Ego sum pastor bonus: et cognósco oves meas, et cognóscunt me meæ. Allelúja."
+        "la": "Allelúja, allelúja. Cognovérunt discípuli Dóminum Jesum in fractióne panis. Allelúja Ego sum pastor bonus: et cognósco oves meas, et cognóscunt me meæ. Allelúja.",
+        "de": "Alleluja, alleluja. Die Jünger erkannten den Herrn Jesus beim Brechen des Brotes. Alleluja. Ich bin der gute Hirt; und ich kenne meine Schafe, und die Meinen kennen mich. Alleluja."
       },
       "reference": {
         "la": "Luc 24:35; Joannes 10:14",
@@ -83,7 +87,8 @@
         "de": "Evangelium"
       },
       "text": {
-        "la": "Sequéntia ++ sancti Evangélii secúndum Joánnem In illo témpore: Dixit Jesus pharisǽis: Ego sum pastor bonus. Bonus pastor ánimam suam dat pro óvibus suis. Mercenárius autem et qui non est pastor, cujus non sunt oves própriæ, videt lupum veniéntem, et dimíttit oves et fugit: et lupus rapit et dispérgit oves: mercenárius autem fugit, quia mercenárius est et non pértinet ad eum de óvibus. Ego sum pastor bonus: et cognósco meas et cognóscunt me meæ. Sicut novit me Pater, et ego agnósco Patrem, et ánimam meam pono pro óvibus meis. Et álias oves hábeo, quæ non sunt ex hoc ovíli: et illas opórtet me addúcere, et vocem meam áudient, et fiet unum ovíle et unus pastor.~"
+        "la": "Sequéntia ++ sancti Evangélii secúndum Joánnem In illo témpore: Dixit Jesus pharisǽis: Ego sum pastor bonus. Bonus pastor ánimam suam dat pro óvibus suis. Mercenárius autem et qui non est pastor, cujus non sunt oves própriæ, videt lupum veniéntem, et dimíttit oves et fugit: et lupus rapit et dispérgit oves: mercenárius autem fugit, quia mercenárius est et non pértinet ad eum de óvibus. Ego sum pastor bonus: et cognósco meas et cognóscunt me meæ. Sicut novit me Pater, et ego agnósco Patrem, et ánimam meam pono pro óvibus meis. Et álias oves hábeo, quæ non sunt ex hoc ovíli: et illas opórtet me addúcere, et vocem meam áudient, et fiet unum ovíle et unus pastor.~",
+        "de": "Fortsetzung des heiligen Evangeliums nach Johannes. In jener Zeit sprach Jesus zu den Pharisäern: Ich bin der gute Hirt. Der gute Hirt gibt sein Leben hin für seine Schafe. Der Mietling aber, der nicht Hirt ist und dem die Schafe nicht eigen sind, sieht den Wolf kommen, verlässt die Schafe und flieht; und der Wolf raubt und zerstreut die Schafe. Der Mietling aber flieht, weil er ein Mietling ist und ihm an den Schafen nichts liegt. Ich bin der gute Hirt; und ich kenne die Meinen, und die Meinen kennen mich, wie mich der Vater kennt und ich den Vater kenne; und ich gebe mein Leben hin für meine Schafe. Und ich habe noch andere Schafe, die nicht aus diesem Schafstall sind; auch diese muss ich herbeiführen, und sie werden meine Stimme hören, und es wird ein Schafstall werden und ein Hirt."
       },
       "reference": {
         "la": "Joann 10:11-16",
@@ -98,7 +103,8 @@
         "de": "Gabenvers"
       },
       "text": {
-        "la": "Deus, Deus meus, ad te de luce vígilo: et in nómine tuo levábo manus meas, allelúja."
+        "la": "Deus, Deus meus, ad te de luce vígilo: et in nómine tuo levábo manus meas, allelúja.",
+        "de": "O Gott, mein Gott, zu dir wache ich vom Morgen an; und in deinem Namen erhebe ich meine Hände, alleluja."
       },
       "reference": {
         "la": "Ps 62:2; 62:5",
@@ -117,7 +123,8 @@
         "de": "Stillgebet (Secreta)"
       },
       "text": {
-        "la": "Benedictiónem nobis, Dómine, cónferat salutárem sacra semper oblátio: ut, quod agit mystério, virtúte perfíciat."
+        "la": "Benedictiónem nobis, Dómine, cónferat salutárem sacra semper oblátio: ut, quod agit mystério, virtúte perfíciat.",
+        "de": "Die heilige Opfergabe verleihe uns allezeit heilbringenden Segen, o Herr, damit sie in Kraft vollende, was sie im Geheimnis vollzieht."
       }
     },
     {
@@ -128,7 +135,8 @@
         "de": "Kommunionvers"
       },
       "text": {
-        "la": "Ego sum pastor bonus, allelúja: et cognósco oves meas, et cognóscunt me meæ, allelúja, allelúja."
+        "la": "Ego sum pastor bonus, allelúja: et cognósco oves meas, et cognóscunt me meæ, allelúja, allelúja.",
+        "de": "Ich bin der gute Hirt, alleluja; und ich kenne meine Schafe, und die Meinen kennen mich, alleluja, alleluja."
       },
       "reference": {
         "la": "Joannes 10:14",
@@ -147,7 +155,8 @@
         "de": "Schlussgebet"
       },
       "text": {
-        "la": "Præsta nobis, quǽsumus, omnípotens Deus: ut, vivificatiónis tuæ grátiam consequéntes, in tuo semper múnere gloriémur."
+        "la": "Præsta nobis, quǽsumus, omnípotens Deus: ut, vivificatiónis tuæ grátiam consequéntes, in tuo semper múnere gloriémur.",
+        "de": "Gewähre uns, wir bitten dich, allmächtiger Gott, dass wir, die wir die Gnade deiner Lebendigmachung erlangen, uns allezeit deiner Gabe rühmen."
       }
     }
   ]

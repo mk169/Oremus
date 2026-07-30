@@ -1,7 +1,7 @@
 {
   "id": "do-Pasc1-0",
   "form": "1962",
-  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung (eigene, gemeinfrei) ergänzt.",
   "day": {
     "title": {
       "la": "Dominica in Albis in Octava Paschæ",
@@ -19,7 +19,8 @@
         "de": "Eröffnungsvers"
       },
       "text": {
-        "la": "Quasi modo géniti infántes, allelúja: rationábiles, sine dolo lac concupíscite, allelúja, allelúja, allelúja. Exsultáte Deo, adjutóri nostro: jubiláte Deo Jacob. Quasi modo géniti infántes, allelúja: rationábiles, sine dolo lac concupíscite, allelúja, allelúja, allelúja."
+        "la": "Quasi modo géniti infántes, allelúja: rationábiles, sine dolo lac concupíscite, allelúja, allelúja, allelúja. Exsultáte Deo, adjutóri nostro: jubiláte Deo Jacob. Quasi modo géniti infántes, allelúja: rationábiles, sine dolo lac concupíscite, allelúja, allelúja, allelúja.",
+        "de": "Wie eben geborene Kinder, alleluja, verlanget nach der vernünftigen, lauteren Milch, alleluja, alleluja, alleluja. Jubelt Gott, unserem Helfer; jauchzet dem Gott Jakobs. Wie eben geborene Kinder, alleluja, verlanget nach der vernünftigen, lauteren Milch, alleluja, alleluja, alleluja."
       },
       "reference": {
         "la": "1 Pet 2:2; Ps 80:2.",
@@ -38,7 +39,8 @@
         "de": "Tagesgebet"
       },
       "text": {
-        "la": "Præsta, quǽsumus, omnípotens Deus: ut, qui paschália festa perégimus, hæc, te largiénte, móribus et vita teneámus."
+        "la": "Præsta, quǽsumus, omnípotens Deus: ut, qui paschália festa perégimus, hæc, te largiénte, móribus et vita teneámus.",
+        "de": "Gewähre, wir bitten dich, allmächtiger Gott, dass wir, die wir die österlichen Feste begangen haben, sie durch deine Freigebigkeit in Sitten und Leben festhalten."
       }
     },
     {
@@ -49,7 +51,8 @@
         "de": "Lesung"
       },
       "text": {
-        "la": "Léctio Epístolæ beáti Joánnis Apóstoli Caríssimi: Omne, quod natum est ex Deo, vincit mundum: et hæc est victória, quæ vincit mundum, fides nostra. Quis est, qui vincit mundum, nisi qui credit, quóniam Jesus est Fílius Dei? Hic est, qui venit per aquam et sánguinem, Jesus Christus: non in aqua solum, sed in aqua et sánguine. Et Spíritus est, qui testificátur, quóniam Christus est véritas. Quóniam tres sunt, qui testimónium dant in cœlo: Pater, Verbum, et Spíritus Sanctus: et hi tres unum sunt. Et tres sunt, qui testimónium dant in terra: Spíritus, et aqua, et sanguis: et hi tres unum sunt. Si testimónium hóminum accípimus, testimónium Dei majus est: quóniam hoc est testimónium Dei, quod majus est: quóniam testificátus est de Fílio suo. Qui credit in Fílium Dei, habet testimónium Dei in se."
+        "la": "Léctio Epístolæ beáti Joánnis Apóstoli Caríssimi: Omne, quod natum est ex Deo, vincit mundum: et hæc est victória, quæ vincit mundum, fides nostra. Quis est, qui vincit mundum, nisi qui credit, quóniam Jesus est Fílius Dei? Hic est, qui venit per aquam et sánguinem, Jesus Christus: non in aqua solum, sed in aqua et sánguine. Et Spíritus est, qui testificátur, quóniam Christus est véritas. Quóniam tres sunt, qui testimónium dant in cœlo: Pater, Verbum, et Spíritus Sanctus: et hi tres unum sunt. Et tres sunt, qui testimónium dant in terra: Spíritus, et aqua, et sanguis: et hi tres unum sunt. Si testimónium hóminum accípimus, testimónium Dei majus est: quóniam hoc est testimónium Dei, quod majus est: quóniam testificátus est de Fílio suo. Qui credit in Fílium Dei, habet testimónium Dei in se.",
+        "de": "Lesung aus dem Brief des heiligen Apostels Johannes. Geliebteste! Alles, was aus Gott geboren ist, überwindet die Welt; und das ist der Sieg, der die Welt überwindet: unser Glaube. Wer ist es, der die Welt überwindet, wenn nicht der, welcher glaubt, dass Jesus der Sohn Gottes ist? Dieser ist es, der durch Wasser und Blut gekommen ist, Jesus Christus; nicht im Wasser allein, sondern im Wasser und im Blute. Und der Geist ist es, der Zeugnis gibt, dass Christus die Wahrheit ist. Denn drei sind es, die Zeugnis geben im Himmel: der Vater, das Wort und der Heilige Geist; und diese drei sind eins. Und drei sind es, die Zeugnis geben auf Erden: der Geist, das Wasser und das Blut; und diese drei sind eins. Wenn wir das Zeugnis der Menschen annehmen, so ist das Zeugnis Gottes größer; denn das ist das Zeugnis Gottes, das größer ist, dass er von seinem Sohne Zeugnis gegeben hat. Wer an den Sohn Gottes glaubt, hat das Zeugnis Gottes in sich."
       },
       "reference": {
         "la": "1 Joannes 5:4-10",
@@ -64,7 +67,8 @@
         "de": "Graduale"
       },
       "text": {
-        "la": "Allelúja, allelúja. In die resurrectiónis meæ, dicit Dóminus, præcédam vos in Galilǽam. Allelúja. Post dies octo, jánuis clausis, stetit Jesus in médio discipulórum suórum, et dixit: Pax vobis. Allelúja."
+        "la": "Allelúja, allelúja. In die resurrectiónis meæ, dicit Dóminus, præcédam vos in Galilǽam. Allelúja. Post dies octo, jánuis clausis, stetit Jesus in médio discipulórum suórum, et dixit: Pax vobis. Allelúja.",
+        "de": "Alleluja, alleluja. Am Tage meiner Auferstehung, spricht der Herr, werde ich euch nach Galiläa vorausgehen. Alleluja. Nach acht Tagen trat Jesus bei verschlossenen Türen mitten unter seine Jünger und sprach: Friede sei mit euch! Alleluja."
       },
       "reference": {
         "la": "Matt 28:7; Joannes 20:26",
@@ -83,7 +87,8 @@
         "de": "Evangelium"
       },
       "text": {
-        "la": "Sequéntia ++ sancti Evangélii secúndum Joánnem In illo témpore: Cum sero esset die illo, una sabbatórum, et fores essent clausæ, ubi erant discípuli congregáti propter metum Judæórum: venit Jesus, et stetit in médio, et dixit eis: Pax vobis. Et cum hoc dixísset, osténdit eis manus et latus. Gavísi sunt ergo discípuli, viso Dómino. Dixit ergo eis íterum: Pax vobis. Sicut misit me Pater, et ego mitto vos. Hæc cum dixísset, insufflávit, et dixit eis: Accípite Spíritum Sanctum: quorum remiséritis peccáta, remittúntur eis; et quorum retinuéritis, reténta sunt. Thomas autem unus ex duódecim, qui dícitur Dídymus, non erat cum eis, quando venit Jesus. Dixérunt ergo ei álii discípuli: Vídimus Dóminum. Ille autem dixit eis: Nisi vídero in mánibus ejus fixúram clavórum, et mittam dígitum meum in locum clavórum, et mittam manum meam in latus ejus, non credam. Et post dies octo, íterum erant discípuli ejus intus, et Thomas cum eis. Venit Jesus, jánuis clausis, et stetit in médio, et dixit: Pax vobis. Deínde dicit Thomæ: Infer dígitum tuum huc et vide manus meas, et affer manum tuam et mitte in latus meum: et noli esse incrédulus, sed fidélis. Respóndit Thomas et dixit ei: Dóminus meus et Deus meus. Dixit ei Jesus: Quia vidísti me, Thoma, credidísti: beáti, qui non vidérunt, et credidérunt. Multa quidem et ália signa fecit Jesus in conspéctu discipulórum suórum, quæ non sunt scripta in libro hoc. Hæc autem scripta sunt, ut credátis, quia Jesus est Christus, Fílius Dei: et ut credéntes vitam habeátis in nómine ejus."
+        "la": "Sequéntia ++ sancti Evangélii secúndum Joánnem In illo témpore: Cum sero esset die illo, una sabbatórum, et fores essent clausæ, ubi erant discípuli congregáti propter metum Judæórum: venit Jesus, et stetit in médio, et dixit eis: Pax vobis. Et cum hoc dixísset, osténdit eis manus et latus. Gavísi sunt ergo discípuli, viso Dómino. Dixit ergo eis íterum: Pax vobis. Sicut misit me Pater, et ego mitto vos. Hæc cum dixísset, insufflávit, et dixit eis: Accípite Spíritum Sanctum: quorum remiséritis peccáta, remittúntur eis; et quorum retinuéritis, reténta sunt. Thomas autem unus ex duódecim, qui dícitur Dídymus, non erat cum eis, quando venit Jesus. Dixérunt ergo ei álii discípuli: Vídimus Dóminum. Ille autem dixit eis: Nisi vídero in mánibus ejus fixúram clavórum, et mittam dígitum meum in locum clavórum, et mittam manum meam in latus ejus, non credam. Et post dies octo, íterum erant discípuli ejus intus, et Thomas cum eis. Venit Jesus, jánuis clausis, et stetit in médio, et dixit: Pax vobis. Deínde dicit Thomæ: Infer dígitum tuum huc et vide manus meas, et affer manum tuam et mitte in latus meum: et noli esse incrédulus, sed fidélis. Respóndit Thomas et dixit ei: Dóminus meus et Deus meus. Dixit ei Jesus: Quia vidísti me, Thoma, credidísti: beáti, qui non vidérunt, et credidérunt. Multa quidem et ália signa fecit Jesus in conspéctu discipulórum suórum, quæ non sunt scripta in libro hoc. Hæc autem scripta sunt, ut credátis, quia Jesus est Christus, Fílius Dei: et ut credéntes vitam habeátis in nómine ejus.",
+        "de": "Fortsetzung des heiligen Evangeliums nach Johannes. In jener Zeit, am Abend jenes Tages, des ersten der Woche, als aus Furcht vor den Juden die Türen verschlossen waren, wo die Jünger versammelt waren, kam Jesus und trat mitten unter sie und sprach zu ihnen: Friede sei mit euch! Und als er dies gesagt hatte, zeigte er ihnen die Hände und die Seite. Da freuten sich die Jünger, als sie den Herrn sahen. Er sprach nun wiederum zu ihnen: Friede sei mit euch! Wie mich der Vater gesandt hat, so sende ich euch. Und als er dies gesagt hatte, hauchte er sie an und sprach zu ihnen: Empfanget den Heiligen Geist! Welchen ihr die Sünden nachlasset, denen sind sie nachgelassen; und welchen ihr sie behaltet, denen sind sie behalten. Thomas aber, einer von den Zwölfen, genannt Didymus, war nicht bei ihnen, als Jesus kam. Da sagten ihm die anderen Jünger: Wir haben den Herrn gesehen. Er aber sprach zu ihnen: Wenn ich nicht in seinen Händen das Mal der Nägel sehe und meinen Finger in das Mal der Nägel und meine Hand in seine Seite lege, so glaube ich nicht. Und nach acht Tagen waren seine Jünger wiederum drinnen, und Thomas war bei ihnen. Da kam Jesus bei verschlossenen Türen und trat mitten unter sie und sprach: Friede sei mit euch! Darauf sprach er zu Thomas: Lege deinen Finger hierher und sieh meine Hände, und reiche deine Hand und lege sie in meine Seite; und sei nicht ungläubig, sondern gläubig. Thomas antwortete und sprach zu ihm: Mein Herr und mein Gott! Jesus sprach zu ihm: Weil du mich gesehen hast, Thomas, hast du geglaubt; selig, die nicht gesehen und doch geglaubt haben. Noch viele andere Zeichen tat Jesus vor den Augen seiner Jünger, die nicht in diesem Buche geschrieben sind. Diese aber sind geschrieben, damit ihr glaubet, dass Jesus der Christus ist, der Sohn Gottes, und damit ihr durch den Glauben das Leben habet in seinem Namen."
       },
       "reference": {
         "la": "Joannes 20:19-31",
@@ -98,7 +103,8 @@
         "de": "Gabenvers"
       },
       "text": {
-        "la": "Angelus Dómini descéndit de cœlo, et dixit muliéribus: Quem quǽritis, surréxit, sicut dixit, allelúja."
+        "la": "Angelus Dómini descéndit de cœlo, et dixit muliéribus: Quem quǽritis, surréxit, sicut dixit, allelúja.",
+        "de": "Der Engel des Herrn stieg vom Himmel herab und sprach zu den Frauen: Den ihr sucht, ist auferstanden, wie er gesagt hat, alleluja."
       },
       "reference": {
         "la": "Matt 28:2; 28:5-6",
@@ -117,7 +123,8 @@
         "de": "Stillgebet (Secreta)"
       },
       "text": {
-        "la": "Súscipe múnera, Dómine, quǽsumus, exsultántis Ecclésiæ: et, cui causam tanti gáudii præstitísti, perpétuæ fructum concéde lætítiæ."
+        "la": "Súscipe múnera, Dómine, quǽsumus, exsultántis Ecclésiæ: et, cui causam tanti gáudii præstitísti, perpétuæ fructum concéde lætítiæ.",
+        "de": "Nimm an, o Herr, wir bitten dich, die Gaben der frohlockenden Kirche; und der du ihr den Anlass so großer Freude gegeben hast, gewähre ihr auch die Frucht immerwährender Wonne."
       }
     },
     {
@@ -128,7 +135,8 @@
         "de": "Kommunionvers"
       },
       "text": {
-        "la": "Mitte manum tuam, et cognósce loca clavórum, allelúja: et noli esse incrédulus, sed fidélis, allelúja, allelúja."
+        "la": "Mitte manum tuam, et cognósce loca clavórum, allelúja: et noli esse incrédulus, sed fidélis, allelúja, allelúja.",
+        "de": "Reiche deine Hand her und erkenne die Male der Nägel, alleluja; und sei nicht ungläubig, sondern gläubig, alleluja, alleluja."
       },
       "reference": {
         "la": "Joannes 20:27",
@@ -147,7 +155,8 @@
         "de": "Schlussgebet"
       },
       "text": {
-        "la": "Quǽsumus, Dómine, Deus noster: ut sacrosáncta mystéria, quæ pro reparatiónis nostræ munímine contulísti; et præsens nobis remédium esse fácias et futúrum."
+        "la": "Quǽsumus, Dómine, Deus noster: ut sacrosáncta mystéria, quæ pro reparatiónis nostræ munímine contulísti; et præsens nobis remédium esse fácias et futúrum.",
+        "de": "Wir bitten dich, o Herr, unser Gott, dass du die hochheiligen Geheimnisse, die du zum Schutze unserer Erneuerung eingesetzt hast, uns zur gegenwärtigen und zukünftigen Arznei machest."
       }
     }
   ]

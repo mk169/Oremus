@@ -1,7 +1,7 @@
 {
   "id": "do-Pasc3-0",
   "form": "1962",
-  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung (eigene, gemeinfrei) ergänzt.",
   "day": {
     "title": {
       "la": "Dominica III Post Pascha",
@@ -19,7 +19,8 @@
         "de": "Eröffnungsvers"
       },
       "text": {
-        "la": "Jubiláte Deo, omnis terra, allelúja: psalmum dícite nómini ejus, allelúja: date glóriam laudi ejus, allelúja, allelúja, allelúja. Dícite Deo, quam terribília sunt ópera tua, Dómine! in multitúdine virtútis tuæ mentiéntur tibi inimíci tui. Jubiláte Deo, omnis terra, allelúja: psalmum dícite nómini ejus, allelúja: date glóriam laudi ejus, allelúja, allelúja, allelúja."
+        "la": "Jubiláte Deo, omnis terra, allelúja: psalmum dícite nómini ejus, allelúja: date glóriam laudi ejus, allelúja, allelúja, allelúja. Dícite Deo, quam terribília sunt ópera tua, Dómine! in multitúdine virtútis tuæ mentiéntur tibi inimíci tui. Jubiláte Deo, omnis terra, allelúja: psalmum dícite nómini ejus, allelúja: date glóriam laudi ejus, allelúja, allelúja, allelúja.",
+        "de": "Jauchzet Gott, alle Lande, alleluja; singet ein Lied seinem Namen, alleluja; gebet Ehre seinem Lobe, alleluja, alleluja, alleluja. Sprechet zu Gott: Wie furchtbar sind deine Werke, o Herr! In der Fülle deiner Macht werden dir deine Feinde huldigen. Jauchzet Gott, alle Lande, alleluja; singet ein Lied seinem Namen, alleluja; gebet Ehre seinem Lobe, alleluja, alleluja, alleluja."
       },
       "reference": {
         "la": "Ps 65:1-2.; Ps 65:3",
@@ -38,7 +39,8 @@
         "de": "Tagesgebet"
       },
       "text": {
-        "la": "Deus, qui errántibus, ut in viam possint redíre justítiæ, veritátis tuæ lumen osténdis: da cunctis, qui christiána professióne censéntur, et illa respúere, quæ huic inimíca sunt nómini; et ea, quæ sunt apta, sectári."
+        "la": "Deus, qui errántibus, ut in viam possint redíre justítiæ, veritátis tuæ lumen osténdis: da cunctis, qui christiána professióne censéntur, et illa respúere, quæ huic inimíca sunt nómini; et ea, quæ sunt apta, sectári.",
+        "de": "O Gott, du zeigst den Irrenden das Licht deiner Wahrheit, damit sie auf den Weg der Gerechtigkeit zurückkehren können: Gib allen, die zum christlichen Bekenntnis gezählt werden, das zu verwerfen, was diesem Namen feind ist, und dem nachzustreben, was ihm gemäß ist."
       }
     },
     {
@@ -49,7 +51,8 @@
         "de": "Lesung"
       },
       "text": {
-        "la": "Léctio Epístolæ beáti Petri Apóstoli Caríssimi: Obsecro vos tamquam ádvenas et peregrínos abstinére vos a carnálibus desidériis, quæ mílitant advérsus ánimam, conversatiónem vestram inter gentes habéntes bonam: ut in eo, quod detréctant de vobis tamquam de malefactóribus, ex bonis opéribus vos considerántes, gloríficent Deum in die visitatiónis. Subjécti ígitur estóte omni humánæ creatúræ propter Deum: sive regi, quasi præcellénti: sive dúcibus, tamquam ab eo missis ad vindíctam malefactórum, laudem vero bonórum: quia sic est volúntas Dei, ut benefaciéntes obmutéscere faciátis imprudéntium hóminum ignorántiam: quasi líberi, et non quasi velámen habéntes malítiæ libertátem, sed sicut servi Dei. Omnes honoráte: fraternitátem dilígite: Deum timéte: regem honorificáte. Servi, súbditi estóte in omni timóre dóminis, non tantum bonis et modéstis, sed étiam dýscolis. Hæc est enim grátia: in Christo Jesu, Dómino nostro."
+        "la": "Léctio Epístolæ beáti Petri Apóstoli Caríssimi: Obsecro vos tamquam ádvenas et peregrínos abstinére vos a carnálibus desidériis, quæ mílitant advérsus ánimam, conversatiónem vestram inter gentes habéntes bonam: ut in eo, quod detréctant de vobis tamquam de malefactóribus, ex bonis opéribus vos considerántes, gloríficent Deum in die visitatiónis. Subjécti ígitur estóte omni humánæ creatúræ propter Deum: sive regi, quasi præcellénti: sive dúcibus, tamquam ab eo missis ad vindíctam malefactórum, laudem vero bonórum: quia sic est volúntas Dei, ut benefaciéntes obmutéscere faciátis imprudéntium hóminum ignorántiam: quasi líberi, et non quasi velámen habéntes malítiæ libertátem, sed sicut servi Dei. Omnes honoráte: fraternitátem dilígite: Deum timéte: regem honorificáte. Servi, súbditi estóte in omni timóre dóminis, non tantum bonis et modéstis, sed étiam dýscolis. Hæc est enim grátia: in Christo Jesu, Dómino nostro.",
+        "de": "Lesung aus dem Brief des heiligen Apostels Petrus. Geliebteste! Ich beschwöre euch als Fremdlinge und Pilger, euch der fleischlichen Begierden zu enthalten, die wider die Seele streiten. Führet einen guten Wandel unter den Heiden, damit sie in dem, worin sie euch als Übeltäter verleumden, durch die Betrachtung eurer guten Werke Gott preisen am Tage der Heimsuchung. Seid also jeder menschlichen Ordnung untertan um Gottes willen: sei es dem König als dem Oberherrn, sei es den Statthaltern als denen, die von ihm gesandt sind zur Bestrafung der Übeltäter und zum Lobe der Guten; denn so ist es der Wille Gottes, dass ihr durch Gutestun die Unwissenheit unverständiger Menschen zum Schweigen bringet, als Freie, und nicht als solche, die die Freiheit zum Deckmantel der Bosheit gebrauchen, sondern als Knechte Gottes. Erweiset allen Ehre; liebet die Brüder; fürchtet Gott; ehret den König. Ihr Knechte, seid euren Herren in aller Furcht untertan, nicht nur den guten und milden, sondern auch den wunderlichen. Denn das ist Gnade: in Christus Jesus, unserem Herrn."
       },
       "reference": {
         "la": "1 Pet 2:11-19",
@@ -64,7 +67,8 @@
         "de": "Graduale"
       },
       "text": {
-        "la": "Allelúja, allelúja. Redemptiónem misit Dóminus pópulo suo. Allelúja. Oportebat pati Christum, et resúrgere a mórtuis: et ita intráre in glóriam suam. Allelúja."
+        "la": "Allelúja, allelúja. Redemptiónem misit Dóminus pópulo suo. Allelúja. Oportebat pati Christum, et resúrgere a mórtuis: et ita intráre in glóriam suam. Allelúja.",
+        "de": "Alleluja, alleluja. Erlösung hat der Herr seinem Volke gesandt. Alleluja. Christus musste leiden und von den Toten auferstehen und so in seine Herrlichkeit eingehen. Alleluja."
       },
       "reference": {
         "la": "Ps 110:9; Luc 24:46",
@@ -83,7 +87,8 @@
         "de": "Evangelium"
       },
       "text": {
-        "la": "Sequéntia ++ sancti Evangélii secúndum Joánnem. In illo témpore: Dixit Jesus discípulis suis: Módicum, et jam non vidébitis me: et íterum módicum, et vidébitis me: quia vado ad Patrem. Dixérunt ergo ex discípulis ejus ad ínvicem: Quid est hoc, quod dicit nobis: Módicum, et non vidébitis me: et íterum módicum, et vidébitis me, et quia vado ad Patrem? Dicébant ergo: Quid est hoc, quod dicit: Módicum? nescímus, quid lóquitur. Cognóvit autem Jesus, quia volébant eum interrogáre, et dixit eis: De hoc quǽritis inter vos, quia dixi: Módicum, et non vidébitis me: et íterum módicum, et vidébitis me. Amen, amen, dico vobis: quia plorábitis et flébitis vos, mundus autem gaudébit: vos autem contristabímini, sed tristítia vestra vertétur in gáudium. Múlier cum parit, tristítiam habet, quia venit hora ejus: cum autem pepérerit púerum, jam non méminit pressúræ propter gáudium, quia natus est homo in mundum. Et vos ígitur nunc quidem tristítiam habétis, íterum autem vidébo vos, et gaudébit cor vestrum: et gáudium vestrum nemo tollet a vobis."
+        "la": "Sequéntia ++ sancti Evangélii secúndum Joánnem. In illo témpore: Dixit Jesus discípulis suis: Módicum, et jam non vidébitis me: et íterum módicum, et vidébitis me: quia vado ad Patrem. Dixérunt ergo ex discípulis ejus ad ínvicem: Quid est hoc, quod dicit nobis: Módicum, et non vidébitis me: et íterum módicum, et vidébitis me, et quia vado ad Patrem? Dicébant ergo: Quid est hoc, quod dicit: Módicum? nescímus, quid lóquitur. Cognóvit autem Jesus, quia volébant eum interrogáre, et dixit eis: De hoc quǽritis inter vos, quia dixi: Módicum, et non vidébitis me: et íterum módicum, et vidébitis me. Amen, amen, dico vobis: quia plorábitis et flébitis vos, mundus autem gaudébit: vos autem contristabímini, sed tristítia vestra vertétur in gáudium. Múlier cum parit, tristítiam habet, quia venit hora ejus: cum autem pepérerit púerum, jam non méminit pressúræ propter gáudium, quia natus est homo in mundum. Et vos ígitur nunc quidem tristítiam habétis, íterum autem vidébo vos, et gaudébit cor vestrum: et gáudium vestrum nemo tollet a vobis.",
+        "de": "Fortsetzung des heiligen Evangeliums nach Johannes. In jener Zeit sprach Jesus zu seinen Jüngern: Noch eine kleine Weile, und ihr werdet mich nicht mehr sehen; und wiederum eine kleine Weile, und ihr werdet mich sehen; denn ich gehe zum Vater. Da sprachen einige von seinen Jüngern zueinander: Was ist das, das er zu uns sagt: Noch eine kleine Weile, und ihr werdet mich nicht sehen; und wiederum eine kleine Weile, und ihr werdet mich sehen; und: Ich gehe zum Vater? Sie sagten also: Was ist das, das er sagt: Eine kleine Weile? Wir wissen nicht, was er redet. Jesus aber erkannte, dass sie ihn fragen wollten, und sprach zu ihnen: Darüber forschet ihr untereinander, dass ich gesagt habe: Noch eine kleine Weile, und ihr werdet mich nicht sehen; und wiederum eine kleine Weile, und ihr werdet mich sehen. Wahrlich, wahrlich, ich sage euch: Ihr werdet weinen und klagen, die Welt aber wird sich freuen; ihr werdet betrübt sein, doch eure Betrübnis wird sich in Freude verwandeln. Die Frau, wenn sie gebiert, hat Betrübnis, weil ihre Stunde gekommen ist; wenn sie aber das Kind geboren hat, denkt sie nicht mehr an die Bedrängnis vor Freude, dass ein Mensch zur Welt geboren ist. Und auch ihr habt nun zwar Betrübnis; ich werde euch aber wiedersehen, und euer Herz wird sich freuen; und eure Freude wird euch niemand nehmen."
       },
       "reference": {
         "la": "Joannes 16:16-22",
@@ -98,7 +103,8 @@
         "de": "Gabenvers"
       },
       "text": {
-        "la": "Lauda, ánima mea, Dóminum: laudábo Dóminum in vita mea: psallam Deo meo, quámdiu ero, allelúja."
+        "la": "Lauda, ánima mea, Dóminum: laudábo Dóminum in vita mea: psallam Deo meo, quámdiu ero, allelúja.",
+        "de": "Lobe den Herrn, meine Seele; loben will ich den Herrn mein Leben lang; ich will meinem Gott lobsingen, solange ich bin, alleluja."
       },
       "reference": {
         "la": "Ps 145:2",
@@ -117,7 +123,8 @@
         "de": "Stillgebet (Secreta)"
       },
       "text": {
-        "la": "His nobis, Dómine, mystériis conferátur, quo, terréna desidéria mitigántes, discámus amáre cœléstia."
+        "la": "His nobis, Dómine, mystériis conferátur, quo, terréna desidéria mitigántes, discámus amáre cœléstia.",
+        "de": "Durch diese Geheimnisse, o Herr, werde uns verliehen, dass wir, die irdischen Begierden zügelnd, das Himmlische lieben lernen."
       }
     },
     {
@@ -128,7 +135,8 @@
         "de": "Kommunionvers"
       },
       "text": {
-        "la": "Módicum, et non vidébitis me, allelúja: íterum módicum, et vidébitis me, quia vado ad Patrem, allelúja, allelúja."
+        "la": "Módicum, et non vidébitis me, allelúja: íterum módicum, et vidébitis me, quia vado ad Patrem, allelúja, allelúja.",
+        "de": "Noch eine kleine Weile, und ihr werdet mich nicht sehen, alleluja; und wiederum eine kleine Weile, und ihr werdet mich sehen, denn ich gehe zum Vater, alleluja, alleluja."
       },
       "reference": {
         "la": "Joannes 16:16",
@@ -147,7 +155,8 @@
         "de": "Schlussgebet"
       },
       "text": {
-        "la": "Sacraménta quæ súmpsimus, quǽsumus, Dómine: et spirituálibus nos instáurent aliméntis, et corporálibus tueántur auxíliis."
+        "la": "Sacraménta quæ súmpsimus, quǽsumus, Dómine: et spirituálibus nos instáurent aliméntis, et corporálibus tueántur auxíliis.",
+        "de": "Die Sakramente, die wir empfangen haben, o Herr, so bitten wir, mögen uns mit geistlicher Nahrung erneuern und mit leiblichem Beistand beschützen."
       }
     }
   ]

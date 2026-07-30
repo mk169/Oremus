@@ -1,7 +1,7 @@
 {
   "id": "do-Pasc4-0",
   "form": "1962",
-  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung (eigene, gemeinfrei) ergänzt.",
   "day": {
     "title": {
       "la": "Dominica IV Post Pascha",
@@ -19,7 +19,8 @@
         "de": "Eröffnungsvers"
       },
       "text": {
-        "la": "Cantáte Dómino cánticum novum, allelúja: quia mirabília fecit Dóminus, allelúja: ante conspéctum géntium revelávit justítiam suam, allelúja, allelúja, allelúja. Salvávit sibi déxtera ejus: et bráchium sanctum ejus. Cantáte Dómino cánticum novum, allelúja: quia mirabília fecit Dóminus, allelúja: ante conspéctum géntium revelávit justítiam suam, allelúja, allelúja, allelúja."
+        "la": "Cantáte Dómino cánticum novum, allelúja: quia mirabília fecit Dóminus, allelúja: ante conspéctum géntium revelávit justítiam suam, allelúja, allelúja, allelúja. Salvávit sibi déxtera ejus: et bráchium sanctum ejus. Cantáte Dómino cánticum novum, allelúja: quia mirabília fecit Dóminus, allelúja: ante conspéctum géntium revelávit justítiam suam, allelúja, allelúja, allelúja.",
+        "de": "Singet dem Herrn ein neues Lied, alleluja; denn Wunderbares hat der Herr getan, alleluja; vor den Augen der Völker hat er seine Gerechtigkeit geoffenbart, alleluja, alleluja, alleluja. Geholfen hat ihm seine Rechte und sein heiliger Arm. Singet dem Herrn ein neues Lied, alleluja; denn Wunderbares hat der Herr getan, alleluja; vor den Augen der Völker hat er seine Gerechtigkeit geoffenbart, alleluja, alleluja, alleluja."
       },
       "reference": {
         "la": "Ps 97:1; 97:2; Ps 97:1",
@@ -38,7 +39,8 @@
         "de": "Tagesgebet"
       },
       "text": {
-        "la": "Deus, qui fidélium mentes uníus éfficis voluntátis: da pópulis tuis id amáre quod prǽcipis, id desideráre quod promíttis; ut inter mundánas varietátes ibi nostra fixa sint corda, ubi vera sunt gáudia."
+        "la": "Deus, qui fidélium mentes uníus éfficis voluntátis: da pópulis tuis id amáre quod prǽcipis, id desideráre quod promíttis; ut inter mundánas varietátes ibi nostra fixa sint corda, ubi vera sunt gáudia.",
+        "de": "O Gott, du machst die Herzen der Gläubigen eines Willens: Gib deinen Völkern, das zu lieben, was du gebietest, und das zu ersehnen, was du verheißest, damit inmitten der Wechselfälle der Welt unsere Herzen dort befestigt seien, wo die wahren Freuden sind."
       }
     },
     {
@@ -49,7 +51,8 @@
         "de": "Lesung"
       },
       "text": {
-        "la": "Léctio Epístolæ beáti Jacóbi Apóstoli Caríssimi: Omne datum óptimum, et omne donum perféctum desúrsum est, descéndens a Patre lúminum, apud quem non est transmutátio nec vicissitúdinis obumbrátio. Voluntárie enim génuit nos verbo veritátis, ut simus inítium áliquod creatúræ ejus. Scitis, fratres mei dilectíssimi. Sit autem omnis homo velox ad audiéndum: tardus autem ad loquéndum et tardus ad iram. Ira enim viri justítiam Dei non operátur. Propter quod abjiciéntes omnem immundítiam et abundántiam malítiæ, in mansuetúdine suscípite ínsitum verbum, quod potest salváre ánimas vestras."
+        "la": "Léctio Epístolæ beáti Jacóbi Apóstoli Caríssimi: Omne datum óptimum, et omne donum perféctum desúrsum est, descéndens a Patre lúminum, apud quem non est transmutátio nec vicissitúdinis obumbrátio. Voluntárie enim génuit nos verbo veritátis, ut simus inítium áliquod creatúræ ejus. Scitis, fratres mei dilectíssimi. Sit autem omnis homo velox ad audiéndum: tardus autem ad loquéndum et tardus ad iram. Ira enim viri justítiam Dei non operátur. Propter quod abjiciéntes omnem immundítiam et abundántiam malítiæ, in mansuetúdine suscípite ínsitum verbum, quod potest salváre ánimas vestras.",
+        "de": "Lesung aus dem Brief des heiligen Apostels Jakobus. Geliebteste! Jede gute Gabe und jedes vollkommene Geschenk kommt von oben herab, vom Vater der Lichter, bei dem keine Veränderung ist noch der Schatten eines Wechsels. Aus freiem Willen hat er uns durch das Wort der Wahrheit gezeugt, damit wir gleichsam ein Erstling seiner Schöpfung seien. Ihr wisst es, meine geliebtesten Brüder. Es sei aber jeder Mensch schnell zum Hören, langsam aber zum Reden und langsam zum Zorn; denn der Zorn des Mannes wirkt nicht die Gerechtigkeit Gottes. Darum leget ab alle Unreinheit und den Überfluss der Bosheit und nehmet mit Sanftmut das eingepflanzte Wort auf, das eure Seelen retten kann."
       },
       "reference": {
         "la": "Jas 1:17-21",
@@ -64,7 +67,8 @@
         "de": "Graduale"
       },
       "text": {
-        "la": "Allelúja, allelúja. Déxtera Dómini fecit virtútem: déxtera Dómini exaltávit me. Allelúja. Christus resúrgens ex mórtuis jam non móritur: mors illi ultra non dominábitur. Allelúja."
+        "la": "Allelúja, allelúja. Déxtera Dómini fecit virtútem: déxtera Dómini exaltávit me. Allelúja. Christus resúrgens ex mórtuis jam non móritur: mors illi ultra non dominábitur. Allelúja.",
+        "de": "Alleluja, alleluja. Die Rechte des Herrn hat Macht erwiesen; die Rechte des Herrn hat mich erhöht. Alleluja. Christus, von den Toten auferstanden, stirbt nicht mehr; der Tod wird fortan nicht mehr über ihn herrschen. Alleluja."
       },
       "reference": {
         "la": "Ps 117:16.; Rom 6:9",
@@ -83,7 +87,8 @@
         "de": "Evangelium"
       },
       "text": {
-        "la": "Sequéntia ++ sancti Evangélii secúndum Joánnem In illo témpore: Dixit Jesus discípulis suis: Vado ad eum, qui misit me: et nemo ex vobis intérrogat me: Quo vadis? Sed quia hæc locútus sum vobis, tristítia implévit cor vestrum. Sed ego veritátem dico vobis: expédit vobis, ut ego vadam: si enim non abíero, Paráclitus non véniet ad vos: si autem abíero, mittam eum ad vos. Et cum vénerit ille, árguet mundum de peccáto et de justítia et de judício. De peccáto quidem, quia non credidérunt in me: de justítia vero, quia ad Patrem vado, et jam non vidébitis me: de judício autem, quia princeps hujus mundi jam judicátus est. Adhuc multa hábeo vobis dícere: sed non potéstis portáre modo. Cum autem vénerit ille Spíritus veritátis, docébit vos omnem veritátem. Non enim loquétur a semetípso: sed quæcúmque áudiet, loquétur, et quæ ventúra sunt, annuntiábit vobis. Ille me clarificábit: quia de meo accípiet et annuntiábit vobis."
+        "la": "Sequéntia ++ sancti Evangélii secúndum Joánnem In illo témpore: Dixit Jesus discípulis suis: Vado ad eum, qui misit me: et nemo ex vobis intérrogat me: Quo vadis? Sed quia hæc locútus sum vobis, tristítia implévit cor vestrum. Sed ego veritátem dico vobis: expédit vobis, ut ego vadam: si enim non abíero, Paráclitus non véniet ad vos: si autem abíero, mittam eum ad vos. Et cum vénerit ille, árguet mundum de peccáto et de justítia et de judício. De peccáto quidem, quia non credidérunt in me: de justítia vero, quia ad Patrem vado, et jam non vidébitis me: de judício autem, quia princeps hujus mundi jam judicátus est. Adhuc multa hábeo vobis dícere: sed non potéstis portáre modo. Cum autem vénerit ille Spíritus veritátis, docébit vos omnem veritátem. Non enim loquétur a semetípso: sed quæcúmque áudiet, loquétur, et quæ ventúra sunt, annuntiábit vobis. Ille me clarificábit: quia de meo accípiet et annuntiábit vobis.",
+        "de": "Fortsetzung des heiligen Evangeliums nach Johannes. In jener Zeit sprach Jesus zu seinen Jüngern: Ich gehe zu dem, der mich gesandt hat; und keiner von euch fragt mich: Wohin gehst du? Doch weil ich dieses zu euch geredet habe, hat Betrübnis euer Herz erfüllt. Aber ich sage euch die Wahrheit: Es ist gut für euch, dass ich hingehe; denn wenn ich nicht hingehe, wird der Tröster nicht zu euch kommen; wenn ich aber hingehe, werde ich ihn zu euch senden. Und wenn er kommt, wird er die Welt überführen der Sünde, der Gerechtigkeit und des Gerichtes: der Sünde, weil sie nicht an mich geglaubt haben; der Gerechtigkeit aber, weil ich zum Vater gehe und ihr mich nicht mehr sehen werdet; des Gerichtes aber, weil der Fürst dieser Welt schon gerichtet ist. Noch vieles hätte ich euch zu sagen, aber ihr könnt es jetzt nicht tragen. Wenn aber jener kommt, der Geist der Wahrheit, wird er euch alle Wahrheit lehren; denn er wird nicht aus sich selber reden, sondern was er hören wird, das wird er reden, und was zukünftig ist, wird er euch verkünden. Er wird mich verherrlichen; denn von dem Meinen wird er nehmen und es euch verkünden."
       },
       "reference": {
         "la": "Joannes 16:5-14",
@@ -98,7 +103,8 @@
         "de": "Gabenvers"
       },
       "text": {
-        "la": "Jubiláte Deo, univérsa terra, psalmum dícite nómini ejus: veníte et audíte, et narrábo vobis, omnes qui timétis Deum, quanta fecit Dóminus ánimæ meæ, allelúja."
+        "la": "Jubiláte Deo, univérsa terra, psalmum dícite nómini ejus: veníte et audíte, et narrábo vobis, omnes qui timétis Deum, quanta fecit Dóminus ánimæ meæ, allelúja.",
+        "de": "Jauchzet Gott, alle Lande, singet ein Lied seinem Namen; kommet und höret, und ich will euch erzählen, alle, die ihr Gott fürchtet, wie Großes der Herr an meiner Seele getan hat, alleluja."
       },
       "reference": {
         "la": "Ps 65:1-2; 65:16",
@@ -117,7 +123,8 @@
         "de": "Stillgebet (Secreta)"
       },
       "text": {
-        "la": "Deus, qui nos, per hujus sacrifícii veneránda commércia, uníus summæ divinitátis partícipes effecísti: præsta, quǽsumus; ut, sicut tuam cognóscimus veritátem, sic eam dignis móribus assequámur."
+        "la": "Deus, qui nos, per hujus sacrifícii veneránda commércia, uníus summæ divinitátis partícipes effecísti: præsta, quǽsumus; ut, sicut tuam cognóscimus veritátem, sic eam dignis móribus assequámur.",
+        "de": "O Gott, der du uns durch den ehrwürdigen Austausch dieses Opfers der einen höchsten Gottheit teilhaftig gemacht hast: Gewähre, wir bitten dich, dass wir, wie wir deine Wahrheit erkennen, ihr auch durch würdigen Wandel folgen."
       }
     },
     {
@@ -128,7 +135,8 @@
         "de": "Kommunionvers"
       },
       "text": {
-        "la": "Cum vénerit Paráclitus Spíritus veritátis, ille árguet mundum de peccáto et de justítia et de judício, allelúja, allelúja."
+        "la": "Cum vénerit Paráclitus Spíritus veritátis, ille árguet mundum de peccáto et de justítia et de judício, allelúja, allelúja.",
+        "de": "Wenn der Tröster kommt, der Geist der Wahrheit, wird er die Welt überführen der Sünde, der Gerechtigkeit und des Gerichtes, alleluja, alleluja."
       },
       "reference": {
         "la": "Joann 16:8",
@@ -147,7 +155,8 @@
         "de": "Schlussgebet"
       },
       "text": {
-        "la": "Adésto nobis, Dómine, Deus noster: ut per hæc, quæ fidéliter súmpsimus, et purgémur a vítiis et a perículis ómnibus eruámur."
+        "la": "Adésto nobis, Dómine, Deus noster: ut per hæc, quæ fidéliter súmpsimus, et purgémur a vítiis et a perículis ómnibus eruámur.",
+        "de": "Steh uns bei, o Herr, unser Gott, damit wir durch das, was wir gläubig empfangen haben, von den Sünden gereinigt und aus allen Gefahren befreit werden."
       }
     }
   ]

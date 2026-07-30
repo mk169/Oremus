@@ -1,7 +1,7 @@
 {
   "id": "do-Pasc5-0",
   "form": "1962",
-  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung (eigene, gemeinfrei) ergänzt.",
   "day": {
     "title": {
       "la": "Dominica V Post Pascha",
@@ -19,7 +19,8 @@
         "de": "Eröffnungsvers"
       },
       "text": {
-        "la": "Vocem jucunditátis annuntiáte, et audiátur, allelúja: annuntiáte usque ad extrémum terræ: liberávit Dóminus pópulum suum, allelúja, allelúja. Jubiláte Deo, omnis terra, psalmum dícite nómini ejus: date glóriam laudi ejus. Vocem jucunditátis annuntiáte, et audiátur, allelúja: annuntiáte usque ad extrémum terræ: liberávit Dóminus pópulum suum, allelúja, allelúja."
+        "la": "Vocem jucunditátis annuntiáte, et audiátur, allelúja: annuntiáte usque ad extrémum terræ: liberávit Dóminus pópulum suum, allelúja, allelúja. Jubiláte Deo, omnis terra, psalmum dícite nómini ejus: date glóriam laudi ejus. Vocem jucunditátis annuntiáte, et audiátur, allelúja: annuntiáte usque ad extrémum terræ: liberávit Dóminus pópulum suum, allelúja, allelúja.",
+        "de": "Verkündet die Stimme der Freude, dass man sie höre, alleluja; verkündet sie bis an die Enden der Erde: Befreit hat der Herr sein Volk, alleluja, alleluja. Jauchzet Gott, alle Lande, singet ein Lied seinem Namen; gebet Ehre seinem Lobe. Verkündet die Stimme der Freude, dass man sie höre, alleluja; verkündet sie bis an die Enden der Erde: Befreit hat der Herr sein Volk, alleluja, alleluja."
       },
       "reference": {
         "la": "Isa 48:20; Ps 65:1-2",
@@ -38,7 +39,8 @@
         "de": "Tagesgebet"
       },
       "text": {
-        "la": "Deus, a quo bona cuncta procédunt, largíre supplícibus tuis: ut cogitémus, te inspiránte, quæ recta sunt; et, te gubernánte, éadem faciámus."
+        "la": "Deus, a quo bona cuncta procédunt, largíre supplícibus tuis: ut cogitémus, te inspiránte, quæ recta sunt; et, te gubernánte, éadem faciámus.",
+        "de": "O Gott, von dem alles Gute ausgeht, verleihe deinen Flehenden, dass wir auf deine Eingebung hin das Rechte bedenken und unter deiner Leitung dasselbe auch tun."
       }
     },
     {
@@ -49,7 +51,8 @@
         "de": "Lesung"
       },
       "text": {
-        "la": "Léctio Epístolæ beáti Jacóbi Apóstoli Caríssimi: Estóte factóres verbi, et non auditóres tantum: falléntes vosmetípsos. Quia si quis audítor est verbi et non factor: hic comparábitur viro consideránti vultum nativitátis suæ in spéculo: considerávit enim se et ábiit, et statim oblítus est, qualis fúerit. Qui autem perspéxerit in legem perfectam libertátis et permánserit in ea, non audítor obliviósus factus, sed factor óperis: hic beátus in facto suo erit. Si quis autem putat se religiósum esse, non refrénans linguam suam, sed sedúcens cor suum, hujus vana est relígio. Relígio munda et immaculáta apud Deum et Patrem hæc est: Visitáre pupíllos et viduas in tribulatióne eórum, et immaculátum se custodíre ab hoc sǽculo."
+        "la": "Léctio Epístolæ beáti Jacóbi Apóstoli Caríssimi: Estóte factóres verbi, et non auditóres tantum: falléntes vosmetípsos. Quia si quis audítor est verbi et non factor: hic comparábitur viro consideránti vultum nativitátis suæ in spéculo: considerávit enim se et ábiit, et statim oblítus est, qualis fúerit. Qui autem perspéxerit in legem perfectam libertátis et permánserit in ea, non audítor obliviósus factus, sed factor óperis: hic beátus in facto suo erit. Si quis autem putat se religiósum esse, non refrénans linguam suam, sed sedúcens cor suum, hujus vana est relígio. Relígio munda et immaculáta apud Deum et Patrem hæc est: Visitáre pupíllos et viduas in tribulatióne eórum, et immaculátum se custodíre ab hoc sǽculo.",
+        "de": "Lesung aus dem Brief des heiligen Apostels Jakobus. Geliebteste! Seid Täter des Wortes und nicht bloß Hörer, die sich selbst betrügen. Denn wenn einer Hörer des Wortes ist und nicht Täter, so gleicht er einem Manne, der sein leibliches Angesicht im Spiegel betrachtet; er betrachtet sich und geht davon und vergisst sogleich, wie er beschaffen war. Wer aber in das vollkommene Gesetz der Freiheit hineinschaut und darin verharrt, kein vergesslicher Hörer wird, sondern ein Täter des Werkes, dieser wird selig sein in seinem Tun. Wenn aber einer meint, fromm zu sein, und seine Zunge nicht zügelt, sondern sein Herz betrügt, dessen Frömmigkeit ist eitel. Reine und unbefleckte Frömmigkeit vor Gott und dem Vater ist diese: Waisen und Witwen in ihrer Trübsal besuchen und sich unbefleckt von dieser Welt bewahren."
       },
       "reference": {
         "la": "Jas 1:22-27",
@@ -64,7 +67,8 @@
         "de": "Graduale"
       },
       "text": {
-        "la": "Allelúja, allelúja. Surréxit Christus, et illúxit nobis, quos rédemit sánguine suo. Allelúja. Exívi a Patre, et veni in mundum: íterum relínquo mundum, et vado ad Patrem. Allelúja."
+        "la": "Allelúja, allelúja. Surréxit Christus, et illúxit nobis, quos rédemit sánguine suo. Allelúja. Exívi a Patre, et veni in mundum: íterum relínquo mundum, et vado ad Patrem. Allelúja.",
+        "de": "Alleluja, alleluja. Auferstanden ist Christus und hat uns geleuchtet, die er mit seinem Blute erlöst hat. Alleluja. Ich bin vom Vater ausgegangen und in die Welt gekommen; wiederum verlasse ich die Welt und gehe zum Vater. Alleluja."
       },
       "reference": {
         "la": "Joannes 16:28",
@@ -83,7 +87,8 @@
         "de": "Evangelium"
       },
       "text": {
-        "la": "Sequéntia ++ sancti Evangélii secúndum Joánnem In illo témpore: Dixit Jesus discípulis suis: Amen, amen, dico vobis: si quid petiéritis Patrem in nómine meo, dabit vobis. Usque modo non petístis quidquam in nómine meo: Pétite, et accipiétis, ut gáudium vestrum sit plenum. Hæc in provérbiis locútus sum vobis. Venit hora, cum jam non in provérbiis loquar vobis, sed palam de Patre annuntiábo vobis. In illo die in nómine meo petétis: et non dico vobis, quia ego rogábo Patrem de vobis: ipse enim Pater amat vos, quia vos me amástis, et credidístis quia ego a Deo exívi. Exívi a Patre et veni in mundum: íterum relínquo mundum et vado ad Patrem. Dicunt ei discípuli ejus: Ecce, nunc palam loquéris et provérbium nullum dicis. Nunc scimus, quia scis ómnia et non opus est tibi, ut quis te intérroget: in hoc crédimus, quia a Deo exísti."
+        "la": "Sequéntia ++ sancti Evangélii secúndum Joánnem In illo témpore: Dixit Jesus discípulis suis: Amen, amen, dico vobis: si quid petiéritis Patrem in nómine meo, dabit vobis. Usque modo non petístis quidquam in nómine meo: Pétite, et accipiétis, ut gáudium vestrum sit plenum. Hæc in provérbiis locútus sum vobis. Venit hora, cum jam non in provérbiis loquar vobis, sed palam de Patre annuntiábo vobis. In illo die in nómine meo petétis: et non dico vobis, quia ego rogábo Patrem de vobis: ipse enim Pater amat vos, quia vos me amástis, et credidístis quia ego a Deo exívi. Exívi a Patre et veni in mundum: íterum relínquo mundum et vado ad Patrem. Dicunt ei discípuli ejus: Ecce, nunc palam loquéris et provérbium nullum dicis. Nunc scimus, quia scis ómnia et non opus est tibi, ut quis te intérroget: in hoc crédimus, quia a Deo exísti.",
+        "de": "Fortsetzung des heiligen Evangeliums nach Johannes. In jener Zeit sprach Jesus zu seinen Jüngern: Wahrlich, wahrlich, ich sage euch: Wenn ihr den Vater um etwas bitten werdet in meinem Namen, wird er es euch geben. Bis jetzt habt ihr nichts in meinem Namen erbeten; bittet, und ihr werdet empfangen, damit eure Freude vollkommen sei. Dies habe ich in Gleichnissen zu euch geredet. Es kommt die Stunde, da ich nicht mehr in Gleichnissen zu euch reden, sondern offen vom Vater euch künden werde. An jenem Tage werdet ihr in meinem Namen bitten; und ich sage euch nicht, dass ich den Vater für euch bitten werde; denn der Vater selbst liebt euch, weil ihr mich geliebt und geglaubt habt, dass ich von Gott ausgegangen bin. Ich bin vom Vater ausgegangen und in die Welt gekommen; wiederum verlasse ich die Welt und gehe zum Vater. Da sprachen seine Jünger zu ihm: Siehe, jetzt redest du offen und sagst kein Gleichnis. Jetzt wissen wir, dass du alles weißt und es nicht nötig hast, dass dich jemand frage; darum glauben wir, dass du von Gott ausgegangen bist."
       },
       "reference": {
         "la": "Joann 16:23-30",
@@ -98,7 +103,8 @@
         "de": "Gabenvers"
       },
       "text": {
-        "la": "Benedícite, gentes, Dóminum, Deum nostrum, et obaudíte vocem laudis ejus: qui pósuit ánimam meam ad vitam, et non dedit commovéri pedes meos: benedíctus Dóminus, qui non amóvit deprecatiónem meam et misericórdiam suam a me, allelúja."
+        "la": "Benedícite, gentes, Dóminum, Deum nostrum, et obaudíte vocem laudis ejus: qui pósuit ánimam meam ad vitam, et non dedit commovéri pedes meos: benedíctus Dóminus, qui non amóvit deprecatiónem meam et misericórdiam suam a me, allelúja.",
+        "de": "Preiset, ihr Völker, den Herrn, unseren Gott, und lasset die Stimme seines Lobes hören; er hat meiner Seele das Leben gegeben und meine Füße nicht wanken lassen. Gepriesen sei der Herr, der mein Gebet und seine Barmherzigkeit nicht von mir gewendet hat, alleluja."
       },
       "reference": {
         "la": "Ps 65:8-9; 65:20",
@@ -117,7 +123,8 @@
         "de": "Stillgebet (Secreta)"
       },
       "text": {
-        "la": "Súscipe, Dómine, fidélium preces cum oblatiónibus hostiárum: ut, per hæc piæ devotiónis offícia, ad cœléstem glóriam transeámus."
+        "la": "Súscipe, Dómine, fidélium preces cum oblatiónibus hostiárum: ut, per hæc piæ devotiónis offícia, ad cœléstem glóriam transeámus.",
+        "de": "Nimm an, o Herr, die Gebete deiner Gläubigen samt den Opfergaben, damit wir durch diesen Dienst frommer Hingabe zur himmlischen Herrlichkeit gelangen."
       }
     },
     {
@@ -128,7 +135,8 @@
         "de": "Kommunionvers"
       },
       "text": {
-        "la": "Cantáte Dómino, allelúja: cantáte Dómino et benedícite nomen ejus: bene nuntiáte de die in diem salutáre ejus, allelúja, allelúja."
+        "la": "Cantáte Dómino, allelúja: cantáte Dómino et benedícite nomen ejus: bene nuntiáte de die in diem salutáre ejus, allelúja, allelúja.",
+        "de": "Singet dem Herrn, alleluja; singet dem Herrn und preiset seinen Namen; verkündet Tag für Tag sein Heil, alleluja, alleluja."
       },
       "reference": {
         "la": "Ps 95:2",
@@ -147,7 +155,8 @@
         "de": "Schlussgebet"
       },
       "text": {
-        "la": "Tríbue nobis, Dómine, cæléstis mensæ virtúte satiátis: et desideráre, quæ recta sunt, et desideráta percípere."
+        "la": "Tríbue nobis, Dómine, cæléstis mensæ virtúte satiátis: et desideráre, quæ recta sunt, et desideráta percípere.",
+        "de": "Verleihe uns, o Herr, die wir mit der Kraft des himmlischen Mahles gesättigt sind, das Rechte zu ersehnen und das Ersehnte zu erlangen."
       }
     }
   ]

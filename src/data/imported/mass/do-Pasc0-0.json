@@ -1,7 +1,7 @@
 {
   "id": "do-Pasc0-0",
   "form": "1962",
-  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung (eigene, gemeinfrei) ergänzt.",
   "day": {
     "title": {
       "la": "Dominica Resurrectionis",
@@ -19,7 +19,8 @@
         "de": "Eröffnungsvers"
       },
       "text": {
-        "la": "Resurréxi, et adhuc tecum sum, allelúja: posuísti super me manum tuam, allelúja: mirábilis facta est sciéntia tua, allelúja, allelúja. Dómine, probásti me et cognovísti me: tu cognovísti sessiónem meam et resurrectiónem meam. Resurréxi, et adhuc tecum sum, allelúja: posuísti super me manum tuam, allelúja: mirábilis facta est sciéntia tua, allelúja, allelúja."
+        "la": "Resurréxi, et adhuc tecum sum, allelúja: posuísti super me manum tuam, allelúja: mirábilis facta est sciéntia tua, allelúja, allelúja. Dómine, probásti me et cognovísti me: tu cognovísti sessiónem meam et resurrectiónem meam. Resurréxi, et adhuc tecum sum, allelúja: posuísti super me manum tuam, allelúja: mirábilis facta est sciéntia tua, allelúja, allelúja.",
+        "de": "Ich bin auferstanden und bin noch bei dir, alleluja; du hast deine Hand auf mich gelegt, alleluja; wunderbar ist deine Weisheit geworden, alleluja, alleluja. O Herr, du hast mich erforscht und mich erkannt; du kennst mein Sitzen und mein Auferstehen. Ich bin auferstanden und bin noch bei dir, alleluja; du hast deine Hand auf mich gelegt, alleluja; wunderbar ist deine Weisheit geworden, alleluja, alleluja."
       },
       "reference": {
         "la": "Ps 138:18; 138:5-6.; Ps 138:1-2.",
@@ -38,7 +39,8 @@
         "de": "Tagesgebet"
       },
       "text": {
-        "la": "Deus, qui hodiérna die per Unigénitum tuum æternitátis nobis áditum, devícta morte, reserásti: vota nostra, quæ præveniéndo aspíras, étiam adjuvándo proséquere."
+        "la": "Deus, qui hodiérna die per Unigénitum tuum æternitátis nobis áditum, devícta morte, reserásti: vota nostra, quæ præveniéndo aspíras, étiam adjuvándo proséquere.",
+        "de": "O Gott, du hast am heutigen Tage durch deinen Eingeborenen, nachdem der Tod besiegt war, uns den Zugang zur Ewigkeit erschlossen: Unsere Wünsche, die du zuvorkommend einhauchst, begleite auch mit deiner Hilfe."
       }
     },
     {
@@ -49,7 +51,8 @@
         "de": "Lesung"
       },
       "text": {
-        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Corinthios. Fratres: Expurgáte vetus ferméntum, ut sitis nova conspérsio, sicut estis ázymi. Etenim Pascha nostrum immolátus est Christus. Itaque epulémur: non in ferménto véteri, neque in ferménto malítiæ et nequítiæ: sed in ázymis sinceritátis et veritátis."
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Corinthios. Fratres: Expurgáte vetus ferméntum, ut sitis nova conspérsio, sicut estis ázymi. Etenim Pascha nostrum immolátus est Christus. Itaque epulémur: non in ferménto véteri, neque in ferménto malítiæ et nequítiæ: sed in ázymis sinceritátis et veritátis.",
+        "de": "Lesung aus dem Brief des heiligen Apostels Paulus an die Korinther. Brüder! Feget den alten Sauerteig aus, damit ihr ein neuer Teig seid, wie ihr ja ungesäuert seid. Denn auch unser Osterlamm ist geschlachtet, Christus. Lasset uns also das Fest begehen, nicht mit altem Sauerteig, noch mit dem Sauerteig der Bosheit und Schlechtigkeit, sondern mit dem Ungesäuerten der Lauterkeit und Wahrheit."
       },
       "reference": {
         "la": "1 Cor 5:7-8",
@@ -64,7 +67,8 @@
         "de": "Graduale"
       },
       "text": {
-        "la": "Hæc dies, quam fecit Dóminus: exsultémus et lætémur in ea. Confitémini Dómino, quóniam bonus: quóniam in sǽculum misericórdia ejus. Allelúja, allelúja. Pascha nostrum immolátus est Christus."
+        "la": "Hæc dies, quam fecit Dóminus: exsultémus et lætémur in ea. Confitémini Dómino, quóniam bonus: quóniam in sǽculum misericórdia ejus. Allelúja, allelúja. Pascha nostrum immolátus est Christus.",
+        "de": "Dies ist der Tag, den der Herr gemacht hat; lasset uns frohlocken und uns freuen an ihm. Preiset den Herrn, denn er ist gütig, denn in Ewigkeit währt seine Barmherzigkeit. Alleluja, alleluja. Unser Osterlamm ist geschlachtet, Christus."
       },
       "reference": {
         "la": "Ps. 117:24; 117:1; 1 Cor 5:7",
@@ -83,7 +87,8 @@
         "de": "Sequenz"
       },
       "text": {
-        "la": "Víctimæ pascháli laudes ímmolent Christiáni. Agnus rédemit oves: Christus ínnocens Patri reconciliávit peccatóres. Mors et vita duéllo conflixére mirándo: dux vitæ mórtuus regnat vivus. Dic nobis, María, quid vidísti in via? Sepúlcrum Christi vivéntis et glóriam vidi resurgéntis. Angélicos testes, sudárium et vestes. Surréxit Christus, spes mea: præcédet vos in Galilǽam. Scimus Christum surrexísse a mórtuis vere: tu nobis, victor Rex, miserére. Amen. Allelúja."
+        "la": "Víctimæ pascháli laudes ímmolent Christiáni. Agnus rédemit oves: Christus ínnocens Patri reconciliávit peccatóres. Mors et vita duéllo conflixére mirándo: dux vitæ mórtuus regnat vivus. Dic nobis, María, quid vidísti in via? Sepúlcrum Christi vivéntis et glóriam vidi resurgéntis. Angélicos testes, sudárium et vestes. Surréxit Christus, spes mea: præcédet vos in Galilǽam. Scimus Christum surrexísse a mórtuis vere: tu nobis, victor Rex, miserére. Amen. Allelúja.",
+        "de": "Dem österlichen Opferlamm bringen die Christen ihr Loblied dar. Das Lamm hat die Schafe erlöst; Christus, der Unschuldige, hat den Vater mit den Sündern versöhnt. Tod und Leben rangen in wunderbarem Zweikampf; der Fürst des Lebens, der starb, herrscht lebend. Sag uns, Maria, was hast du auf dem Wege gesehen? Das Grab des lebendigen Christus und die Herrlichkeit des Auferstandenen sah ich, die Engel als Zeugen, das Schweißtuch und die Tücher. Auferstanden ist Christus, meine Hoffnung; er geht euch voran nach Galiläa. Wir wissen, dass Christus wahrhaft von den Toten auferstanden ist; du, siegreicher König, erbarme dich unser. Amen. Alleluja."
       },
       "reference": {
         "la": "Sequentia dicitur usque ad Sabbatum in Albis inclusive.",
@@ -101,7 +106,8 @@
         "de": "Evangelium"
       },
       "text": {
-        "la": "Sequéntia ++ sancti Evangélii secúndum Marcum. In illo témpore: María Magdaléne et María Jacóbi et Salóme emérunt arómata, ut veniéntes úngerent Jesum. Et valde mane una sabbatórum, véniunt ad monuméntum, orto jam sole. Et dicébant ad ínvicem: Quis revólvet nobis lápidem ab óstio monuménti? Et respiciéntes vidérunt revolútum lápidem. Erat quippe magnus valde. Et introëúntes in monuméntum vidérunt júvenem sedéntem in dextris, coopértum stola cándida, et obstupuérunt. Qui dicit illis: Nolíte expavéscere: Jesum quǽritis Nazarénum, crucifíxum: surréxit, non est hic, ecce locus, ubi posuérunt eum. Sed ite, dícite discípulis ejus et Petro, quia præcédit vos in Galilǽam: ibi eum vidébitis, sicut dixit vobis."
+        "la": "Sequéntia ++ sancti Evangélii secúndum Marcum. In illo témpore: María Magdaléne et María Jacóbi et Salóme emérunt arómata, ut veniéntes úngerent Jesum. Et valde mane una sabbatórum, véniunt ad monuméntum, orto jam sole. Et dicébant ad ínvicem: Quis revólvet nobis lápidem ab óstio monuménti? Et respiciéntes vidérunt revolútum lápidem. Erat quippe magnus valde. Et introëúntes in monuméntum vidérunt júvenem sedéntem in dextris, coopértum stola cándida, et obstupuérunt. Qui dicit illis: Nolíte expavéscere: Jesum quǽritis Nazarénum, crucifíxum: surréxit, non est hic, ecce locus, ubi posuérunt eum. Sed ite, dícite discípulis ejus et Petro, quia præcédit vos in Galilǽam: ibi eum vidébitis, sicut dixit vobis.",
+        "de": "Fortsetzung des heiligen Evangeliums nach Markus. In jener Zeit kauften Maria Magdalena und Maria, die Mutter des Jakobus, und Salome wohlriechende Salben, um hinzugehen und Jesus zu salben. Und sehr früh am ersten Tage der Woche kamen sie zum Grabe, als die Sonne schon aufgegangen war. Und sie sprachen zueinander: Wer wird uns den Stein vom Eingang des Grabes wälzen? Und als sie hinblickten, sahen sie, dass der Stein weggewälzt war; er war nämlich sehr groß. Und als sie in das Grab hineingingen, sahen sie einen Jüngling zur Rechten sitzen, angetan mit einem weißen Gewande, und sie erschraken. Er aber sprach zu ihnen: Erschrecket nicht! Ihr sucht Jesus von Nazareth, den Gekreuzigten; er ist auferstanden, er ist nicht hier; seht, da ist der Ort, wo sie ihn hingelegt hatten. Aber gehet hin und saget seinen Jüngern und dem Petrus, dass er euch nach Galiläa vorausgeht; dort werdet ihr ihn sehen, wie er euch gesagt hat."
       },
       "reference": {
         "la": "Marc 16:1-7.",
@@ -116,7 +122,8 @@
         "de": "Gabenvers"
       },
       "text": {
-        "la": "Terra trémuit, et quiévit, dum resúrgeret in judício Deus, allelúja."
+        "la": "Terra trémuit, et quiévit, dum resúrgeret in judício Deus, allelúja.",
+        "de": "Die Erde erbebte und ward stille, als Gott sich erhob zum Gericht, alleluja."
       },
       "reference": {
         "la": "Ps. 75:9-10.",
@@ -135,7 +142,8 @@
         "de": "Stillgebet (Secreta)"
       },
       "text": {
-        "la": "Súscipe, quǽsumus, Dómine, preces pópuli tui cum oblatiónibus hostiárum: ut, Paschálibus initiáta mystériis, ad æternitátis nobis medélam, te operánte, profíciant."
+        "la": "Súscipe, quǽsumus, Dómine, preces pópuli tui cum oblatiónibus hostiárum: ut, Paschálibus initiáta mystériis, ad æternitátis nobis medélam, te operánte, profíciant.",
+        "de": "Nimm an, wir bitten dich, o Herr, die Gebete deines Volkes samt den Opfergaben, damit sie, in den österlichen Geheimnissen begonnen, uns durch dein Wirken zur Arznei der Ewigkeit gereichen."
       }
     },
     {
@@ -146,7 +154,8 @@
         "de": "Kommunionvers"
       },
       "text": {
-        "la": "Pascha nostrum immolátus est Christus, allelúja: itaque epulémur in ázymis sinceritátis et veritátis, allelúja, allelúja, allelúja."
+        "la": "Pascha nostrum immolátus est Christus, allelúja: itaque epulémur in ázymis sinceritátis et veritátis, allelúja, allelúja, allelúja.",
+        "de": "Unser Osterlamm ist geschlachtet, Christus, alleluja; lasset uns also das Fest begehen mit dem Ungesäuerten der Lauterkeit und Wahrheit, alleluja, alleluja, alleluja."
       },
       "reference": {
         "la": "1 Cor 5:7-8",
@@ -165,7 +174,8 @@
         "de": "Schlussgebet"
       },
       "text": {
-        "la": "Spíritum nobis, Dómine, tuæ caritátis infúnde: ut, quos sacraméntis paschálibus satiásti, tua fácias pietáte concordes."
+        "la": "Spíritum nobis, Dómine, tuæ caritátis infúnde: ut, quos sacraméntis paschálibus satiásti, tua fácias pietáte concordes.",
+        "de": "Gieße uns, o Herr, den Geist deiner Liebe ein, damit du, die du mit den österlichen Sakramenten gesättigt hast, durch deine Güte eines Herzens machest."
       }
     }
   ]
