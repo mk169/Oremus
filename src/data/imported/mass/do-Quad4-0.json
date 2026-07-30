@@ -1,7 +1,7 @@
 {
   "id": "do-Quad4-0",
   "form": "1962",
-  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung (eigene, gemeinfrei) ergänzt.",
   "day": {
     "title": {
       "la": "Dominica IV in Quadragesima",
@@ -19,7 +19,8 @@
         "de": "Eröffnungsvers"
       },
       "text": {
-        "la": "Lætáre, Jerúsalem: et convéntum fácite, omnes qui dilígitis eam: gaudéte cum lætítia, qui in tristítia fuístis: ut exsultétis, et satiémini ab ubéribus consolatiónis vestræ. Lætátus sum in his, quæ dicta sunt mihi: in domum Dómini íbimus. Lætáre, Jerúsalem: et convéntum fácite, omnes qui dilígitis eam: gaudéte cum lætítia, qui in tristítia fuístis: ut exsultétis, et satiémini ab ubéribus consolatiónis vestræ."
+        "la": "Lætáre, Jerúsalem: et convéntum fácite, omnes qui dilígitis eam: gaudéte cum lætítia, qui in tristítia fuístis: ut exsultétis, et satiémini ab ubéribus consolatiónis vestræ. Lætátus sum in his, quæ dicta sunt mihi: in domum Dómini íbimus. Lætáre, Jerúsalem: et convéntum fácite, omnes qui dilígitis eam: gaudéte cum lætítia, qui in tristítia fuístis: ut exsultétis, et satiémini ab ubéribus consolatiónis vestræ.",
+        "de": "Freue dich, Jerusalem, und versammelt euch, alle, die ihr sie liebt; frohlocket mit Freude, die ihr in Trauer wart, damit ihr jubelt und euch sättiget an den Brüsten ihres Trostes. Ich freute mich über das, was mir gesagt ward: Wir werden ziehen zum Hause des Herrn. Freue dich, Jerusalem, und versammelt euch, alle, die ihr sie liebt; frohlocket mit Freude, die ihr in Trauer wart, damit ihr jubelt und euch sättiget an den Brüsten ihres Trostes."
       },
       "reference": {
         "la": "Is 66:10 et 11; Ps 121:1.",
@@ -38,7 +39,8 @@
         "de": "Tagesgebet"
       },
       "text": {
-        "la": "Concéde, quǽsumus, omnípotens Deus: ut, qui ex mérito nostræ actiónis afflígimur, tuæ grátiæ consolatióne respirémus."
+        "la": "Concéde, quǽsumus, omnípotens Deus: ut, qui ex mérito nostræ actiónis afflígimur, tuæ grátiæ consolatióne respirémus.",
+        "de": "Gewähre, wir bitten dich, allmächtiger Gott, dass wir, die wir für die Schuld unseres Tuns geschlagen werden, durch den Trost deiner Gnade aufatmen."
       }
     },
     {
@@ -49,7 +51,8 @@
         "de": "Lesung"
       },
       "text": {
-        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Gálatas Fratres: Scriptum est: Quóniam Abraham duos fílios hábuit: unum de ancílla, et unum de líbera. Sed qui de ancílla, secúndum carnem natus est: qui autem de líbera, per repromissiónem: quæ sunt per allegoríam dicta. Hæc enim sunt duo testaménta. Unum quidem in monte Sina, in servitútem génerans: quæ est Agar: Sina enim mons est in Arábia, qui conjúnctus est ei, quæ nunc est Jerúsalem, et servit cum fíliis suis. Illa autem, quæ sursum est Jerúsalem, líbera est, quæ est mater nostra. Scriptum est enim: Lætáre, stérilis, quæ non paris: erúmpe, et clama, quæ non párturis: quia multi fílii desértæ, magis quam ejus, quæ habet virum. Nos autem, fratres, secúndum Isaac promissiónis fílii sumus. Sed quómodo tunc is, qui secúndum carnem natus fúerat, persequebátur eum, qui secúndum spíritum: ita et nunc. Sed quid dicit Scriptúra? Ejice ancíllam et fílium ejus: non enim heres erit fílius ancíllæ cum fílio líberæ. Itaque, fratres, non sumus ancíllæ fílii, sed líberæ: qua libertáte Christus nos liberávit."
+        "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Gálatas Fratres: Scriptum est: Quóniam Abraham duos fílios hábuit: unum de ancílla, et unum de líbera. Sed qui de ancílla, secúndum carnem natus est: qui autem de líbera, per repromissiónem: quæ sunt per allegoríam dicta. Hæc enim sunt duo testaménta. Unum quidem in monte Sina, in servitútem génerans: quæ est Agar: Sina enim mons est in Arábia, qui conjúnctus est ei, quæ nunc est Jerúsalem, et servit cum fíliis suis. Illa autem, quæ sursum est Jerúsalem, líbera est, quæ est mater nostra. Scriptum est enim: Lætáre, stérilis, quæ non paris: erúmpe, et clama, quæ non párturis: quia multi fílii desértæ, magis quam ejus, quæ habet virum. Nos autem, fratres, secúndum Isaac promissiónis fílii sumus. Sed quómodo tunc is, qui secúndum carnem natus fúerat, persequebátur eum, qui secúndum spíritum: ita et nunc. Sed quid dicit Scriptúra? Ejice ancíllam et fílium ejus: non enim heres erit fílius ancíllæ cum fílio líberæ. Itaque, fratres, non sumus ancíllæ fílii, sed líberæ: qua libertáte Christus nos liberávit.",
+        "de": "Lesung aus dem Brief des heiligen Apostels Paulus an die Galater. Brüder! Es steht geschrieben: Abraham hatte zwei Söhne, einen von der Magd und einen von der Freien. Der von der Magd aber wurde nach dem Fleische geboren, der von der Freien aber kraft der Verheißung. Das ist bildlich gesprochen. Denn dies sind die zwei Bündnisse: das eine vom Berge Sinai, das zur Knechtschaft gebiert, das ist Agar. Der Berg Sinai nämlich liegt in Arabien und entspricht dem jetzigen Jerusalem, das mit seinen Kindern in Knechtschaft ist. Jenes Jerusalem aber, das droben ist, ist frei; und dieses ist unsere Mutter. Denn es steht geschrieben: Freue dich, du Unfruchtbare, die du nicht gebierst; brich in Jubel aus und rufe, die du keine Wehen kennst; denn viele sind die Kinder der Verlassenen, mehr als deren, die den Mann hat. Wir aber, Brüder, sind nach Isaak Kinder der Verheißung. Doch wie damals der nach dem Fleische Geborene den nach dem Geiste Geborenen verfolgte, so auch jetzt. Aber was sagt die Schrift? Stoße die Magd und ihren Sohn aus; denn der Sohn der Magd soll nicht erben mit dem Sohne der Freien. Darum, Brüder, sind wir nicht Kinder der Magd, sondern der Freien; und zu dieser Freiheit hat Christus uns befreit."
       },
       "reference": {
         "la": "Gal 4:22-31",
@@ -64,7 +67,8 @@
         "de": "Graduale"
       },
       "text": {
-        "la": "Lætátus sum in his, quæ dicta sunt mihi: in domum Dómini íbimus. Fiat pax in virtúte tua: et abundántia in túrribus tuis. _ Qui confídunt in Dómino, sicut mons Sion: non commovébitur in ætérnum, qui hábitat in Jerúsalem. Montes in circúitu ejus: et Dóminus in circúitu pópuli sui, ex hoc nunc et usque in sǽculum."
+        "la": "Lætátus sum in his, quæ dicta sunt mihi: in domum Dómini íbimus. Fiat pax in virtúte tua: et abundántia in túrribus tuis. _ Qui confídunt in Dómino, sicut mons Sion: non commovébitur in ætérnum, qui hábitat in Jerúsalem. Montes in circúitu ejus: et Dóminus in circúitu pópuli sui, ex hoc nunc et usque in sǽculum.",
+        "de": "Ich freute mich über das, was mir gesagt ward: Wir werden ziehen zum Hause des Herrn. Friede walte in deinen Mauern und Wohlstand in deinen Türmen. — Die auf den Herrn vertrauen, sind wie der Berg Sion: nicht wird wanken in Ewigkeit, wer in Jerusalem wohnt. Berge sind rings um sie her, und der Herr ist rings um sein Volk, von nun an bis in Ewigkeit."
       },
       "reference": {
         "la": "Ps 121:1, 7; Tractus; Ps 124:1-2",
@@ -83,7 +87,8 @@
         "de": "Evangelium"
       },
       "text": {
-        "la": "Sequéntia ++ sancti Evangélii secúndum Joánnem In illo témpore: Abiit Jesus trans mare Galilǽæ, quod est Tiberíadis: et sequebátur eum multitúdo magna, quia vidébant signa, quæ faciébat super his, qui infirmabántur. Súbiit ergo in montem Jesus: et ibi sedébat cum discípulis suis. Erat autem próximum Pascha, dies festus Judæórum. Cum sublevásset ergo óculos Jesus et vidísset, quia multitúdo máxima venit ad eum, dixit ad Philíppum: Unde emémus panes, ut mandúcent hi? Hoc autem dicébat tentans eum: ipse enim sciébat, quid esset factúrus. Respóndit ei Philíppus: Ducentórum denariórum panes non suffíciunt eis, ut unusquísque módicum quid accípiat. Dicit ei unus ex discípulis ejus, Andréas, frater Simónis Petri: Est puer unus hic, qui habet quinque panes hordeáceos et duos pisces: sed hæc quid sunt inter tantos? Dixit ergo Jesus: Fácite hómines discúmbere. Erat autem fænum multum in loco. Discubuérunt ergo viri, número quasi quinque míllia. Accépit ergo Jesus panes, et cum grátias egísset, distríbuit discumbéntibus: simíliter et ex píscibus, quantum volébant. Ut autem impléti sunt, dixit discípulis suis: Collígite quæ superavérunt fragménta, ne péreant. Collegérunt ergo, et implevérunt duódecim cóphinos fragmentórum ex quinque pánibus hordeáceis, quæ superfuérunt his, qui manducáverant. Illi ergo hómines cum vidíssent, quod Jesus fécerat signum, dicébant: Quia hic est vere Prophéta, qui ventúrus est in mundum. Jesus ergo cum cognovísset, quia ventúri essent, ut ráperent eum et fácerent eum regem, fugit íterum in montem ipse solus."
+        "la": "Sequéntia ++ sancti Evangélii secúndum Joánnem In illo témpore: Abiit Jesus trans mare Galilǽæ, quod est Tiberíadis: et sequebátur eum multitúdo magna, quia vidébant signa, quæ faciébat super his, qui infirmabántur. Súbiit ergo in montem Jesus: et ibi sedébat cum discípulis suis. Erat autem próximum Pascha, dies festus Judæórum. Cum sublevásset ergo óculos Jesus et vidísset, quia multitúdo máxima venit ad eum, dixit ad Philíppum: Unde emémus panes, ut mandúcent hi? Hoc autem dicébat tentans eum: ipse enim sciébat, quid esset factúrus. Respóndit ei Philíppus: Ducentórum denariórum panes non suffíciunt eis, ut unusquísque módicum quid accípiat. Dicit ei unus ex discípulis ejus, Andréas, frater Simónis Petri: Est puer unus hic, qui habet quinque panes hordeáceos et duos pisces: sed hæc quid sunt inter tantos? Dixit ergo Jesus: Fácite hómines discúmbere. Erat autem fænum multum in loco. Discubuérunt ergo viri, número quasi quinque míllia. Accépit ergo Jesus panes, et cum grátias egísset, distríbuit discumbéntibus: simíliter et ex píscibus, quantum volébant. Ut autem impléti sunt, dixit discípulis suis: Collígite quæ superavérunt fragménta, ne péreant. Collegérunt ergo, et implevérunt duódecim cóphinos fragmentórum ex quinque pánibus hordeáceis, quæ superfuérunt his, qui manducáverant. Illi ergo hómines cum vidíssent, quod Jesus fécerat signum, dicébant: Quia hic est vere Prophéta, qui ventúrus est in mundum. Jesus ergo cum cognovísset, quia ventúri essent, ut ráperent eum et fácerent eum regem, fugit íterum in montem ipse solus.",
+        "de": "Fortsetzung des heiligen Evangeliums nach Johannes. In jener Zeit fuhr Jesus über das Galiläische Meer, das ist das von Tiberias; und eine große Menge folgte ihm, weil sie die Zeichen sahen, die er an den Kranken wirkte. Jesus stieg auf den Berg und setzte sich dort mit seinen Jüngern. Es war aber nahe das Pascha, das Fest der Juden. Als nun Jesus die Augen erhob und sah, dass eine sehr große Menge zu ihm kam, sprach er zu Philippus: Woher sollen wir Brot kaufen, dass diese essen? Das sagte er aber, um ihn zu prüfen; denn er selbst wusste, was er tun wollte. Philippus antwortete ihm: Für zweihundert Denare Brot reicht nicht für sie, dass jeder auch nur ein wenig bekomme. Da sprach einer seiner Jünger, Andreas, der Bruder des Simon Petrus, zu ihm: Es ist ein Knabe hier, der hat fünf Gerstenbrote und zwei Fische; doch was ist das für so viele? Jesus aber sprach: Lasset die Leute sich lagern. Es war viel Gras an dem Orte. Da lagerten sich die Männer, an Zahl etwa fünftausend. Jesus nun nahm die Brote, sagte Dank und teilte sie unter die Gelagerten aus, ebenso auch von den Fischen, soviel sie wollten. Als sie aber satt waren, sprach er zu seinen Jüngern: Sammelt die übriggebliebenen Brocken, damit nichts umkomme. Da sammelten sie und füllten zwölf Körbe mit Brocken von den fünf Gerstenbroten, die denen, welche gegessen hatten, übriggeblieben waren. Als nun jene Menschen das Zeichen sahen, das Jesus gewirkt hatte, sprachen sie: Dieser ist wahrhaft der Prophet, der in die Welt kommen soll. Da Jesus aber erkannte, dass sie kommen würden, um ihn mit Gewalt zum König zu machen, entwich er wiederum auf den Berg, er allein."
       },
       "reference": {
         "la": "Joann 6:1-15",
@@ -98,7 +103,8 @@
         "de": "Gabenvers"
       },
       "text": {
-        "la": "Laudáte Dóminum, quia benígnus est: psállite nómini ejus, quóniam suávis est: ómnia, quæcúmque vóluit, fecit in cœlo et in terra."
+        "la": "Laudáte Dóminum, quia benígnus est: psállite nómini ejus, quóniam suávis est: ómnia, quæcúmque vóluit, fecit in cœlo et in terra.",
+        "de": "Lobet den Herrn, denn er ist gütig; lobsinget seinem Namen, denn er ist milde; alles, was er wollte, hat er gemacht im Himmel und auf Erden."
       },
       "reference": {
         "la": "Ps 134:3, 6",
@@ -117,7 +123,8 @@
         "de": "Stillgebet (Secreta)"
       },
       "text": {
-        "la": "Sacrifíciis præséntibus, Dómine, quǽsumus, inténde placátus: ut et devotióni nostræ profíciant et salúti."
+        "la": "Sacrifíciis præséntibus, Dómine, quǽsumus, inténde placátus: ut et devotióni nostræ profíciant et salúti.",
+        "de": "Auf die gegenwärtigen Opfer, o Herr, blicke versöhnt herab, damit sie sowohl unserer Hingabe als auch unserem Heile nützen."
       }
     },
     {
@@ -128,7 +135,8 @@
         "de": "Kommunionvers"
       },
       "text": {
-        "la": "Jerúsalem, quæ ædificátur ut cívitas, cujus participátio ejus in idípsum: illuc enim ascendérunt tribus, tribus Dómini, ad confiténdum nómini tuo, Dómine."
+        "la": "Jerúsalem, quæ ædificátur ut cívitas, cujus participátio ejus in idípsum: illuc enim ascendérunt tribus, tribus Dómini, ad confiténdum nómini tuo, Dómine.",
+        "de": "Jerusalem, das erbaut ist wie eine Stadt, in sich fest gefügt: dorthin ziehen die Stämme hinauf, die Stämme des Herrn, deinen Namen zu preisen, o Herr."
       },
       "reference": {
         "la": "Ps 121:3-4",
@@ -147,7 +155,8 @@
         "de": "Schlussgebet"
       },
       "text": {
-        "la": "Da nobis, quǽsumus, miséricors Deus: ut sancta tua, quibus incessánter explémur, sincéris tractémus obséquiis, et fidéli semper mente sumámus."
+        "la": "Da nobis, quǽsumus, miséricors Deus: ut sancta tua, quibus incessánter explémur, sincéris tractémus obséquiis, et fidéli semper mente sumámus.",
+        "de": "Gib uns, wir bitten dich, barmherziger Gott, dass wir deine heiligen Gaben, mit denen wir unablässig erfüllt werden, mit aufrichtiger Ehrfurcht behandeln und stets mit gläubigem Herzen empfangen."
       }
     }
   ]
