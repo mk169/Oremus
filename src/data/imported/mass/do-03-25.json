@@ -1,7 +1,7 @@
 {
   "id": "do-03-25",
   "form": "1962",
-  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung (eigene, gemeinfrei) ergänzt.",
   "day": {
     "title": {
       "la": "In Annuntiatione Beate Mariæ Virgine",
@@ -19,7 +19,8 @@
         "de": "Eröffnungsvers"
       },
       "text": {
-        "la": "Vultum tuum deprecabúntur omnes dívites plebis: adducéntur Regi Vírgines post eam: próximæ ejus adducéntur tibi in lætítia et exsultatióne. (Allelúja, allelúja.) Eructávit cor meum verbum bonum: dico ego ópera mea Regi. Vultum tuum deprecabúntur omnes dívites plebis: adducéntur Regi Vírgines post eam: próximæ ejus adducéntur tibi in lætítia et exsultatióne. (Allelúja, allelúja.)"
+        "la": "Vultum tuum deprecabúntur omnes dívites plebis: adducéntur Regi Vírgines post eam: próximæ ejus adducéntur tibi in lætítia et exsultatióne. (Allelúja, allelúja.) Eructávit cor meum verbum bonum: dico ego ópera mea Regi. Vultum tuum deprecabúntur omnes dívites plebis: adducéntur Regi Vírgines post eam: próximæ ejus adducéntur tibi in lætítia et exsultatióne. (Allelúja, allelúja.)",
+        "de": "Dein Angesicht suchen alle Reichen des Volkes; Jungfrauen werden dem Könige nachgeführt; ihre Gefährtinnen werden dir zugeführt in Freude und Frohlocken. (Alleluja, alleluja.) Mein Herz strömt über von einem guten Worte; ich weihe meine Werke dem Könige. Dein Angesicht suchen alle Reichen des Volkes; Jungfrauen werden dem Könige nachgeführt; ihre Gefährtinnen werden dir zugeführt in Freude und Frohlocken. (Alleluja, alleluja.)"
       },
       "reference": {
         "la": "Ps 44:13; 44:15-16; Ps 44:2",
@@ -37,7 +38,8 @@
         "de": "Tagesgebet"
       },
       "text": {
-        "la": "Deus, qui de beátæ Maríæ Vírginis útero Verbum tuum, Angelo nuntiánte, carnem suscípere voluísti: præsta supplícibus tuis; ut, qui vere eam Genetrícem Dei crédimus, ejus apud te intercessiónibus adjuvémur."
+        "la": "Deus, qui de beátæ Maríæ Vírginis útero Verbum tuum, Angelo nuntiánte, carnem suscípere voluísti: præsta supplícibus tuis; ut, qui vere eam Genetrícem Dei crédimus, ejus apud te intercessiónibus adjuvémur.",
+        "de": "O Gott, du wolltest, dass dein Wort auf die Botschaft des Engels im Schoße der seligen Jungfrau Maria Fleisch annehme: Gewähre deinen Flehenden, dass wir, die wir sie wahrhaft als Gottesgebärerin glauben, durch ihre Fürsprache bei dir geholfen werden."
       }
     },
     {
@@ -48,7 +50,8 @@
         "de": "Lesung"
       },
       "text": {
-        "la": "Lectio Isaíæ Prophétæ In diébus illis: Locútus est Dóminus ad Achaz, dicens: Pete tibi signum a Dómino, Deo tuo, in profúndum inférni, sive in excélsum supra. Et dixit Achaz: Non petam et non tentábo Dóminum. Et dixit: Audíte ergo, domus David: Numquid parum vobis est, moléstos esse homínibus, quia molesti estis et Deo meo? Propter hoc dabit Dóminus ipse vobis signum. Ecce, Virgo concípiet et páriet fílium, et vocábitur nomen ejus Emmánuel. Butýrum et mel cómedet, ut sciat reprobare malum et elígere bonum."
+        "la": "Lectio Isaíæ Prophétæ In diébus illis: Locútus est Dóminus ad Achaz, dicens: Pete tibi signum a Dómino, Deo tuo, in profúndum inférni, sive in excélsum supra. Et dixit Achaz: Non petam et non tentábo Dóminum. Et dixit: Audíte ergo, domus David: Numquid parum vobis est, moléstos esse homínibus, quia molesti estis et Deo meo? Propter hoc dabit Dóminus ipse vobis signum. Ecce, Virgo concípiet et páriet fílium, et vocábitur nomen ejus Emmánuel. Butýrum et mel cómedet, ut sciat reprobare malum et elígere bonum.",
+        "de": "Lesung aus dem Propheten Isaias. In jenen Tagen sprach der Herr zu Achaz und sagte: Erbitte dir ein Zeichen vom Herrn, deinem Gott, in der Tiefe der Unterwelt oder droben in der Höhe. Und Achaz sprach: Ich will nichts erbitten und den Herrn nicht versuchen. Und er sprach: So höret denn, ihr vom Hause Davids: Ist es euch nicht genug, den Menschen lästig zu fallen, dass ihr auch meinem Gott lästig fallet? Darum wird der Herr selbst euch ein Zeichen geben: Siehe, eine Jungfrau wird empfangen und einen Sohn gebären, und man wird ihn Emmanuel nennen. Butter und Honig wird er essen, dass er das Böse zu verwerfen und das Gute zu erwählen wisse."
       },
       "reference": {
         "la": "Is 7:10-15",
@@ -63,7 +66,8 @@
         "de": "Graduale"
       },
       "text": {
-        "la": "Speciósus forma præ fíliis hóminum: diffúsa est grátia in lábiis tuis. Eructávit cor meum verbum bonum: dico ego ópera mea Regi: lingua mea cálamus scribæ velóciter scribéntis. Allelúja, allelúja. Post partum, Virgo, invioláta permansísti: Dei Génetrix, intercéde pro nobis. Allelúja."
+        "la": "Speciósus forma præ fíliis hóminum: diffúsa est grátia in lábiis tuis. Eructávit cor meum verbum bonum: dico ego ópera mea Regi: lingua mea cálamus scribæ velóciter scribéntis. Allelúja, allelúja. Post partum, Virgo, invioláta permansísti: Dei Génetrix, intercéde pro nobis. Allelúja.",
+        "de": "Schön bist du an Gestalt vor den Menschenkindern; Anmut ist ausgegossen über deine Lippen. Mein Herz strömt über von einem guten Worte; ich weihe meine Werke dem Könige; meine Zunge ist der Griffel eines flink schreibenden Schreibers. Alleluja, alleluja. Nach der Geburt, o Jungfrau, bliebst du unversehrt; Gottesgebärerin, tritt für uns ein. Alleluja."
       },
       "reference": {
         "la": "Ps 44:3; 44:2",
@@ -81,7 +85,8 @@
         "de": "Traktus"
       },
       "text": {
-        "la": "Diffúsa est grátia in lábiis tuis: proptérea benedíxit te Deus in ætérnum. Propter veritátem et mansuetúdinem et justítiam: et dedúcet te mirabíliter déxtera tua. _ Audi, fília, et vide, et inclína aurem tuam: quia concupívit Rex spéciem tuam. Vultum tuum deprecabúntur omnes dívites plebis: fíliæ regum in honóre tuo. Adducéntur Regi Vírgines post eam: próximæ ejus afferéntur tibi. Adducéntur in lætítia et exsultatióne: adducéntur in templum Regis."
+        "la": "Diffúsa est grátia in lábiis tuis: proptérea benedíxit te Deus in ætérnum. Propter veritátem et mansuetúdinem et justítiam: et dedúcet te mirabíliter déxtera tua. _ Audi, fília, et vide, et inclína aurem tuam: quia concupívit Rex spéciem tuam. Vultum tuum deprecabúntur omnes dívites plebis: fíliæ regum in honóre tuo. Adducéntur Regi Vírgines post eam: próximæ ejus afferéntur tibi. Adducéntur in lætítia et exsultatióne: adducéntur in templum Regis.",
+        "de": "Anmut ist ausgegossen über deine Lippen; darum hat Gott dich gesegnet in Ewigkeit. Um der Wahrheit und Sanftmut und Gerechtigkeit willen wird deine Rechte dich wunderbar geleiten. Höre, Tochter, und sieh und neige dein Ohr; denn der König hat Verlangen nach deiner Schönheit. Dein Angesicht suchen alle Reichen des Volkes; Königstöchter sind zu deiner Ehre da. Jungfrauen werden dem Könige nachgeführt; ihre Gefährtinnen werden dir zugeführt. Sie werden geführt in Freude und Frohlocken; sie werden geführt in den Tempel des Königs."
       },
       "reference": {
         "la": "Ps 44:3 et 5; Tractus; Ps 44:11 et 12; Ps 44:13 et 10; Ps 44:15-16",
@@ -99,7 +104,8 @@
         "de": "Evangelium"
       },
       "text": {
-        "la": "Sequéntia ++ sancti Evangélii secundum Lucam In illo tempore: Missus est Angelus Gábriel a Deo in civitatem Galilǽæ, cui nomen Názareth, ad Vírginem desponsátam viro, cui nomen erat Joseph, de domo David, et nomen Vírginis María. Et ingréssus Angelus ad eam, dixit: Ave, grátia plena; Dóminus tecum: benedícta tu in muliéribus. Quæ cum audísset, turbáta est in sermóne ejus: et cogitábat, qualis esset ista salutátio. Et ait Angelus ei: Ne tímeas, María, invenísti enim grátiam apud Deum: ecce, concípies in útero, et páries fílium, et vocábis nomen ejus Jesum. Hic erit magnus, et Fílius Altíssimi vocábitur, et dabit illi Dóminus Deus sedem David, patris ejus: et regnábit in domo Jacob in ætérnum, et regni ejus non erit finis. Dixit autem María ad Angelum: Quómodo fiet istud, quóniam virum non cognósco? Et respóndens Angelus, dixit ei: Spíritus Sanctus supervéniet in te, et virtus Altíssimi obumbrábit tibi. Ideóque et quod nascétur ex te Sanctum, vocábitur Fílius Dei. Et ecce, Elísabeth, cognáta tua, et ipsa concépit fílium in senectúte sua: et hic mensis sextus est illi, quæ vocátur stérilis: quia non erit impossíbile apud Deum omne verbum. Dixit autem María: Ecce ancílla Dómini, fiat mihi secúndum verbum tuum."
+        "la": "Sequéntia ++ sancti Evangélii secundum Lucam In illo tempore: Missus est Angelus Gábriel a Deo in civitatem Galilǽæ, cui nomen Názareth, ad Vírginem desponsátam viro, cui nomen erat Joseph, de domo David, et nomen Vírginis María. Et ingréssus Angelus ad eam, dixit: Ave, grátia plena; Dóminus tecum: benedícta tu in muliéribus. Quæ cum audísset, turbáta est in sermóne ejus: et cogitábat, qualis esset ista salutátio. Et ait Angelus ei: Ne tímeas, María, invenísti enim grátiam apud Deum: ecce, concípies in útero, et páries fílium, et vocábis nomen ejus Jesum. Hic erit magnus, et Fílius Altíssimi vocábitur, et dabit illi Dóminus Deus sedem David, patris ejus: et regnábit in domo Jacob in ætérnum, et regni ejus non erit finis. Dixit autem María ad Angelum: Quómodo fiet istud, quóniam virum non cognósco? Et respóndens Angelus, dixit ei: Spíritus Sanctus supervéniet in te, et virtus Altíssimi obumbrábit tibi. Ideóque et quod nascétur ex te Sanctum, vocábitur Fílius Dei. Et ecce, Elísabeth, cognáta tua, et ipsa concépit fílium in senectúte sua: et hic mensis sextus est illi, quæ vocátur stérilis: quia non erit impossíbile apud Deum omne verbum. Dixit autem María: Ecce ancílla Dómini, fiat mihi secúndum verbum tuum.",
+        "de": "Fortsetzung des heiligen Evangeliums nach Lukas. In jener Zeit wurde der Engel Gabriel von Gott in eine Stadt in Galiläa namens Nazareth gesandt zu einer Jungfrau, die einem Manne namens Joseph aus dem Hause Davids verlobt war; und der Name der Jungfrau war Maria. Und der Engel trat bei ihr ein und sprach: Gegrüßet seist du, voll der Gnade; der Herr ist mit dir; du bist gebenedeit unter den Frauen. Als sie das hörte, erschrak sie über seine Rede und überlegte, was das für ein Gruß sei. Und der Engel sprach zu ihr: Fürchte dich nicht, Maria, denn du hast Gnade gefunden bei Gott. Siehe, du wirst empfangen und einen Sohn gebären, und du sollst ihm den Namen Jesus geben. Dieser wird groß sein und Sohn des Allerhöchsten genannt werden, und Gott der Herr wird ihm den Thron seines Vaters David geben, und er wird herrschen über das Haus Jakob in Ewigkeit, und seines Reiches wird kein Ende sein. Maria aber sprach zum Engel: Wie soll das geschehen, da ich keinen Mann erkenne? Und der Engel antwortete und sprach zu ihr: Der Heilige Geist wird über dich kommen, und die Kraft des Allerhöchsten wird dich überschatten. Darum wird auch das Heilige, das aus dir geboren wird, Sohn Gottes genannt werden. Und siehe, Elisabeth, deine Verwandte, hat auch selbst einen Sohn empfangen in ihrem Alter, und dies ist schon der sechste Monat bei ihr, die unfruchtbar genannt wird; denn bei Gott ist kein Ding unmöglich. Maria aber sprach: Siehe, ich bin die Magd des Herrn; mir geschehe nach deinem Worte."
       },
       "reference": {
         "la": "Luc 1:26-38",
@@ -114,7 +120,8 @@
         "de": "Gabenvers"
       },
       "text": {
-        "la": "Ave, María, grátia plena; Dóminus tecum: benedícta tu in muliéribus, et benedíctus fructus ventris tui. (Allelúja.)"
+        "la": "Ave, María, grátia plena; Dóminus tecum: benedícta tu in muliéribus, et benedíctus fructus ventris tui. (Allelúja.)",
+        "de": "Gegrüßet seist du, Maria, voll der Gnade; der Herr ist mit dir; du bist gebenedeit unter den Frauen und gebenedeit ist die Frucht deines Leibes. (Alleluja.)"
       },
       "reference": {
         "la": "Luc 1:28 1:42",
@@ -132,7 +139,8 @@
         "de": "Stillgebet (Secreta)"
       },
       "text": {
-        "la": "In méntibus nostris, quǽsumus, Dómine, veræ fídei sacraménta confírma: ut, qui concéptum de Vírgine Deum verum et hóminem confitémur; per ejus salutíferæ resurrectiónis poténtiam, ad ætérnam mereámur perveníre lætítiam."
+        "la": "In méntibus nostris, quǽsumus, Dómine, veræ fídei sacraménta confírma: ut, qui concéptum de Vírgine Deum verum et hóminem confitémur; per ejus salutíferæ resurrectiónis poténtiam, ad ætérnam mereámur perveníre lætítiam.",
+        "de": "In unseren Herzen, wir bitten dich, o Herr, festige die Geheimnisse des wahren Glaubens, damit wir, die wir den von der Jungfrau Empfangenen als wahren Gott und Menschen bekennen, durch die Kraft seiner heilbringenden Auferstehung zur ewigen Freude zu gelangen verdienen."
       }
     },
     {
@@ -143,7 +151,8 @@
         "de": "Kommunionvers"
       },
       "text": {
-        "la": "Ecce, Virgo concípiet et páriet fílium: et vocábitur nomen ejus Emmánuel."
+        "la": "Ecce, Virgo concípiet et páriet fílium: et vocábitur nomen ejus Emmánuel.",
+        "de": "Siehe, eine Jungfrau wird empfangen und einen Sohn gebären, und man wird ihn Emmanuel nennen."
       },
       "reference": {
         "la": "Is 7:14",
@@ -161,7 +170,8 @@
         "de": "Schlussgebet"
       },
       "text": {
-        "la": "Grátiam tuam, quǽsumus, Dómine, méntibus nostris infúnde: ut qui, Angelo nuntiánte, Christi Fílii tui incarnatiónem cognóvimus; per passiónem ejus et crucem, ad resurrectiónis glóriam perducámur."
+        "la": "Grátiam tuam, quǽsumus, Dómine, méntibus nostris infúnde: ut qui, Angelo nuntiánte, Christi Fílii tui incarnatiónem cognóvimus; per passiónem ejus et crucem, ad resurrectiónis glóriam perducámur.",
+        "de": "Deine Gnade, wir bitten dich, o Herr, gieße in unsere Herzen ein, damit wir, die wir durch die Botschaft des Engels die Menschwerdung deines Sohnes Christus erkannt haben, durch sein Leiden und Kreuz zur Herrlichkeit der Auferstehung geführt werden."
       }
     }
   ]

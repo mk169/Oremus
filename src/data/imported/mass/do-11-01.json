@@ -1,7 +1,7 @@
 {
   "id": "do-11-01",
   "form": "1962",
-  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung des Proopriums folgt.",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung (eigene, gemeinfrei) ergänzt.",
   "day": {
     "title": {
       "la": "Omnium Sanctorum",
@@ -19,7 +19,8 @@
         "de": "Eröffnungsvers"
       },
       "text": {
-        "la": "Gaudeámus omnes in Dómino, diem festum celebrántes sub honóre Sanctórum ómnium: de quorum sollemnitáte gaudent Angeli et colláudant Fílium Dei. Exsultáte, justi, in Dómino: rectos decet collaudátio. Gaudeámus omnes in Dómino, diem festum celebrántes sub honóre Sanctórum ómnium: de quorum sollemnitáte gaudent Angeli et colláudant Fílium Dei."
+        "la": "Gaudeámus omnes in Dómino, diem festum celebrántes sub honóre Sanctórum ómnium: de quorum sollemnitáte gaudent Angeli et colláudant Fílium Dei. Exsultáte, justi, in Dómino: rectos decet collaudátio. Gaudeámus omnes in Dómino, diem festum celebrántes sub honóre Sanctórum ómnium: de quorum sollemnitáte gaudent Angeli et colláudant Fílium Dei.",
+        "de": "Lasset uns alle im Herrn frohlocken, da wir einen Festtag begehen zur Ehre aller Heiligen; über ihr Fest freuen sich die Engel und preisen den Sohn Gottes. Frohlocket, ihr Gerechten, im Herrn; den Redlichen ziemt der Lobgesang. Lasset uns alle im Herrn frohlocken, da wir einen Festtag begehen zur Ehre aller Heiligen; über ihr Fest freuen sich die Engel und preisen den Sohn Gottes."
       },
       "reference": {
         "la": "Ps 32:1",
@@ -37,7 +38,8 @@
         "de": "Tagesgebet"
       },
       "text": {
-        "la": "Omnípotens sempitérne Deus, qui nos ómnium Sanctórum tuórum mérita sub una tribuísti celebritáte venerári: quǽsumus; ut desiderátam nobis tuæ propitiatiónis abundántiam, multiplicátis intercessóribus, largiáris."
+        "la": "Omnípotens sempitérne Deus, qui nos ómnium Sanctórum tuórum mérita sub una tribuísti celebritáte venerári: quǽsumus; ut desiderátam nobis tuæ propitiatiónis abundántiam, multiplicátis intercessóribus, largiáris.",
+        "de": "Allmächtiger, ewiger Gott, du hast uns gegeben, die Verdienste aller deiner Heiligen in einem Feste zu verehren: Wir bitten dich, gewähre uns durch die vielen Fürsprecher die ersehnte Fülle deines Erbarmens."
       }
     },
     {
@@ -48,7 +50,8 @@
         "de": "Lesung"
       },
       "text": {
-        "la": "Léctio libri Apocalýpsis beáti Joánnis Apóstoli. In diébus illis: Ecce, ego Joánnes vidi álterum Angelum ascendéntem ab ortu solis, habéntem signum Dei vivi: et clamávit voce magna quátuor Angelis, quibus datum est nocére terræ et mari, dicens: Nolíte nocére terræ et mari neque arbóribus, quoadúsque signémus servos Dei nostri in fróntibus eórum. Et audívi númerum signatórum, centum quadragínta quátuor mília signáti, ex omni tribu filiórum Israël. Ex tribu Juda duódecim mília signáti. Ex tribu Ruben duódecim mília signáti. Ex tribu Gad duódecim mília signati. Ex tribu Aser duódecim mília signáti. Ex tribu Néphthali duódecim mília signáti. Ex tribu Manásse duódecim mília signáti. Ex tribu Símeon duódecim mília signáti. Ex tribu Levi duódecim mília signáti. Ex tribu Issachar duódecim mília signati. Ex tribu Zábulon duódecim mília signáti. Ex tribu Joseph duódecim mília signati. Ex tribu Bénjamin duódecim mília signáti. Post hæc vidi turbam magnam, quam dinumeráre nemo póterat, ex ómnibus géntibus et tríbubus et pópulis et linguis: stantes ante thronum et in conspéctu Agni, amícti stolis albis, et palmæ in mánibus eórum: et clamábant voce magna, dicéntes: Salus Deo nostro, qui sedet super thronum, et Agno. Et omnes Angeli stabant in circúitu throni et seniórum et quátuor animálium: et cecidérunt in conspéctu throni in fácies suas et adoravérunt Deum, dicéntes: Amen. Benedíctio et cláritas et sapiéntia et gratiárum áctio, honor et virtus et fortitúdo Deo nostro in sǽcula sæculórum. Amen."
+        "la": "Léctio libri Apocalýpsis beáti Joánnis Apóstoli. In diébus illis: Ecce, ego Joánnes vidi álterum Angelum ascendéntem ab ortu solis, habéntem signum Dei vivi: et clamávit voce magna quátuor Angelis, quibus datum est nocére terræ et mari, dicens: Nolíte nocére terræ et mari neque arbóribus, quoadúsque signémus servos Dei nostri in fróntibus eórum. Et audívi númerum signatórum, centum quadragínta quátuor mília signáti, ex omni tribu filiórum Israël. Ex tribu Juda duódecim mília signáti. Ex tribu Ruben duódecim mília signáti. Ex tribu Gad duódecim mília signati. Ex tribu Aser duódecim mília signáti. Ex tribu Néphthali duódecim mília signáti. Ex tribu Manásse duódecim mília signáti. Ex tribu Símeon duódecim mília signáti. Ex tribu Levi duódecim mília signáti. Ex tribu Issachar duódecim mília signati. Ex tribu Zábulon duódecim mília signáti. Ex tribu Joseph duódecim mília signati. Ex tribu Bénjamin duódecim mília signáti. Post hæc vidi turbam magnam, quam dinumeráre nemo póterat, ex ómnibus géntibus et tríbubus et pópulis et linguis: stantes ante thronum et in conspéctu Agni, amícti stolis albis, et palmæ in mánibus eórum: et clamábant voce magna, dicéntes: Salus Deo nostro, qui sedet super thronum, et Agno. Et omnes Angeli stabant in circúitu throni et seniórum et quátuor animálium: et cecidérunt in conspéctu throni in fácies suas et adoravérunt Deum, dicéntes: Amen. Benedíctio et cláritas et sapiéntia et gratiárum áctio, honor et virtus et fortitúdo Deo nostro in sǽcula sæculórum. Amen.",
+        "de": "Lesung aus der Offenbarung des heiligen Apostels Johannes. In jenen Tagen: Siehe, ich, Johannes, sah einen anderen Engel vom Aufgang der Sonne emporsteigen, der das Siegel des lebendigen Gottes hatte; und er rief mit lauter Stimme den vier Engeln zu, denen es gegeben war, der Erde und dem Meere zu schaden, und sprach: Schadet nicht der Erde und dem Meere noch den Bäumen, bis wir die Knechte unseres Gottes an ihren Stirnen versiegelt haben. Und ich hörte die Zahl der Versiegelten: hundertvierundvierzigtausend Versiegelte aus allen Stämmen der Söhne Israels. Aus dem Stamme Juda zwölftausend Versiegelte, aus dem Stamme Ruben zwölftausend Versiegelte, aus dem Stamme Gad zwölftausend Versiegelte, aus dem Stamme Aser zwölftausend Versiegelte, aus dem Stamme Nephthali zwölftausend Versiegelte, aus dem Stamme Manasse zwölftausend Versiegelte, aus dem Stamme Simeon zwölftausend Versiegelte, aus dem Stamme Levi zwölftausend Versiegelte, aus dem Stamme Issachar zwölftausend Versiegelte, aus dem Stamme Zabulon zwölftausend Versiegelte, aus dem Stamme Joseph zwölftausend Versiegelte, aus dem Stamme Benjamin zwölftausend Versiegelte. Danach sah ich eine große Schar, die niemand zählen konnte, aus allen Völkern und Stämmen und Nationen und Sprachen; sie standen vor dem Throne und vor dem Angesichte des Lammes, angetan mit weißen Gewändern und Palmen in ihren Händen; und sie riefen mit lauter Stimme: Das Heil ist bei unserem Gott, der auf dem Throne sitzt, und bei dem Lamme. Und alle Engel standen rings um den Thron und die Ältesten und die vier Wesen und fielen vor dem Throne auf ihr Angesicht und beteten Gott an und sprachen: Amen. Lob und Herrlichkeit und Weisheit und Danksagung, Ehre und Macht und Stärke sei unserem Gott von Ewigkeit zu Ewigkeit. Amen."
       },
       "reference": {
         "la": "Apoc 7:2-12",
@@ -63,7 +66,8 @@
         "de": "Graduale"
       },
       "text": {
-        "la": "Timéte Dóminum, omnes Sancti ejus: quóniam nihil deest timéntibus eum. Inquiréntes autem Dóminum, non defícient omni bono. Allelúja, allelúja. Veníte ad me, omnes, qui laborátis et oneráti estis: et ego refíciam vos. Allelúja."
+        "la": "Timéte Dóminum, omnes Sancti ejus: quóniam nihil deest timéntibus eum. Inquiréntes autem Dóminum, non defícient omni bono. Allelúja, allelúja. Veníte ad me, omnes, qui laborátis et oneráti estis: et ego refíciam vos. Allelúja.",
+        "de": "Fürchtet den Herrn, all ihr seine Heiligen; denn denen, die ihn fürchten, mangelt nichts. Die aber den Herrn suchen, werden keines Gutes ermangeln. Alleluja, alleluja. Kommet zu mir alle, die ihr mühselig und beladen seid, und ich will euch erquicken. Alleluja."
       },
       "reference": {
         "la": "Ps 33:10; 33:11; Matt 11:28",
@@ -81,7 +85,8 @@
         "de": "Traktus"
       },
       "text": {
-        "la": "Gloriósus Deus in Sanctis suis: mirábilis in majestáte, fáciens prodígia. Déxtera tua, Dómine, glorificáta est in virtúte: déxtera manus tua confrégit inimícos. Qui séminant in lácrimis, in gáudio metent. Eúntes ibant et flebant, mitténtes sémina sua. Veniéntes autem vénient cum exsultatióne, portántes manípulos suos."
+        "la": "Gloriósus Deus in Sanctis suis: mirábilis in majestáte, fáciens prodígia. Déxtera tua, Dómine, glorificáta est in virtúte: déxtera manus tua confrégit inimícos. Qui séminant in lácrimis, in gáudio metent. Eúntes ibant et flebant, mitténtes sémina sua. Veniéntes autem vénient cum exsultatióne, portántes manípulos suos.",
+        "de": "Herrlich ist Gott in seinen Heiligen, wunderbar in seiner Majestät, der Wunder wirkt. Deine Rechte, o Herr, ist verherrlicht in Kraft; deine rechte Hand hat die Feinde zerschmettert. Die mit Tränen säen, werden mit Freuden ernten. Weinend gingen sie hin und trugen ihre Saat; jauchzend aber werden sie kommen und ihre Garben tragen."
       },
       "reference": {
         "la": "Exod 15:11; Exod 15:6; Ps 125:5-6",
@@ -99,7 +104,8 @@
         "de": "Evangelium"
       },
       "text": {
-        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Videns Jesus turbas, ascéndit in montem, et cum sedísset, accessérunt ad eum discípuli ejus, et apériens os suum, docébat eos, dicens: Beáti páuperes spíritu: quóniam ipsórum est regnum cœlórum. Beáti mites: quóniam ipsi possidébunt terram. Beáti, qui lugent: quóniam ipsi consolabúntur. Beáti, qui esúriunt et sítiunt justítiam: quóniam ipsi saturabúntur. Beáti misericórdes: quóniam ipsi misericórdiam consequántur. Beáti mundo corde: quóniam ipsi Deum vidébunt. Beáti pacífici: quóniam fílii Dei vocabúntur. Beáti, qui persecutiónem patiúntur propter justítiam: quóniam ipsórum est regnum cœlórum. Beáti estis, cum maledíxerint vobis et persecúti vos fúerint, et díxerint omne malum advérsum vos, mentiéntes, propter me: gaudete et exsultáte, quóniam merces vestra copiósa est in cœlis."
+        "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum In illo témpore: Videns Jesus turbas, ascéndit in montem, et cum sedísset, accessérunt ad eum discípuli ejus, et apériens os suum, docébat eos, dicens: Beáti páuperes spíritu: quóniam ipsórum est regnum cœlórum. Beáti mites: quóniam ipsi possidébunt terram. Beáti, qui lugent: quóniam ipsi consolabúntur. Beáti, qui esúriunt et sítiunt justítiam: quóniam ipsi saturabúntur. Beáti misericórdes: quóniam ipsi misericórdiam consequántur. Beáti mundo corde: quóniam ipsi Deum vidébunt. Beáti pacífici: quóniam fílii Dei vocabúntur. Beáti, qui persecutiónem patiúntur propter justítiam: quóniam ipsórum est regnum cœlórum. Beáti estis, cum maledíxerint vobis et persecúti vos fúerint, et díxerint omne malum advérsum vos, mentiéntes, propter me: gaudete et exsultáte, quóniam merces vestra copiósa est in cœlis.",
+        "de": "Fortsetzung des heiligen Evangeliums nach Matthäus. In jener Zeit, als Jesus die Scharen sah, stieg er auf einen Berg; und als er sich gesetzt hatte, traten seine Jünger zu ihm. Und er tat seinen Mund auf, lehrte sie und sprach: Selig die Armen im Geiste, denn ihrer ist das Himmelreich. Selig die Sanftmütigen, denn sie werden das Land besitzen. Selig, die Leid tragen, denn sie werden getröstet werden. Selig, die hungern und dürsten nach der Gerechtigkeit, denn sie werden gesättigt werden. Selig die Barmherzigen, denn sie werden Barmherzigkeit erlangen. Selig, die reinen Herzens sind, denn sie werden Gott schauen. Selig die Friedfertigen, denn sie werden Kinder Gottes genannt werden. Selig, die Verfolgung leiden um der Gerechtigkeit willen, denn ihrer ist das Himmelreich. Selig seid ihr, wenn man euch schmäht und verfolgt und alles Böse lügnerisch gegen euch redet um meinetwillen: Freuet euch und frohlocket, denn euer Lohn ist groß im Himmel."
       },
       "reference": {
         "la": "Matt 5:1-12",
@@ -114,7 +120,8 @@
         "de": "Gabenvers"
       },
       "text": {
-        "la": "Justórum ánimæ in manu Dei sunt, et non tanget illos torméntum malítiæ: visi sunt óculis insipiéntium mori: illi autem sunt in pace, allelúja. (sed post Septuagesimam dicitur) pace."
+        "la": "Justórum ánimæ in manu Dei sunt, et non tanget illos torméntum malítiæ: visi sunt óculis insipiéntium mori: illi autem sunt in pace, allelúja. (sed post Septuagesimam dicitur) pace.",
+        "de": "Die Seelen der Gerechten sind in der Hand Gottes, und keine Qual der Bosheit wird sie berühren; in den Augen der Toren schienen sie zu sterben, sie aber sind im Frieden, alleluja."
       },
       "reference": {
         "la": "Sap 3:1-3",
@@ -132,7 +139,8 @@
         "de": "Stillgebet (Secreta)"
       },
       "text": {
-        "la": "Múnera tibi, Dómine, nostra devotiónis offérimus: quæ et pro tuórum tibi grata sint honóre Justórum, et nobis salutária, te miseránte, reddántur."
+        "la": "Múnera tibi, Dómine, nostra devotiónis offérimus: quæ et pro tuórum tibi grata sint honóre Justórum, et nobis salutária, te miseránte, reddántur.",
+        "de": "Die Gaben unserer Hingabe bringen wir dir dar, o Herr; sie mögen dir zur Ehre deiner Heiligen wohlgefällig sein und uns durch dein Erbarmen zum Heile gereichen."
       }
     },
     {
@@ -143,7 +151,8 @@
         "de": "Kommunionvers"
       },
       "text": {
-        "la": "Beáti mundo corde, quóniam ipsi Deum vidébunt; beáti pacífici, quóniam filii Dei vocabúntur: beáti, qui persecutiónem patiúntur propter justítiam, quóniam ipsórum est regnum cœlórum."
+        "la": "Beáti mundo corde, quóniam ipsi Deum vidébunt; beáti pacífici, quóniam filii Dei vocabúntur: beáti, qui persecutiónem patiúntur propter justítiam, quóniam ipsórum est regnum cœlórum.",
+        "de": "Selig, die reinen Herzens sind, denn sie werden Gott schauen; selig die Friedfertigen, denn sie werden Kinder Gottes genannt werden; selig, die Verfolgung leiden um der Gerechtigkeit willen, denn ihrer ist das Himmelreich."
       },
       "reference": {
         "la": "Matt 5:8-10",
@@ -161,7 +170,8 @@
         "de": "Schlussgebet"
       },
       "text": {
-        "la": "Da, quǽsumus, Dómine, fidélibus pópulis ómnium Sanctórum semper veneratióne lætári: et eórum perpétua supplicatióne muníri."
+        "la": "Da, quǽsumus, Dómine, fidélibus pópulis ómnium Sanctórum semper veneratióne lætári: et eórum perpétua supplicatióne muníri.",
+        "de": "Gib, wir bitten dich, o Herr, deinen gläubigen Völkern, sich allezeit der Verehrung aller Heiligen zu erfreuen und durch ihr beständiges Flehen beschützt zu werden."
       }
     }
   ]
