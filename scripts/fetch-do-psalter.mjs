@@ -357,16 +357,62 @@ async function psalmSection(prefix, idx, antLa, antDe, refToken) {
 }
 
 // Symbolum S. Athanasii (Quicumque) – bei der Prim an Sonntagen. In den DO-Daten
-// ist es „Psalm 234" (ohne Versnummern; eine echte deutsche Fassung fehlt bei DO,
-// daher zunächst nur Latein). Die abschließende Doxologie wird ergänzt.
+// ist es „Psalm 234" (ohne Versnummern). Eine deutsche Fassung fehlt bei DO; die
+// folgende, gemeinfreie Übersetzung ist Vers für Vers zum Latein ausgerichtet.
+const ATHANASIAN_DE = [
+  'Wer selig werden will, * muss vor allem den katholischen Glauben festhalten.',
+  'Wer diesen nicht unversehrt und unverletzt bewahrt, * wird ohne Zweifel ewig verloren gehen.',
+  'Der katholische Glaube aber ist dieser: * dass wir den einen Gott in der Dreifaltigkeit und die Dreifaltigkeit in der Einheit verehren;',
+  'ohne die Personen zu vermengen * und ohne das Wesen zu trennen.',
+  'Denn eine andere ist die Person des Vaters, eine andere die des Sohnes, * eine andere die des Heiligen Geistes.',
+  'Aber des Vaters und des Sohnes und des Heiligen Geistes ist eine einzige Gottheit, * gleiche Herrlichkeit, gleich ewige Majestät.',
+  'Wie der Vater, so der Sohn, * so der Heilige Geist.',
+  'Ungeschaffen der Vater, ungeschaffen der Sohn, * ungeschaffen der Heilige Geist.',
+  'Unermesslich der Vater, unermesslich der Sohn, * unermesslich der Heilige Geist.',
+  'Ewig der Vater, ewig der Sohn, * ewig der Heilige Geist.',
+  'Und dennoch nicht drei Ewige, * sondern ein Ewiger.',
+  'Wie auch nicht drei Ungeschaffene noch drei Unermessliche, * sondern ein Ungeschaffener und ein Unermesslicher.',
+  'Ebenso ist allmächtig der Vater, allmächtig der Sohn, * allmächtig der Heilige Geist.',
+  'Und dennoch nicht drei Allmächtige, * sondern ein Allmächtiger.',
+  'So ist Gott der Vater, Gott der Sohn, * Gott der Heilige Geist.',
+  'Und dennoch nicht drei Götter, * sondern ein Gott ist es.',
+  'So ist Herr der Vater, Herr der Sohn, * Herr der Heilige Geist.',
+  'Und dennoch nicht drei Herren, * sondern ein Herr ist es.',
+  'Denn wie wir durch die christliche Wahrheit gedrängt werden, jede einzelne Person für sich als Gott und Herrn zu bekennen, * so verbietet uns die katholische Religion, drei Götter oder Herren zu nennen.',
+  'Der Vater ist von niemandem gemacht, * weder geschaffen noch gezeugt.',
+  'Der Sohn ist vom Vater allein, * nicht gemacht, nicht geschaffen, sondern gezeugt.',
+  'Der Heilige Geist ist vom Vater und vom Sohne, * nicht gemacht, nicht geschaffen, nicht gezeugt, sondern hervorgehend.',
+  'Es ist also ein Vater, nicht drei Väter; ein Sohn, nicht drei Söhne; * ein Heiliger Geist, nicht drei Heilige Geister.',
+  'Und in dieser Dreifaltigkeit ist nichts früher oder später, nichts größer oder kleiner, * sondern alle drei Personen sind einander gleich ewig und gleich.',
+  'So dass in allem, wie schon oben gesagt wurde, * sowohl die Einheit in der Dreifaltigkeit als auch die Dreifaltigkeit in der Einheit zu verehren ist.',
+  'Wer also selig werden will, * der denke so über die Dreifaltigkeit.',
+  'Doch ist es zum ewigen Heile notwendig, * dass er auch die Menschwerdung unseres Herrn Jesus Christus treu glaube.',
+  'Es ist also der rechte Glaube, dass wir glauben und bekennen, * dass unser Herr Jesus Christus, der Sohn Gottes, Gott und Mensch ist.',
+  'Gott ist er, aus dem Wesen des Vaters vor den Zeiten gezeugt, * und Mensch, aus dem Wesen der Mutter in der Zeit geboren.',
+  'Vollkommener Gott, vollkommener Mensch, * bestehend aus vernünftiger Seele und menschlichem Fleisch.',
+  'Dem Vater gleich nach der Gottheit, * geringer als der Vater nach der Menschheit.',
+  'Obwohl er Gott ist und Mensch, * ist er dennoch nicht zwei, sondern ein Christus.',
+  'Einer aber, nicht durch Verwandlung der Gottheit in Fleisch, * sondern durch Aufnahme der Menschheit in Gott.',
+  'Durchaus einer, nicht durch Vermischung des Wesens, * sondern durch Einheit der Person.',
+  'Denn wie vernünftige Seele und Fleisch ein Mensch sind, * so sind Gott und Mensch ein Christus.',
+  'Er hat gelitten für unser Heil, ist hinabgestiegen zu der Unterwelt, * am dritten Tage auferstanden von den Toten.',
+  'Er ist aufgestiegen zum Himmel, sitzt zur Rechten Gottes, des allmächtigen Vaters, * von dort wird er kommen, zu richten die Lebenden und die Toten.',
+  'Bei seiner Ankunft müssen alle Menschen auferstehen mit ihren Leibern * und Rechenschaft ablegen über ihre eigenen Taten.',
+  'Und die Gutes getan haben, werden in das ewige Leben eingehen, * die aber Böses taten, in das ewige Feuer.',
+  'Dies ist der katholische Glaube; * wer ihn nicht treu und fest glaubt, kann nicht selig werden.',
+]
+
 async function athanasianSection(prefix) {
   const raw = await fetchText('Latin/Psalterium/Psalmorum/Psalm234.txt')
   if (!raw) return null
-  const lines = raw
+  const la = raw
     .split(/\r?\n/)
     .map((l) => l.trim())
     .filter((l) => l && !/^\(/.test(l)) // Kopfzeile „(Canticum Quicumque …)" entfernen
-  lines.push(GLORIA.la)
+  // Deutsch Vers für Vers ausrichten; nur bei exakter Zeilenzahl übernehmen.
+  const de = la.length === ATHANASIAN_DE.length ? [...ATHANASIAN_DE] : []
+  la.push(GLORIA.la)
+  if (de.length) de.push(GLORIA.de)
   return {
     id: `${prefix}-quicumque`,
     kind: 'proprium',
@@ -374,9 +420,9 @@ async function athanasianSection(prefix) {
     reference: bilingual('Quicúmque', 'Quicumque'),
     rubric: bilingual(
       'Ad Primam diebus dominicis (juxta antiquiorem usum; secundum rubricas 1960 in festo Ss. Trinitatis)',
-      'Bei der Prim an den Sonntagen (nach älterem Brauch; nach den Rubriken von 1960 am Dreifaltigkeitssonntag). Deutsche Übersetzung folgt.',
+      'Bei der Prim an den Sonntagen (nach älterem Brauch; nach den Rubriken von 1960 am Dreifaltigkeitssonntag).',
     ),
-    text: bilingual(lines.join('\n'), ''),
+    text: bilingual(la.join('\n'), de.join('\n')),
   }
 }
 
