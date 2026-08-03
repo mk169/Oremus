@@ -1,3 +1,183 @@
+/* Direktzugang: Tagesmesse nach Datum. */
+.mass-today {
+  margin-bottom: 1.8rem;
+  padding: 1.1rem 1.2rem;
+  background: var(--surface-raised);
+  border: 1px solid var(--surface-line);
+  border-left: 3px solid var(--gold);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-raised);
+}
+
+.mass-today__nav {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin-bottom: 0.8rem;
+  flex-wrap: wrap;
+}
+
+.mass-today__nav button {
+  min-width: 2.2rem;
+  height: 2.2rem;
+  padding: 0 0.7rem;
+  border: 1px solid var(--surface-line);
+  border-radius: var(--radius);
+  background: var(--surface);
+  color: var(--accent);
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: border-color 0.15s ease;
+}
+
+.mass-today__nav button:hover {
+  border-color: var(--gold);
+}
+
+.mass-today__now {
+  font-size: 0.95rem !important;
+}
+
+.mass-today__date-input {
+  margin-left: auto;
+  padding: 0.35rem 0.5rem;
+  border: 1px solid var(--surface-line);
+  border-radius: var(--radius);
+  background: var(--surface);
+  color: var(--text);
+  font-family: var(--font-body);
+}
+
+.mass-today__head {
+  display: flex;
+  gap: 0.7rem;
+  align-items: flex-start;
+}
+
+.mass-today__dot {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  flex: 0 0 auto;
+  margin-top: 0.4rem;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+.mass-today__date {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin: 0;
+}
+
+.mass-today__title {
+  font-size: 1.55rem;
+  border: none;
+  padding: 0;
+  margin: 0.1rem 0 0;
+}
+
+.mass-today__la {
+  color: var(--gold);
+  font-size: 0.9rem;
+  font-weight: 400;
+}
+
+.mass-today__meta {
+  color: var(--text-muted);
+  font-style: italic;
+  font-size: 0.9rem;
+  margin: 0.15rem 0 0;
+}
+
+.mass-today__comm {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  margin: 0.25rem 0 0;
+}
+
+.mass-today__cta {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.6rem 1rem;
+  background: var(--oxblood);
+  color: var(--gold);
+  border-radius: var(--radius);
+  font-family: var(--font-display);
+  font-size: 1.05rem;
+  transition: filter 0.15s ease;
+}
+
+.mass-today__cta:hover {
+  filter: brightness(1.12);
+}
+
+.mass-today__cta--muted {
+  background: var(--surface);
+  color: var(--accent);
+  border: 1px solid var(--surface-line);
+  font-size: 0.98rem;
+}
+
+.mass-today__fallback {
+  margin-top: 0.9rem;
+}
+
+.mass-today__fallback p {
+  color: var(--text-muted);
+  font-style: italic;
+  margin: 0 0 0.2rem;
+}
+
+/* Verzeichnis-Suche. */
+.mass-search {
+  width: 100%;
+  padding: 0.7rem 0.9rem;
+  margin: 0.4rem 0 1rem;
+  border: 1px solid var(--surface-line);
+  border-radius: var(--radius);
+  background: var(--surface-raised);
+  color: var(--text);
+  font-family: var(--font-body);
+  font-size: 1rem;
+}
+
+.mass-search:focus {
+  outline: none;
+  border-color: var(--gold);
+}
+
+/* Einklappbare Asperges. */
+.asperges-details {
+  border: 1px solid var(--surface-line);
+  border-radius: var(--radius);
+  background: var(--surface-raised);
+  margin: 0 0 1.6rem;
+  padding: 0 0.9rem;
+}
+
+.asperges-details__summary {
+  cursor: pointer;
+  padding: 0.7rem 0;
+  color: var(--accent);
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  list-style: none;
+}
+
+.asperges-details__summary::-webkit-details-marker { display: none; }
+.asperges-details__summary::before {
+  content: '▸';
+  color: var(--gold);
+  font-size: 0.8rem;
+  margin-right: 0.5rem;
+  display: inline-block;
+  transition: transform 0.15s ease;
+}
+.asperges-details[open] .asperges-details__summary::before { transform: rotate(90deg); }
+
 .form-choice {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
