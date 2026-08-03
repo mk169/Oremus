@@ -8,6 +8,8 @@ import {
   gratiarumActioPrayers,
   allgemeineGebete,
 } from '../../data/prayers/liturgyPrayers'
+import { psalmiAnteMissam } from '../../data/prayers/psalmi'
+import { gewissenserforschung } from '../../data/prayers/examen'
 import type { Prayer } from '../../data/types'
 import './PrayersHub.css'
 
@@ -23,8 +25,8 @@ const GROUPS: Record<string, Group> = {
   vorbereitung: {
     title: 'Vorbereitung vor der Messe',
     latin: 'Praeparatio ad Missam',
-    subtitle: 'Gebete zur Vorbereitung auf das heilige Messopfer.',
-    prayers: praeparatioPrayers,
+    subtitle: 'Die überlieferten Psalmen und Gebete zur Vorbereitung auf das heilige Messopfer.',
+    prayers: [...psalmiAnteMissam, ...praeparatioPrayers],
   },
   kommunion: {
     title: 'Kommuniongebet',
@@ -41,8 +43,15 @@ const GROUPS: Record<string, Group> = {
   allgemein: {
     title: 'Allgemeine Gebete',
     latin: 'Orationes communes',
+    subtitle: 'Die klassischen Grundgebete – Kreuzzeichen, Vaterunser, Ave Maria, Glaubensbekenntnis, marianische Antiphonen und die Lobgesänge (Magnificat, Benedictus, Te Deum …).',
     prayers: allgemeineGebete,
     empty: 'Diese Sammlung wird noch ergänzt.',
+  },
+  gewissenserforschung: {
+    title: 'Gewissenserforschung',
+    latin: 'Examen conscientiae',
+    subtitle: 'Zur Vorbereitung auf die heilige Beichte und zur täglichen Selbstprüfung – nach den Zehn Geboten, den Seligpreisungen, der Bergpredigt und den Werken der Barmherzigkeit.',
+    prayers: gewissenserforschung,
   },
 }
 
@@ -72,7 +81,7 @@ export function PrayerGroupPage() {
           {group.prayers.map((p) => (
             <SectionRenderer
               key={p.id}
-              section={{ id: p.id, kind: 'ordinarium', title: p.title, text: p.text, rubric: p.rubric }}
+              section={{ id: p.id, kind: 'ordinarium', title: p.title, text: p.text, rubric: p.rubric, reference: p.reference }}
             />
           ))}
         </>

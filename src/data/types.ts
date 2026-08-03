@@ -123,6 +123,8 @@ export interface Prayer {
   title: BilingualText
   text: BilingualText
   rubric?: BilingualText
+  /** Optionale Quellenangabe, z.B. „Lk 1,46–55" oder „Mt 5,3–10". */
+  reference?: BilingualText
 }
 
 /** Novene über neun Tage. */
@@ -136,6 +138,8 @@ export interface NovenaDay {
 export interface Novena {
   id: string
   title: BilingualText
+  /** Kurzer Untertitel für Übersicht/Kachel (z.B. Anlass oder Festbezug). */
+  subtitle?: BilingualText
   intro: BilingualText
   /** Gebet, das an jedem Tag gebetet wird. */
   dailyPrayer: Prayer

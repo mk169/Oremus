@@ -88,7 +88,7 @@ export function Dashboard() {
         <Tile to="/gebete" title="Gebete" latin="Orationes" description="Gebete zur Messe, Rosenkranz und meditatives Gebet" icon={<CrossIcon size={26} />} />
         <Tile to="/liturgie" title="Liturgie" latin="Missale Romanum" description="Römisches Messbuch 1962 – Ordinarium, Proprium, Kyriale" icon={<ChaliceIcon size={26} />} />
         <Tile to="/brevier" title="Brevier" latin="Liturgia Horarum" description="Stundengebet – 1962 und neu, Latein/Deutsch" icon={<BookIcon size={26} />} />
-        <Tile to="/novene" title="Novenen" latin="Novenæ" description="Neuntägige Andachten – wird ergänzt" icon={<CandleIcon size={26} />} />
+        <Tile to="/novene" title="Novenen" latin="Novenæ" description="Neuntägige Andachten – Herz Jesu, Heiliger Geist, Maria, hl. Josef, Weihnachten" icon={<CandleIcon size={26} />} />
         <Tile to="/kalender" title="Kirchenjahr" latin="Calendarium" description="Liturgischer Kalender – heute und die nächsten Tage" icon={<BookIcon size={26} />} />
       </div>
     </div>
