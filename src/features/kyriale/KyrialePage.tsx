@@ -66,14 +66,27 @@ export function KyrialePage() {
             gemeinfreien GregoBase-Korpus. Einzelne, erst nach 2019 ergänzte Melodien fehlen
             noch (die GregoBase-ID ist hinterlegt).
           </p>
-          <div className="ky-mass-select" role="tablist" aria-label="Messe">
+          <label className="ky-mass-dropdown">
+            <span className="ky-mass-dropdown__label">Choral-Messe wählen</span>
+            <select value={massId} onChange={(e) => setMassId(e.target.value)}>
+              {kyrialeMasses.map((m) => (
+                <option key={m.id} value={m.id}>
+                  Missa {m.number}
+                  {m.name ? ` – ${m.name}` : ' – Ferialton'}
+                  {m.season ? ` (${m.season})` : ''}
+                </option>
+              ))}
+            </select>
+          </label>
+          <div className="ky-mass-select" role="tablist" aria-label="Messe (Schnellwahl)">
             {kyrialeMasses.map((m) => (
               <button
                 key={m.id}
+                role="tab"
                 className={m.id === massId ? 'is-active' : ''}
                 aria-selected={m.id === massId}
                 onClick={() => setMassId(m.id)}
-                title={m.name || 'Ferialton'}
+                title={`Missa ${m.number}${m.name ? ' – ' + m.name : ''}`}
               >
                 {m.number}
               </button>

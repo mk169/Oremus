@@ -1,4 +1,4 @@
-import { Fragment } from 'react'
+import { Fragment, type CSSProperties } from 'react'
 import { PageHeader } from '../../components/PageHeader'
 import { SettingsPanel } from '../../components/SettingsPanel'
 import { SectionRenderer } from '../../components/SectionRenderer'
@@ -11,6 +11,23 @@ interface Props {
   subtitle?: string
   /** Auswahl von Ordinarium und Credo anbieten (für die Messen). */
   showOrdinary?: boolean
+}
+
+const COLOR_VAR: Record<string, string> = {
+  green: 'var(--season-green)',
+  violet: 'var(--season-violet)',
+  red: 'var(--season-red)',
+  white: 'var(--season-white)',
+  rose: 'var(--season-rose)',
+  black: 'var(--season-black)',
+}
+const COLOR_LABEL: Record<string, string> = {
+  green: 'grün',
+  violet: 'violett',
+  red: 'rot',
+  white: 'weiß',
+  rose: 'rosa',
+  black: 'schwarz',
 }
 
 // Logische Blöcke des Ordo Missae. Beginnt ein Abschnitt mit einer dieser
@@ -29,14 +46,32 @@ const PHASE_BY_START = new Map(PHASES.map((p) => [p.start, p]))
 export function MassArticle({ mass, subtitle, showOrdinary }: Props) {
   // Block-Gliederung nur beim vollständigen Ordo (erkennbar am Stufengebet).
   const usePhases = mass.sections.some((s) => s.id === 'signum-crucis')
+  const color = mass.day.color
+  const colorVar = color ? COLOR_VAR[color] : undefined
 
   return (
-    <article>
+    <article
+      className="mass-article"
+      style={colorVar ? ({ ['--mass-color' as string]: colorVar } as CSSProperties) : undefined}
+    >
+      <div className="mass-colorbar" aria-hidden />
       <PageHeader
         title={mass.day.title.de ?? mass.day.title.la ?? 'Heilige Messe'}
         latin={mass.day.title.la}
         subtitle={subtitle}
       />
+      {(mass.day.rank || color) && (
+        <div className="mass-meta">
+          {color && (
+            <span className="mass-meta__color">
+              <span className="mass-meta__dot" style={{ background: colorVar }} aria-hidden />
+              {COLOR_LABEL[color] ?? color}
+            </span>
+          )}
+          {mass.day.rank && <span className="mass-meta__rank">{mass.day.rank}</span>}
+        </div>
+      )}
+
       <SettingsPanel sections={mass.sections} showOrdinary={showOrdinary} />
       {mass.sections.map((s) => {
         const phase = usePhases ? PHASE_BY_START.get(s.id) : undefined

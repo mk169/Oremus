@@ -29,11 +29,41 @@
   font-size: 0.95rem;
 }
 
+.ky-mass-dropdown {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  margin: 0.8rem 0 0.4rem;
+}
+
+.ky-mass-dropdown__label {
+  font-variant: small-caps;
+  letter-spacing: 0.05em;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+}
+
+.ky-mass-dropdown select {
+  padding: 0.55rem 0.7rem;
+  border: 1px solid var(--surface-line);
+  border-radius: var(--radius);
+  background: var(--surface-raised);
+  color: var(--text);
+  font-family: var(--font-body);
+  font-size: 1rem;
+  max-width: 100%;
+}
+
+.ky-mass-dropdown select:focus {
+  outline: none;
+  border-color: var(--gold);
+}
+
 .ky-mass-select {
   display: flex;
   flex-wrap: wrap;
   gap: 0.3rem;
-  margin: 0.8rem 0;
+  margin: 0.3rem 0 0.8rem;
 }
 
 .ky-mass-select button {

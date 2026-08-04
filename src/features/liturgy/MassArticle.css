@@ -1,9 +1,81 @@
+.mass-article {
+  --mass-color: var(--gold);
+  position: relative;
+}
+
+/* Schmaler Farbstreifen in der liturgischen Farbe des Tages. */
+.mass-colorbar {
+  height: 4px;
+  border-radius: 999px;
+  background: linear-gradient(
+    90deg,
+    var(--mass-color),
+    color-mix(in srgb, var(--mass-color) 35%, transparent)
+  );
+  margin-bottom: 1rem;
+}
+
+/* Farbe + Rang unter dem Kopf. */
+.mass-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem 1rem;
+  margin: -0.4rem 0 1.2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--surface-line);
+}
+
+.mass-meta__color {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-variant: small-caps;
+  letter-spacing: 0.05em;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+
+.mass-meta__dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.mass-meta__rank {
+  padding: 0.12rem 0.6rem;
+  border: 1px solid color-mix(in srgb, var(--gold) 55%, transparent);
+  border-radius: 999px;
+  color: var(--gold);
+  font-variant: small-caps;
+  letter-spacing: 0.05em;
+  font-size: 0.82rem;
+}
+
 /* Logischer Block-Trenner im Ordo Missae (Stufengebet, Wortgottesdienst …). */
 .mass-phase {
   text-align: center;
-  margin: 2.6rem 0 1.6rem;
-  padding-top: 1.4rem;
-  border-top: 1px solid color-mix(in srgb, var(--gold) 45%, transparent);
+  margin: 2.8rem 0 1.6rem;
+  padding-top: 1.5rem;
+  position: relative;
+}
+
+.mass-phase::before {
+  /* Zierlinie mit Rautenknoten in der Mitte. */
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 12%;
+  right: 12%;
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    color-mix(in srgb, var(--gold) 60%, transparent) 20%,
+    color-mix(in srgb, var(--gold) 60%, transparent) 80%,
+    transparent
+  );
 }
 
 /* Erster Block ohne großen Abstand nach oben. */
@@ -14,15 +86,15 @@
 .mass-phase__ornament {
   display: block;
   color: var(--gold);
-  font-size: 1.1rem;
+  font-size: 1.15rem;
   line-height: 1;
-  margin-bottom: 0.4rem;
+  margin-bottom: 0.45rem;
 }
 
 .mass-phase__title {
   margin: 0;
   font-family: var(--font-display);
-  font-size: 1.6rem;
+  font-size: 1.7rem;
   font-weight: 600;
   color: var(--accent);
   letter-spacing: 0.01em;
