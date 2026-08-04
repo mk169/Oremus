@@ -71,7 +71,9 @@
         "de": "Eccli 44:16; Eccli 44:20; Ps 109:4"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) EC(ffg)ce(f.) *() sa(f)cér(f)dos(gh~) ma(h_fgvFED.g_e/fg)gnus,(f.) (;) qui(f) in(f) di(f)é(hf/gh!jj/kjk)bus(jij) su(ixh_g/h!jjvHF.ivHGhf)is(f.) (:) plá(ixf/hhi)cu(gjj)it(j.h!iw!jvIG'hw!ivHG) De(fv.ff)o.(f_c) (,) (fg!hvGF.e!g'h//fhg/hggf.) <sp>V/</sp>.(z0::c3) Non(d) est(d) in(fe~)vén(eh)tus(h.) (,) sí(h)mi(h)lis(h) il(h)li,(ihhe./hih__/ihhe.) (,) (hi!kv//lvKI'jvHF.) (,) (h_g/ijh'__ jvIH'jvIH'//hvGF.) (:) qui(hh) con(h)ser(h)vá(ih/ij_h ih/ij_ij//hi/jij)ret(jh/jki/hh/fgf.) *(;) le(f)gem(d) Ex(ef)cél(fhG'Fhhh)si.(hhf.) (,) (gxg_fgvED.fgED.fehv.hhhff//dfe/feed.) (::)",
+        "mode": "5"
       }
     },
     {
@@ -122,7 +124,9 @@
         "de": "Ps 91:13"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) JUs(e.f!gwhg/fffdgvFE)tus(fff) *(,) ut(dge) pal(gh)ma(g!jjjvH'GF.//ff//{ix}f!gwhg/hih.) (,) flo(ghf)ré(dgF'E)bit:(fff/ded.___) (:) sic(dg)ut(gh) ce(h!iwj!kvJH//gih)drus,(hjHG'hffe.) (,) quæ(ghf) in(fe~) Lí(ghF'E//fh)ba(h_g!jjjvH'G)no(g_f//hvGFgvFE) est,(fff/ded.___) (;) mul(ff)ti(dgf)pli(f)cá(ixff/hihhg/hvGFg_e//hggf/ghg')bi(e)tur.(egf/gffe.) <i>T. P.</i>(::) Al(ce/gf)le(ffff_c//fff_e/hg/hffe)lú(egF'E)ia.(e.) (::)",
+        "mode": "4"
       }
     },
     {
@@ -151,7 +155,9 @@
         "de": "Matt 25:20; 20:21"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) DO(ggh)mi(f!gwh)ne,(h_e) *(,) quin(g_h)que(f) ta(e)lén(ig/ij)ta(i.) (,) tra(i)di(ig)dí(ijij)sti(i) mi(gihh)hi:(hg..) (;) ec(i)ce(ig) á(ijij)li(ih)a(h) quin(hi)que(hg/hih.) (,) su(h)per(hg)lu(ge)crá(g!h'i)tus(f!gw!hvG'FE'f) sum.(fe..) (:) Eu(i_kJ'I)ge(j_i) ser(jk)ve(j) fi(ih)dé(i!jw!kvJI)lis,(i!jwk.) (;) qui(h)a(h) in(ik~) pau(k)ca(kj) fu(i)í(jk)sti(j) fi(ih)dé(i!jw!kvJI'j)lis,(ji..) (;) su(ij)pra(i) mul(ij~)ta(i) te(j/kkj) con(h)stí(ji/jkj)tu(ij_I'_HG'h)am,(hg..) (:) in(ij)tra(i) in(i) gáu(ih/i_j)di(h)um(f!gw!hvGE.) (,) Dó(g/hhf//g!hwi'!jv)mi(i)ni(i.g!hw!ivH'GF'/gw!hvGF) tu(ef!gvFE'f)i.(fe..) (::)",
+        "mode": "7"
       }
     },
     {

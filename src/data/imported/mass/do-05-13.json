@@ -70,7 +70,9 @@
         "de": "Eccli 44:16; Eccli 44:20"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) EC(ffg)ce(f.) *() sa(f)cér(f)dos(gh~) ma(h_fgvFED.g_e/fg)gnus,(f.) (;) qui(f) in(f) di(f)é(hf/gh!jj/kjk)bus(jij) su(ixh_g/h!jjvHF.ivHGhf)is(f.) (:) plá(ixf/hhi)cu(gjj)it(j.h!iw!jvIG'hw!ivHG) De(fv.ff)o.(f_c) (,) (fg!hvGF.e!g'h//fhg/hggf.) <sp>V/</sp>.(z0::c3) Non(d) est(d) in(fe~)vén(eh)tus(h.) (,) sí(h)mi(h)lis(h) il(h)li,(ihhe./hih__/ihhe.) (,) (hi!kv//lvKI'jvHF.) (,) (h_g/ijh'__ jvIH'jvIH'//hvGF.) (:) qui(hh) con(h)ser(h)vá(ih/ij_h ih/ij_ij//hi/jij)ret(jh/jki/hh/fgf.) *(;) le(f)gem(d) Ex(ef)cél(fhG'Fhhh)si.(hhf.) (,) (gxg_fgvED.fgED.fehv.hhhff//dfe/feed.) (::)",
+        "mode": "5"
       }
     },
     {
@@ -88,7 +90,9 @@
         "de": "Ps 91:2; 91:3; 91:5"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(f3) BO(f_)num(efE'C) est(ef/ef/hg/hvvGF/ggf.) *(;) con(e)fi(f)té(hhg)ri(i) Dó(hhg)mi(fe)no(ef/gf/ggf/gh/iffe.) (;) et(gh) psá(f_e/f!gwh'!iv)le(hi)re(hgh.) nó(i_)mi(e)ni(e) tu(f)o(hg) Al(h)tís(i_f/ihhvGF)si(ef)me.(f/ggf.) <sp>V/</sp>.(::) Ad(e) an(f)nun(hi~)ti(i)án(hih)dum(f) ma(f!h_gh/gh!jvIG/hvGF'g)ne(gf..) (;) mi(f)se(f)ri(hg)cór(hi)di(hvGE')am(f) tu(g_fg)am,(fe/ggf/gh/iffe.) (:) et(e) ve(gh)ri(f)tá(fg)tem(f) tu(f_e/f!gwh'!iv)am(hiH'G/hvG'FE/f_e) (,) per(fhf) no(hvvGF')ctem.(f/ggf.) <sp>V/</sp>.(::) Qui(f)a(g) de(e)lec(f)tá(h)sti(hhi) me,(f.) Dó(hi)mi(ivH'G/hvGF'g)ne,(gf..) (;) in(f) fa(hg~)ctú(h)ra(f) tu(f/hh//hhh)a,(fe/ggf/gh/iffe.) (:) et(f) in(c) o(c)pé(ef)ri(fe)bus(f/hhhvF'E/f_ef.) (,) má(ef/hhi)nu(h)um(h) tu(hi)á(h/ihhe)rum(f!gwhg) *(,) ex(h)sul(gh/ihi)tá(f)bo.(fe/f/hh/ijI'Gh.) (,) (gh!jvIH'/hvGF/ggf.) (::)",
+        "mode": "2"
       }
     },
     {
@@ -150,7 +154,9 @@
         "de": "Matt 5:14; 5:16"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) VOS(d) es(e)tis(f) lux(gh) mun(fv_ED)di(d.) *(,) sic(d) lú(c)ce(d)at(f) lux(fd) ve(fh)stra(g) co(h)ram(gh) ho(h)mí(gf)ni(g)bus,(f.) (:) ut(f) ví(ixh_i)de(g)ant(f) ó(h)pe(gf)ra(g) ves(h)tra(fe) bo(d!ewf)na(c.) (;) et(c) glo(d)rí(f_g)fi(f)cent(f) Pa(h)trem(gf~) ve(gg)strum(d.) (,) qui(e) in(f) cae(gh)lis(fv_ED) est.(d.) <i>T. P.</i>(::) Al(fg)le(e!fg/hf/gvFE)lú(d!ewfef)ia.(ed..) (::)",
+        "mode": "1"
       }
     },
     {

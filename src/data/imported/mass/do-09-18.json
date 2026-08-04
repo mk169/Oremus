@@ -26,7 +26,9 @@
         "de": "Eccli 1:14-15; Ps 83:2."
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) DI(e)lé(ehgh)cti(f)o(d) De(ef)i(e.) *(,) ho(e)no(fde)rá(ef/hg)bi(h)lis(h) sa(h)pi(h)én(hhh)ti(fe)a:(efeed.) (:) qui(f)bus(d) au(ef~)tem(f) (,) ap(f)pa(fde)rú(ehh)e(f)rit(fdf) in(f) vi(fgFE'f)su,(fe..) (;) dí(ef)li(e)gunt(ef/hg) e(gi/jhhf)am(h_g) in(h) vi(i)si(h)ó(g.f!gwh)ne,(f.) (,) et(f) in(f) a(f)gni(fe)ti(f)ó(fgFE'f)ne(fe..) (;) ma(e!f'g)gná(g)li(f)um(fgE'C) su(c!e'f)ó(fgFE'f)rum.(fe..) <i>Ps.</i>(::) Quam(e) di(fe)lé(eh)cta(h) ta(h)ber(h)ná(h)cu(h)la(h) tu(h)a,(h) Dó(h)mi(hg)ne(hi) vir(i)tú(hi)tum!(h.) *(:) con(hf~)cu(fh)pí(h)scit,(h) et(h) dé(h)fi(h)cit(h) á(h)ni(h)ma(h) me(h)a(h.) (,) in(h) á(hhg)tri(ef)a(hg) Dó(f)mi(f)ni.(e.) (::) Gló(e)ri(fe)a(eh) Pa(h)tri(h) (::) E(h) u(hhg) o(ef) u(hg) a(f) e(e.) (::)",
+        "mode": "8"
       }
     },
     {
@@ -121,7 +123,9 @@
         "de": "Ps 34:13"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(f3) E(fv.egf)go(f) au(ef!hhh/ih~)tem,(h.) *(,) cum(hg) mi(hhhf/ghg)hi(f_e) (,) mo(e)lé(ef/gfge)sti(ce) es(ce/fef)sent,(fe..) (;) in(fh~)du(h)é(h!iwjij)bar(ji) ci(i)lí(h!ij)ci(hg)o.(f'//hvF'Ef.) (:) Hu(fih)mi(hg)li(fg)á(gvFE)bam(e.) (,) in(hg) je(hi)jú(i)ni(h)o(h'//jvIH'GF'gwh.) (;) á(f!hhhvF'E//f!hhh)ni(f)mam(fgef) me(fgf__)am:(f.) (:) et(fe) o(fh)rá(hg)ti(ef)o(f) me(fih)a(hi) (,) in(h) si(hg)nu(fe) me(efe)o(c_bc.) con(efef~)ver(f!gwh/ig/h_g)té(fg!hvGF'g)tur.(gf..) (::)",
+        "mode": "2"
       }
     },
     {
@@ -150,7 +154,9 @@
         "de": "Ps 68:30-31"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) E(fg)go(gh) sum(h) *() pau(hfg)per(g) et(g) do(ge/fd)lens:(d.) (;) sa(f)lus(fg) tu(g)a,(gh) De(hj)us,(i_j) (,) su(hk)scé(k)pit(ij) me.(ih..) (:) Lau(j)dá(jl)bo(klk) no(ji)men(j) De(klK'J)i(jh__) (,) cum(j) cán(jk)ti(j)co:(ig/hih.) (;) et(h) ma(h)gni(ji)fi(j)cá(k_i/jk)bo(h_g) e(hg)um(geed/geg) in(g) lau(ghg__)de.(g.) (::)",
+        "mode": "8"
       }
     },
     {

@@ -26,7 +26,9 @@
         "de": "Gal 6:14.; Ps 66:2."
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "[[\"gabc\",\"(c4) NOS(dfe) au(ef!gvFDfe)tem(fff) *(,) glo(fd)ri(f)u00e1(e!f'g)ri(g_d) o(fh)pu00f3r(gv.fhg)tet,(eef.) (;) in(d) cru(g)ce(g) Du00f3(ixhg/hi)mi(h)ni(h) no(jj)stri(hhg) (,) Je(hhg)su(f) Chris(ixef!hig)ti:(g.) (:) in(ge~) quo(g) est(h) sa(ixhi)lus,(h.) (,) vi(jj)ta,(hhg) (,) et(gh~) re(hhg)sur(f)ru00e9c(e!f'g)ti(g)o(ixgih) no(g_f/gfg)stra:(d.) (:) per(d!fff) quem(f) sal(fd~)vu00e1(fh)ti,(g.) (,) et(h) li(f)be(gf)ru00e1(e!f'g)ti(ixgiH'G) su(g_fhvGFgvFE)mus.(e.) <i>Ps.</i>(::) De(hg)us(gh) mi(h)se(h)re(h)u00e1(h)tur(h) no(h)stri,(h.) (,) et(h) be(h)ne(hg)du00ed(gi)cat(i) no(hi)bis:(h.) *(:) il(hg~)lu00fa(gh)mi(h)net(h) vul(h)tum(h) su(h)um(h) su(h)per(h) nos,(h.) (,) et(h) mi(h)se(h)re(h)u00e1(gf)tur(gh) no(g)stri.(egff) (::) Nos(dfe) au(ef!gvFD/fe)tem.(fff) (::)\",{}],[\"tex\",\"{\\it Ad libitum additur :}\",{}],[\"gabc\",\"(c4) () 2. Ut(hg~) co(gh)gno(h)scu00e1(h)mus(h) in(h) ter(h)ra(hg) vi(gi)am(i) tu(hi)am:(h.) *(:) in(hg) u00f3m(gh)ni(h)bus(h) gu00e9n(h)ti(h)bus(h) sa(h)lu(h)tu00e1(gf)re(gh) tu(g)um.(egff) (::) Nos(dfe) au(ef!gvFD/fe)tem.(fff) (::Z)\",{}],[\"gabc\",\"(c4) () 3. Con(hg~)fi(gh)te(h)u00e1n(h)tur(h) ti(h)bi(h) pu00f3(hg)pu(gi)li,(i) De(hi)us:(h.) *(:) con(hg~)fi(gh)te(h)u00e1n(h)tur(h) ti(h)bi(h) pu00f3(h)pu(gf)li(gh) om(g)nes.(egff) (::) Nos(dfe) au(ef!gvFD/fe)tem.(fff) (::)\",{}]]",
+        "mode": "4"
       }
     },
     {
@@ -103,7 +105,9 @@
         "de": "Ps 117:16; 117:17"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) DEx(e!g'h)te(hiH'G)ra(g.ggg/hihi) Dó(gh)mi(efED'e)ni(ed..) *(;) fe(de/ghg___)cit(h.) vir(hi!kki/j_k)tú(hv.gih)tem,(h.) (:) déx(jj)te(j_i)ra(jjj_h) Dó(hjjh)mi(h)ni(h.) (,) ex(g)al(h)tá(hjj'jjh/kjjh)vit(hiH'~G~) me:(hg..) (:) non(h!iwj') mó(j)ri(jvIH)ar,(h.) (,) sed(g!jjj) vi(hig)vam,(egeg.) (;) et(d) nar(e)rá(g)bo(e) ó(ghg___)pe(h)ra(h./jkj'kvJ'IH) Dó(h)mi(h)ni.(h!iwjjvIHiih.) (::)",
+        "mode": "2"
       }
     },
     {
@@ -132,7 +136,9 @@
         "de": ""
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) PER(e) si(gih)gnum(g) Cru(ef)cis(efED.) *(,) de(fh) i(h)ni(hf)mí(h)cis(hi!jvji) no(gihh)stris(hg..) (:) lí(f)be(ji)ra(j/ljji/jkjjij) nos,(ijHG.) (;) De(g!h'i)us(h) no(gvFEf./ehghhg//hji/jh/iivHG)ster.(g.) <i>T. P.</i>(::) Al(hi)le(h)lú(hhh/jvIH/ivHG)ia.(g.) (::)",
+        "mode": "4"
       }
     },
     {

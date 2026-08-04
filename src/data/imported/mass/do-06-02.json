@@ -26,7 +26,9 @@
         "de": "Ps 33:18; Ps 33:2 Benedícam Dóminum"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(f3) CLa(f)ma(egf)vé(f)runt(hh) *() ju(hh/ijh)sti,(f.) (;) et(fhg) Dó(hghf)mi(fgf___)nus(f.) (,) ex(fgf)au(fe~)dí(h_g)vit(h_i) e(fgF'E)os:(e.) (:) et(h) ex(hhh) óm(f)ni(fih/ij)bus(i.) (,) tri(i)bu(i)la(ij)ti(ih)ó(hjij)ni(h)bus(f) e(h_g)ó(hghf)rum(f/hhvFE.) (;) li(hh)be(ef)rá(fh/ihi)vit(ihh) e(eh//ghf/ggf)os.(f.) <i>Ps.</i>(::) Be(e)ne(fe)dí(eh)cam(h) Dó(h)mi(h)num(h) in(hg) om(hi)ni(i) tém(hi)po(h)re:(h.) *(:) sem(hf~)per(fh) laus(h) e(h)jus(h') in(i) o(hf)re(h) me(ge)o.(fgf.) (::) Gló(e)ri(fe)a(eh) Pa(h)tri(h) (::) E(h') u(i) o(hf) u(h) a(ge) e(fgf.) (::)",
+        "mode": "2"
       }
     },
     {
@@ -70,7 +72,9 @@
         "de": "Ps 33:18-19; Joann 15-16"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) CLa(e)ma(ded)vé(ef)runt(e.f!gw!hvGF'g) jus(ef/hfg)ti,(fe..) *(;) et(g!h'i~) Dó(i)mi(hg/hiih/ij)nus(i.) (,) ex(i)au(ih~)dí(i/kki)vit(ij) e(i.h!iwj)os:(ji/ji/jh//ivHGhg..) (:) et(fhg) ex(hi) ó(ig/h_i)mni(ighvGF'gh)bus(g.) (,) tri(h)bu(h)la(g)ti(h)ó(i)ni(h)bus(i) e(h)ó(h)rum(hhhvF'E) (,) (ffe/ff//ef!hhf//hvvGF'he//fvEDed..) (;) li(e)be(f)rá(ggh)vit(fi!jv) e(hg)os.(g./ehfh./ghF'Ef_gffe.) <sp>V/</sp>.(::) Jux(e)ta(e) est(g') Dó(i/kki/hji/hhe.,gi/kki/hji/hhe.,fhg___/hhfhvF'De_d,hhf/hhvF'Ded..;hhi/klj___//kvJIjvIHihi)mi(i)nus(iki___!jwkkvJIji..) (;) his,(i) qui(i) tri(i)bu(h)lá(kk/lkl)to(lkkvJI) sunt(iki___!jwkkvJIji..) (;) cor(i/jg/h_i//ji/jg/h_i,kkh/jijvHF'gwh!iv.giH'GE,fhgh./fh//ghF'Dev.;i_jI'Ef_e//f!gwh!iv./h!kki,k_j/l_klvKI.//kjkvIH'iwj)de:(ijhivHGhg..) (:) et(g) hú(ijij)mi(jiigh)les(h_g) spí(g)ri(iggf/giG'Fg)tu(ef..) *(;) sal(e!f'g~)vá(giHG'j)bit.(iig.) (,) (h_ghvFE.ghFE./gf/iv.iiigg//egf/gffe.) (::)",
+        "mode": "7"
       }
     },
     {

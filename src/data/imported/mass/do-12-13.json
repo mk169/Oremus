@@ -26,7 +26,9 @@
         "de": "Ps 44:8; Ps 44:2"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) DI(g)lex(g)í(hjg)sti(g_f) *() ju(g)stí(g.h!iwjjk)ti(j)am,(j.) (;) et(j) o(j)dí(jkj)sti(jjj) i(gh)ni(h)qui(hfhg)tá(ghg__)tem:(g.) (:) pro(fg)pté(gjj)re(hg)a(ghggf.) (,) un(gh/i.h!iwj)xit(hjg) te(g) De(ghG'F)us,(f.) (,) De(f!g'h)us(h) tu(ixhgivHG'hf)us.(f.) (;) ó(g)le(fg)o(g) lae(h)tí(jj)ti(hg)ae(g/jjh/jggf.) (;) prae(g) con(hi~)sór(i.h!iwj)ti(hg)bus(gv.fhfg) tu(ghg__)is.(g.) <i>T. P.</i>(::) Al(f)le(fg)lú(gh~)ia,(hgh.) (,) al(h!iwj)le(jv.ijH'G)lú(ghg__)ia.(g.) <i>Ps.</i>(::) E(g)ru(hg)ctá(gj)vit(j) cor(j) me(j)um(ji) ver(jk)bum(k) bo(jk)num:(j.) *(:) di(jh)co(hj) e(j)go(j) ó(j)pe(j)ra(jji) me(gh)a(ji) re(h)gi.(g.) (::) Gló(g)ri(hg)a(gj) Pa(j)tri(j) (::) E(j) u(jji) o(gh) u(ji) a(h) e(g.) (::)",
+        "mode": "8"
       }
     },
     {
@@ -70,7 +72,9 @@
         "de": "Ps 44:8; Ps 44:3"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) DI(c)le(dc)xí(cg)sti(gv.fffddc.) *(,) ju(c)stí(cgeg/hjh__!iwj)ti(ghg__)am,(g.) (;) et(f) o(gh)dí(jj/kjk)sti(kjj) (,) i(gh)ni(h)qui(hjh)tá(g)tem.(f/ghffd//gvgf/gjhhg.) <sp>V/</sp>.(::) Prop(gf)tér(gf)e(hj)a(jjjvHG'hjjlvKJ'Ijg..) (;) un(gh)xit(h_g) te(g) De(g_f/ghffd)us,(d.) (,) De(gg)us(g) tu(ghg__)us,(g.) (;) ó(g)le(fg)o(gggvED'eg'//hvGFg.) *(,) lae(gf)tí(gf)ti(hj)ae.(jjk//iijhhg.) (,) (ijGF.h!iwjji gjh/ihhg.) (::)",
+        "mode": "8"
       }
     },
     {
@@ -150,7 +154,9 @@
         "de": "Ps 118:161-162"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) PRín(f!g'h)ci(h)pes(ixhih__.) *() per(h)se(h)cú(hj)ti(h) sunt(g) me(f.) gra(ixf!gwh'!iv)tis,(hg..) (;) et(g) a(gf) ver(ixhi)bis(h_g) tu(ixhiH'G)is(hg__) (,) for(g)mi(gf)dá(ixhig)vit(fh) cor(g) me(egff)um:(fe..) (:) lae(g)tá(g)bor(f) e(g)go(f.) (,) su(fff)per(d) e(g)ló(iij)qui(hg)a(g) tu(gh!ivHG'h)a,(hg..) (:) qua(gh)si(gh) qui(g) in(h)vé(jkj)nit(ijh'//jvG'F) (,) spó(hfh)li(g)a(ef/ghffe) mul(d!ewfef)ta.(ed..) <i>T. P.</i>(::) Al(fg~)le(e_d!fh//ghg/e!fg/hfgvFE)lú(d!ewfef)ia.(ed..) (::)",
+        "mode": "1"
       }
     },
     {

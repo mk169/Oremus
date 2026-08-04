@@ -27,7 +27,9 @@
         "de": "Isa 49:1; 49:2; Ps 91:2"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) DE(d) ven(d!ffde~)tre(c) *() ma(f)tris(gh) me(ixhvGF'gwhg/hi)ae(h.) (;) vo(f)cá(fhg)vit(gf~) me(g) Dó(f)mi(fff)nus(dfe.) (,) nó(e/fgf)mi(f)ne(fgF'Ef) me(ded__)o:(d.) (:) et(d) pó(d!f'g)su(gfg)it(gv.fff) os(f) me(fgF'D)um(d.) (;) ut(df~) glá(f)di(fffd)um(d) a(d!ff)cú(deD'C)tum:(c.) (:) sub(d) te(c)gu(d)mén(ff)to(d) ma(ff)nus(d) su(deD'C)ae(c.) (,) pro(dcd)té(fdf)xit(fgF'Ef) me,(d.) (:) pó(dcd)su(fdf)it(ffgvF'Ef) me(d.) (,) qua(d_a)si(cd) sa(c)gí(ff)tam(gffd) e(dc/ed)léc(ded__)tam.(d.) <i>Ps.</i>(::) Bo(f)num(gh) est(h) con(h)fi(h)té(hj)ri(h) Dó(h)mi(hg)no:(gh..) *(:) et(gf~) psál(gh)le(h)re(h) nó(h)mi(h)ni(h) tu(h)o,(hjh) Al(g')tís(f)si(fff)me.(d.) (::) Gló(f)ri(gh)a(h) Pa(h)tri(h) (::) E(h) u(hjh) o(g') u(f) a(fff) e(d.) (::)",
+        "mode": "1"
       }
     },
     {
@@ -74,7 +76,9 @@
         "de": "Jer 1:5; 1:9; Luc 1:76"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) PRi(ffg)ús(f)quam(fgd~) *() te(f) for(gh~)má(h_g)rem(gv.fgFD.) (,) in(d) ú(dgf/gh)te(g)ro,(g.) (,) no(ixhiG'F)vi(fe.!fwgfg) te:(gf..) (:) et(h) án(jjk~)te(j)quam(j) ex(j)í(jkh)res(hgh.) de(h) ven(ixhv.fg!hi~)tre,(hgh.) (;) sanc(jjh~)ti(jj)fi(h)cá(h)vi(hggfg) te.(f!gwhgh/jvvHF'/gwhg/hjhh/fgf.) <sp>V/</sp>.(z0::c3) Mi(hh)sit(h) Dó(ig'/hvF'E//f!gwhhi)mi(h)nus(h.) (,) ma(ijI'H)num(h) su(hiH'F)am,(f!h'i//hi/jhh/iih.) (:) et(h_f) té(hih)ti(gh)git(f.) (,) os(gxdf//ef!hvFE'fw!gvFE) me(de!fvED'e)um,(ed..) (:) et(d) di(ef)xit(fhGF') *() mi(i)hi.(hhf.) (,) (gxg_f/gvED.fgED.fe/hv.hhhff//dfe/feed.) (::)",
+        "mode": "5"
       }
     },
     {
@@ -128,7 +132,9 @@
         "de": "Ps 91:13"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) JUs(e.f!gwhg/fffdgvFE)tus(fff) *(,) ut(dge) pal(gh)ma(g!jjjvH'GF.//ff//{ix}f!gwhg/hih.) (,) flo(ghf)ré(dgF'E)bit:(fff/ded.___) (:) sic(dg)ut(gh) ce(h!iwj!kvJH//gih)drus,(hjHG'hffe.) (,) quæ(ghf) in(fe~) Lí(ghF'E//fh)ba(h_g!jjjvH'G)no(g_f//hvGFgvFE) est,(fff/ded.___) (;) mul(ff)ti(dgf)pli(f)cá(ixff/hihhg/hvGFg_e//hggf/ghg')bi(e)tur.(egf/gffe.) <i>T. P.</i>(::) Al(ce/gf)le(ffff_c//fff_e/hg/hffe)lú(egF'E)ia.(e.) (::)",
+        "mode": "4"
       }
     },
     {
@@ -159,7 +165,9 @@
         "de": "Luc 1:76"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(f3) TU,(f!h'i) pu(jijh)er,(hhh) *(,) pro(hf)phé(hj)ta(j) Al(j)tís(j)si(jij)mi(hi/jh.) (,) vo(hjij//hi/jhhg)cá(f)be(fg!hvGF'g)ris:(gf..) (:) prae(i)í(kxj.i!jwk)bis(j) e(i'/jii)nim(f.) (,) an(f!hhh)te(f) fá(fihi)ci(i)em(ijij) Dó(hihi)mi(f)ni(fef.) (;) pa(f)rá(ffeffef)re(fc..) (,) vi(ef!hvvF'E/hhh)as(ivH'Gh) e(fgf__)jus.(f.) (::)",
+        "mode": "2"
       }
     },
     {

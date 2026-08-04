@@ -26,7 +26,9 @@
         "de": "Ps 118:46-47; Ps 118:1"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3)Lo(df)qué(hhi)bar(h) (::) de(h) tes(h)ti(h)mó(i)ni(hf)is(h) tu(h!ijIHi)is(ih) (;) in(h) con(iji~)spéc(j)tu(h) re(hjIHih)gum,(h) (;) et(fdf) non(hhv) con(ijh)fun(h)dé(hih)bar:(h) (:) et(h) me(e)di(f)tá(hhi)bar(h) (;) in(hihhg) man(ef)dá(hhi)tis(h) (,3) tu(hhv//ijh)is,(fhhfh) (;) quæ(d) di(ef)lé(fhhf)xi(e) ni(ef/hhef)mis.(d) (::) Al(d)le(efef)lú(f//hhef)ia,(efe) (;) al(d~eff)le(fhFEgxfgFE)lú(d~efEDe)ia.(ed) (::) Be(d)á(f)ti(h) im(h)ma(h)cu(h)lá(h)ti(h) in(h) vi(i)a:(h) (::) qui(f) ám(h)bu(h)lant(h) in(h) le(i)ge(g) Dó(h)mi(f)ni.(fefED) (::) Gló(d)ri(f)a.(h) (::) E(h) u(h) o(i) u(g) a(h) e.(fefED) (::)",
+        "mode": "5"
       }
     },
     {
@@ -70,7 +72,9 @@
         "de": "Ps 44:11; 44:12; Ps 44:5; Matt 25:4; 25:6"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) AU(e)di,(e) fí(e)li(e)a,(ehg) *(,) et(hi~) vi(iv.hiH'Ghihi) de,(iv.h/iih/ii,hi/kkkikvkvJI'jhivHGh.g.) (:) et(f) in(hh)clí(hi/kj)na(kkkvJI'jhivHGh.g.) (;) {au}(fi)rem(i!jwk) tu(ih/ikJI'H)am:(jiivF'Effe/ff,ef/hhhfhvhvGFhefvEDe.d. (:) qui(e)a(fd) con(e)cu(f)pí(hih)vit(hf~) rex(hi/kkkvIH'GhijvIHih/jihvhvG'FEf.e.) (;) spé(g_e/f.g!hwiiv)ci(ih)em(hi) tu(hv.f/hhvFDff,e/hhe/gvF'E)am(hf/hhfivH'GE,f!gwh_g/ihh'hhvF'Ef_gffe. (::) <sp>V/</sp>. Spé(ehivji/kkijvIHihi)ci(ihhf)e(f_efv.) tu(hg/hiF'Ehh)a,(hiHG.) (;) et(e) pul(e)chri(hh)tú(hi)di(hh/ig/hiFE)ne(hh) (,) tu(hi)a(ijI'Hl_k/jlkk/iji.) (:) in(ij)tén(hi)de,(i!jwk) pró(i_h)spe(ih)re(h.) (,) pro(h)cé(ih/ikJI'H)de,(ihhvFEffe/ff,ef/hhhfhvhvGF'hefvEDe.d.) (;) et(ef) re(e.f!gwh'iv)gna.(ijIH'hghv. ,ijIH'hgiv.kkkh/ijIG.hig'hvFEf_gffe.) (::)",
+        "mode": "7"
       }
     },
     {
@@ -150,7 +154,9 @@
         "de": "Ps 118:78; 118:80"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) COn(fe~)fun(f)dán(gh)tur(ffe) su(dc)pér(d!ewfef)bi,(ed..) *(;) qui(d)a(d) in(dh~)jú(h)ste(ixhg/hih.) (,) i(g)ni(g)qui(ge)tá(ghgh)tem(g) fe(f)cé(g)runt(fe) in(d) me:(fddc.) (:) e(c.d!ewffg)go(f) au(ffe~)tem(ixghg/hih.) in(g) man(h)dá(jj)tis(kjjh) tu(ixh.g!hwihi)is(ih..) (,) ex(h)er(fg~)cé(g.f!gwh_g)bor,(ghG'Fg.) (;) in(f) tu(gh)is(h) ju(hf)sti(g)fi(gf)ca(fe)ti(d)ó(d!ew!fvED')ni(d)bus,(dc/ded.) (;) ut(cd) non(f!g'h) con(f_e)fún(d_c/d!ewf)dar.(ed..) <i>T. P.</i>(::) Al(fg~)le(e_d/fh//ghg/e!fg/hfgvFE)lú(d!ewfef)ia.(ed..) (::)",
+        "mode": "1"
       }
     },
     {

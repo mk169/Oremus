@@ -26,7 +26,9 @@
         "de": "Eccli 11:13.; Ps 72:1."
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) O(ei)cu(i)lus(ikj) De(kjki)i(i.) *(,) res(i)pé(iji)xit(h_g) il(gh!jki)lum(h_f) in(f!gwh) bo(efe___)no,(e.) (;) et(ef) e(e)ré(ef/hg)xit(h) e(hh)um(f!gwh.) (,) ab(f) hu(hg)mi(g)li(hi)tá(iih)te(f) ip(h)sí(gihh)us,(hg..) (:) et(h) ex(g)al(h)tá(i)vit(h) ca(g!hwi'!jv)put(i) e(kk/lvK'I)jus;(i.) (;) et(i) mi(i)rá(iji)ti(h) sunt(hhh) in(f) il(fh/ihi)lo(ihh) mul(f!gwh_e)ti(e.) (;) et(e) ho(fd)no(ef)ra(e)vé(e.f!gwh/ihi)runt(ihh) De(efe___)um.(e.) <i>Ps.</i>(::) Quam(ehg) bo(hi)nus(i) Is(ik)ra(j)el(j) De(ji)us(ij..) *(:) his(ig) qui(hi) rec(i!jwk)to(i') sunt(h) cor(hhh)de.(fe..) (::) Gló(ehg)ri(hi)a(i) Pa(i)tri(i) (::) E(i) u(i!jwk) o(i') u(h) a(hhh) e(fe..) (::)",
+        "mode": "7"
       }
     },
     {
@@ -70,7 +72,9 @@
         "de": "Ps 30:20; Ps 8:6-7"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) QU{a}m(d) ma(fh)gna(h_f) *() mul(f)ti(h_g)tú(hiH'GF)do(fhE'D/effe.) (;) dul(d)cé(gxefe/fg)di(f)nis(hffe) tu(f!gwh)ae,(h_g) Dó(h!i'j)mi(hvGF)ne,(fig/hvGF.) (:) quam(hvGF) abs(h)con(h_g)dí(hiH'GF)sti(fhE'D/effe.) (;) ti(f)mén(hh)ti(h)bus(gh) te.(gxfe/fgED'/ewfef.) (,) (hiHF/ghf./ghFE/gvFE.) (,) (d!ewfe/fhff/ded.) <sp>V/</sp>.(::) Per(d)fe(fe)cí(eh)sti(h) e(h)is(ihh'hf/hv.ijh.) (,) (hv./ijIH./ijHF./ghFD.) (;) (fdfED//fd/ef!hh/ig/hf/hi!kkkh..) (;) qui(hhi) spe(hi)rant(h) in(hfhhe/fd~) te,(d.) (:) in(hh) con(hi/j_h)spé(hiH'G/hvGF./ihhf'/ghf'/ghf. , de/f!hh/ijhhg)ctu(h.) (;) fi(hh)li(h)ó(hih)rum(h_f) *() hó(fh!ij)mi(hg)num.(hhhf/hhhf/hhf.) (,) (de/f!hh/ijghf./gxegFD.) (::)",
+        "mode": "5"
       }
     },
     {
@@ -150,7 +154,9 @@
         "de": "Apoc. 3:20"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) EC(f)ce(fe) sto(d) *() ad(f) ó(gh)sti(g)um(f) et(ef) pul(ced___)so;(d.) (;) si(d) quis(f) au(g)dí(gh)e(h)rit(ixgh/i_h) vo(g)cem(ge~) me(gh)am(g.) (,) et(g) a(gh)pe(g)rú(h)e(g)rit(fe) mi(gh)hi(fe) já(d)nu(de!fvED'e)am,(ed..) (:) in(f)trá(gh)bo(hf) ad(ixhi) il(ghGF'g)lum,(gf..) (,) et(df~) coe(dc)ná(fhgh)bo(gf) cum(df) il(fef)lo(dc..) (,) et(e) ip(gh)se(ef) me(ced___)cum.(d.) (::)",
+        "mode": "1"
       }
     },
     {

@@ -26,7 +26,9 @@
         "de": "Isa 7:14; Ps 97:1."
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) EC(g)CE(g) Vir(hj~)go(j) *() con(j)cí(j)pi(jvIH)et,(h.) (,) et(g) pá(i')ri(j)et(ih) Fí(jj)li(hg)um,(gv.ff/ded.) (;) et(d) vo(f)cá(e!fwg'!hv)bi(g)tur(g) no(g)men(gh) e(h.f!gwhgh)jus(h_g) Em(g_f/hjh__!iwj)má(g_e)nu(fgF'E)el.(e.) <i>Ps.</i>(::) Can(g)tá(hj)te(j) Dó(j)mi(j)no(j) cán(k)ti(j)cum(j) no(ih)vum,(jjj) *(:) qui(ig)a(hj) mi(j)ra(j)bí(jji)li(hg)a(h) fe(i)cit.(gh..) (::) Gló(g)ri(hj)a(j) Pa(j)tri(j) (::) E(j) u(jji) o(hg) u(h) a(i) e(gh..) (::)",
+        "mode": "3"
       }
     },
     {
@@ -70,7 +72,9 @@
         "de": "Isa 11:1-2."
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c2) E(c)gre(dc)di(cg)é(g)tur(g_e/fgddc.) *(,) vir(cd~)ga(c) de(c) ra(c)dí(feg)ce(ghfg) Jes(gh!ivHG'h)se,(gh/ih..) (:) et(gj~) flos(j_g/hhg.) (,) de(g) ra(h)dí(hj)ce(i) e(hfg)jus(g_e//fgf'/gddc.) (;) a(ffd/fef)scén(ec~)det.(ce!ghGF'fe//ced/eddc) <sp>V/</sp>.(::) Et(cf) re(fg)qui(g)é(g_j//ij/kii'iivGF'fd,ffd/ffg)scet(g_f//gih/ijhhg.) (;) su(gj)per(j_k) e(g/igge//fhGF'fd!ew!fvE'DC'd)um(dc..) (;) Spí(fgf)ri(dgf/gh)tus(g.) *() Dó(c/ff)mi(fv.ef/gfg)ni.(gge./giHG'ivHG'ge.) (,) (fge'/fvD'Cd_eddc.) (::)",
+        "mode": "7"
       }
     },
     {
@@ -103,7 +107,9 @@
         "de": "Matt 1:18"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) CUM(gh) es(h)set(hjhhg.) *() de(g)spon(ikj)sá(j.h!iwj)ta(j_i) (,) ma(ji)ter(gh) e(hiH'G)jus(h_g) (;) Ma(gh)rí(h!jjjh/kvJI'j)a(i_h) (,) Jo(gh!jj/kljj'jh!iwj_i)seph,(jjjvIH'/jhh/fgf.) (:) in(ef)vén(g_!h_i)ta(h_gh) est(h!jj/khhg.) (;) in(g) ú(hjh__!iwj)te(g)ro(fhg) ha(jv.ij/kjk)bens(iij.) (;) de(gh) Spí(g!jjj)ri(j)tu(kij) Sanc(ixhg/hiG'F/ghFE/f_gF'E)to.(e.) (::)",
+        "mode": "3"
       }
     },
     {
@@ -128,7 +134,9 @@
         "la": "Beáta víscera Maríæ Vírginis, quæ portavérunt ætérni Patris Fílium. (Allelúja.)"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) BE(d)á(f)ta(fe) ví(fg)sce(efED'e)ra(ed..) *(,) Ma(f)rí(gh)ae(hvGF) Vír(ixghg/hi)gi(h)nis,(h.) (:) quae(f) por(gh~)ta(hg/hfgvFE)vé(d!ewfef)runt(ed..) (,) ae(h)tér(ixjhhg/hi)ni(h.) Pa(dc/f!g'h)tris(f_e) Fí(cd)li(d_c/d!ewf)um.(ed..) <i>T. P.</i>(::) Al(fg~)le(e_d/fh//ghg/e!fg/hfgvFE)lú(d!ewfef)ia.(ed..) (::)",
+        "mode": "1"
       }
     },
     {

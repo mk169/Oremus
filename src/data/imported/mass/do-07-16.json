@@ -66,7 +66,9 @@
         "la": "Benedícta et venerábilis es, Virgo María: quæ sine tactu pudóris invénta es Mater Salvatóris. Virgo, Dei Génetrix, quem totus non capit orbis, in tua se clausit víscera factus homo. _ Allelúja, allelúja. Per te, Dei Génetrix, nobis est vita pérdita data: quæ de cœlo suscepísti prolem, et mundo genuísti Salvatórem. Allelúja."
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) BE(fe)ne(fg)dí(g)cta(gv.ff/ded.) *(,) et(f) ve(dfe)ne(fg)rá(gff)bi(df)lis(egF'E) es,(e.) (;) Vir(ed~)go(g) Ma(hj)rí(i!jw!kvJI'H//fhf/gh)a:(g.) (:) quae(df) si(feg)ne(gefd) ta(cd)ctu(d.) pu(f)dó(gh)ris(ixh.ivHG'h/e!f'g) (;) in(gh~)vén(hfhhvGE'fd)ta(cd) es(d.) (,) ma(dc/ix!f!g'h)ter(h./ivHG'e!f'g) Sal(g)va(df)tó(efED. ,ixf./hiHG'ge./ghGF'Ef_gF'E)ris.(e.) <sp>V/</sp>.(::) Vir(h)go(ixjhhgh/e!f'g eg!ivHGhvFDe.) (,) (ghF'Eghfff'dfED'f!g'h) (,) De(gf/gh )i(g) Gé(f)ni(ghgh)trix,(hgh'f) (;) quem(ed) to(f_g//ef!hvGE'fd)tus(d.) (,) non(e) ca(c)pit(d) or(d!ff//fffdfvED'e!f'g)bis,(ghhg.) (:) in(f) tu(f)a(ghgh) se(h) clau(hgh'f)sit(ed) (,) ví(f_g//ef!hvGE'fd)sce(cd)ra(d.) *(;) fa(cd!ff)ctus(fg) ho(g_f/hgh)mo.(hhf.) (,) (h_ghvFDgff'fvEC//ddc/da..) (,) (cd!fvvDC'd!ff/gff/ded.) (::)",
+        "mode": "4"
       }
     },
     {
@@ -99,7 +101,9 @@
         "de": "Jer 18:20"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) RE(d!ff/ggf/gh)cor(fe~)dá(gvFEC'd)re,(d.) *(,) Vir(d/ff/ggf/gh)go(fe) Ma(cd)ter,(d.) (,) in(f) con(gh)spé(hg)ctu(ge) De(gf)i,(dff'ff) (;) ut(f!hj) lo(ji)quá(gf)ris(f!gh) pro(f) no(g)bis(h) bo(fvEC'd)na,(d.) (:) et(f) ut(g) a(gh)vér(fe)tat(d.) (,) in(f)di(g)gna(hj)ti(j)ó(k)nem(i') su(j)am(h.) (;) a(d/ff/ggf/ghd/fffh!jvvIG'Fh.) (,) (h/jj/kkj/klh/jjjvIG'Fg_h) no(d!ewfef)bis.(ed..) <i>T. P.</i>(::) Al(cd)le(d./ghGF'fd//ffvEC'd)lú(d_c/d!ewf)ia.(ed..) (::)",
+        "mode": "1"
       }
     },
     {
@@ -124,7 +128,9 @@
         "la": "Regína mundi digníssima, María Virgo perpétua, intercéde pro nostra pace et salúte, quæ genuísti Christum Dóminum, Salvatórem ómnium."
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) RE(dc)gí(d)na(fe) mun(fgff)di(d_c) *(,) di(d!ewf/ge/f_e)gnís(d)si(de!fvED'e)ma,(ed..) (;) Ma(dc)rí(fh)a(ghg) Vir(h)go(gf) per(gh)pé(f)tu(fgf___)a,(f.) (:) in(f)ter(hg~)cé(hji/jhhg)de(g.) (,) pro(f) no(gh)stra(g) pa(fe)ce(d.) et(fe~) sa(fg)lú(deD'C)te,(c.) (:) quae(dg) ge(fe)nu(dc)í(d)sti(c) Chri(d)stum(dc) Dó(f)mi(gf)num(f.) (,) Sal(gh)va(g)tó(fe)rem(fgff) ó(d)mni(cd)um.(d.) (::) <i>T. P.</i>() Al(de)le(d)lú(d_c!/d!ewf)ia.(ed..) (::)",
+        "mode": "1"
       }
     },
     {

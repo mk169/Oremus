@@ -26,7 +26,9 @@
         "de": "Ps 118:95-96; Ps 118:1"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(f3) ME(hf/hhh) ex(h)spe(h)cta(h)vé(hih)runt(hhh) *() pec(hih)ca(f)tó(f/hhf)res,(f.) (,) ut(fef) pér(h.f!gw!hi)de(h)rent(hiH'Gh) me:(f.) (:) te(f)sti(h)mó(hi)ni(i)a(i) tu(i)a,(i) Dó(ij)mi(ih)ne,(h.) (,) in(h)tel(h)lé(gh!ijIG'h)xi:(h.) (;) o(fi)mnis(i) con(i)sum(ih~)ma(hjij)ti(h)ó(fhgh)nis(f.) (,) vi(fhg)di(hi) fi(fgF'E)nem:(e.) (:) la(h)tum(gihh) man(ef)dá(hhi)tum(h) tu(h_f)um(i) ni(hiH'F)mis.(f.) <i>T. P.</i>(::) Al(e!f'h~)le(h_g)lú(hih)ia,(hhhffe.) (,) al(fh~)le(hghf)lú(fgf__)ia.(f.) <i>Ps.</i>(::) Be(e)á(fe)ti(eh) im(h)ma(h)cu(h)lá(hg)ti(hi) in(i) vi(hi)a:(h.) *(:) qui(hf) ám(fh)bu(h)lant(h) in(h) le(i)ge(hf) Dó(h)mi(ge)ni.(fgf.) (::) Gló(e)ri(fe)a(eh) Pa(h)tri(h) (::) E(h') u(i) o(hf) u(h) a(ge) e(fgf.) (::)",
+        "mode": "2"
       }
     },
     {
@@ -70,7 +72,9 @@
         "de": "Ps 44:3; Ps 44:5; Matt 25:4 25:6"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) Dif(d)fú(ff)sa(fg) est(ghghff'f) *(,) grá(gv.fhg)ti(ghg__)a(g.) (;) in(g) lá(gh/ji)bi(jj)is(jvHG) (`) tu(ig/h!jjjh,kljjvIH)is:(hjh__!iwjjvIHih..) (:) pro(h!jj)pté(k_jk)re(j_hj)a(jjj_hivHGhg..) (;) be(f)ne(gh)dí(h!iwj)xit(g_f) te(fd__!gv_) De(gffvED)us(dfddc.) (:) in(ffgffc/ff/ghF'Ef) (`) ae(ixf!gwhg/hih)tér(gf/ghggf)num.(ixhf/hiGF'f//f'hg/hggf.) <sp>V/</sp>.(z0::c3) Pro(d)pter(d) ve(d)ri(fh)tá(hv.hihhfh.,df!hvv//hihhfh./gh/ihi)tem,(hh) (;) et(d) man(d)su(d)e(fe)tú(eh)di(h)nem,(ih) (,) (hhh'/ihhg./i/jiih./j/kjjh./i/jiig./h/ihh//fh//ghFE'ed.) (;) et(d) ju(d)stí(fdfED//f_d/ef!gwhhi)ti(h)am:(hi!kvvhih.) (:) et(f) de(fi)dú(i)cet(ih/jki/hhf/hh/ijH'Gh) te(h.) (,) mi(h)ra(h)bí(i_h//ghG'Fi_h//h'hhvFEfe//f!hhivHGh')li(h)ter(h.) *(;) déx(hh)te(h)ra(h) tu(ihhf/hh/ijH'G)a.(hhhf//hhhf/hhf.) (,) (de/f!hh/ijghf./gxegFD.) (::)",
+        "mode": "5"
       }
     },
     {
@@ -150,7 +154,9 @@
         "de": "Matt 25:4-6"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) QUin(dde~)que(d) *() pru(d)dén(ef~)tes(f) vír(f!gwh)gi(e)nes(deDB.) (;) ac(b)ce(b)pé(ded)runt(dc~) ó(efef)le(ef)um(f.) (;) in(df~) va(f)sis(ef) su(d)is(dc) cum(e) lam(ef~)pá(d)di(de!fvED'e)bus:(ed..) (:) mé(f)di(e)a(d) au(e)tem(f) no(hjI'H)cte(h.) (,) cla(hi)mor(j_i) fa(h)ctus(gh) est:(hihh/fgf.) (;) Ec(f)ce(e_d) spon(e)sus(f) ve(hjI'H)nit(h.) (,) ex(i)í(i!jwk)te(h.) ób(gxffg)vi(ed)am(d.) (,) Chri(gxd!ffg)sto(ehhh.f!gw!hvGE'fgd') Dó(d)mi(ded__)no.(d.) <i>T. P.</i>(::) Al(df)le(gxehvhf!gw!hvGE'fw!gvFE)lú(de!fvED'e)ia.(ed..) (::)",
+        "mode": "5"
       }
     },
     {

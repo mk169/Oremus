@@ -26,7 +26,9 @@
         "de": "Matt 4:18; 4:19; Ps 18:2."
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) DO(fef)MI(dc)NUS(c.) *(,) se(f)cus(gh) ma(ixhvGF'gwhg/hi)re(h) Ga(h)li(h)lǽ(hjjk)æ(hhg.) (;) vi(ixgiH'G)dit(h_g) du(fv./dgf)os(f_e) fra(fv./efd)tres,(d.) (,) Pe(df!gh)trum(g) et(g) And(gh~)ré(h_g)am,(ghggf.) (;) et(f!g'h) vo(h_f)cá(f!g'h)vit(jj) e(ixh_g/ivHG/hf)os:(f.) (:) Ve(fh)ní(h)te(g) post(fg) me :(e!f'g) (;) fá(h)ci(fg)am(g) vos(dgf) fí(ff//ff)e(deDC'd)ri(dc..) (,) pi(d)sca(dgf)tó(fv./dgf)res(gvF'Ef') hó(d)mi(ded___)num.(d.) <i>Ps.</i>(::) Cæ(f)li(gh) en(h)ár(h)rant(h) gló(hj)ri(h)am(h) De(hg)i:(gh..) *(:) et(gf) ó(gh)pe(h)ra(h) má(h)nu(h)um(h) e(h)jus(h.) (,) an(h)nún(h)ti(h)at(hjh) fir(g')ma(f)mén(fff)tum.(d.) (::) Gló(f)ri(gh)a(h) Pa(h)tri(h) (::) E(h) u(hjh) o(g') u(f) a(fff) e(d.) (::)",
+        "mode": "1"
       }
     },
     {
@@ -55,7 +57,9 @@
         "de": "Ps 138:17-18"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) NI(egf)mis(f.) *(,) ho(f)no(f)rá(hfg/hvF'Egef)ti(g) sunt(f.) (;) a(f)mí(hf/h!i'j)ci(h_f) tu(f_e)i,(gxegFE.) (,) De(ed/fef)us:(fd/ef!hvvF'E//f!gwh/ihh/fgf.) (:) ni(hh)mis(h) con(h)for(h)tá(hg/hi!jvHG/hhg,i_h/ivHF')tus(f) est(fhF'E/fhhf//hvvGF'/heed.) (:) prin(d)ci(ef)pá(f./hvGF'/g)tus(e) e(f)ó(hf/h_i)rum.(ih/ijI'H) (,) (jh/jkIG'hvF'E//f!gwh!iv.h!i'j) (,) (ijijHF'/gwhf.) <sp>V/</sp>.(::) Di(f)nu(h)me(hi)rá(i)bo(ij) e(jvI'HG'/hvF'E , ge/f!hh/ijij. , hj!kvIG'/hvF'E//fgF'E/f. , i!jwk_j/kvJI'j)os:(ji..) (:) et(i) su(k.i!jw!kvJI')per(i) a(ij)ré(j_h/jvIH'/hf//hhf/hv.hhh_f , hi!jvIH/jvIH/if)nam(f.) *(:) mul(d)ti(ef)pli(f./hvGF'g)ca(ef)bún(hf/h_i~)tur.(i_jH'G/hi..) (,) (e!f'hh'jIH'GF'gwhf.) (::)",
+        "mode": "2"
       }
     },
     {
@@ -99,7 +103,9 @@
         "de": "Joann 1:41; 1:42"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) DI(hh)cit(h) An(hi~)dré(i)as(hgh.) *(,) Si(h)mó(hg)ni(ge) fra(g)tri(hih) su(h.f!gw!hvG'FE'f)o:(fe..) (:) In(h)vé(ik)ni(j)mus(ijg) Mes(h)sí(ihi)am,(ie..) (;) qui(f) dí(h_g)ci(h!i'j)tur(ij~) Chris(hiH'G)tus:(g.) (:) et(g) ad(h)dú(ij)xit(i) e(h_f)um(f_e) ad(ef) Je(e)sum.(dvC'B//ece.) (::)",
+        "mode": "8"
       }
     },
     {

@@ -26,7 +26,9 @@
         "de": "Ps 68:10.; Ps 72:1"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) FA(e./fff)ctum(ed~) est(gh) cor(g) me(hj)um(j.) *(,) tam(j)quam(j) ce(j)ra(jjj) li(hig)qué(h!iwj/kjj)scens(ji..) (;) in(gh~) mé(hhgh)di(gf)o(f) ven(e!f'h~)tris(h!iwj) me(g_f/gvFD)i:(d.) (:) quó(gj)ni(j)am(jjj) ze(h)lus(hg) do(high)mus(e) tu(fgef)ae(d.) (,) co(dg)mé(ghfg//e!fg/hfg)dit(e!fw!gv_FE) me.(e.) <i>T. P.</i>(::) Al(g)le(hg)lú(g!jjj)ia,(j_kJG.) (,) al(gh~)le(h!iw!jvIG)lú(g_e/fgF'E)ia.(e.) <i>Ps.</i>(::) Quam(g) bo(hj)nus(j) Is(k)ra(j)el(j) De(ih)us:(jjj) *(:) his(ig) qui(hj) re(jji)cto(hg) sunt(h') cor(i)de!(gh..) (::) Gló(g)ri(hj)a(j) Pa(j)tri(j) (::) E(j) u(jji) o(hg) u(h') a(i) e(gh..) (::)",
+        "mode": "3"
       }
     },
     {
@@ -70,7 +72,9 @@
         "de": "Ps 41:2; Ps 41:3; Ps 72:26"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) QUe(d)mád(ffg)mo(f)dum(f.) *(,) de(f)sí(ghgh)de(gf)rat(ffhg) cer(fffvDC'/dff/hghf)vus(f.) (;) ad(h) fon(jh/jjj)tes(j) a(j)quá(k_j//ijI'H//k_j//j'jjvHG/hg/h!jj/kvJI)rum:(i.) (:) i(h/jjk)ta(j) de(j)sí(j)de(j)rat(jkh) á(h)ni(h)ma(hgh) me(ixhv./fg!hi)a(hgh.) (;) ad(jjh~) te,(jj) De(hggfg)us.(f!gwhgh/jvvHF'/gwhg/hjhh/fgf.) <sp>V/</sp>.(z0::c3) Si(h)tí(ih)vit(hvvGF//ig/hig___//hih//h'iH'___GE/f.ff) (,) (gxfff//fff//fh/ih/gg/efe.) (;) á(gxf!g'h)ni(g)ma(fe) me(f/hhh)a(hv./fhff/ded.) (:) ad(d) De(fdfED//f_d/ef!gwhhi)um(h.) (,) for(i_h//ghG'F//i_h//h'hhvFE/fe/f!hh/ivHG)tem,(h.) *(;) vi(hiH'F)vum.(f.//de/f!hh/ijghf./gxegFD.) (::)",
+        "mode": "5"
       }
     },
     {
@@ -121,7 +125,9 @@
         "de": "Ps 91:13"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) JUs(e.f!gwhg/fffdgvFE)tus(fff) *(,) ut(dge) pal(gh)ma(g!jjjvH'GF.//ff//{ix}f!gwhg/hih.) (,) flo(ghf)ré(dgF'E)bit:(fff/ded.___) (:) sic(dg)ut(gh) ce(h!iwj!kvJH//gih)drus,(hjHG'hffe.) (,) quæ(ghf) in(fe~) Lí(ghF'E//fh)ba(h_g!jjjvH'G)no(g_f//hvGFgvFE) est,(fff/ded.___) (;) mul(ff)ti(dgf)pli(f)cá(ixff/hihhg/hvGFg_e//hggf/ghg')bi(e)tur.(egf/gffe.) <i>T. P.</i>(::) Al(ce/gf)le(ffff_c//fff_e/hg/hffe)lú(egF'E)ia.(e.) (::)",
+        "mode": "4"
       }
     },
     {
@@ -150,7 +156,9 @@
         "de": "Ps 30:20"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) QUam(hjij) ma(h)gna(gvFE'/fhhfh.) *(,) mul(f)ti(fj)tú(ji/jhhf/hji)do(hg..) (;) dul(h)cé(hi)di(h)nis(hg) tu(hvG'FE)ae,(f) Dó(ehg)mi(hg)ne,(g.) (:) quam(g) ab(e)scon(fg~)dí(ge/f!hh/ijIH'/hvG'E/f./ehg/hhg)sti(g.) (;) ti(g)mén(gvFE/f_dd'db//de/fef)ti(e)bus(cedd) te!(dc..) <i>T. P.</i>(::) Al(ddd)le(beD'C//de/fef)lú(cedd)ia.(dc..) (::)",
+        "mode": "3"
       }
     },
     {

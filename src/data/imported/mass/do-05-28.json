@@ -26,7 +26,9 @@
         "de": "Ps 131,9-10.; Ps 131:1"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) SA(fff)cer(dfe)dó(ef/ghf)tes(dfe) tu(e!f'g)i,(g) *(,) Dó(gjj)mi(hg)ne,(gv.ff/ded.) (;) ín(g.h!iwj)du(hg)ant(gd~) ju(fh)stí(ghfg)ti(gv.df!gvFE'f)am,(fe..) (;) et(f) sanc(e!fw!gh)ti(g) tu(hggef)i(fe__) ex(e!fw!gh)súl(gh~)tent:(g.) (:) pro(gj)pter(j) Da(j.h!iwjij)vid(ji__) (,) ser(ij/klk)vum(j_i~) tu(j.h!iw!jvI'HG'h)um,(hg..) (;) non(gh) a(g.h!iwj)vér(jjjhhg~)tas(g.) fá(ghgh)ci(fg_F'_ED'e)em(ed.) (;) Chri(de!f!gwh)sti(gv./fhGF'g) tu(egff)i.(fe..) <i>T. P.</i>(::) Al(e)le(f)lú(gh)ia,(g.) (;) al(gh)le(g.h!iwjjvIH'G)lú(ge/fgF'E)ia.(e.) <i>Ps.</i>(::) Me(g)mén(hj~)to(j) Dó(k)mi(j)ne(j) Da(ih)vid:(jjj) *(:) et(ig) o(hj~)mnis(j) man(j)su(j)e(j)tú(jji)di(hg)nis(h') e(i)jus.(gh..) (::) Gló(g)ri(hj)a(j) Pa(j)tri(j) (::) E(j) u(jji) o(hg) u(h') a(i) e(gh..) (::)",
+        "mode": "3"
       }
     },
     {
@@ -70,7 +72,9 @@
         "de": "Ps 131:16-17; Ps 109:4"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) SA(c)cer(d)dó(ixdh'!iv)tes(h.) *() e(ixhih/ghGF.hiHG'hw!ivHGhi)jus(h.) (;) ín(hjh__!iwjj)du(kvJH)am(h.) (,) sa(hg/h!jjjhhg)lu(hggf)tá(hf/gh/jhjvGE'fvDC',d!ff/ghF'Eghffe)ri:(ge/ghgg/ff/ded.) (:) et(d!ff) sanc(gf~)ti(f) e(fhgh)jus(hjh__!iwjjvIHih..) (;) ex(h)sul(hg~)ta(h!jjh)ti(f)ó(ghF'Dfff_d)ne(d.) (;) ex(d)sul(dh~)tá(h_g/jj)bunt.(ixhv.gh!ivF'D//ff/g_f/g_f/gff/ded.) <sp>V/</sp>.(::) Il(dh)luc(h) pro(g)dú(gh/jhi)cam(g.) (,) cor(fh/jhhg~)nu(g.) Da(fh!jvHG'h)vid:(h./jjh/jjgjvvhih.__) (:) pa(gh)rá(j_0/kvJH'jvGF'//hghhghv.,k_lJ'IH)vi(ixhihih'ivHG'gfg.) (;) lu(f)cér(ghgh/k_jkvJHjjh , ixgih/ig./f!g'h!jjhhgh)nam(ixhf/hig/ff/ded.) (:) Chri(dfED'fvED.//de!fg!hjIH'hgh.,ixfh!ivGF'E//f!gwh'!iv)sto(hg..) *(,) me(ixhiG'Fh!jjvH'G)o.(hghF'Efg..) (,) (d!ewf!gv.fhGF'ED'ewfd.) (::)",
+        "mode": "1"
       }
     },
     {
@@ -121,7 +125,9 @@
         "de": "Ps 88:25"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(f4) VE(hh)ri(hiH'G)tas(ggh~) me(h!jjh/jjh/gih)a,(h.) *(;) et(h!jjj) mi(h)se(g)ri(h)cór(h!iwj/kj)di(j)a(jkjji) me(h!iwj)a(jkjji) (,) cum(hg) i(h!iw!jvIH'i)pso:(hg..) (:) et(h) in(jhj') nó(j)mi(kvJH)ne(j_i) me(jijg)o(egeg.) (;) ex(d)al(e)tá(gh)bi(hg)tur(h') cor(j)nu(jkjji) e(h!iwjij)jus.(ih..) <i>T.P.</i>(::) Al(hi)le(g/jjjjkJG'h/jjj_h!jkjk)lú(hih___)ia.(h.) (::)",
+        "mode": "2"
       }
     },
     {
@@ -150,7 +156,9 @@
         "de": "Matt 24:46-47"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c2) BE(exdde//)á(cf)tus(f) ser(g_f/g!hwihi)vus,(ih..) *(,) quem,(hj) cum(h) vé(jkj)ne(i)rit(hvGF) Dó(h_i)mi(h)nus,(h.) (,) in(fh~)vé(h)ne(ghg)rit(ef) vi(g)gi(fe)lán(df)tem:(c.) (:) a(cd)men(f) di(fe)co(d) vo(fvEC)bis,(c.) (,) su(f)per(g) ó(i)mni(h)a(g) bo(g)na(f) su(g)a(f_g) (,) con(gf~)stí(g!hwi)tu(f)et(exfgF'Efgf) e(exdfee//)um.(ed..) <i>T. P.</i>(::) Al(exe)le(c.!fgF'Efgf)lú(dfee)ia.(ed..) (::)",
+        "mode": "3"
       }
     },
     {

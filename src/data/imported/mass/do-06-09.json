@@ -26,7 +26,9 @@
         "de": "Eccli 44:15; 44:14; Ps 32:1"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) SA(h)pi(h)én(h)ti(gf)am(f) *() sanc(gfg)tó(ixhgih)rum(h.) (,) nar(g_f)rent(hfh) pó(h)pu(h!iwj_h)li,(h.) (:) et(h) lau(jk~)des(k) e(kj)ó(kljjhi)rum(i_h) (,) nún(j)ti(jk)et(ki) ec(j)clé(i)si(hjI'H)a:(h.) (:) nó(h)mi(g)na(ghg) au(h)tem(f) e(hfh)ó(jh/jjjk)rum(j.) (,) vi(h!jjh)vent(h) in(hg/hfg) saé(d)cu(ff)lum(gvF'Ef') sǽ(d)cu(ded__)li.(d.) <i>Ps.</i>(::) Ex(f)sul(gh)tá(h)te(h) ju(hj)sti(h) in(h) Dó(h)mi(hg)no:(gh..) (:) re(gf)ctos(gh) de(h)cet(h) col(hjh)lau(g')dá(f)ti(fg)o.(h.) (::) Gló(f)ri(gh)a(h) Pa(h)tri(h) (::) E(h) u(hjh) o(g') u(f) a(fg) e(h.) (::)",
+        "mode": "1"
       }
     },
     {
@@ -121,7 +123,9 @@
         "de": "Ps 67:36; Ps 67:36"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) MI(d!ewf)rá(fg/h_g)bi(ghg__)lis(gh~) De(hjI'GhvGF)us(f.) *(;) in(fh) sanc(hj/kjkvJI'H)tis(h.) su(hj!kvJH)is:(hjhhg.) (:) De(hj)us(jjj) Is(h!jjj)ra(gh)el,(ixfihhg.) (,) i(g)pse(h) da(iij_hjvIH'hg)bit(ghggf.) (;) vir(h!iwji~)tú(jv.jjj/kl)tem,(jkjji.) (,) et(g) for(g/jjj)ti(j_i)tú(i!k'l)di(jvIH)nem(hjhhg.) (,) ple(h_g/jkj)bi(jjj_g) su(gjhhg)ae:(ghggf.) (:) be(fg)ne(h)dí(hjvvH'Gh!iwji)ctus(j.) De(jkj'/ki'/jvHG'/gfg.,f!gh!jjjg//hjggf!gw!hi)us,(hg..) (:) al(hg~)le(gjg/hggf//g.h!iwj/k_ijvIH'iwj_i/hiH'G)lú(gh/jhi)ia.(hg..) (::)",
+        "mode": "8"
       }
     },
     {
@@ -150,7 +154,9 @@
         "de": "Joannes 15:16"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) E(h)go(jhhg.) *(,) vos(i.h!iwj) e(h_f)lé(gh)gi(g) de(eg) mun(fgff)do,(d.) (;) ut(fe) e(fg)á(g'/hfg)tis,(d.) (,) et(df~) fru(fef)ctum(dc~) af(fh)fe(gh)rá(fgf__)tis:(f.) (:) et(hg~) fru(ixgh/if)ctus(df~) ve(fe)ster(cd~) má(d)ne(de!fvED'e)at.(ed..) (::)",
+        "mode": "1"
       }
     },
     {

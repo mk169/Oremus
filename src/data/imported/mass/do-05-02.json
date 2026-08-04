@@ -121,7 +121,9 @@
         "de": "Ps 88:21-22"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) IN(c)vé(e!f'g)ni(f) *() Da(f)vid(fhffe.) (,) ser(f)vum(fiH'Gh) me(fgf___)um,(f.) (:) ó(hhi)le(h)o(h) sanc(h)to(hiH'G/hvG'FEfe..) (,) un(hhf~)xi(hh) e(giH'G)um:(g.) (:) ma(hhi)nus(h) e(hi/ji)nim(ihh) me(f!hhhf/ivH'Gh)a(h.) (,) au(h)xi(h)li(h)á(hhi)bi(f)tur(e_d) e(fhF'EfvED'e)i,(ed..) (:) et(ef~) brá(e)chi(e.f!gwhg)um(h) me(hg)um(hig'/hvF'Ef.) (,) con(e)for(f)tá(f!hhhf/ivH'Gh)bit(g_f) e(efe___)um.(e.) (::) <i>T.P.</i> Al(ef)le(e)lú(eg/ivHG'h)ia.(fe/fgffe.) (::)",
+        "mode": "8"
       }
     },
     {
@@ -150,7 +152,9 @@
         "de": "Matt 10:27"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) QUod(d) di(e)co(f) vo(g)bis(f) *() in(fd~) té(f)ne(f)bris,(e_c) (,) dí(f)ci(f)te(e) in(d) lú(e)mi(f)ne,(g_d) di(e)cit(de) Dó(c)mi(c)nus:(c.) (;) et(e) quod(c) in(d) au(f)re(fe) au(d)dí(fg)tis,(g.) (,) prae(f)di(ef)cá(d)te(dc) su(d)per(f) te(egff)cta.(fe..) <i>T. P.</i>(::) Al(f)le(d./ghG'Fghg)lú(egff)ia.(fe..) (::)",
+        "mode": "4"
       }
     },
     {

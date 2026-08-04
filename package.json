@@ -16,7 +16,8 @@
     "commune:fetch": "node scripts/fetch-do-commune.mjs",
     "kyriale:fetch": "node scripts/fetch-kyriale.mjs",
     "gabc:dump": "node scripts/gregobase-from-dump.mjs",
-    "propers:fetch": "node scripts/fill-proper-melodies.mjs"
+    "propers:fetch": "node scripts/fill-proper-melodies.mjs",
+    "gabc:match": "node scripts/fill-gabc-match.mjs"
   },
   "dependencies": {
     "@fontsource/cormorant-garamond": "^5.0.18",

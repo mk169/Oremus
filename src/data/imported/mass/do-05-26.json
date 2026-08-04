@@ -26,7 +26,9 @@
         "de": "Rom 5:5; Ps. 102:1"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) CA(gj)RI(j)TAS(j) De(j)i(hih) *(,) dif(g)fú(gh/ih!ij)sa(ghGFEf) est(fe) (;) in(f) cór(e!fh)di(h)bus(h) no(hghf)stris(d!ewf) (:) per(fgf) in(ff)ha(ef)bi(g)tán(g/hjh/fhf/gh)tem(g) (,) Spí(hhg)ri(hg)tum(e) e(e!fg~)jus(g) in(f) no(egff)bis.(fe) <i>T. P.</i>(::) Al(f)le(fh/jh)lú(ghg)ia,(e) (,) al(g)le(ixg/hiGF/hvGFg)lú(egff)ia.(fe) <i>Ps.</i>(::) Bé(g)ne(hj)dic(j) á(j)ni(j)ma(j) me(k)a(j) Dó(j)mi(ih)no:(jjj) *(:) et(ig) ó(hj)mni(j)a(j) quae(j) in(j)tra(j) me(j) sunt,(j) (,) nó(j)mi(j)ni(jji) san(hg~)cto(h) e(i)jus.(gh) (::) Gló(g)ri(hj)a(j) Pa(j)tri(j) (::) E(j) u(jji) o(hg) u(h) a(i) e(gh) (::)",
+        "mode": "3"
       }
     },
     {
@@ -70,7 +72,9 @@
         "de": "Ps 33:12; 33:6; Lam 1:18"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) VE(d)ní(ff)te(ghgh) fí(h_fg)li(g)i,(f.) *(,) au(hj~)dí(j_h//jij )te(ixgjh/i_j) me:(ixih..) (:) ti(h)mó(hg)rem(j) Dó(j)mi(ij)ni(h_f) do(gh)cé(f)bo(ef) vos.(dec.) (,) (fhg___//jkijh./fhg/hggf.) (z0::c3)<sp>V/</sp>. Ac(d)cé(d)di(f)te(hvvGFhvGEff) (,) (gxde!fgF'E/fvEDe.) (,) (fh/ih/ih/ijh.) (,) ad(h) e(ih/kkh/ih/kkvIH )um,(hv.ghGF.) (;) et(h) il(h)lu(h)mi(h)ná(i!jwk)mi(ih)ni:(hihh/fgf.) (:) et(fh~) fá(h)ci(h)es(g) ves(h)trae(f.) *(,) non(df) con(ehgh)fun(f)dén(de~)tur.(d!ewfef//highf./dfe/fe/ed.) (::)",
+        "mode": "5"
       }
     },
     {
@@ -121,7 +125,9 @@
         "de": "Ps 118:32"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) VI(ghg)am(fg) *() man(gjji/j_k)da(ji)tó(jv./ijhi)rum(hhg.) (,) tu(g)ó(ghGF'/gffvED/gh)rum(g.) (;) cu(h)cúr(gjI'G/hh//fh!jvGF'/fd/ef!ghg)ri,(g.) (:) cum(ghg) di(fg)la(g)tá(gj/hi//h!jj//jjjhhggf./h!iwjj)sti(k_j) (;) cor(ij/kj) me(kjj'jj_h//jjh/jvIG/h.,fh!jvIG___/ivHG/hg)um.(g.) <i>T. P.</i>(::) Al(h!iwj)le(jv.jjjg/hvGFg./jjvIH'/iw!jvIH)lú(hg~)ia.(gjh/ihhg.) (::)",
+        "mode": "8"
       }
     },
     {
@@ -150,7 +156,9 @@
         "de": "Ps 83:3"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) COR(fg) me(gff)um(de) *(,) et(cd~) ca(d!f'g)ro(gh) me(hjjg)a(g_f/hvGE.) (;) ex(fg)sul(f)ta(ghg)vé(hv.fh!jvvH'GE'f)runt(f.) (,) in(f) De(f_d/fvEC/fhg___)um(ghF'Ef) vi(ded___)vum.(d.) <i>T. P.</i>(::) Al(f)le(ef)lú(d./cd!ewf)ia.(ed..) (::)",
+        "mode": "1"
       }
     },
     {

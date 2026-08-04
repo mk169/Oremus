@@ -26,7 +26,9 @@
         "de": "Habac 3:18-19; Ps 80:2"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) E(f)GO(gh) au(h)tem(h) *(,) in(h) Dó(h/jjj)mi(hg)no(ixgih/ivGF) gau(hg~)dé(h/jjj)bo:(ih) (;) et(j) ex(jjj)sul(h)tá(j)bo(jj//jjj) (,) in(h) De(ixfh!ivHFg)o(f) Je(h)su(hg) me(hvGFE/fwgfg)o:(fg/hg) (:) De(h)us(hg) Dó(hj)mi(h)nus(ghg) (;) for(fd~)ti(f)tú(fhg)do(ghf/gvFE) me(d!ewfef)a.(ed) <i>Ps.</i>(::) Ex(f)sul(gh)tá(h)te(h) De(h)o(h) ad(h)ju(h)tó(hj)ri(h) no(hg)stro:(gh) *(:) ju(gf)bi(gh)lá(h)te(hjh) De(g)o(f) Ja(fg)cob.(h) (::) Gló(f)ri(gh)a(h) Pa(h)tri(h) (::) E(h) u(hjh) o(g) u(f) a(fg) e(h) (::)",
+        "mode": "1"
       }
     },
     {
@@ -70,7 +72,9 @@
         "de": "Ps 21:24-25; Ps 58:17"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) QUI(c) ti(d)mé(ixdh'!iv)tis(h.) *(,) Dó(ixhih/ghGF./hiHG'/hw!ivHG/hi)mi(h)num,(h.) (;) lau(hjh!iwj!kvvJH)dá(hg/h!jjjhhg)te(hggf) (,) e(hf/gh/jh/jvGE'/fvDC' , d!ff/ghF'E/ghffe)um:(ge/ghg/ff/ded.) (:) u(f)ni(ghgh)vér(hv.f!g'h)sum(g.) (,) se(hjij)men(hv./fh!jvH'GF'g) Ja(fv./dfe)cob,(d/ffd) (,) (fge'/fgd'/eddc.) (;) glo(fd)ri(e)fi(f)cá(ghgh//jj//jjj)te(g.) (,) e(ixhg/hig)um.(efd/f_h//ghGE/f_g//fgFD.) <sp>V/</sp>.(::) Tí(dh)me(h)at(g) e(gh/jhi)um(g.) (,) o(fh/jhhg~)mne(h.) se(hkj___/kvJH'i)men(h.) Is(h!iwj)ra(g)el:(fh/jh/ih..) (:) quó(f!gwhgh/jhhggf!gwh_g)ni(h)am(g.) (`) non(h_fh) spre(g_fg)vit,(d/ffd) (,) (fge'/fgd'/eddc.) (:) ne(ffd/fff)que(fg) de(g_f)spé(ixfhg/hiG'F,gf/ghff'fd!ewfef)xit(ed..) (;) de(f)pre(ec)ca(df)ti(f)ó(ef!ghhg)nem(gh) *(,) páu(ixjhiGF'/h!jjvH'Gh')pe(d)ris.(dc/d!ff/ghG'E/fgff/ded.) (::)",
+        "mode": "1"
       }
     },
     {
@@ -121,7 +125,9 @@
         "de": "Eccli 46:6"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) IN(c)vo(d)cá(ixdh'!iv)vit(h) *(,) Al(h)tís(ixhi)si(h)mum(h) po(ixh)tén(h!jjh/i_j)tem(gh) (;) in(fh) op(h)pu(g)gnán(gh!jvHG'h)do(h) i(g)ni(h)mí(j_h//kvJ'IG)cos(gh) (,) ún(hjh)di(h)que,(ixh!jjh/ivG'Fg.) (:) et(f) au(gh~)dí(hgh)vit(hjI'H) il(gihhg)lum(g.) (;) ma(f!gwhgh//gh!jjjkJH)gnus(h.) (,) et(hi~) san(gh!jv//kjk)ctus(ij/kh) De(ghG'F)us.(f.) (::)",
+        "mode": "6"
       }
     },
     {
@@ -150,7 +156,9 @@
         "de": "Sap 10:20"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) DE(de)can(c)ta(d)vé(fg)runt,(hf/ghhg.) *(,) Dó(fh)mi(g)ne,(fe) no(fh)men(hg) san(h)ctum(fg~) tu(gg)um,(d.) (:) et(d) vic(fe)trí(f!g'h)cem(g) ma(g)num(g) tu(gfg)am(dec.) (,) lau(fg~)da(ghf/gvFE)vé(d!ewfef)runt.(ed..) (::)",
+        "mode": "1"
       }
     },
     {

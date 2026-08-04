@@ -26,7 +26,9 @@
         "de": "Ps 138:17; Ps 138:1-2."
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(f3) MI(e)HI(f) au(f)tem(hh) *() ni(ihi)mis(ihi_f) (,) ho(fi)no(i)rá(ij)ti(ih) sunt(hv./gih.) (,) a(f)mí(ege)ci(f) tu(f)i,(hhi) De(fgF'E)us:(e.) (:) ni(h)mis(hhh) con(f)for(fi~)tá(i)tus(h) est(hji.) (,) prin(hihh)ci(ef)pá(hhi)tus(h) e(h)ó(hjI'H)rum.(hhh/fgf.___) <i>Ps.</i>(::) Dó(e)mi(fe)ne(eh) pro(h)bás(h)ti(h) me,(h) et(hg~) co(hi)gno(i)ví(hi)sti(h) me:(h.) *(:) tu(hf) co(fh)gno(h)vís(h)ti(h) ses(h)si(h)ó(h)nem(h) me(h)am,(h.) (,) et(h) re(h)sur(h)rec(h')ti(i)ó(hf)nem(h) me(ge)am.(fgf.) (::) Gló(e)ri(fe)a(eh) Pa(h)tri(h) (::) E(h') u(i) o(hf) u(h) a(ge) e(fgf.) (::)",
+        "mode": "2"
       }
     },
     {
@@ -71,7 +73,9 @@
         "de": "Ps 18:5; 18:2; Joann 15:16"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) IN(c) o(ef~)mnem(f) *() ter(hfghvF'Ege/fg)ram(f.) (;) ex(hh/ijIH')í(ig'hvF'Ef!hh/if)vit(f.) (,) so(fh//gih/ghf)nus(gxfegvFE.) (,) e(e)ó(ed/fef)rum:(fd/ef!hvvF'E//f!gwh/ihh/fgf.) (:) et(hh) in(h) fi(hji)nes(ihhf.) or(f)bis(fi) ter(i_f/ij~)ræ(h_fhv.ghF'Ef.) (;) ver(d!e'f/hvGF'g)ba(e) e(f)ó(hf/h_i)rum.(ih/ijI'H) (,) (jh/jkIG'hvF'E//f!gwh!iv.h!i'j) (,) (ijijHF'gwhf.) <sp>V/</sp>.(::) Cæ(f)li(h) e(ij)nár(jvI'HG'hvF'E,ge/f!hh/ijij.,hj!kvIG'hvF'E//fgF'Ef.,i!jwk_jkvJI'j)rant(ji..) (:) gló(i!jw!kvJI'jw!kvJI')ri(i)am(ij~) De(j_hjvIH'hf/hhf/hv.hhh_f,hi!jvIHjvIHif)i:(f.) (:) et(hh) ó(h)pe(h)ra(h) má(h)nu(h)um(hi) e(ivH'GE//fhGEfh..,gi!jvHF)jus(fhF'Efhhf//hvvGF'heed.) (:) an(d)nún(d!e'f)ti(f)at(f.hvGF'g) *() fir(e)ma(f)mén(hf/hi~)tum.(i_jH'Ghi..) (,) (e!f'hh'jIH'GF'gwhf.) (::)",
+        "mode": "2"
       }
     },
     {
@@ -104,7 +108,9 @@
         "de": "Ps 138:17"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) MI(e!f'g)hi(ixhig'/hvF'E) *(,) au(ff/h)tem(h/jjj) ni(g/jjh/jvGF)mis(f_e/g_f/gffe.) (;) ho(dg)no(gih)rá(h!iwj!kvJH)ti(h_g) sunt(giH'Gh.) (;) a(ef)mí(d/fgf)ci(e) tu(fgF'E//ixfg/hihhg)i,(g./fg!hvhg.) (,) De(g_f/hvGF/gvFE)us:(fff/ded.___) (:) ni(df)mis(fff//fv.fff) (,) con(df/gef~)for(e)tá(ff/h)tus(h/jjj) est(g/jjjvH'Ghv.ixfh/ig/ff/ded.) (;) prin(df/gef~)ci(e)pá(ff/h_g/hvGF)tus(g.) (,) e(g/jjjh)ó(hv./giH'G)rum.(gvFE/f_e//g_f/gffe.) (::)",
+        "mode": "3"
       }
     },
     {
@@ -133,7 +139,9 @@
         "de": "Matt 19:28"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) VOS,(df!gh) *(,) qui(g) se(g)cú(g)ti(ge) es(fg)tis(efED'e) me,(ed..) (;) se(d)dé(f)bi(fff)tis(dfddc.) (,) su(ixfg!hi)per(hg~) se(f.e!fwgfg)des,(gf..) (:) ju(f)di(ghg)cán(h)tes(g) du(f)ó(g)de(fe)cim(dfddc.) (,) tri(fffd//ef!gh)bus(f_e) Is(d)ra(de!fvED'e)el.(ed..) (::)",
+        "mode": "1"
       }
     },
     {

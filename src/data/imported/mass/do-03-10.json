@@ -26,7 +26,9 @@
         "de": "Ps 33:18; Ps 33:2"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(f3) CLa(f)ma(egf)vé(f)runt(hh) *() ju(hh/ijh)sti,(f.) (;) et(fhg) Dó(hghf)mi(fgf___)nus(f.) (,) ex(fgf)au(fe~)dí(h_g)vit(h_i) e(fgF'E)os:(e.) (:) et(h) ex(hhh) óm(f)ni(fih/ij)bus(i.) (,) tri(i)bu(i)la(ij)ti(ih)ó(hjij)ni(h)bus(f) e(h_g)ó(hghf)rum(f/hhvFE.) (;) li(hh)be(ef)rá(fh/ihi)vit(ihh) e(eh//ghf/ggf)os.(f.) <i>Ps.</i>(::) Be(e)ne(fe)dí(eh)cam(h) Dó(h)mi(h)num(h) in(hg) om(hi)ni(i) tém(hi)po(h)re:(h.) *(:) sem(hf~)per(fh) laus(h) e(h)jus(h') in(i) o(hf)re(h) me(ge)o.(fgf.) (::) Gló(e)ri(fe)a(eh) Pa(h)tri(h) (::) E(h') u(i) o(hf) u(h) a(ge) e(fgf.) (::)",
+        "mode": "2"
       }
     },
     {
@@ -70,7 +72,9 @@
         "de": "Ps 132:1-2; Tractus; Ps 125:5-6"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) EC(ixdh!ivHG/fhg/hi)ce(h.) *(,) quam(fh~) bo(h)num,(ghGE.) (,) et(f) quam(ghg/hf~) ju(gh)cún(g_e/fgfg)dum(d.) (;) ha(h)bi(jj)tá(jkj)re(ji/jvIH/iij) fra(g!hwi'!jv)tres(ih..) (;) in(fh) u(ixh_g!jjvH'G//hig)num!(efd/f_h/ghGE/f_g//fgFD.) <sp>V/</sp>.(::) Si(d)cut(d) un(dh~)guén(h)tum(hjH'GF./eg/hgh//fgFD.) (,) (cd/fd//cd!ff/g.h!iw!jvIH.) (;) in(h) cá(h)pi(h)te,(hjH'G/h!jjjh//jjjvIH'/jggf.) (:) quod(hk) de(k_j)scén(j_lKJ'/kjj'jh~)dit(ih__) (,) in(f) bar(ixhv.fhg/hiG'F//gf/ghff'fd!ewfef)bam,(ed..) (:) bar(d/fff)bam(g_f) *() A(f')a(hg'h)ron.(hhf.) (,) (h_g/hvFD/gff'fvE'C//ddc/da..) (,) (cd!fvvDC'/d!ff/gff/ded.) (::)",
+        "mode": "1"
       }
     },
     {
@@ -150,7 +154,9 @@
         "de": "Matt 12:50"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) QUi(d)cúm(f)que(fe) fé(fg)ce(efED'e)rit(ed..) *(,) vo(f)lun(hg~)tá(ixhi)tem(hg~) Pa(ixgi)tris(hi) me(g)i,(ghgg/efe.) (,) qui(g) in(ge~) cae(gh)lis(gh) est:(g.) (:) ip(h)se(ghg') me(h)us(fgf') fra(g)ter,(gd~) so(f)ror,(f.) (,) et(f) ma(ed/f_g)ter(d!ew!fvE'DC'd) est,(dc..) (;) di(f_e/ggh)cit(f.e!fwgffe) Dó(d)mi(de!fvED'e)nus.(ed..) (::)",
+        "mode": "1"
       }
     },
     {

@@ -26,7 +26,9 @@
         "de": "Ps 72:24; Ps 72:1."
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c2) TE(cd)nu(c)í(c!d'f)sti(f) *(,) ma(gfg)num(g) déx(g/iii)ter(g)ram(ghf~) me(g!hwihi)am:(hg..) (:) et(g) in(gf) vo(g)lun(i)tá(h/iji)te(i) tu(hiHG'h)a(hg..) (,) de(g)du(gi)xí(i)sti(i_h/ivHG'h) me,(hg..) (:) et(gh) cum(fg) gló(g)ri(fg)a(ghgg/efe.) (,) su(ef!ghg)sce(gffd!ewf)pí(c)sti(cdc___) me.(c.) <i>Ps.</i>(::) Quam(cfe) bo(fg)nus(g) Is(gi)ra(h)el(h) De(hg)us,(gh..) *(:) his(ge) qui(fg) re(g!hwi)cto(g') sunt(f) cor(fff)de!(dc..) (::) Gló(cfe)ri(fg)a(g) Pa(g)tri(g) (::) E(g) u(g!hwi) o(g') u(f) a(fff) e(dc..) (::)",
+        "mode": "7"
       }
     },
     {
@@ -117,7 +119,9 @@
         "de": "Job 14:7"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) LI(fhggfg)gnum(g_f) *(,) ha(h/jjh!iwj)bet(h_gh) spem:(ghg/ff/ded.) (:) si(df) prae(fff)cí(d!ew!fvE'DC'd)sum(d_c) fú(ixfg/hg/hi)e(h)rit,(h.) (;) rur(hjh)sum(hjg/fvED'ewf.) (,) vi(d)ré(ffg/ef!gv//fg/hg/hvGF'/fvED/fvED')scit,(d/fff) (:) et(fd~) ra(fhg)mi(g) e(ixh!jjvH'G/hiGF'/gwhgh//gh!jjj/kvJH)jus(h.) (;) pól(hv./fhggv//efD'C/dff'ff//ghgh)lu(gf)lant.(f/ghggf.) (::)",
+        "mode": "6"
       }
     },
     {
@@ -146,7 +150,9 @@
         "de": "Ps 36:17"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) BRá(f!g'h)chi(g)a(g.) *(,) pec(g)ca(g)tó(gh/ji)rum(ih/jkj) (,) con(ij)te(hgh)rén(ixhv./gi'HF)tur,(f.) (:) con(fg~)fír(e!f'g)mat(g) au(gv./fhg)tem(g) (,) jus(gh/i.h!iwj)tos(hih) Dó(g)mi(gh!ivHG'h)nus.(hg..) (::)",
+        "mode": "8"
       }
     },
     {

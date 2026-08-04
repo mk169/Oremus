@@ -26,7 +26,9 @@
         "de": "Philipp 2:10-11; Ps 5:12-13"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) In(ed~) nó(g)mi(hj)ne(j) (::) Je(ij)su(jj) (;) o(j)mne(j) ge(j)nu(j) fle(hig)ctá(hj/kjjv)tur,(ji) (:) cæ(hg)lé(hi)sti(h)um,(h) (;3) ter(hji)ré(jijh)stri(hg//hihi)um,(ih) (;) et(g) in(hj)fer(j)nó(ikjjv)rum:(ji) (:) et(i) ó(k)mnis(l) lin(k)gua(j) (;3) con(g)fi(hi)te(i)á(hv//gh/jgh)tur,(ghGFE) (;) qui(ef!gh)a(g) Dó(gh)mi(g)nus(g) Je(g)sus(g) Chri(hg/hihi)stus(ih) (;) in(hg~) gló(hj)ri(g)a(g) est(g) (;4) De(e!fh)i(h) Pa(gfhGF//gvFE)tris.(e) <sp>V/</sp>.(::) Lau(g)da(hj)te(j) Dó(j)mi(j)num(j) (;3) quó(j)ni(j)am(j) bo(jk)nus(j) est(j) Dó(j)mi(ih)nus:(hj) (::) psál(g)li(hj)te(j) nó(j)mi(j)ni(j) e(j)jus(j) (;3) quó(j)ni(ji)am(hg) su(h)á(i)ve.(gh) (::) Gló(g)ri(hj)a(j) (::) E(j) u(ji) o(hg) u(h) a(i) e(gh) (::)",
+        "mode": "3"
       }
     },
     {
@@ -70,7 +72,9 @@
         "de": "Ps 91:13; 91:14; Ps 91:3; Ja 1:12"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) JU(egf)stus(f.) *(,) ut(f) pal(f)ma(f) flo(f)ré(hfghvF'Ege/fg)bit:(f.) (:) si(f)cut(f) ced(hf/h!i'j)rus(gxhffegvFE.) (,) Lí(e)ba(ed/fef)ni(fd/ef!hvvF'E//f!gwh/ihh/fgf.) (:) mul(hh)ti(h)pli(h)cá(hg/hi!jvHGhhg,i_hivHF')bi(f)tur(fhF'Efhhf//hvvGF'heed.) (:) in(d) do(d!e'f/hvGF'g)mo(ef) Dó(hf)mi(hi)ni.(ih/ijI'H) (,) (jh/jkIG'hvF'E//f!gwh!iv.h!i'j) (,) (ijijHFgwhf.) <sp>V/</sp>.(::) Ad(f) an(h)nun(hi)ti(i)án(i)dum(ij~) ma(jvI'HG'hvF'E , ge/f!hh/ijij. , hj!kvIG'hvF'E//fgF'Ef. , i!jwk_jkvJI'j)ne(ji..) (:) mi(i!jw!kvJI'jw!kvJI)se(i)ri(i)cór(i)di(i)am(ij~) tu(j_hjvIH'hf//hhfhv.hhh_f , hi!jvIHjvIHif)am,(f.) (:) et(hh) ve(h)ri(h)tá(h)tem(hi~) tu(ivH'GEfhGEfh.. , gi!jvHF)am(fhF'Efhhf//hvvGF'heed.) *(:) per(d!e'f/hvGFgef) no(hf/h_i)ctem.(i_jH'Ghi..) (,) (e!f'hh'jIH'GF'gwhf.) (::)",
+        "mode": "2"
       }
     },
     {
@@ -121,7 +125,9 @@
         "de": "Ps 88:25"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(f4) VE(hh)ri(hiH'G)tas(ggh~) me(h!jjh/jjh/gih)a,(h.) *(;) et(h!jjj) mi(h)se(g)ri(h)cór(h!iwj/kj)di(j)a(jkjji) me(h!iwj)a(jkjji) (,) cum(hg) i(h!iw!jvIH'i)pso:(hg..) (:) et(h) in(jhj') nó(j)mi(kvJH)ne(j_i) me(jijg)o(egeg.) (;) ex(d)al(e)tá(gh)bi(hg)tur(h') cor(j)nu(jkjji) e(h!iwjij)jus.(ih..) <i>T.P.</i>(::) Al(hi)le(g/jjjjkJG'h/jjj_h!jkjk)lú(hih___)ia.(h.) (::)",
+        "mode": "2"
       }
     },
     {
@@ -150,7 +156,9 @@
         "de": "Luc 12:49"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) I(fhg)gnem(ghF'E/fvE'DCdc..) *(,) ve(ff)ni(ffg) mí(fd)te(f)re(gh) in(h) ter(hj!kvJH)ram:(h.) (:) et(h) quid(ghg) vo(ef)lo,(ghg.) (;) ni(hv./fhg/hvF'ED)si(dfddc.) (,) ut(f) ac(g)cen(e_d/fgF'Ef)dá(ded__)tur?(d.) (::)",
+        "mode": "1"
       }
     },
     {

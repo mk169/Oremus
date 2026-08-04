@@ -26,7 +26,9 @@
         "de": "Cant 4:8-9.; Ps 112:1"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) VE(gj)ni(jjj//jv.jjj) *() de(j) Lí(hj)ba(jvIH)no,(h.) (,) spon(g/jjh/jjj)sa(gh) me(hkj)a,(jkjj'j) (;) ve(g)ni(hj) de(j) Lí(hj)ba(jvIH'i)no,(hg..) (,) ve(hv.ghggef)ni:(fe..) (:) vul(gj)ne(j)rá(j)sti(j) cor(hj~) me(jvIH)um,(h.) (,) so(gh)ror(fg) me(g/jjh/jjj)a(gh) spon(hkj)sa(jkjj'j) (;) vul(g)ne(hi)rá(iij)sti(hg) cor(hi) me(ghG'FgvFE)um.(e.) <i>T. P.</i>(::) Al(e)le(f)lú(gh)ia,(g.) (,) al(gh)le(g.h!iwjjvIH'G)lú(g_e/fgF'E)ia.(e.) <i>Ps.</i>(::) Lau(g)dá(hj)te,(j) pú(k)e(j)ri,(j) Dó(j)mi(ih)num,(jjj) *(:) lau(ig~)dá(hj)te(j) no(jji)men(hg) Dó(h')mi(i)ni.(gh..) (::) Gló(g)ri(hj)a(j) Pa(j)tri(j) (::) E(j) u(jji) o(hg) u(h') a(i) e(gh..) (::)",
+        "mode": "3"
       }
     },
     {
@@ -70,7 +72,9 @@
         "de": "Matt 11:25; Ps 70:5; Ps 39:17-19"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) COn(d)fí(ffg)te(f)or(f) ti(fg)bi,(f.) *(,) Pa(ghg'/hg)ter,(gv.fgFD.) (,) Dó(dgf/gh)mi(g)ne(g) cae(fg)li(f) et(f) ter(fffvDC'dff//hghf)rae,(f.) (:) qui(h)a(h) ab(g)scon(jj)dí(j)sti(ji) haec(hgj./klkkj.) (;) a(j) sa(j)pi(hj)én(j)ti(kvJH)bus,(h) et(f) pru(h)dén(gv.fhfg)ti(hg)bus,(g.) (:) et(f) re(f)ve(hg)lá(gj)sti(j) e(j)a(ixj.h!iw!jvIG'hw!ivHG') pár(f)vu(fgf__)lis.(ixf./hj/klKJ'jg/h_f//hiGF.) <sp>V/</sp>.(z0::c3) Dó(hh)mi(h)ne(ihh'hfhv.ijh.) (,) (hv.ijIH.ijHF.ghFD.) (,) (fdfED//fd/ef/hh/ig/hf/hi/kkkh..) (;) spes(hf/hhh) me(h)a(h.f!gwh!iv.hi/jhh/iih.) (;) a(d) ju(d)ven(d)tú(dfE'D)te(ef) *() me(fhG'Fhhh)a.(hhf.) (,) (gxg_fgvED.fgED.fehv.hhhff/dfe/feed.) (::)",
+        "mode": "5"
       }
     },
     {
@@ -88,7 +92,9 @@
         "de": "Cant 2:11-12; Jer 31:3"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(f3) JAM(f) hi(efE'C)ems(ef//ef/hghvvGFgf..) *(,) trán(hhgh)si(e)it,(ef/gf/ggf/gh/iffe.) (:) im(gh)ber(f) áb(f_e/f!gwh'!iv)i(hi)it,(hg/hiih.) (;) et(hihhe) re(fgf)cés(hvGF)sit.(fefEC//fef/ggf.) <sp>V/</sp>.(::) Flo(fhg)res(hi) ap(i)pa(ih)ru(ij)é(jvIH'FihhvGF)runt(fhffe.) (,) in(ef) ter(hi)ra(f) no(fihhvGF'g)stra,(gf..) (;) tem(f)pus(hg) pu(h)ta(f)ti(f)ó(fg)nis(f) ad(f)vé(f!hh//hhh)nit:(fe/ggf/gh/iffe.) (:) vox(e) túr(gh)tu(f)ris(f) au(f)dí(f_e/f!gwh'!iv)ta(hi) est(hg/hiih.) (;) in(ef) ter(eh)ra(gh/ihi) no(f)stra.(f/ggf.) <sp>V/</sp>.(::) In(f) ca(e)ri(f)tá(h/ihhf/hh/ijhhg/ihhggf!gwhgh)te(gf..) (,) per(h.f!gwh'!iv)pé(hi/ji)tu(ig)a(giH'GhvGFgf..) (;) di(g!h'i)lé(hg)xi(fe) te:(ef/gf/ggf/gh/iffe.) (:) í(gh)de(f)o(f) at(f)tráx(fg)i(f_e/f!gwh'!iv) te,(kx//hgi./jkiih.) (;) mí(h/ihhe)se(fgf)rans(g.) *() tu(i_hivHFg.,hjijH'GF)i.(fe/f!hh/ijI'Gh.) (,) (gh!jvIH'hvGF/ggf.) (::)",
+        "mode": "2"
       }
     },
     {
@@ -121,7 +127,9 @@
         "de": "Luc 1:46-49"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) MA(cd)gní(ixdh'!iv)fi(h)cat(h.) *(,) á(hjh)ni(hg)ma(ghg) me(hv.g!jjj)a(fg) Dó(ixfh!jvHGigh)mi(ih)num:(h.) (;) et(de) ex(c)sul(d)tá(ixdh'!iv)vit(hg) spí(h)ri(hg)tus(g) me(hjh)us(ghg.) (,) in(hg~) De(ghg)o(hg) sa(f)lu(g)tá(hv.g!jjj)ri(fg) me(iyfh!jvHGig/h!jjh,jjvH'Gh!iwj_i)o:(jjjvIH'jggf.) (:) qui(fg/h_f/ghg__/jkjj'jjh)a(hgh.) (,) re(j)spéx(klkl)it(j_h) (,) hu(hf)mi(gh)li(hj)tá(jkjk)tem(k_h) an(jk)cíl(klkl)lae(jhjjj) su(hhg)ae,(g_fg.) (:) fe(hj)cit(jji) mi(jvIH)hi(h_g) ma(g_e/fgffg)gna(gd..) (;) qui(d) po(df/gfgf//f'ffd/g_ef.,hjg)tens(fdf) est.(fffgvFD.) <i>T. P.</i>(::) Al(fg~)le(e_d/fh//ghg/e!fg/hfgvFE)lú(d!ewfef)ia.(ed..) (::)",
+        "mode": "1"
       }
     },
     {
@@ -150,7 +158,9 @@
         "de": "Deut 32:10-12"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) CIr(ef~)cum(e)dú(ehg)xit(h') e(i)am,(h.) *(,) et(hhhf) dó(fih/ij)cu(i)it(i.) (,) et(i) cu(j)sto(l)dí(kv.jlK'JIjk)vit(ji..) (;) qua(i)si(g) pu(i)píl(iji)lam(h') ó(i)cu(h)li(gh) su(fge)i.(e.) (:) Si(e)cut(ei) á(i)qui(i)la(i') ex(i)pán(ij/k_i~)dit(i) a(i)las(jk) su(jkJ'IHij)as,(i.) (;) et(i) as(ij!k'l)súm(lv.jlK'JIjk)psit(ji) e(iji__)am,(i.) (;) at(i)que(jkj) por(h)tá(jjk)vit(j_i) in(i_g) hú(hi)me(h)ris(g_fhvG'Fg) su(efe__)is:(e.) (:) Dó(ggh)mi(f!gwh)nus(h_e) so(hf/hi)lus(g.) (,) dux(g_h) e(iihivHGh.f!gwh'!iv)jus(g) fu(efe__)it.(e.) <i>T. P.</i>(::) Al(f!gwh)le(hih__/gih./fhgh./fge__)lú(efe__)ia.(e.) (::)",
+        "mode": "7"
       }
     },
     {

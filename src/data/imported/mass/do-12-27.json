@@ -71,7 +71,9 @@
         "de": "Joann 21:23; 21:19; Joann 21:24"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) EX(ffg)i(f)it(f.) *(,) ser(fg~)mo(f) in(f)ter(gh~) fra(h_fgvFED.g_e/fg)tres,(f.) (;) quod(f) di(f)scí(hf/gh/jj/kjk)pu(jij)lus(h_g) il(ixh/jjvHF.ivHGhf)le(f.) (;) non(ixf!hhi/gjjj.h!iw!jvIG'hw!ivHG') mó(f)ri(ff//ff)tur.(f_c) (,) (fg!hvGF.e!g'h//fhg/hggf.) <sp>V/</sp>.(z0::c3) Sed:(d) Sic(fe) e(eh)um(h) vo(h)lo(h) ma(h)né(h)re,(ihhe./hih___/ihhe.) (,) (hi!kv/lvKI'jvHF.) (,) (h_g/ijh'___ jvIH'jvIH'hvGF.) (:) do(f!h'i)nec(ih/jki/hhf) vé(f)ni(hfhhe/fd)am:(d.) *(:) tu(d!e'f) me(f) sé(fhGF')que(i)re.(hhf.) (,) (gxg_f/gvED.fgED.fe/hv.hhhff/dfe/feed.) (::)",
+        "mode": "5"
       }
     },
     {
@@ -89,7 +91,9 @@
         "de": "Ps 111:1-3"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) BE(g)Á(g/hih)TUS(g/hhg) vir(g) *(,) qui(gjj) ti(jk)met(hvGFghhg) (,) Dó(hjij)mi(hj)num,(jjjkhhg/hg/jjh/jggf) (:) qui(f!hj) man(igh)dá(gfg)tis(gh/jij) e(jh!iwj)jus(jjjvIH/ivHG/hg) (;) cu(ixfh/ih/ig)pit(j) ni(jv//ijg//ixjjvHG/hiGF,iyh/jh/ig)mis(g/hhg) <sp>V/</sp>.(::) Po(g!hwi!jv)tens(j) in(j) ter(j)ra(j) e(ij)rit(j) (,) se(j)men(j) e(jkJG/hg/h!iw!jvIH/ijh)jus:(hg) (:) ge(f!hj)ne(igh)rá(gf/gh)ti(g)o(g) re(gh/jij)ctó(jh!iwj)rum(jjjvIH/ivHG/hg) (;) be(hg/h!iwj)ne(ghGF)di(f!hj)cé(j)tur.(jijHG//ixjjvHG/hiGF) (,) (iyh/jh/ig/hhg) <sp>V/</sp>.(::) Gló(g!hwi!jv)ri(j)a(j) et(j) di(j)ví(ij)ti(j)ae(j) (,) in(j) do(j)mo(j) e(jkJG/hg/h!iw!jvIH/ijh)jus,(hg) (:) et(f!hj) ju(igh)stí(gf/gh)ti(g)a(gh/jij) e(jh!iwj)jus(jjjvIH/ivHG/hg) (;) ma(hg/h!iwj)net(gh) *(,) in(f) saé(fh!iw!jk)cu(j)lum(j) saé(j)cu(j)li.(jijHG/gg/hggfg) (,) (jjj/kvJIH/hg/hjIHG/ghf) (,) (h!iw!jvIH/ihhg) (::)",
+        "mode": "8"
       }
     },
     {
@@ -122,7 +126,9 @@
         "de": "Ps 91:13"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) JUs(e.f!gwhg/fffdgvFE)tus(fff) *(,) ut(dge) pal(gh)ma(g!jjjvH'GF.//ff//{ix}f!gwhg/hih.) (,) flo(ghf)ré(dgF'E)bit:(fff/ded.___) (:) sic(dg)ut(gh) ce(h!iwj!kvJH//gih)drus,(hjHG'hffe.) (,) quæ(ghf) in(fe~) Lí(ghF'E//fh)ba(h_g!jjjvH'G)no(g_f//hvGFgvFE) est,(fff/ded.___) (;) mul(ff)ti(dgf)pli(f)cá(ixff/hihhg/hvGFg_e//hggf/ghg')bi(e)tur.(egf/gffe.) <i>T. P.</i>(::) Al(ce/gf)le(ffff_c//fff_e/hg/hffe)lú(egF'E)ia.(e.) (::)",
+        "mode": "4"
       }
     },
     {
@@ -151,7 +157,9 @@
         "de": "Joann 21:23"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) EX(h)i(hhh)it(f.) *() ser(fg~)mo(e) in(fh)ter(gh~) fra(fgf___)tres,(f.) (;) quod(e) di(f)scí(h)pu(hi)lus(i) il(ij)le(i_h) (,) non(hgh) mó(f)ri(fgf)tur:(efe.) (:) et(ef) non(fi) di(iji)xit(hiH'G) Je(f)sus:(hv.ijIH.) (,) Non(hgh) mó(f)ri(fgf)tur:(efe.) (:) sed:(e) Sic(f) e(fi)um(i) vo(ij)lo(h) ma(h)né(f!gw!hvG'FE'f)re,(fe..) (;) do(f_ef)nec(edf) vé(f)ni(f!gwh_f)am.(f.) (::)",
+        "mode": "2"
       }
     },
     {

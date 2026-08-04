@@ -70,7 +70,9 @@
         "de": "Ps 44:5; 44:11; 44:12"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) Pro(ffg)pter(f) ve(f)ri(gh)tá(hg/hf)tem,(f.) *(,) et(gh~) man(gh~)su(ff)e(f)tú(f)di(fgf___)nem,(f.) (;) et(f) ju(f)stí(ixfg/ih)ti(ii//iiivGF'gi'!jvIH'i)am:(iv.h!i'j/hig./hihig.) (:) et(ixgih~) de(ixij)dú(j)cet(iv.hifg) te(ixgii) (,) mi(fhg)ra(ixi)bí(iji)li(jh/ivGF'g)ter(g.) (;) déx(ixiiivGF'E//g!ii/jki)te(i)ra(jhivGF'fd/fff) tu(fgf___)a.(f.) (z0::c3) <sp>V/</sp>.() Au(d)di(f) fí(gxfh/ih/i_h//ivFD'//fh.ivFD'fhfg.,fh/ih/i_h//ivFD'e_d.ddd/f_h/ijh)li(igh)a,(h.) (;) et(h!i'j) vi(i_h)de,(hg/i_h//jvIH'Ghf..) (:) et(f) in(fi~)clí(i)na(ih/jki/hhf.) (,) au(hf/hhh)rem(h) tu(h)am:(h.f!gwh!iv.hi/jhh/iih.) (:) qui(f)a(f) con(f)cu(fi)pí(i)vit(h'/ie'!fv) rex(f!h'i/hhf//hfhhefd.) *(;) spé(f/hhfg)ci(ef)em(gxhf/ge) tu(d)am.(cd!efe.) (,) (gxde!fhFE.d!e'f!hhe'gvFD.) (::)",
+        "mode": "5"
       }
     },
     {
@@ -88,7 +90,9 @@
         "de": "Eccli 24:25; Eccli 39:17"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) IN(df) me(ef!ghhg.) *(,) grá(hv.jkjkvJ'I)ti(jjj_h)a(hg..) (;) o(hggf~)mnis(f) vi(h_g/jjjh//jkJ'Ijjjh)ae(hgh.) (,) et(h) ve(hi)ri(hg)tá(gjIH'hg)tis,(ghggf.) (:) in(hj) me(jjj//jkj) o(jj//jkj)mnis(jkjjgh.) spes(gihhg) vi(gh/ji)tae(j.) (,) et(jjj_gh/jkj) vir(jjj_g//hj/klj)tú(jjj_g//jvIH'hg)tis:(ghggf.) (:) e(fh)go(hjI'H) qua(gjj'j)si(j) ro(jjjk/jlk)sa(kljjh.) (,) plan(hg~)tá(gjI'GhvGF)ta(f.) (;) su(f)per(f) ri(fhg)vos(g) a(g)quá(g!jj//jjj)rum(h!iw!jvI'HGhih.) (;) fru(gf)cti(gh)fi(hg)cá(h/jkjjh//jjh/jjvH'G)vi.(g'/hihhg.) (::)",
+        "mode": "8"
       }
     },
     {
@@ -117,7 +121,9 @@
         "de": "Eccli 39:19"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4)Flo(fe)ré(gh)te(fe) (::) flo(dc/de/fef)res,(ed) (;4) qua(f)si(f) lí(gh)li(h)um,(ixhg/hih) (;) et(ge) da(ghgh)te(g) o(fg)dó(fvED)rem,(dfddc) (:) et(c) fron(d)dé(ffg)te(f) in(f) grá(gh)ti(h)am,(ixhg/hih) (;) col(g)lau(h)dá(jjv)te(kjjh) cán(h)ti(hg/hihi)cum,(ih) (:) et(h) be(f)ne(gf/ghg)dí(f!ghGFg)ci(fe)te(d) (;4) Dó(d!efED)mi(d)num(dc/ded) (;) in(c) o(d)pé(f!gh)ri(g)bus(fe) su(d!efEDe)is.(ed) (::)",
+        "mode": "1"
       }
     },
     {

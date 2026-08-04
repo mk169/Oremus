@@ -26,7 +26,9 @@
         "de": "Ps 8:3; Ps 8:2"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(f3) E{}X(f!gwh) o(egf)re(f.) *() in(fhg)fán(hi~)ti(i)um,(hi~) De(i_f)us,(f.) (,) et(fi) lac(i)tén(ij)ti(ih)um(hv.gih.) (;) per(fg)fe(f_e)cí(fhg)sti(hi) lau(fgF'E)dem(e.) (:) prop(h)ter(hhh) in(f)i(fi)mí(iv.hji)cos(ihhf) tu(fg/eh//ghf/ggf)os.(f.) <i>Ps.</i>(::) Dó(e)mi(fe)ne(eh) Dó(hg)mi(hi)nus(i) nos(hi)ter:(h.) *(:) quam(hf~) ad(fh)mi(h)rá(h)bi(h)le(h) est(h) no(h)men(h) tu(h)um(h.) (,) in(h) u(h')ni(i)vér(hf)sa(h) ter(ge)ra!(fgf.) (::) Gló(e)ri(fe)a(eh) Pa(h)tri.(h) (::) E(h') u(i) o(hf) u(h) a(ge) e.(fgf.) (::)",
+        "mode": "2"
       }
     },
     {
@@ -89,7 +91,9 @@
         "de": "Ps 78:3; 78:10"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) EF(f)fu(f)dé(fg!hvhg)runt(hggf!gw!h!ghvGFgf..) *(,) sán(gjjk)gui(h)nem(hg/hf//hjhj) san(jvIH'iw!jvI'HG'h)ctó(ghg___)rum,(g.) (;) ve(gh)lut(g) a(h_g/h!iwj)quam,(ghf.) (,) in(gh) cir(gh)cú(g)i(g)tu(h_g/h!iwj) Je(g_f)rú(g)sa(h)lem.(j./kjjg/j./kjj'jj/kjjh) (,) (ji/jjvI'Ghjh/jvHF.) (,) (gh!jvjvI'GhjHF'g/hhg.) <sp>V/</sp>.(::) Et(g) non(g) e(g!hwi'!jv)rat(j.) (,) qui(j) se(jkjj'j/kjjh,ji/jjvI'GhjhjvHF.g.h!iwj)pe(k)lí(jv.ikjjv'jvIG'h/jjhjvHF'g)ret.(g/hhg.) <sp>V/</sp>.(::) Vín(gd~)di(g)ca,(g!h'j) Dó(jjjvIH')mi(jhhg)ne,(g_h) (,) sán(h)gui(h)nem(h/jjh) sanc(gf)tó(ghg)rum(h_g) (,) (ixi_hivGF.g/hg/hg/hg/jjh/jggf.) (,) tu(gh/jij)ó(j.h!iwj)rum,(jjjvIHivHGhg..) (:) qui(g) ef(g)fú(h_g/h!iwj)sus(gh) est(g_f) *(,) su(f!h'j)per(j) ter(i_0/jhhg/hggfg.,jjjkvJ'IH'hg)ram.(ghGF.) (,) (h!iw!jijjh/ihhg.) (::)",
+        "mode": "8"
       }
     },
     {
@@ -122,7 +126,9 @@
         "de": "Ps 123:7"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(f3) A(ce)ni(ef)ma(f) *() nos(f/hhh_f/hjIH'ihh'hhvF'Ef!gwhf)tra,(f.) (;) si(fhfh)cut(ef) pas(f!gwh/ih)ser,(fhfh.) (,) e(ef)rép(hi)ta(ij) est(kxhj/kjji.) (;) de(kxh.i!jwk_j) lá(jji)que(ih)o(h!iwji/hh/fgf.) (,) ve(hhi)nán(kxjkij)ti(h_f)um:(fhF'Ef.) (:) lá(fh)que(hhh/hv.hhh)us(fh) con(hih)trí(hi)tus(kxi./jki) est,(h.) (:) et(iv.hhhi) nos(ijhh/fgf.) (,) li(h_g)be(gihh)rá(iv.hjIH'hf/hih)ti(hv.hhh//hv.hhh) (,) su(f)mus.(f!hhh_f/hhh/fgf.___) (::)",
+        "mode": "2"
       }
     },
     {
@@ -151,7 +157,9 @@
         "de": "Matt 2:18"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) V{}OX(ii) in(h) Ra(hi)ma(i) *() au(ih~)dí(ij)ta(j) est,(i.) (;) pló(i)ra(iih)tus(g) et(h) u(i)lu(gh)lá(gh)tus:(g.) (:) Ra(i)chel(i.h!iwj_i) plo(gigh)rans(h_g) fí(i)li(h)os(gh) su(fge___)os,(e.) (:) nó(ggh)lu(f!gwh)it(he) con(hhhf~)so(h)lá(hi)ri,(g.) (;) qui(iihivHGh.f!gwh'!iv)a(g) non(efe~__) sunt.(e.) (::)",
+        "mode": "7"
       }
     },
     {

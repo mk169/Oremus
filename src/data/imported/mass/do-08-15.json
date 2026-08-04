@@ -27,7 +27,9 @@
         "de": "Ap 12:1; Ps 97:1"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) SI(ef)GNUM(f) ma(fdfe)gnum(e.) *(,) ap(fh)pá(hhh)ru(h)it(hji) in(ihhf!gwh) cae(efe___)lo:(e.) (:) mú(ef/hgh)li(h)er(h') a(h)mí(h)cta(fh) so(h)le,(hg/hiffe.) (;) et(e) lu(ef/hg)na(h') sub(g) pé(g!h'i)di(i)bus(ijHF'gwh) e(hi)jus,(h.) (:) et(hg) in(h) cá(hji)pi(h)te(hhh) e(e!g'hffd~)jus(d.) (;) co(e)ró(ef)na(e') stel(e)lá(e)rum(e.f!gwh!iv') du(ihhf!gwh')ó(e)de(efe___)cim.(e.) <i>Ps.</i>(::) Can(ehg)tá(hi)te(i) Dó(i)mi(i)no(i) cán(ik)ti(j)cum(j) no(ji)vum:(ij..) *(:) qui(ig)a(hi) mi(i)ra(i)bí(i!jwk)li(i')a(h) fe(hhh)cit.(fe..) (::) Gló(ehg)ri(hi)a(i) Pa(i)tri.(i) (::) E(i) u(i!jwk) o(i') u(h) a(hhh) e.(fe..) (::)",
+        "mode": "7"
       }
     },
     {
@@ -74,7 +76,9 @@
         "de": "Ps 44:11-12; 44:14"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) AU(e)di,(e) fí(e)li(e)a,(ehg) *(,) et(hi~) vi(iv.hiH'Ghihi) de,(iv.h/iih/ii,hi/kkkikvkvJI'jhivHGh.g.) (:) et(f) in(hh)clí(hi/kj)na(kkkvJI'jhivHGh.g.) (;) {au}(fi)rem(i!jwk) tu(ih/ikJI'H)am:(jiivF'Effe/ff,ef/hhhfhvhvGFhefvEDe.d. (:) qui(e)a(fd) con(e)cu(f)pí(hih)vit(hf~) rex(hi/kkkvIH'GhijvIHih/jihvhvG'FEf.e.) (;) spé(g_e/f.g!hwiiv)ci(ih)em(hi) tu(hv.f/hhvFDff,e/hhe/gvF'E)am(hf/hhfivH'GE,f!gwh_g/ihh'hhvF'Ef_gffe. (::) <sp>V/</sp>. Spé(ehivji/kkijvIHihi)ci(ihhf)e(f_efv.) tu(hg/hiF'Ehh)a,(hiHG.) (;) et(e) pul(e)chri(hh)tú(hi)di(hh/ig/hiFE)ne(hh) (,) tu(hi)a(ijI'Hl_k/jlkk/iji.) (:) in(ij)tén(hi)de,(i!jwk) pró(i_h)spe(ih)re(h.) (,) pro(h)cé(ih/ikJI'H)de,(ihhvFEffe/ff,ef/hhhfhvhvGF'hefvEDe.d.) (;) et(ef) re(e.f!gwh'iv)gna.(ijIH'hghv. ,ijIH'hgiv.kkkh/ijIG.hig'hvFEf_gffe.) (::)",
+        "mode": "7"
       }
     },
     {
@@ -109,7 +113,9 @@
         "de": "Gen 3:15"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) I(h)ni(he)mi(g)cí(gih)ti(h)as(h.) *(,) po(h!jjj)nam(hghg..) (;) in(jj)ter(hgh) te(h/jjj//ikJ'I/jvIH/ih..) (,) et(hjH'Gh') mu(f)lí(fh!jvH'F)e(fgf___)rem,(f.) (:) et(h/jjk) se(h!jjj)men(h!jjj) tu(g/hig)um(egeg.____) (;) et(d) se(e_g)men(e/ghg___//ikj'/kvJ'IH') il(h)lí(h)us.(h!iwjjvIH/iih.) (::)",
+        "mode": "2"
       }
     },
     {
@@ -140,7 +146,9 @@
         "de": "Luc 1:48-49"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) BE(d)á(ffg)tam(f) me(fh) di(hggfg)cent(gf..) *(,) o(fv.egF'D)mnes(d_c) ge(f)ne(f_e)ra(g)ti(ixgig___!hwi)ó(fgf___)nes,(f.) (:) qui(f)a(f) fe(ixf!gwh'!iv)cit(h) mi(hjj)hi(hj) ma(gf~)gna(fgff/ded.) (,) qui(f_e/ggh) po(f)tens(fg!hvGF'g) est.(gf..) (::)",
+        "mode": "6"
       }
     },
     {

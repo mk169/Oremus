@@ -26,7 +26,9 @@
         "de": "Ps 118:95-96; Ps 118:1"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(f3) ME(hf/hhh) ex(h)spe(h)cta(h)vé(hih)runt(hhh) *() pec(hih)ca(f)tó(f/hhf)res,(f.) (,) ut(fef) pér(h.f!gw!hi)de(h)rent(hiH'Gh) me:(f.) (:) te(f)sti(h)mó(hi)ni(i)a(i) tu(i)a,(i) Dó(ij)mi(ih)ne,(h.) (,) in(h)tel(h)lé(gh!ijIG'h)xi:(h.) (;) o(fi)mnis(i) con(i)sum(ih~)ma(hjij)ti(h)ó(fhgh)nis(f.) (,) vi(fhg)di(hi) fi(fgF'E)nem:(e.) (:) la(h)tum(gihh) man(ef)dá(hhi)tum(h) tu(h_f)um(i) ni(hiH'F)mis.(f.) <i>T. P.</i>(::) Al(e!f'h~)le(h_g)lú(hih)ia,(hhhffe.) (,) al(fh~)le(hghf)lú(fgf__)ia.(f.) <i>Ps.</i>(::) Be(e)á(fe)ti(eh) im(h)ma(h)cu(h)lá(hg)ti(hi) in(i) vi(hi)a:(h.) *(:) qui(hf) ám(fh)bu(h)lant(h) in(h) le(i)ge(hf) Dó(h)mi(ge)ni.(fgf.) (::) Gló(e)ri(fe)a(eh) Pa(h)tri(h) (::) E(h') u(i) o(hf) u(h) a(ge) e(fgf.) (::)",
+        "mode": "2"
       }
     },
     {
@@ -70,7 +72,9 @@
         "de": "Ps 44:8; Ps 44:3"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) DI(c)le(dc)xí(cg)sti(gv.fffddc.) *(,) ju(c)stí(cgeg/hjh__!iwj)ti(ghg__)am,(g.) (;) et(f) o(gh)dí(jj/kjk)sti(kjj) (,) i(gh)ni(h)qui(hjh)tá(g)tem.(f/ghffd//gvgf/gjhhg.) <sp>V/</sp>.(::) Prop(gf)tér(gf)e(hj)a(jjjvHG'hjjlvKJ'Ijg..) (;) un(gh)xit(h_g) te(g) De(g_f/ghffd)us,(d.) (,) De(gg)us(g) tu(ghg__)us,(g.) (;) ó(g)le(fg)o(gggvED'eg'//hvGFg.) *(,) lae(gf)tí(gf)ti(hj)ae.(jjk//iijhhg.) (,) (ijGF.h!iwjji gjh/ihhg.) (::)",
+        "mode": "8"
       }
     },
     {
@@ -121,7 +125,9 @@
         "de": "Ps 44:10"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) FI(e/hhh)LI(h)AE(h) re(hihh)gum(hihhhhfh) (::) in(e) ho(fh)nó(hi)re(hi) tu(f!hi)o,(iji/jvIHih) (:) á(fh/ih)sti(h)tit(hhh) re(h)gí(fh!ivHGF)na(fhffe) (;) a(ef) dex(hf/hji)tris(hji) tu(hiHF)is(gf) (:) in(e) ve(f)stí(fh!ivHF)tu(fh) de(f!hhfhvED) au(de/fe/fe~)rá(f!hhh/ij)to,(ijiih) (:) cir(hg~)cúm(fh)da(hhh/ijHF)ta(fhffe) (;) va(e)ri(fe)e(hhg)tá(hih//ghFE;zhv/ghFEhighvFE)te.(ef/ehf/gffe) (::) <v>(</v>Al(f)le(e!fhFEf/e!hh/gh/ijh)lú(hhhe;hvGFfe~)ia.<v>)</v>(ef/ehf/gffe) (::)",
+        "mode": "8"
       }
     },
     {
@@ -150,7 +156,9 @@
         "de": "Ps 118:121; 118:122; 118:128"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) FE(g)ci(f) ju(e)dí(ghgh)ci(fg)um(ge__) *(,) et(gef) ju(ed)stí(f)ti(f)am,(ef!hvGFghg') Dó(e)mi(egff)ne,(fe..) (:) non(h) ca(h)lu(h)mni(gf)én(gh)tur(h') mi(h)hi(g') su(f)pér(gh)bi:(g.) (;) ad(e) ó(gef)mni(dc)a(c) man(e)dá(gfg)ta(fgF'D) tu(f!gwhgh)a(h_g) (,) di(gef)ri(ed)gé(fgef)bar,(ed..) (:) o(dh)mnem(h) vi(ixhih )am(g) i(g)ni(ghg)qui(f)tá(fgf)tis(f.) (,) ó(eef)di(dc)o(d!ewf) há(e)bu(egff)i.(fe..) <i>T. P.</i>(::) Al(f)le(d./ghG'Fghg)lú(egff)ia.(fe..) (::)",
+        "mode": "4"
       }
     },
     {

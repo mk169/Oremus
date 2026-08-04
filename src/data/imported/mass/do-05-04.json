@@ -26,7 +26,9 @@
         "de": "Ps 118:75; 118:120; Ps 118:1"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) CO(eef)gnó(dge)vi(gh) *() Dó(hkjji)mi(ji)ne,(j.) (;) qui(g)a(h) aé(h!jj)qui(h)tas(hgh.) (,) ju(f)dí(e!f'h)ci(gfg)a(ghG'Fghg) tu(egff)a,(fe..) (:) et(e!fw!gh) in(g) ve(g)ri(h)tá(hjIH')te(h) tu(gfg)a(ghhg.) (;) hu(dg)mi(g/hji)li(j)á(jjj)sti(ixhvGF'gwh!ivHG'h) me:(hg..) (:) con(dg)fí(g/hji)ge(j) ti(j)mó(jjj)re(h) tu(h!iw!jvIH)o(hgh.) (,) car(ixe.f!gw!hihhg~)nes(gh) me(g_f)as,(fff/ded.__) (:) a(g) man(g)dá(h!jjj)tis(h) tu(hg)is(gihig.) (,) non(gh) me(e.f!gwh) re(h)pél(g_fhvGFgvFE)las.(e.) <i>T. P.</i>(::) Al(e)le(f)lú(gf~)ia,(g.) (,) al(gf~)le(g_e/f!gwh_g)lú(ghghFD'ewf/ge~)ia.(e.) <i>Ps.</i>(::) Be(g)á(hj)ti(j) im(j)ma(j)cu(j)lá(k)ti(j) in(j) vi(ih)a:(jjj) *(:) qui(ig) ám(hj)bu(j)lant(j) in(j) le(jji)ge(hg) Dó(h')mi(i)ni.(gh..) (::) Gló(g)ri(hj)a(j) Pa(j)tri(j) (::) E(j) u(jji) o(hg) u(h') a(i) e(gh..) (::)",
+        "mode": "3"
       }
     },
     {
@@ -70,7 +72,9 @@
         "de": "Ps 44:3; 44:5; Ps 44:5"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) Dif(d)fú(ff)sa(fg) est(ghghff'f) *(,) grá(gv.fhg)ti(ghg__)a(g.) (;) in(g) lá(gh/ji)bi(jj)is(jvHG) (`) tu(ig/h!jjjh,kljjvIH)is:(hjh__!iwjjvIHih..) (:) pro(h!jj)pté(k_jk)re(j_hj)a(jjj_hivHGhg..) (;) be(f)ne(gh)dí(h!iwj)xit(g_f) te(fd__!gv_) De(gffvED)us(dfddc.) (:) in(ffgffc/ff/ghF'Ef) (`) ae(ixf!gwhg/hih)tér(gf/ghggf)num.(ixhf/hiGF'f//f'hg/hggf.) <sp>V/</sp>.(z0::c3) Pro(d)pter(d) ve(d)ri(fh)tá(hv.hihhfh.,df!hvv//hihhfh./gh/ihi)tem,(hh) (;) et(d) man(d)su(d)e(fe)tú(eh)di(h)nem,(ih) (,) (hhh'/ihhg./i/jiih./j/kjjh./i/jiig./h/ihh//fh//ghFE'ed.) (;) et(d) ju(d)stí(fdfED//f_d/ef!gwhhi)ti(h)am:(hi!kvvhih.) (:) et(f) de(fi)dú(i)cet(ih/jki/hhf/hh/ijH'Gh) te(h.) (,) mi(h)ra(h)bí(i_h//ghG'Fi_h//h'hhvFEfe//f!hhivHGh')li(h)ter(h.) *(;) déx(hh)te(h)ra(h) tu(ihhf/hh/ijH'G)a.(hhhf//hhhf/hhf.) (,) (de/f!hh/ijghf./gxegFD.) (::)",
+        "mode": "5"
       }
     },
     {
@@ -132,7 +136,9 @@
         "de": "Ps 44:8"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) DI(e)le(e)xí(gih)sti(gv.efED.) *(,) ju(h)stí(g.h!iwjij./h!iwji)ti(gihh)am,(hg..) (;) et(h) o(ij)dí(jjijjij)sti(ijii/ghg.) (,) i(h)ni(g!h'i)qui(h)tá(gvFEf./ehghhvGF)tem:(f!gwh.) (:) pro(h_e)ptér(f/ggh)e(ggh)a(ggh.) (,) un(f!i'j~)xit(i) te(i) De(i_h/jvIHivHG)us,(g.) (;) De(hhh)us(hhh) tu(hjI'HjvIHivHG)us.(g.) <i>T. P.</i>(::) Al(h)le(f!gwh!ivHG)lú(gihh)ia.(hg..) (::)",
+        "mode": "4"
       }
     },
     {

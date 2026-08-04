@@ -26,7 +26,9 @@
         "de": "3 Reg 4:29; Ps 112:1."
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) DE(eef)dit(dg) il(gjHG'j)li(j.) *() De(jjj)us(hg..) (,) sa(hi)pi(hg)én(jv.jjj)ti(h_g)am,(ghgg/efe.) (;) et(f) pru(f)dén(ef!gvFE'/f!g'h)ti(g)am(g) mul(g/jjh)tam(h) ni(ixfh/ig)mis,(g.) (:) et(f) la(g)ti(h)tú(h/jjj)di(h)nem(gh~) cor(h.f!gwhgh)dis,(hg..) (;) qua(jv.jjj)si(h) a(hg)ré(hi)nam(g.h!iw!jvIH'/ijgg/efe.) (;) quae(f) est(e!f'h) in(h) lí(h!iwj)to(g)re(ghG'E) ma(fgF'E)ris.(e.) <i>Ps.</i>(::) Lau(g)dá(hj)te(j) pú(k)e(j)ri(j) Dó(j)mi(ih)num:(jjj) *(:) lau(ig~)dá(hj)te(j) no(jji)men(hg) Dó(h)mi(i)ni.(gh..) (::) Gló(g)ri(hj)a(j) Pa(j)tri(j) (::) E(j) u(jji) o(hg) u(h) a(i) e(gh..) (::)",
+        "mode": "3"
       }
     },
     {
@@ -88,7 +90,9 @@
         "de": "Ps 60:4-6"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) Fa(g)ctus(g/hih) es(g/hhg) (::) spes(gjj) me(jk)a,(hvGF/ghhg) (;) Dó(hjij)mi(hj)ne:(jj//jkhhg/hg//jjh/jggf) (:) tur(f!hj)ris(igh) for(gf/gh)ti(gh/jij)tú(j)di(h!ij)nis(jj//jvIH/ivHG/hg) (;) a(g) fá(hg/h!ij)ci(ghGF)e(f) (;) i(f!hj)ni(j)mí(jijHG;3ixjjvHG/hiGF;iyh/jh/ig)ci.(g/hhg) <sp>V/</sp>.(::) In(g)ha(g)bi(g)tá(g!hi!jv)bo(j) in(j) ta(j)ber(j)ná(ij)cu(j)lo(j) tu(ij)o(j) (;) in(j) s<sp>'ae</sp>(jk)cu(jg)la:(hg/h!ijIH/ijhhg) (:) pró(f!hj)te(igh)gar(gf/gh) in(gh~) ve(g)la(gh/jij)mén(jh!ij)to(jj//jvIH/ivHG/hg) (;) a(g)lá(hg/jjg/hvGF)rum(f!hj) tu(j)á(j)rum.(jijHG) (;3) (ixjjvHG/hiGF) (;) (iyh/jh/ig/hhg) <sp>V/</sp>.(::) Quó(g)ni(g)am(d) tu,(g) De(hih)us,(jj) (;) ex(j)au(j)dí(jkJG/hg/h!ijIH/ijh)sti(hg) (;) o(g)ra(ghg)ti(fg)ó(jj)nem(hji) me(j)am:(jj//jkhhg/hg//jjh/jggf) (:) de(f)dí(hj)sti(igh) he(gf/gh)re(g)di(gh/jij)tá(jh!ij)tem(jj//jvIH/ivHG/hg) (;) ti(g)mén(hg/h!ij)ti(gh)bus(gf) (::) no(fh!ij!kv)men(j) tu(j)um.(jijHG//gg/hggfg) (;) (jjj/kvJIH/hg/hjIHG/ghf) (;) (h!ijIH/ihhg) (::)",
+        "mode": "8"
       }
     },
     {
@@ -121,7 +125,9 @@
         "de": "Ps 33:12"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) VE(c!d'f)ní(f)te(e!f'g) *() fí(egF'E/ghG'F)li(gvFE)i,(f.) (;) au(f)dí(fgf/gff'fd)te(dgF'E) (,) (hgh_f/hggd) me:(dgF'EfgFD.) (:) ti(df/gef)mó(ff/ixhih/ihhg)rem(gh/igh.) Dó(e.f!gwhhg)mi(gf)ni(fg!hvhg.) (;) do(g_d)cé(dgF'E)bo(eg!hvGF/ghg) vos.(egf/gffe.) (::)",
+        "mode": "4"
       }
     },
     {
@@ -150,7 +156,9 @@
         "de": "Rom 4:18"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(f3) COn(f)tra(e!gw!hvGF'g) spem(gf..) *(,) in(hihhg) spem(fe) cré(f)di(f!gwhgh)dit,(gf..) (:) ut(h) fí(kxhi!jk)e(j)ret(j) pa(ji)ter(i_j) (,) mul(h)tá(hvGE/fg)rum(f.) gén(fihhvGE)ti(f!gw!hvGF'g)um,(gf..) (:) se(c)cún(ef)dum(fe) quod(f) dic(f!hhhvFE'D)tum(egef) est(f) e(fg!hvGF'g)i.(gf..) (::)",
+        "mode": "2"
       }
     },
     {

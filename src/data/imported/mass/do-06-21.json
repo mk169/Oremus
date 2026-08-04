@@ -26,7 +26,9 @@
         "de": "Ps 8:6; Ps 148:2"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) MI(eef)nu(dg)í(gjHG'hwi'!jv)sti(j) e(ijhhg)um(g.) *(;) pau(hi)lo(gh) mi(h)nus(h) ab(ij) An(k)ge(j)lis:(ikjj'j) (:) gló(gj)ri(j)a(jjj) et(h) ho(g)nó(hi)re(g.h!iw!jvIH'ijgg/efe.) (;) co(f)ro(e!f'h)ná(h/jjvH'G)sti(g_e) e(fgF'E)um.(e.) <i>Ps.</i>(::) Lau(g)dá(hj)te(j) Dó(j)mi(j)num(j) o(j)mnes(j) An(k)ge(j)li(j) e(ih)jus:(jjj) *(:) lau(ig~)dá(hj)te(j) e(j)um(j) o(j)mnes(j) vir(jji)tú(hg)tes(h') e(i)jus.(gh..) (::) Gló(g)ri(hj)a(j) Pa(j)tri(j) (::) E(j) u(jji) o(hg) u(h') a(i) e(gh..) (::)",
+        "mode": "3"
       }
     },
     {
@@ -70,7 +72,9 @@
         "de": "Ps 70:5-6; Ps 40:13; Ps 64:5"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) DO(ffg)mi(f)ne,(f.) *() spes(ghgh) me(hvGF'fvED)a(ed.) (;) a(d) ju(fe)ven(fg)tú(ggf)te(g) me(fe)a:(fg/hghvGFgf..) (:) in(fg) te(f) con(g)fir(f)má(gh)tus(gf) sum(f.) (,) ex(f) ú(g)te(f)ro:(fv.d!ff/ge'/fgd'/eddc.) (:) de(h) ven(f!g'h)tre(h) ma(hj/kjk)tris(j) me(ixih__)ae(iii/ghg.__) (;) tu(g) es(ixih) pro(ixi)té(jv.ikJI'ivH'GF)ctor(ggf.) (,) me(gf/ggf/gff//gf)us.(gv.fgff'f//fhg/hggf.) <sp>V/</sp>.(z0::c3) Me(hi) au(hi)tem(hgh.) (,) prop(h)ter(h) in(h)no(h)cén(ig'/hvF'E//f!gwhhi)ti(h)am(h.) (;) su(gxh)sce(h)pí(hihh'hf//gvFEfvEDf./hhvF'Ef)sti:(f.) (:) et(ff) con(f)fir(f)má(i_h/i!jwk)sti(k) me(klh.__) (,) in(h) con(ih~)spé(hj!kvIG'hvF'E//f!gwhhi)ctu(h.) tu(hh)o(hih.) *(;) in(f) ae(fh!ij)tér(hg)num.(hhhf/hhhf/hhf.) (,) (de/f!hh/ijghf./gxegFD.) (::)",
+        "mode": "5"
       }
     },
     {
@@ -121,7 +125,9 @@
         "de": "Ps 23:3-4"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) QUis(g!jjj) a(j)scén(h!iwj)det(j.) *(,) in(j) mon(i!klKJ)tem(kjjh~) Dó(h_ghvG'Fg_h)mi(gf)ni,(fgff/ded.) (:) aut(gj~) quis(jv.jjj) sta(h)bit(hih) (,) in(g) lo(ghG'F)co(gh!ivih) (`) san(h!jjj//giHG'gf , g.h!iwj/kjjvIH)cto(h) e(hiH'G)jus?(hg..) (:) In(gj~)no(j)cens(jki/jkhhg) má(ig/h!jjk)ni(ji)bus,(jjj) (;) et(hg~) mun(hvGF)do(fg) cor(g_fhvGFgvFE)de.(e.) (::)",
+        "mode": "3"
       }
     },
     {

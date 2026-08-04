@@ -26,7 +26,9 @@
         "de": "Gal 6:14.; Ps 131:1."
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) Mi(ffv)hi(df) (::) au(ef/ghf)tem(dfe) ab(ef!hv)sit(h) (;) glo(hjjv)ri(h)á(hg)ri,(g//ffv/ded) (:) ni(g!hj)si(hg) in(gd~) cru(fh)ce(ghfg) (;) Dó(g)mi(df!gvFEf)ni(fe) no(ef/gh)stri(g) (;3) Je(hj)su(j) Chri(jh/ijij)sti:(ji) (:) per(i) quem(j) mi(klk)hi(ji) mun(jh/ijIHGh)dus(hg) (;) cru(g!hj)ci(jhhf)fí(ghgh)xus(fe//fvEDe) est,(ed) (;) et(de) e(f!gh)go(g) (;3) (fhGFg) mun(egffv)do.(fe) <sp>V/</sp>.(::) Vi(g)vo(hj) e(j)go(j) jam(jk) non(j) e(ih)go:(hj) (::) vi(g)vit(hj) ve(j)ro(ji) in(hg) me(h) Chri(i)stus.(gh) (::) Gló(g)ri(hj)a(j) (::) E(j) u(ji) o(hg) u(h) a(i) e.(gh) (::)",
+        "mode": "3"
       }
     },
     {
@@ -70,7 +72,9 @@
         "de": "Eccli 44:16.; Eccli 44:20.; Gal 2:19-20."
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) EC(ffg)ce(f.) *() sa(f)cér(f)dos(gh~) ma(h_fgvFED.g_e/fg)gnus,(f.) (;) qui(f) in(f) di(f)é(hf/gh!jj/kjk)bus(jij) su(ixh_g/h!jjvHF.ivHGhf)is(f.) (:) plá(ixf/hhi)cu(gjj)it(j.h!iw!jvIG'hw!ivHG) De(fv.ff)o.(f_c) (,) (fg!hvGF.e!g'h//fhg/hggf.) <sp>V/</sp>.(z0::c3) Non(d) est(d) in(fe~)vén(eh)tus(h.) (,) sí(h)mi(h)lis(h) il(h)li,(ihhe./hih__/ihhe.) (,) (hi!kv//lvKI'jvHF.) (,) (h_g/ijh'__ jvIH'jvIH'//hvGF.) (:) qui(hh) con(h)ser(h)vá(ih/ij_h ih/ij_ij//hi/jij)ret(jh/jki/hh/fgf.) *(;) le(f)gem(d) Ex(ef)cél(fhG'Fhhh)si.(hhf.) (,) (gxg_fgvED.fgED.fehv.hhhff//dfe/feed.) (::)",
+        "mode": "5"
       }
     },
     {
@@ -121,7 +125,9 @@
         "de": "Ps 8:6-7"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) GLó(f)ri(ixf.g!hwihi)a(h.) *(,) et(h) ho(h)nó(iyh!jjjvIHjjjvIH//gih)re(hggfg.) (;) co(f!g'h)ro(ghG'F)ná(ghg___/hvGF)sti(jvvI'G) e(jjvIH'G)um:(ghggf.) (:) et(h) con(jjk)sti(hhg)tu(f)í(fg!hvhg)sti(jjjvIH) e(ghf___fd)um(d.) (;) su(f)per(ff) ó(ff/gfg)pe(deDC'd)ra(d_c/f!gwhg.) (;) má(h/jjjvIH//giH'G)nu(gf)um(f.) tu(f)á(fgF'E)rum,(fg!hvhg.) (;) Dó(giHG'g//fhGF'fd/fv.//fff/gf/gff)mi(d)ne.(fffgd.__) (::)",
+        "mode": "1"
       }
     },
     {
@@ -146,7 +152,9 @@
         "la": "Fruméntum Christi sum: déntibus bestiárum molar, ut panis mundus invéniar."
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) FRu(e)mén(g)tum(gf~) Chri(h)sti(g) sum,(f.) *(;) dén(eh~)ti(h)bus(h) bes(h)ti(h)á(h_f)rum(g) mo(ef!gvFE'f)lar,(fe..) (;) ut(ei~) pa(ij)nis(hg) mun(hhh)dus(f_e) in(efe)vé(c)ni(cedd)ar.(dc..) (::)",
+        "mode": "3"
       }
     },
     {

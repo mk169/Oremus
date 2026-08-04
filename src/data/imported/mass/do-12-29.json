@@ -71,7 +71,9 @@
         "de": "Eccli 44:16; Eccli 44:20; Joann 10:14"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) EC(ffg)ce(f.) *() sa(f)cér(f)dos(gh~) ma(h_fgvFED.g_e/fg)gnus,(f.) (;) qui(f) in(f) di(f)é(hf/gh!jj/kjk)bus(jij) su(ixh_g/h!jjvHF.ivHGhf)is(f.) (:) plá(ixf/hhi)cu(gjj)it(j.h!iw!jvIG'hw!ivHG) De(fv.ff)o.(f_c) (,) (fg!hvGF.e!g'h//fhg/hggf.) <sp>V/</sp>.(z0::c3) Non(d) est(d) in(fe~)vén(eh)tus(h.) (,) sí(h)mi(h)lis(h) il(h)li,(ihhe./hih__/ihhe.) (,) (hi!kv//lvKI'jvHF.) (,) (h_g/ijh'__ jvIH'jvIH'//hvGF.) (:) qui(hh) con(h)ser(h)vá(ih/ij_h ih/ij_ij//hi/jij)ret(jh/jki/hh/fgf.) *(;) le(f)gem(d) Ex(ef)cél(fhG'Fhhh)si.(hhf.) (,) (gxg_fgvED.fgED.fehv.hhhff//dfe/feed.) (::)",
+        "mode": "5"
       }
     },
     {
@@ -122,7 +124,9 @@
         "de": "Ps 20:4-5"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) PO(f)su(g)í(g./hjHG'gf/ghg___)sti(g.) *(,) Dó(hg/h!jj/kvJH)mi(gfh)ne(h.) (;) in(h) cá(jhhf/ghGF'fde'c , cd!ff/gh/jh)pi(g)te(f) e(fg~)jus(g.) (;) co(g.h!iwj)ró(jj/ij_g//hjij/kljj)nam(ki/jhhg.) (;) de(g) lá(g)pi(g)de(gggvED'eg'!hvGFg.) (,) pre(g)ti(hj)ó(ig/h!jj/klK'I/jkjjh/ig)so:(g.) (:) vi(g)tam(gh~) pé(hvGFgvFEf./ghffdg)ti(fg)it(g.) (,) a(h) te,(gjI'Ghh//fh!jvGF'fd/ef!ghg.) (:) tri(g)bu(g)í(gjji/jh)sti(h) e(gh)i,(h.) (;) al(h!iwji~)le(jkJH'//gi. hjIH'//g!jj/hig___)lú(ghg___)ia.(g.) (::)",
+        "mode": "8"
       }
     },
     {
@@ -151,7 +155,9 @@
         "de": "Joannes 10:14"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(f3) E(ggh)go(f!gwh) sum(he~) *() pa(ggh)stor(hf~) bo(gihi)nus,(ggh.) (,) al(g)le(e)lú(ghG~'F~)ia:(f.) (:) et(e) co(fg~)gnó(g)sco(f/giffe) o(gi)ves(h) me(ijI'G)as,(g.) (;) et(e) co(fg~)gnó(g)scunt(f) me(e) me(e!fg)ae,(ggf.) (;) al(f)le(f)lú(ede)ia,(c.) (,) al(ef~)le(f)lú(fgf___)ia.(f.) (::)",
+        "mode": "2"
       }
     },
     {

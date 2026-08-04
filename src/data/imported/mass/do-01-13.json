@@ -26,7 +26,9 @@
         "de": "Malach 3:1; 1 Par 29:12; Ps 71:1"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(f3) EC(ce!fg)CE(f.) *(,) ad(fe~)vé(f!gwh_f)nit(f.) (,) do(e)mi(hh)ná(h)tor(h) Dó(hiHG')mi(hggfg)nus:(gf..) (:) et(eh~) re(h)gnum(hhh) (,) in(fe~) ma(f!hhf/gf)nu(ef) e(fhhf/gv_F~E~)jus,(fe..) (:) et(f) pot(hh)é(hi)stas,(f.) (,) et(fh'!iv) im(i)pé(hiHG')ri(hggfg)um.(gf..) <i>Ps.</i>(::) De(e)us,(fe) ju(eh)dí(h)ci(h)um(hg) tu(hi)um(i) Re(hi)gi(h) da:(h.) *(:) et(hf~) ju(fh)stí(h)ti(h)am(h) tu(h)am(h') Fí(i)li(hf)o(h) Re(ge)gis.(fgf.) (::) Gló(e)ri(fe)a(eh) Pa(h)tri(h) (::) E(h') u(i) o(hf) u(h) a(ge) e(fgf.) (::)",
+        "mode": "2"
       }
     },
     {
@@ -70,7 +72,9 @@
         "de": "Isa 60:6; 60:1; Matt 2:2."
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) O(d!ewfef//hig'/hvFE'ede)mnes(e.) *(;) de(d) Sa(efe)ba(fv./hhh/ijhhvF'E/gihhf) vé(f)ni(fgf___)ent,(f.) (:) au(ijIH)rum(ih) et(fh~) thus(h_) de(f)fe(df)rén(eh~)tes,(hig'/hf.) (;) et(f) lau(h)dem(g) Dó(h)mi(f)no(d.) (,) an(df)nun(ehgh)ti(f)án(de~)tes.(d!ewfef//highf.//dfe/feed.) <sp>V/</sp>.(::) Sur(hi~)ge,(ihhf/hiHG./hiFD.) (,) (f!hhi/hhf/hiHG./hiFD.) (;) et(d) il(d)lu(d)mi(d)ná(fdfED//fd/ef!hh/ig/hf/hi!kkk_h)re(h.) (;) Je(fh)rú(hih)sa(ffe)lem:(gxefd___//f_e/fgF'ED'd/fvED/ed..) (:) qui(d)a(d) gló(fdfED')ri(d)a(d.) Dó(fd/ef!hh/i!jwk)mi(ih)ni(hiHF.) (;) su(gxgg//gg)per(d) te(efe/ffe.) *() or(fhGF')ta(i) est.(hhf.) (,) (gxg_f/gvED./fgED./fe/hv.hhhff//dfe/feed.) (::)",
+        "mode": "5"
       }
     },
     {
@@ -103,7 +107,9 @@
         "de": "Ps 71:10-11"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) RE(h)ges(fh) Thar(h)sis(hhh//hv.hhh) *(,) et(fh) ín(hhhjvIH)su(hvGF)lae(fhG'Fh.) (;) mú(d!efivHG')ne(hggfg)ra(g_f) óf(gx/df!gvFE' )fe(feede)rent:(ed..) (:) re(f)ges(e) A(ef!gvgf)ra(ef!hhvFE')bum(feed.) (,) et(de) Sa(f)ba(hig'hvFE.//hig'hvFE'ed.) (;) do(fhh'hhi)na(i) ad(hhh)dú(hi!jvIH'GhvGF'g)cent:(gf..) (:) et(hf) a(h)do(hi)rá(iv.hihhe)bunt(fhg) e(h_g)um(hig'hvFD.) (;) o(df)mnes(f_e) re(f!hhh)ges(f_e) ter(egF'Efe)rae,(e.) (:) o(f!hihh'h)mnes(ef/g_f) gen(f!hihh'h)tes(ef/g_f) (;) sér(fh/i_h//)vi(gx/f!hhf/ge )ent(de/fhf) e(gxegF'Efd )i.(d.) (::)",
+        "mode": "5"
       }
     },
     {
@@ -132,7 +138,9 @@
         "de": "Matt 2:2"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) VI(e!f'g)di(hgh)mus(gfg//efd.) *(,) stel(gi~)lam(i) e(j)jus(g) in(g) O(f!g'h)ri(i)én(gh~)te,(e.) (:) et(e!f'h) vé(h!iwj)ni(g)mus(g) cum(g) mu(g)né(fg)ri(efED'e)bus(ed..) (;) ad(f)o(gh)rá(g)re(ghG'Fghg') Dó(e)mi(egff)num.(fe..) (::)",
+        "mode": "4"
       }
     },
     {

@@ -70,7 +70,9 @@
         "de": "Ps 88:21-23"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) IN(d_c~)vé(d_eD'Cde)ni(d.) *(,) Da(ff)vid(f_g) ser(ghggf~)vum(fg) me(dfe/f.d!ew!fvE'DC)um,(ddc.) (:) ó(f!gwhgh')le(jhhg)o(g_h) sanc(hjh/jjj)to(ih..) (;) un(gh)xi(fg) e(fvED)um:(d./ef'!gvF'ED./fgf'/gvF'ED.) (:) ma(c_)nus(d) e(dhhgh)nim(jh/jjjIH'/jggf.) (`) me(hfhGF//h_f/gh!iw!jvIH)a(hih.__) (;) au(hk)xi(j)li(ij)á(h!iwj)bi(g)tur(fgF'E) (,) e(ggfg'/jvH'GF/g_f)i,(f.) (:) et(f) brá(ixfh!ivHG)chi(hg)um(g.) me(ghF'Efg!hvhg)um(g.) (;) con(gh)for(h_g~)tá(h)bit(g_f) e(g_d/fv.ff!gwh)um.(h_g//ef'!gvF'ED/ewfd.) <sp>V/</sp>.(::) Ni(dh)hil(h) pro(g)fí(gh/jhi)ci(gv./fh!jvHG'h)et(h./jjh/jjg/jvv/hih.__) (;) i(h)ni(h)mí(jh/jjh/jj)cus(kjjvIH'/jggf) (;) in(fh) e(j_0/kvJH'/jvGF'//hghhg/hv.,k_lJ'IH)o,(ixhihih'/ivHG'gfg.) (:) et(fh) fí(h!jj/k_j/k_j/kvJH')li(h)us(h.) (`) i(h)ni(f')qui(h)tá(jv.ijh./fh!jjh.,ixfg!ivHG./ef!hvGF'Dfv.,e!gwhgh)tis(ixhf/hig/ff/ded.) (:) non(dfED'fvED.//de!fg/hjIH'hgh.) (,) (ixfh!ivGF'E//fg!hvhgh) no(g)cé(g)bit(gh) *(,) e(ixjhiGF'h!jjvH'G)i.(hghF'E/fg..) (,) (d!ewf!gv.fhGF'ED'/ewfd.) (::)",
+        "mode": "1"
       }
     },
     {
@@ -121,7 +123,9 @@
         "de": "Joann 15:13"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(f3) MA(c)jó(egf)rem(f.) *(,) ca(f)ri(ef)tá(f!hhh_f/hjIH'ihh'hhvF'Ef!gwhf)tem(f.) (;) ne(fhf__!gwh)mo(ef) ha(f!gwh/ih)bet,(fhfh.) (:) ut(ef) á(hi)ni(i)mam(ij) su(h)am(kxhj/kjji.) (,) po(kxh.i!jwk_j)nat(ijiih) quis(h!iwji/hh/fgf.) (;) pro(h_g) a(gihh)mí(iv.hjIH'hf/hih)cis(hv.hhh) (,) su(f)is.(f!hhh_f/hhh/fgf.__) (::)",
+        "mode": "2"
       }
     },
     {
@@ -150,7 +154,9 @@
         "de": "Joannes 10:14"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(f3) E(ggh)go(f!gwh) sum(he~) *() pa(ggh)stor(hf~) bo(gihi)nus,(ggh.) (,) al(g)le(e)lú(ghG~'F~)ia:(f.) (:) et(e) co(fg~)gnó(g)sco(f/giffe) o(gi)ves(h) me(ijI'G)as,(g.) (;) et(e) co(fg~)gnó(g)scunt(f) me(e) me(e!fg)ae,(ggf.) (;) al(f)le(f)lú(ede)ia,(c.) (,) al(ef~)le(f)lú(fgf___)ia.(f.) (::)",
+        "mode": "2"
       }
     },
     {

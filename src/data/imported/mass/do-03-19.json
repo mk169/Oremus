@@ -27,7 +27,9 @@
         "de": "Ps 91:13-14; Ps 91:2"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) JU(d!ffd/fff)stus(ed__) *() ut(cd) pal(c!d'f)ma(fvvED') flo(d)ré(d!ew!fvED)bit:(dff'f//fff) (;) si(c)cut(d) ced(f)rus(g) Lí(f)ba(gh)ni(h.) (,) mul(h)ti(h)pli(h)cá(hjhhg)bi(hggfg)tur:(fg..) (:) plan(df)tá(fff/g_f)tus(f) in(f) do(fg)mo(gffd) Dó(d)mi(dff'f/g_f)ni,(f.) (;) in(f) á(fgf__)tri(f)is(f) do(fg)mus(gff) De(d)i(c!fff) no(d_c/fff/ced)stri.(d.) <i>T. P.</i>(::) Al(c!d'f~)le(f_e)lú(fgf)ia.(fffddc.) (,) al(df~)le(fefd)lú(ded__)ia.(d.) <i>Ps.</i>(::) Bo(f)num(gh) est(h) con(h)fi(h)té(hj)ri(h) Dó(h)mi(hg)no(gh..) *(:) et(gf) psál(gh)le(h)re(h) nó(h)mi(h)ni(h) tu(h)o,(hjh) Al(g')tís(f)si(fff)me.(d.) (::) Gló(f)ri(gh)a(h) Pa(h)tri(h) (::) E(h) u(hjh) o(g') u(f) a(fff) e(d.) (::)",
+        "mode": "1"
       }
     },
     {
@@ -128,7 +130,9 @@
         "de": "Ps 88:25"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(f4) VE(hh)ri(hiH'G)tas(ggh~) me(h!jjh/jjh/gih)a,(h.) *(;) et(h!jjj) mi(h)se(g)ri(h)cór(h!iwj/kj)di(j)a(jkjji) me(h!iwj)a(jkjji) (,) cum(hg) i(h!iw!jvIH'i)pso:(hg..) (:) et(h) in(jhj') nó(j)mi(kvJH)ne(j_i) me(jijg)o(egeg.) (;) ex(d)al(e)tá(gh)bi(hg)tur(h') cor(j)nu(jkjji) e(h!iwjij)jus.(ih..) <i>T.P.</i>(::) Al(hi)le(g/jjjjkJG'h/jjj_h!jkjk)lú(hih___)ia.(h.) (::)",
+        "mode": "2"
       }
     },
     {
@@ -159,7 +163,9 @@
         "de": "Matt 1:20"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) JO(eh)SEPH(ggh.) *(,) fi(h)li(hf) Da(hih)vid,(i.) (;) no(g)li(e) ti(gh)mé(fe)re(e.) (,) ac(f)cí(ed)pe(e)re(f) Ma(i)rí(hji)am(i.) (,) cón(hf/hi)ju(h)gem(h_g) tu(ef!gvFE'f)am:(fe..) (:) quod(e) e(ei)nim(i) in(i) e(ij)a(i) na(hg)tum(f) est,(hhi!jw!kvJIji..) (;) de(h) Spí(jij)ri(h)tu(fg) San(e)cto(fh) est.(hv.gh!ivHF'/fd//fh'hhe.) <i>T. P. </i>(::) Al(eg~)le(gv./fhg)lú(efe___)ia.(e.) (::)",
+        "mode": "7"
       }
     },
     {

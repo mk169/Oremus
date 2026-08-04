@@ -26,7 +26,9 @@
         "de": "Ps 112:1; 112:9; Ps 112:2"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) LAu(d_c~)dá(cd!fvED)te(d_f) *(,) pú(c!fff)e(f)ri(fgffe) Dó(d)mi(de!fvED'e)num,(ed..) (;) lau(d)dá(d!f'g)te(g_f) no(f!g'h)men(hgh_g) Dó(f)mi(fg!hvGF'g)ni:(gf..) (:) qui(f) ha(h)bi(g)tá(hgg)re(f!g'h) fa(ghfg)cit(d!ewf) (,) sté(fef)ri(de)lem(ddc.) in(c) do(df)mo(fe) (;) ma(fh)trem(h!iwj) fi(g)li(fgFD')ó(d!fffg)rum(f.) (,) lae(gffe)tán(de!fvED'e)tem.(ed..) <i>Ps.</i>(::) Sit(f) no(gh)men(h) Dó(h)mi(h)ni(h) be(hj)ne(h)dí(hg)ctum:(gh..) *(:) ex(gf) hoc(gh) nunc,(h) et(h) us(h)que(hjh) in(g') saé(f)cu(fff)lum.(d.) (::) Gló(f)ri(gh)a(h) Pa(h)tri(h) (::) E(h) u(hjh) o(g') u(f) a(fff) e(d.) (::)",
+        "mode": "1"
       }
     },
     {
@@ -121,7 +123,9 @@
         "de": "Ps 123:7"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(f3) A(ce)ni(ef)ma(f) *() nos(f/hhh_f/hjIH'ihh'hhvF'Ef!gwhf)tra,(f.) (;) si(fhfh)cut(ef) pas(f!gwh/ih)ser,(fhfh.) (,) e(ef)rép(hi)ta(ij) est(kxhj/kjji.) (;) de(kxh.i!jwk_j) lá(jji)que(ih)o(h!iwji/hh/fgf.) (,) ve(hhi)nán(kxjkij)ti(h_f)um:(fhF'Ef.) (:) lá(fh)que(hhh/hv.hhh)us(fh) con(hih)trí(hi)tus(kxi./jki) est,(h.) (:) et(iv.hhhi) nos(ijhh/fgf.) (,) li(h_g)be(gihh)rá(iv.hjIH'hf/hih)ti(hv.hhh//hv.hhh) (,) su(f)mus.(f!hhh_f/hhh/fgf.___) (::)",
+        "mode": "2"
       }
     },
     {
@@ -150,7 +154,9 @@
         "de": "Matt 12:50"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) QUi(d)cúm(f)que(fe) fé(fg)ce(efED'e)rit(ed..) *(,) vo(f)lun(hg~)tá(ixhi)tem(hg~) Pa(ixgi)tris(hi) me(g)i,(ghgg/efe.) (,) qui(g) in(ge~) cae(gh)lis(gh) est:(g.) (:) ip(h)se(ghg') me(h)us(fgf') fra(g)ter,(gd~) so(f)ror,(f.) (,) et(f) ma(ed/f_g)ter(d!ew!fvE'DC'd) est,(dc..) (;) di(f_e/ggh)cit(f.e!fwgffe) Dó(d)mi(de!fvED'e)nus.(ed..) (::)",
+        "mode": "1"
       }
     },
     {

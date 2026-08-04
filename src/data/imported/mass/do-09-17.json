@@ -26,7 +26,9 @@
         "de": "Gal 6:14; Ps 141:2"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) Mi(ffv)hi(df) (::) au(ef/ghf)tem(dfe) ab(ef!hv)sit(h) (;) glo(hjjv)ri(h)á(hg)ri,(g//ffv/ded) (:) ni(g!hj)si(hg) in(gd~) cru(fh)ce(ghfg) (;) Dó(g)mi(df!gvFEf)ni(fe) no(ef/gh)stri(g) (;3) Je(hj)su(j) Chri(jh/ijij)sti:(ji) (:) per(i) quem(j) mi(klk)hi(ji) mun(jh/ijIHGh)dus(hg) (;) cru(g!hj)ci(jhhf)fí(ghgh)xus(fe//fvEDe) est,(ed) (;) et(de) e(f!gh)go(g) (;3) (fhGFg) mun(egffv)do.(fe) <sp>V/</sp>.(::) Vi(g)vo(hj) e(j)go(j) jam(jk) non(j) e(ih)go:(hj) (::) vi(g)vit(hj) ve(j)ro(ji) in(hg) me(h) Chri(i)stus.(gh) (::) Gló(g)ri(hj)a(j) (::) E(j) u(ji) o(hg) u(h) a(i) e.(gh) (::)",
+        "mode": "3"
       }
     },
     {
@@ -70,7 +72,9 @@
         "de": "Ps 36:30-31"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) OS(ddcd/fffddcd) ju(dfd/fffvED)sti(dfddc.) *(;) me(d)di(fddc)tá(fg)bi(ixfhg/hi)tur(h.) (,) sa(hjhhg)pi(hggf)én(fh!jvH'Gh)ti(h)am,(ixhv./f.g!hwihhggf.) (:) et(dh) lin(h_g/jij)gua(h_f/hg) (`) e(g_eg)jus(gvF'EDfvED) (,) (fge'/fgd'/eddc.) (;) lo(f!gh!jvIH'G)qué(gf)tur(f.) (,) ju(f)dí(f)ci(gvFD)um.(dc/d!ff/ghG'Efgff/ded.) <sp>V/</sp>.(::) Lex(dh) De(h)i(g) e(hjij)jus(h.) (,) (g/hhg/hh//gh!jjjh/jvvIH'jggf.) (:) in(f) cor(ixghgh//fh!ivGE'fvDC'//d!ff//g/hhg/hh , gh!jj//jjjkvJH)de(j_i) i(j_i)psí(j_i)us(jjjvIH'jggf.) (:) et(f) non(ixghgh//fh!ivGF'E//fg!hhg) (`) sup(h)plan(g_e~)ta(fg)bún(gffvE~D~)tur(d/ffd) (,) (fge'/fgd'/eddc.) *(;) gres(ff)sus(fg) e(g_f/hgh)jus.(hvvGF'ECd!ewfd.) (::)",
+        "mode": "1"
       }
     },
     {
@@ -121,7 +125,9 @@
         "de": "Ps 88:25"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(f4) VE(hh)ri(hiH'G)tas(ggh~) me(h!jjh/jjh/gih)a,(h.) *(;) et(h!jjj) mi(h)se(g)ri(h)cór(h!iwj/kj)di(j)a(jkjji) me(h!iwj)a(jkjji) (,) cum(hg) i(h!iw!jvIH'i)pso:(hg..) (:) et(h) in(jhj') nó(j)mi(kvJH)ne(j_i) me(jijg)o(egeg.) (;) ex(d)al(e)tá(gh)bi(hg)tur(h') cor(j)nu(jkjji) e(h!iwjij)jus.(ih..) <i>T.P.</i>(::) Al(hi)le(g/jjjjkJG'h/jjj_h!jkjk)lú(hih___)ia.(h.) (::)",
+        "mode": "2"
       }
     },
     {
@@ -150,7 +156,9 @@
         "de": "Luc 12:42"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) FI(e)dé(f)lis(ge) ser(fh~)vus(h.) *() et(hg~) pru(hi)dens,(i.) (;) quem(i) con(i)stí(ijij)tu(ih)it(h) Dó(hi)mi(h)nus(hg/hih.) (;) su(h)per(hg) fa(ge)mí(gh)li(f!h'i)am(hg~) su(e.)am:(e.) (:) ut(h) det(h) il(hih)lis(e.) (,) in(ghf~) tém(hi~)po(ijiigh)re(hg..) (;) trí(i!jw!kvJI'ih//i_ghvGF'//g!h'i!jv)ti(hf)ci(hi) men(hg~)sú(efe___)ram.(e.) <i>T. P.</i>(::) Al(f!gwh)le(hih___/gih./fhgh./fge___)lú(efe___)ia.(e.) (::)",
+        "mode": "7"
       }
     },
     {

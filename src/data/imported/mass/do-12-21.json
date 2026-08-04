@@ -26,7 +26,9 @@
         "de": "Ps 138:17; Ps 138:1-2."
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(f3) MI(e)HI(f) au(f)tem(hh) *() ni(ihi)mis(ihi_f) (,) ho(fi)no(i)rá(ij)ti(ih) sunt(hv./gih.) (,) a(f)mí(ege)ci(f) tu(f)i,(hhi) De(fgF'E)us:(e.) (:) ni(h)mis(hhh) con(f)for(fi~)tá(i)tus(h) est(hji.) (,) prin(hihh)ci(ef)pá(hhi)tus(h) e(h)ó(hjI'H)rum.(hhh/fgf.___) <i>Ps.</i>(::) Dó(e)mi(fe)ne(eh) pro(h)bás(h)ti(h) me,(h) et(hg~) co(hi)gno(i)ví(hi)sti(h) me:(h.) *(:) tu(hf) co(fh)gno(h)vís(h)ti(h) ses(h)si(h)ó(h)nem(h) me(h)am,(h.) (,) et(h) re(h)sur(h)rec(h')ti(i)ó(hf)nem(h) me(ge)am.(fgf.) (::) Gló(e)ri(fe)a(eh) Pa(h)tri(h) (::) E(h') u(i) o(hf) u(h) a(ge) e(fgf.) (::)",
+        "mode": "2"
       }
     },
     {
@@ -71,7 +73,9 @@
         "de": "Ps 138:17-18.; Ps 32:1"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) NI(egf)mis(f.) *(,) ho(f)no(f)rá(hfg/hvF'Egef)ti(g) sunt(f.) (;) a(f)mí(hf/h!i'j)ci(h_f) tu(f_e)i,(gxegFE.) (,) De(ed/fef)us:(fd/ef!hvvF'E//f!gwh/ihh/fgf.) (:) ni(hh)mis(h) con(h)for(h)tá(hg/hi!jvHG/hhg,i_h/ivHF')tus(f) est(fhF'E/fhhf//hvvGF'/heed.) (:) prin(d)ci(ef)pá(f./hvGF'/g)tus(e) e(f)ó(hf/h_i)rum.(ih/ijI'H) (,) (jh/jkIG'hvF'E//f!gwh!iv.h!i'j) (,) (ijijHF'/gwhf.) <sp>V/</sp>.(::) Di(f)nu(h)me(hi)rá(i)bo(ij) e(jvI'HG'/hvF'E , ge/f!hh/ijij. , hj!kvIG'/hvF'E//fgF'E/f. , i!jwk_j/kvJI'j)os:(ji..) (:) et(i) su(k.i!jw!kvJI')per(i) a(ij)ré(j_h/jvIH'/hf//hhf/hv.hhh_f , hi!jvIH/jvIH/if)nam(f.) *(:) mul(d)ti(ef)pli(f./hvGF'g)ca(ef)bún(hf/h_i~)tur.(i_jH'G/hi..) (,) (e!f'hh'jIH'GF'gwhf.) (::)",
+        "mode": "2"
       }
     },
     {
@@ -89,7 +93,9 @@
         "de": "Ps 20:3-4"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) DE(f)si(f)dé(fg!hvhg)ri(hggf)um(fg!hvhg/hvGFgf..) *(;) á(gjjk)ni(h)mae(hg/hf//hjhj) e(jvIH'iw!jvI'HG'h)jus(hg..) (;) tri(ghg)bu(fg)í(jj)sti(hji') e(j)i:(jjjkhhg/hg/jjjh/jggf.) (:) et(f) vo(f)lun(f)tá(hj)te(igh) la(gf/gh)bi(g)ó(g)rum(gh/jij) (`) e(j.h!iwj)jus(jjjvIHivHGhg..) (;) non(h_g/h!iwj) frau(g_f~)dá(g)sti(h) (`) e(j./kjjg//j./kjj'jj/kjjh,ji/jjvI'G//hjh'/jvHF.,gh!jvvI'G//hjHF'g)um.(g/hhg.) <sp>V/</sp>.(::) Quó(g)ni(g)am(g_d) prae(g)ve(hih)ní(jjji)sti(g) e(h_g/h!iw!jvIHijh)um(hg..) (:) in(g) be(ghg)ne(fg)di(jj)cti(hji')ó(j)ne(jkjj'j/kjjh) (,) (ji/jjvI'G//hjh'/jvHF./g.h!iwjjv) (;) dul(jk~)cé(jv./ikjjv'jvIG'h//jjh/jvHG)di(fg)nis.(g/hhg.) <sp>V/</sp>.(::) Po(g)su(g)í(g!h'j)sti(jjjvIH') su(jhhg)per(g_h) ca(h/jjh)put(gf) e(ghg~)jus(h_g) (,) (ixi_h/ivGF./g/hg/hg/hg/jjh/jggf.) (:) co(gh/jij)ró(j.h!iwj)nam(jjjvIH/ivHGhg..) (;) de(g) lá(h_g/h!iwj)pi(ghG'F)de(f.) *(,) pre(f!h'j)ti(j)ó(i_/jhhg/hggfg.,jjj/kvJ'IH'hg)so.(ghGF.) (,) (h!iwjijjh/ihhg.) (::)",
+        "mode": "8"
       }
     },
     {
@@ -122,7 +128,9 @@
         "de": "Ps 18:5"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) IN(e!g'h) om(hiH'G/)nem(g.ggg//hihi) ter(ghE'D , de/ghg___//hi/k_i/j_kh)ram(h.) *(;) ex(jj)í(j_i)vit(jjj_h) so(hjjh)nus(h.) e(gh)ó(hjj'jjh//kjjh/ig)rum:(g.) (:) et(jj) in(j) fi(kjjh)nes(h) or(g!jjj)bis(j) ter(hig)rae(egeg.) (;) ver(d!eg)ba(e/ghg___//ikj'/kvJ'IH) e(h)ó(h)rum.(h!iwjjvIH/iih.) (::)",
+        "mode": "2"
       }
     },
     {
@@ -151,7 +159,9 @@
         "de": "Joannes 20:27"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) Mit(ffg)te(f) (::) ma(gh)num(g) tu(f)am,(ghg) (;) et(fee>) co(f)gnó(g)sce(f) (;4) lo(f)ca(f) cla(f)vó(ixg!hih)rum:(hg) (:) et(fd) no(f)li(g) es(h)se(g) in(f)cré(g)du(fe)lus,(d) (;) sed(fe) fi(f)dé(f!ghGFg)lis.(gf) (::)",
+        "mode": "6"
       }
     },
     {
