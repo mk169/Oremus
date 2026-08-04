@@ -41,7 +41,8 @@
       },
       "chant": {
         "chantable": true,
-        "mode": "VIII"
+        "mode": "VIII",
+        "gabc": "(c4) Jam(f) lucis(gh) orto(h) sídere(h) Deum(hg) precémur(g) (::)"
       }
     },
     {

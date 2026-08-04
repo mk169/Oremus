@@ -41,7 +41,8 @@
       },
       "chant": {
         "chantable": true,
-        "mode": "VIII"
+        "mode": "VIII",
+        "gabc": "(c4) Consors(f) patérni(gh) lúminis(h) (::)"
       }
     },
     {
@@ -251,6 +252,11 @@
       "text": {
         "la": "Te Deum laudámus: * te Dóminum confitémur. Te ætérnum Patrem * omnis terra venerátur. Tibi omnes Ángeli, * tibi Cæli, et univérsæ Potestátes: Tibi Chérubim et Séraphim * incessábili voce proclámant: Sanctus, Sanctus, Sanctus * Dóminus Deus Sábaoth.",
         "de": "Dich, Gott, loben wir, * dich, Herr, bekennen wir. Dich, den ewigen Vater, * verehrt die ganze Erde. Dir rufen alle Engel, * dir Himmel und alle Mächte, dir Cherubim und Seraphim * mit unaufhörlicher Stimme zu: Heilig, heilig, heilig * der Herr, der Gott der Heerscharen."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "III",
+        "gabc": "(c4) Te(f) De(gh)um(h) lau(h)dá(hg)mus(g) (::)"
       }
     }
   ]

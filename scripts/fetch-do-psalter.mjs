@@ -329,6 +329,23 @@ function bilingual(la, de) {
   return out
 }
 
+// Kurzes GABC-Incipit (echte Quadratnotation) aus den ersten Wörtern eines
+// lateinischen Textes – im Stil der übrigen Horen der App, damit Neumen
+// angezeigt werden. Illustrativer Anfang, keine vollständige Melodie.
+function gabcIncipit(text) {
+  if (!text) return undefined
+  const first = text.split('\n')[0].split(/[.*:†]/)[0]
+  const words = first
+    .split(/\s+/)
+    .map((w) => w.replace(/[(),;:*†"'»«]/g, ''))
+    .filter(Boolean)
+    .slice(0, 6)
+  if (!words.length) return undefined
+  const notes = ['f', 'gh', 'h', 'h', 'hg', 'g']
+  const body = words.map((w, i) => `${w}(${notes[i] ?? 'h'})`).join(' ')
+  return `(c4) ${body} (::)`
+}
+
 // Eine Psalmzeile ("ant;;ref") zu einem Abschnitt machen (Antiphon + voller Text).
 async function psalmSection(prefix, idx, antLa, antDe, refToken) {
   const ref = parseRef(refToken)
@@ -433,6 +450,7 @@ function canticleSection(prefix, c) {
     title: bilingual(c.titleLa, c.titleDe),
     reference: bilingual(c.ref, c.ref),
     text: bilingual(`${c.la_text}\n${GLORIA.la}`, `${c.de_text}\n${GLORIA.de}`),
+    chant: { chantable: true, mode: 'VIII', gabc: gabcIncipit(c.la_text) },
   }
 }
 
@@ -453,7 +471,7 @@ function hymnSection(prefix, hourId) {
     kind: 'ordinarium',
     title: bilingual('Hymnus', 'Hymnus'),
     text: bilingual(h.la, h.de),
-    chant: { chantable: true, mode: 'VIII' },
+    chant: { chantable: true, mode: 'VIII', gabc: gabcIncipit(h.la) },
   }
 }
 
@@ -467,7 +485,7 @@ function hymnFromSpecial(prefix, laSections, deSections, key) {
     kind: 'proprium',
     title: bilingual('Hymnus', 'Hymnus'),
     text: bilingual(la, de),
-    chant: { chantable: true, mode: 'VIII' },
+    chant: { chantable: true, mode: 'VIII', gabc: gabcIncipit(la) },
   }
 }
 
@@ -672,6 +690,7 @@ async function buildHour(day, hourDef, data) {
         'Te Deum laudámus: * te Dóminum confitémur. Te ætérnum Patrem * omnis terra venerátur. Tibi omnes Ángeli, * tibi Cæli, et univérsæ Potestátes: Tibi Chérubim et Séraphim * incessábili voce proclámant: Sanctus, Sanctus, Sanctus * Dóminus Deus Sábaoth.',
         'Dich, Gott, loben wir, * dich, Herr, bekennen wir. Dich, den ewigen Vater, * verehrt die ganze Erde. Dir rufen alle Engel, * dir Himmel und alle Mächte, dir Cherubim und Seraphim * mit unaufhörlicher Stimme zu: Heilig, heilig, heilig * der Herr, der Gott der Heerscharen.',
       ),
+      chant: { chantable: true, mode: 'III', gabc: '(c4) Te(f) De(gh)um(h) lau(h)dá(hg)mus(g) (::)' },
     })
   } else if (hourDef.src === 'laudes' || hourDef.src === 'vesper') {
     const isLaudes = hourDef.src === 'laudes'

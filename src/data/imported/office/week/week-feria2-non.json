@@ -41,7 +41,8 @@
       },
       "chant": {
         "chantable": true,
-        "mode": "VIII"
+        "mode": "VIII",
+        "gabc": "(c4) Rerum(f) Deus(gh) tenax(h) vigor(h) immótus(hg) in(g) (::)"
       }
     },
     {

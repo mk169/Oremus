@@ -41,7 +41,8 @@
       },
       "chant": {
         "chantable": true,
-        "mode": "VIII"
+        "mode": "VIII",
+        "gabc": "(c4) Rector(f) potens(gh) verax(h) Deus(h) qui(hg) témperas(g) (::)"
       }
     },
     {

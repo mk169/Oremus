@@ -41,7 +41,8 @@
       },
       "chant": {
         "chantable": true,
-        "mode": "VIII"
+        "mode": "VIII",
+        "gabc": "(c4) Nunc(f) Sancte(gh) nobis(h) Spíritus(h) unum(hg) Patri(g) (::)"
       }
     },
     {

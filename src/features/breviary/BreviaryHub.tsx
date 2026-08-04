@@ -92,6 +92,25 @@ export function BreviaryHub() {
 
       <BrevierToday />
 
+      {FORMS.map((form) => (
+        <section key={form} className="brev-form">
+          <h2 className="brev-form__title">
+            {FORM_LABEL[form].de}
+            <span className="brev-form__la smallcaps"> · {FORM_LABEL[form].la}</span>
+          </h2>
+          <ul className="brev-hours">
+            {hoursByForm[form].map((h) => (
+              <li key={h.id}>
+                <Link to={`/brevier/${h.id}`} className="brev-hours__link">
+                  <span className="brev-hours__name">{h.name.de}</span>
+                  <span className="brev-hours__la">{h.name.la}</span>
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ))}
+
       <section className="brev-form">
         <h2 className="brev-form__title">
           Wochenpsalter (1962)
@@ -112,25 +131,6 @@ export function BreviaryHub() {
           ))}
         </ul>
       </section>
-
-      {FORMS.map((form) => (
-        <section key={form} className="brev-form">
-          <h2 className="brev-form__title">
-            {FORM_LABEL[form].de}
-            <span className="brev-form__la smallcaps"> · {FORM_LABEL[form].la}</span>
-          </h2>
-          <ul className="brev-hours">
-            {hoursByForm[form].map((h) => (
-              <li key={h.id}>
-                <Link to={`/brevier/${h.id}`} className="brev-hours__link">
-                  <span className="brev-hours__name">{h.name.de}</span>
-                  <span className="brev-hours__la">{h.name.la}</span>
-                </Link>
-              </li>
-            ))}
-          </ul>
-        </section>
-      ))}
 
       <section className="brev-form">
         <h2 className="brev-form__title">

@@ -137,7 +137,8 @@
       },
       "chant": {
         "chantable": true,
-        "mode": "VIII"
+        "mode": "VIII",
+        "gabc": "(c4) Splendor(f) Patérnæ(gh) glóriæ(h) (::)"
       }
     },
     {
@@ -165,6 +166,11 @@
       "text": {
         "la": "Benedíctus Dóminus, Deus Israël: * quia visitávit, et fecit redemptiónem plebis suæ:\nEt eréxit cornu salútis nobis: * in domo David, púeri sui.\nSicut locútus est per os sanctórum, * qui a sǽculo sunt, prophetárum ejus:\nSalútem ex inimícis nostris, * et de manu ómnium, qui odérunt nos:\nAd faciéndam misericórdiam cum pátribus nostris: * et memorári testaménti sui sancti:\nJusjurándum, quod jurávit ad Ábraham patrem nostrum, * datúrum se nobis:\nUt sine timóre, de manu inimicórum nostrórum liberáti, * serviámus illi.\nIn sanctitáte, et justítia coram ipso, * ómnibus diébus nostris.\nEt tu, puer, Prophéta Altíssimi vocáberis: * præíbis enim ante fáciem Dómini paráre vias ejus:\nAd dandam sciéntiam salútis plebi ejus: * in remissiónem peccatórum eórum:\nPer víscera misericórdiæ Dei nostri: * in quibus visitávit nos, óriens ex alto:\nIllumináre his, qui in ténebris, et in umbra mortis sedent: * ad dirigéndos pedes nostros in viam pacis.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
         "de": "Gepriesen sei der Herr, der Gott Israels; * denn er hat sein Volk besucht und ihm Erlösung geschaffen;\nund hat uns aufgerichtet ein Horn des Heiles * im Hause Davids, seines Knechtes:\nwie er verheißen hat durch den Mund seiner heiligen Propheten, * die von alters her gewesen:\nErrettung von unsern Feinden * und aus der Hand aller, die uns hassen;\nzu üben Barmherzigkeit an unsern Vätern * und zu gedenken seines heiligen Bundes,\ndes Eides, den er unserm Vater Abraham geschworen, * uns zu verleihen,\ndass wir, befreit aus der Hand unsrer Feinde, ohne Furcht ihm dienen \nin Heiligkeit und Gerechtigkeit vor ihm * alle unsre Tage.\nUnd du, Kind, wirst Prophet des Höchsten heißen; * denn du wirst vor dem Herrn hergehen, ihm den Weg zu bereiten,\nseinem Volke Kunde des Heiles zu geben * zur Vergebung ihrer Sünden,\ndurch die herzliche Barmherzigkeit unsres Gottes, * mit der uns besucht hat der Aufgang aus der Höhe,\nzu erleuchten, die in Finsternis und Todesschatten sitzen, * zu lenken unsre Schritte auf den Weg des Friedens.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII",
+        "gabc": "(c4) Benedíctus(f) Dóminus(gh) Deus(h) Israël(h) (::)"
       }
     },
     {

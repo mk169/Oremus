@@ -131,7 +131,8 @@
       },
       "chant": {
         "chantable": true,
-        "mode": "VIII"
+        "mode": "VIII",
+        "gabc": "(c4) Hóminis(f) superne(gh) Cónditor(h) (::)"
       }
     },
     {
@@ -160,6 +161,11 @@
       "text": {
         "la": "Magníficat * ánima mea Dóminum.\nEt exsultávit spíritus meus * in Deo, salutári meo.\nQuia respéxit humilitátem ancíllæ suæ: * ecce enim ex hoc beátam me dicent omnes generatiónes.\nQuia fecit mihi magna qui potens est: * et sanctum nomen ejus.\nEt misericórdia ejus a progénie in progénies * timéntibus eum.\nFecit poténtiam in bráchio suo: * dispérsit supérbos mente cordis sui.\nDepósuit poténtes de sede, * et exaltávit húmiles.\nEsuriéntes implévit bonis: * et dívites dimísit inánes.\nSuscépit Israël púerum suum, * recordátus misericórdiæ suæ.\nSicut locútus est ad patres nostros, * Ábraham, et sémini ejus in sǽcula.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
         "de": "Meine Seele preist die Größe des Herrn, * und mein Geist frohlockt in Gott, meinem Heile.\nDenn er hat auf die Niedrigkeit seiner Magd geschaut; * siehe, von nun an preisen mich selig alle Geschlechter.\nDenn Großes hat an mir getan, der mächtig ist, * und heilig ist sein Name.\nUnd sein Erbarmen währt von Geschlecht zu Geschlecht * für alle, die ihn fürchten.\nEr wirkt mit Macht in seinem Arm, * er zerstreut, die hoffärtig sind im Sinne ihres Herzens.\nEr stürzt die Mächtigen vom Thron * und erhöht die Niedrigen.\nDie Hungernden erfüllt er mit Gütern * und lässt die Reichen leer ausgehn.\nEr nimmt sich Israels an, seines Knechtes, * eingedenk seiner Barmherzigkeit,\nwie er geredet hat zu unsern Vätern, * zu Abraham und seinen Nachkommen auf ewig.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII",
+        "gabc": "(c4) Magníficat(f) (::)"
       }
     },
     {

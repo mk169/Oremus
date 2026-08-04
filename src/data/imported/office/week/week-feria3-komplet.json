@@ -41,7 +41,8 @@
       },
       "chant": {
         "chantable": true,
-        "mode": "VIII"
+        "mode": "VIII",
+        "gabc": "(c4) Te(f) lucis(gh) ante(h) términum(h) rerum(hg) Creátor(g) (::)"
       }
     },
     {
@@ -126,6 +127,11 @@
       "text": {
         "la": "Nunc dimíttis servum tuum, Dómine, * secúndum verbum tuum in pace:\nQuia vidérunt óculi mei * salutáre tuum,\nQuod parásti * ante fáciem ómnium populórum,\nLumen ad revelatiónem géntium, * et glóriam plebis tuæ Israël.\nGlória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.",
         "de": "Nun entlässest du, Herr, deinen Diener * nach deinem Worte in Frieden;\ndenn meine Augen haben * dein Heil geschaut,\ndas du bereitet hast * vor dem Angesicht aller Völker:\nein Licht zur Erleuchtung der Heiden * und zur Verherrlichung deines Volkes Israel.\nEhre sei dem Vater und dem Sohne * und dem Heiligen Geiste, wie es war im Anfang, so auch jetzt und allezeit * und in Ewigkeit. Amen."
+      },
+      "chant": {
+        "chantable": true,
+        "mode": "VIII",
+        "gabc": "(c4) Nunc(f) dimíttis(gh) servum(h) tuum(h) Dómine(hg) (::)"
       }
     },
     {
