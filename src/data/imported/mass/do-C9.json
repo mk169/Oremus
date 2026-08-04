@@ -1,0 +1,149 @@
+{
+  "id": "do-C9",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung folgt, wo nicht vorhanden.",
+  "day": {
+    "title": {
+      "la": "Officium Defunctorum",
+      "de": "Requiem – Messe für die Verstorbenen"
+    },
+    "color": "black",
+    "rank": "Votivmesse / Commune"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Réquiem ætérnam dona eis, Dómine: et lux perpétua lúceat eis. Te decet hymnus, Deus, in Sion, et tibi reddétur votum in Jerúsalem: exáudi oratiónem meam, ad te omnis caro véniet. Réquiem ætérnam dona eis, Dómine: et lux perpétua lúceat eis. [Oratio] (ad missam) Fidélium, Deus, ómnium Cónditor et Redémptor: animábus famulórum famularúmque tuárum remissiónem cunctórum tríbue peccatórum; ut indulgéntiam, quam semper optavérunt, piis supplicatiónibus consequántur: [Oratio1] (ad missam) Deus, qui inter apostólicos Sacerdótes fámulos tuos pontificáli seu sacerdotáli fecísti dignitáte vigére: præsta, quǽsumus; ut eórum quoque perpétuo aggregéntur consórtio. [Oratio2] (ad missam) Deus, véniæ largítor et humánæ salútis amátor: quǽsumus cleméntiam tuam; ut nostræ congregatiónis fratres, propínquos et benefactóres, qui ex hoc sǽculo transiérunt, beáta María semper Vírgine intercedénte cum ómnibus Sanctis tuis, ad perpétuæ beatitúdinis consórtium perveníre concédas."
+      },
+      "reference": {
+        "la": "4 Esdr 2:34; 2:35; Ps 64:2-3",
+        "de": "4 Esdr 2:34; 2:35; Ps 64:2-3"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio libri Apocalýpsis beáti Joánnis Apóstoli In diébus illis: Audívi vocem de cœlo, dicéntem mihi: Scribe: Beáti mórtui, qui in Dómino moriúntur. Amodo jam dicit Spíritus, ut requiéscant a labóribus suis: ópera enim illórum sequúntur illos."
+      },
+      "reference": {
+        "la": "Apoc 14:13",
+        "de": "Apoc 14:13"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Réquiem ætérnam dona eis, Dómine: et lux perpétua lúceat eis. In memória ætérna erit justus: ab auditióne mala non timébit. _ Absólve, Dómine, ánimas ómnium fidélium ab omni vínculo delictórum. Et grátia tua illis succurrénte, mereántur evádere judícium ultiónis. Et lucis ætérnæ beatitúdine pérfrui."
+      },
+      "reference": {
+        "la": "4 Esdr 2:34-35; Ps 111:7.; Tractus",
+        "de": "4 Esdr 2:34-35; Ps 111:7.; Tractus"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "sequentia",
+      "kind": "proprium",
+      "title": {
+        "la": "Sequentia",
+        "de": "Sequenz"
+      },
+      "text": {
+        "la": "Dies iræ, dies illa Solvet sæclum in favílla: Teste David cum Sibýlla. _ Quantus tremor est futúrus, Quando judex est ventúrus, Cuncta stricte discussúrus! _ Tuba mirum spargens sonum Per sepúlcra regiónum, Coget omnes ante thronum. _ Mors stupébit et natúra, Cum resúrget creatúra, Judicánti responsúra. _ Liber scriptus proferétur, In quo totum continétur, Unde mundus judicétur. _ Judex ergo cum sedébit, Quidquid latet, apparébit: Nil inúltum remanébit. _ Quid sum miser tunc dictúrus? Quem patrónum rogatúrus, Cum vix justus sit secúrus? _ Rex treméndæ majestátis, Qui salvándos salvas gratis, Salva me, fons pietátis. _ Recordáre, Jesu pie, Quod sum causa tuæ viæ: Ne me perdas illa die. _ Quærens me, sedísti lassus: Redemísti Crucem passus: Tantus labor non sit cassus. _ Juste judex ultiónis, Donum fac remissiónis Ante diem ratiónis. _ Ingemísco, tamquam reus: Culpa rubet vultus meus: Supplicánti parce, Deus. _ Qui Maríam absolvísti, Et latrónem exaudísti, Mihi quoque spem dedísti. _ Preces meæ non sunt dignæ: Sed tu bonus fac benígne, Ne perénni cremer igne. _ Inter oves locum præsta, Et ab hœdis me sequéstra, Státuens in parte dextra. _ Confutátis maledíctis, Flammis ácribus addíctis: Voca me cum benedíctis. _ Oro supplex et acclínis, Cor contrítum quasi cinis: Gere curam mei finis. _ Lacrimósa dies illa, Qua resúrget ex favílla Judicándus homo reus. _ Huic ergo parce, Deus: Pie Jesu Dómine, Dona eis réquiem. Amen."
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Joánnem In illo témpore: Dixit Jesus turbis Judæórum: Ego sum panis vivus, qui de cœlo descéndi. Si quis manducáverit ex hoc pane, vivet in ætérnum: et panis, quem ego dabo, caro mea est pro mundi vita. Litigábant ergo Judǽi ad ínvicem, dicéntes: Quómodo potest hic nobis carnem suam dare ad manducándum? Dixit ergo eis Jesus: Amen, amen, dico vobis: nisi manducavéritis carnem Fílii hóminis et bibéritis ejus sánguinem, non habébitis vitam in vobis. Qui mánducat meam carnem et bibit meum sánguinem, habet vitam ætérnam: et ego resuscitábo eum in novíssimo die."
+      },
+      "reference": {
+        "la": "Joannes 6:51-55",
+        "de": "Joannes 6:51-55"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Dómine Jesu Christe, Rex glóriæ, líbera ánimas ómnium fidélium defunctórum de pœnis inférni et de profúndo lacu: líbera eas de ore leónis, ne absórbeat eas tártarus, ne cadant in obscúrum: sed sígnifer sanctus Míchaël repræséntet eas in lucem sanctam: * Quam olim Abrahæ promisísti et sémini ejus. Hóstias et preces tibi, Dómine, laudis offérimus: tu súscipe pro animábus illis, quarum hódie memóriam fácimus: fac eas, Dómine, de morte transíre ad vitam. * Quam olim Abrahæ promisísti et sémini ejus."
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Hóstias, quǽsumus, Dómine, quas tibi pro animábus famulórum famularúmque tuárum offérimus, propitiátus inténde: ut, quibus fídei christiánæ méritum contulísti, dones et prǽmium."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Lux ætérna lúceat eis, Dómine: * Cum Sanctis tuis in ætérnum: quia pius es. Requiem ætérnam dona eis, Dómine: et lux perpétua lúceat eis. * Cum Sanctis tuis in ætérnum: quia pius es."
+      },
+      "reference": {
+        "la": "4 Esdr 2:35; 2:34",
+        "de": "4 Esdr 2:35; 2:34"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Animábus, quǽsumus, Dómine, famulórum famularúmque tuárum orátio profíciat supplicántium: ut eas et a peccátis ómnibus éxuas, et tuæ redemptiónis fácias esse partícipes:"
+      }
+    }
+  ]
+}

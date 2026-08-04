@@ -2,7 +2,7 @@ import { useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { PageHeader } from '../../components/PageHeader'
 import { SectionRenderer } from '../../components/SectionRenderer'
-import { importedMassList, massIdForDate, type ImportedMassEntry } from '../../data/registry'
+import { importedMassList, communeMassList, massIdForDate, type ImportedMassEntry } from '../../data/registry'
 import { resolveCelebration } from '../../data/liturgicalCalendar'
 import { aspergesMe, vidiAquam, aspergesOratio } from '../../data/mass/asperges'
 import './LiturgyHub.css'
@@ -153,7 +153,7 @@ export function LiturgyHub() {
   const filtered = useMemo(
     () =>
       q
-        ? importedMassList.filter(
+        ? [...importedMassList, ...communeMassList].filter(
             (m) => m.titleDe.toLowerCase().includes(q) || m.titleLa.toLowerCase().includes(q),
           )
         : [],
@@ -236,6 +236,13 @@ export function LiturgyHub() {
           {MONTHS.map((name, i) => (
             <MassGroup key={name} label={name} entries={sanctoral[i + 1] ?? []} />
           ))}
+
+          <h3 className="liturgy-hub__group-title">Votivmessen &amp; Gemeinsame Messen</h3>
+          <p className="liturgy-hub__imported-note">
+            Requiem (Messe für die Verstorbenen), Marienmessen und die Commons der Heiligen –
+            frei wählbar für jede Votiv- oder Gedächtnismesse.
+          </p>
+          <MassIndexList entries={communeMassList} />
         </>
       )}
     </div>

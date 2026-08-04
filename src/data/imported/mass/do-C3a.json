@@ -1,0 +1,169 @@
+{
+  "id": "do-C3a",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung folgt, wo nicht vorhanden.",
+  "day": {
+    "title": {
+      "la": "Commune Plurimorum Martyrum",
+      "de": "Mehrere Märtyrer"
+    },
+    "color": "red",
+    "rank": "Votivmesse / Commune"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Sapiéntiam Sanctórum narrent populi, et laudes eórum núntiet ecclésia: nómina autem eórum vivent in sǽculum sǽculi. Exsultáte, justi, in Dómino: rectos decet collaudátio. Sapiéntiam Sanctórum narrent populi, et laudes eórum núntiet ecclésia: nómina autem eórum vivent in sǽculum sǽculi."
+      },
+      "reference": {
+        "la": "Eccli 44:15; 44:14; Ps 32:1",
+        "de": "Eccli 44:15; 44:14; Ps 32:1"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Deus, qui nos concédis sanctórum Mártyrum tuórum N. et N. natalítia cólere: da nobis in ætérna beatitúdine de eórum societáte gaudére.",
+        "de": "O Gott, der du uns das Glück gewährst, deiner heiligen Martyrer N. und N. Eingang zum Leben zu feiern, verleihe uns die Gnade, daß wir uns in der ewigen Glückseligkeit an deren Gemeinschaft erfreuen."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Lectio libri Sapientiæ Justi autem in perpétuum vivent, et apud Dóminum est merces eórum, et cogitátio illórum apud Altíssimum. Ideo accípient regnum decóris, et diadéma speciéi de manu Dómini: quóniam déxtera sua teget eos, et bráchio sancto suo deféndet illos. Accípiet armatúram zelus illíus, et armábit creatúram ad ultiónem inimicórum. Induet pro thoráce justítiam, et accípiet pro gálea judícium certum. Sumet scutum inexpugnábile æquitátem."
+      },
+      "reference": {
+        "la": "Sap 5:16-20",
+        "de": "Sap 5:16-20"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Anima nostra, sicut passer, erépta est de láqueo venántium. Láqueus contrítus est, et nos liberáti sumus: adjutórium nostrum in nómine Dómini, qui fecit cœlum et terram. Allelúja, allelúja. Justi epuléntur, et exsúltent in conspéctu Dei: et delecténtur in lætítia. Alleluja."
+      },
+      "reference": {
+        "la": "Ps 123:7-8; Ps 67:4",
+        "de": "Ps 123:7-8; Ps 67:4"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Anima nostra, sicut passer, erépta est de láqueo venántium. Láqueus contrítus est, et nos liberáti sumus: adjutórium nostrum in nómine Dómini, qui fecit cœlum et terram. Qui séminant in lácrimis, in gáudio metent. Eúntes ibant et flebant, mitténtes sémina sua. Veniéntes autem vénient cum exsultatióne, portántes manípulos suos."
+      },
+      "reference": {
+        "la": "Ps 123:7-8; Ps 125:5-6",
+        "de": "Ps 123:7-8; Ps 125:5-6"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Lucam In illo témpore: Descéndens Jesus de monte, stetit in loco campéstri, et turba discipulórum ejus, et multitúdo copiósa plebis ab omni Judǽa, et Jerúsalem, et marítima, et Tyri, et Sidónis, qui vénerant, ut audírent eum et sanaréntur a languóribus suis. Et, qui vexabántur a spirítibus immúndis, curabántur. Et omnis turba quærébat eum tángere: quia virtus de illo exíbat, et sanábat omnes. Et ipse, elevátis oculis in discípulos suos, dicébat: Beáti, páuperes: quia vestrum est regnum Dei. Beáti, qui nunc esurítis: quia saturabímini. Beáti, qui nunc fletis: quia ridébitis. Beáti éritis, cum vos óderint hómines, et cum separáverint vos et exprobréverint, et ejécerint nomen vestrum tamquam malum, propter Fílium hóminis. Gaudéte in illa die et exsultáte: ecce enim, merces vestra multa est in cœlo."
+      },
+      "reference": {
+        "la": "Luc 6:17-23",
+        "de": "Luc 6:17-23"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Exsultábunt Sancti in glória, lætabúntur in cubílibus suis: exaltatiónes Dei in fáucibus eórum, allelúja. Exsultábunt Sancti in glória, lætabúntur in cubílibus suis: exaltatiónes Dei in fáucibus eórum."
+      },
+      "reference": {
+        "la": "Ps 149:5-6",
+        "de": "Ps 149:5-6"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Múnera tibi, Dómine, nostra devotiónis offérimus: quæ et pro tuórum tibi grata sint honóre Justórum, et nobis salutária, te miseránte, reddántur."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Dico autem vobis amícis meis: Ne terreámini ab his, qui vos persequúntur."
+      },
+      "reference": {
+        "la": "Luc 12:4",
+        "de": "Luc 12:4"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Præsta nobis, quǽsumus, Dómine: intercedéntibus sanctis Martýribus tuis N. et N.; ut, quod ore contíngimus, pura mente capiámus."
+      }
+    }
+  ]
+}

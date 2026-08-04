@@ -1,0 +1,165 @@
+{
+  "id": "do-C11",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung folgt, wo nicht vorhanden.",
+  "day": {
+    "title": {
+      "la": "In Festis Beatae Mariae Virginis",
+      "de": "Marienfeste (gemeinsame Messe)"
+    },
+    "color": "white",
+    "rank": "Votivmesse / Commune"
+  },
+  "sections": [
+    {
+      "id": "introitus",
+      "kind": "proprium",
+      "title": {
+        "la": "Introitus",
+        "de": "Eröffnungsvers"
+      },
+      "text": {
+        "la": "Salve, sancta parens, eníxa puérpera Regem: qui cælum terrámque regit in sǽcula sæculórum. Eructávit cor meum verbum bonum: dico ego ópera mea Regi. Salve, sancta parens, eníxa puérpera Regem: qui cælum terrámque regit in sǽcula sæculórum."
+      },
+      "reference": {
+        "la": "Sedulius; Ps 44:2",
+        "de": "Sedulius; Ps 44:2"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "collecta",
+      "kind": "proprium",
+      "title": {
+        "la": "Oratio",
+        "de": "Tagesgebet"
+      },
+      "text": {
+        "la": "Concéde nos fámulos tuos, quǽsumus, Dómine Deus, perpétua mentis et córporis sanitáte gaudére: et, gloriósa beátæ Maríæ semper Vírginis intercessióne, a præsénti liberári tristítia, et ætérna pérfrui lætítia.",
+        "de": "Verleihe, wir bitten dich, o Herr und Gott, uns, deinen Dienern, die Gnade, daß wir uns eines ungestörten Wohlbefindens an Geist und Körper erfreuen, und mit Rücksicht auf die so ruhmvolle Fürsprache der heiligen, unversehrten Jungfrau Maria aus dem Elend der gegenwärtigen Welt befreit und in der ewigen Freude glücklich werden."
+      }
+    },
+    {
+      "id": "lectio",
+      "kind": "proprium",
+      "title": {
+        "la": "Lectio",
+        "de": "Lesung"
+      },
+      "text": {
+        "la": "Léctio libri Sapiéntiæ Ab inítio et ante sǽcula creáta sum, et usque ad futúrum sǽculum non désinam, et in habitatióne sancta coram ipso ministrávi. Et sic in Sion firmáta sum, et in civitáte sanctificáta simíliter requiévi, et in Jerúsalem potéstas mea. Et radicávi in pópulo honorificáto, et in parte Dei mei heréditas illíus, et in plenitúdine sanctórum deténtio mea."
+      },
+      "reference": {
+        "la": "Eccli 24:14-16",
+        "de": "Eccli 24:14-16"
+      }
+    },
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Benedícta et venerábilis es, Virgo María: quæ sine tactu pudóris invénta es Mater Salvatóris. Virgo, Dei Génetrix, quem totus non capit orbis, in tua se clausit víscera factus homo. Allelúja, allelúja. Post partum, Virgo, invioláta permansísti: Dei Génetrix, intercéde pro nobis. Allelúja. [Graduale] (tempore Adventus) Benedícta et venerábilis es, Virgo María: quæ sine tactu pudóris invénia es Mater Salvatóris. Virgo, Dei Génetrix, quem totus non capit orbis, in tua se clausit víscera factus homo. Allelúja, allelúja. Ave, María, grátia plena; Dóminus tecum: benedícta tu in muliéribus. Allelúja."
+      },
+      "reference": {
+        "la": "Luc 1:28",
+        "de": "Luc 1:28"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "tractus",
+      "kind": "proprium",
+      "title": {
+        "la": "Tractus",
+        "de": "Traktus"
+      },
+      "text": {
+        "la": "Benedícta et venerábilis es, Virgo María: quæ sine tactu pudóris invénia es Mater Salvatóris. Virgo, Dei Génetrix, quem totus non capit orbis, in tua se clausit víscera factus homo. _ Gaude, María Virgo, cunctas hǽreses sola interemísti. Quæ Gabriélis Archángeli dictis credidísti. Dum Virgo Deum et hóminem genuísti: et post partum, Virgo, invioláta permansísti. Dei Génetrix, intercéde pro nobis."
+      },
+      "reference": {
+        "la": "Tractus",
+        "de": "Tractus"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "evangelium",
+      "kind": "proprium",
+      "title": {
+        "la": "Evangelium",
+        "de": "Evangelium"
+      },
+      "text": {
+        "la": "Sequéntia ++ sancti Evangélii secúndum Lucam In illo témpore: Loquénte Jesu ad turbas, extóllens vocem quædam múlier de turba, dixit illi: Beátus venter, qui te portávit, et úbera, quæ suxísti. ¶ At ille dixit: Quinímmo beáti, qui áudiunt verbum Dei, et custódiunt illud."
+      },
+      "reference": {
+        "la": "Luc 11:27-28",
+        "de": "Luc 11:27-28"
+      }
+    },
+    {
+      "id": "offertorium",
+      "kind": "proprium",
+      "title": {
+        "la": "Offertorium",
+        "de": "Gabenvers"
+      },
+      "text": {
+        "la": "Ave, María, grátia plena; Dóminus tecum: benedícta tu in muliéribus, et benedíctus fructus ventris tui. (Allelúja.)"
+      },
+      "reference": {
+        "la": "Luc 1:28 1:42",
+        "de": "Luc 1:28 1:42"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "secreta",
+      "kind": "proprium",
+      "title": {
+        "la": "Secreta",
+        "de": "Stillgebet (Secreta)"
+      },
+      "text": {
+        "la": "Tua, Dómine, propitiatióne, et beátæ Maríæ semper Vírginis intercessióne, ad perpétuam atque præséntem hæc oblátio nobis profíciat prosperitátem et pacem."
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Beáta víscera Maríæ Vírginis, quæ portavérunt ætérni Patris Fílium. (Allelúja.)"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "postcommunio",
+      "kind": "proprium",
+      "title": {
+        "la": "Postcommunio",
+        "de": "Schlussgebet"
+      },
+      "text": {
+        "la": "Sumptis, Dómine, salútis nostræ subsídiis: da, quǽsumus, beátæ Maríæ semper Vírginis patrocíniis nos ubíque prótegi; in cujus veneratióne hæc tuæ obtúlimus majestáti."
+      }
+    }
+  ]
+}

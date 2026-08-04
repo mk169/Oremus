@@ -8,6 +8,7 @@ import { prim1962, terz1962, sext1962, non1962, terzNeu, sextNeu, nonNeu } from 
 import { vesper1962, vesperNeu } from './office/vesper'
 import { komplet1962, kompletNeu } from './office/komplet'
 import importedMassIndex from './imported/mass/index.json'
+import communeMassIndex from './imported/mass/commune-index.json'
 import importedOfficeIndex from './imported/office/index.json'
 import weekIndexJson from './imported/office/week/week-index.json'
 import { resolveCelebration } from './liturgicalCalendar'
@@ -35,6 +36,11 @@ export interface ImportedMassEntry {
   rank?: string
 }
 export const importedMassList = importedMassIndex as ImportedMassEntry[]
+
+// Votiv- und Gemeinschaftsmessen (Commune, 1962) – z.B. Requiem, Marienfeste,
+// Commons der Heiligen. Die do-C*.json werden bereits vom Glob oben geladen;
+// hier nur die Liste für das Verzeichnis. Siehe scripts/fetch-do-commune.mjs.
+export const communeMassList = communeMassIndex as ImportedMassEntry[]
 
 // Aus Divinum Officium importierte Tagesproprien des Stundengebets (Latein/Deutsch).
 const importedOfficeModules = import.meta.glob<{ default: MassFormulary }>(

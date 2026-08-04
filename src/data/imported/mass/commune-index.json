@@ -1,0 +1,79 @@
+[
+  {
+    "id": "do-C2",
+    "titleLa": "Commune Unius Martyris Pontificis",
+    "titleDe": "Ein Märtyrer-Bischof",
+    "color": "red",
+    "parts": 10
+  },
+  {
+    "id": "do-C3",
+    "titleLa": "Commune Plurimorum Martyrum Pontificum",
+    "titleDe": "Mehrere Märtyrer-Bischöfe",
+    "color": "red",
+    "parts": 10
+  },
+  {
+    "id": "do-C3a",
+    "titleLa": "Commune Plurimorum Martyrum",
+    "titleDe": "Mehrere Märtyrer",
+    "color": "red",
+    "parts": 10
+  },
+  {
+    "id": "do-C4",
+    "titleLa": "Commune unius Confessoris Pontificis",
+    "titleDe": "Ein Bekenner-Bischof",
+    "color": "white",
+    "parts": 8
+  },
+  {
+    "id": "do-C4a",
+    "titleLa": "Commune Doctoris Pontificis",
+    "titleDe": "Kirchenlehrer (Bischof)",
+    "color": "white",
+    "parts": 9
+  },
+  {
+    "id": "do-C5",
+    "titleLa": "Commune Confessoris non pontificis",
+    "titleDe": "Ein Bekenner (kein Bischof)",
+    "color": "white",
+    "parts": 8
+  },
+  {
+    "id": "do-C6",
+    "titleLa": "Commune Unius Virginis et Martyris",
+    "titleDe": "Eine Jungfrau und Märtyrin",
+    "color": "red",
+    "parts": 10
+  },
+  {
+    "id": "do-C7",
+    "titleLa": "Commune Unius non Virginis Martyris",
+    "titleDe": "Eine heilige Frau (Märtyrin)",
+    "color": "red",
+    "parts": 2
+  },
+  {
+    "id": "do-C8",
+    "titleLa": "Commune Dedicationis Ecclesiae",
+    "titleDe": "Kirchweihe",
+    "color": "white",
+    "parts": 10
+  },
+  {
+    "id": "do-C9",
+    "titleLa": "Officium Defunctorum",
+    "titleDe": "Requiem – Messe für die Verstorbenen",
+    "color": "black",
+    "parts": 9
+  },
+  {
+    "id": "do-C11",
+    "titleLa": "In Festis Beatae Mariae Virginis",
+    "titleDe": "Marienfeste (gemeinsame Messe)",
+    "color": "white",
+    "parts": 10
+  }
+]

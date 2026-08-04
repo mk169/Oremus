@@ -1,0 +1,51 @@
+{
+  "id": "do-C7",
+  "form": "1962",
+  "source": "Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung folgt, wo nicht vorhanden.",
+  "day": {
+    "title": {
+      "la": "Commune Unius non Virginis Martyris",
+      "de": "Eine heilige Frau (Märtyrin)"
+    },
+    "color": "red",
+    "rank": "Votivmesse / Commune"
+  },
+  "sections": [
+    {
+      "id": "graduale",
+      "kind": "proprium",
+      "title": {
+        "la": "Graduale",
+        "de": "Graduale"
+      },
+      "text": {
+        "la": "Dilexísti justítiam, et odísti iniquitátem. Proptérea unxit te Deus, Deus tuus, óleo lætítiæ. Allelúja, allelúja. Spécie tua et pulchritúdine tua inténde, próspere procéde et regna. Allelúja."
+      },
+      "reference": {
+        "la": "Ps 44:8; Ps 44:5",
+        "de": "Ps 44:8; Ps 44:5"
+      },
+      "chant": {
+        "chantable": true
+      }
+    },
+    {
+      "id": "communio",
+      "kind": "proprium",
+      "title": {
+        "la": "Communio",
+        "de": "Kommunionvers"
+      },
+      "text": {
+        "la": "Príncipes persecúti sunt me gratis, et a verbis tuis formidávit cor meum: lætábor ego super elóqui tua, quasi qui invénit spólia multa. (Allelúja.)"
+      },
+      "reference": {
+        "la": "Ps 118:161-162",
+        "de": "Ps 118:161-162"
+      },
+      "chant": {
+        "chantable": true
+      }
+    }
+  ]
+}
