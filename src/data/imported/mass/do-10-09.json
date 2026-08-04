@@ -158,7 +158,9 @@
         "de": "Phil 3:7"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) QUae(d!ewfe) mi(fgf)hi(fe) *(,) fu(gh)é(g)runt(fg) lu(fvED)cra,(d!ewf.) (;) haec(fgd__fv.) ar(c)bi(d)trá(fe)tus(g) sum(fg!hvhg.) (;) pro(ixhi)pter(hg) Chri(ghghvGF)stum(gvFDCd.) (,) de(fe/ggh)tri(fe)mén(de!fvED'e)ta.(ed..) (::)",
+        "mode": "1"
       }
     },
     {

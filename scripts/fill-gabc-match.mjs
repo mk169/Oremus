@@ -72,13 +72,19 @@ function stripHeader(gabc) {
   return body.replace(/\s+/g, ' ').trim()
 }
 
-/** Text normalisieren: Akzente weg, nur Buchstaben+Leerzeichen, klein. */
+/** Text normalisieren: Akzente weg, Ligaturen und mittelalterliche Schreibweisen
+ *  vereinheitlichen (æ→ae, œ→oe, j→i, v→u), nur Buchstaben+Leerzeichen, klein.
+ *  So greifen Incipit-Vergleiche unabhängig von Ligatur-/j/v-Varianten. */
 function norm(s) {
   return (s || '')
     .normalize('NFD')
     .replace(/[̀-ͯ]/g, '')
     .replace(/\([^)]*\)/g, ' ')
     .toLowerCase()
+    .replace(/æ/g, 'ae')
+    .replace(/œ/g, 'oe')
+    .replace(/j/g, 'i')
+    .replace(/v/g, 'u')
     .replace(/[^a-z\s]/g, ' ')
     .replace(/\s+/g, ' ')
     .trim()

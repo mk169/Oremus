@@ -125,7 +125,9 @@
         "de": "Ps 31:11"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c4) LAe(d)tá(d!ewf!gvFD)mi(d!ewf_c)ni(c.) *(,) in(fg) Dó(gj!kvJH')mi(h)no,(h/jjj/hih.___) (;) et(fh!jvHG) ex(g_f)sul(fg)tá(gjIH'/hg)te(g_f/gff/ded.) (,) ju(dff'ff/ixhig'/hvF'D)sti:(dfddc.) (:) et(dff'ff/gfg) glo(dfdf)ri(cd)á(df)mi(fhg)ni(g.) (;) om(f/hjg')nes(f/hjG'FED'/ewf.) (,) re(d!ewf/g_f)cti(fff/h_g/h_f) cor(fg//ffg/ff/gvFE')de.(d//fff_d/fff/ded.___) (::)",
+        "mode": "1"
       }
     },
     {
@@ -154,7 +156,9 @@
         "de": "Sap 3:1; 3:2; 3:3"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) JU(e)stó(g)rum(gf~) á(h)ni(g)mae(f.) *(,) in(eh~) ma(h)nu(h_f) De(g)i(f) sunt,(e.) (;) et(f) non(f) tan(g)get(f) il(ef)los(e.) (,) tor(e)mén(ef/hgh)tum(fe) ma(de)lí(e)ti(ef!gvFE'f)ae:(fe..) (:) vi(ei'!jv)si(i) sunt(ihi) ó(i)cu(g)lis(h) in(he~)si(f)pi(h)én(ge~)ti(f)um(h) mo(gihh)ri,(hg..) (;) il(hhg~)li(f_e) au(f)tem(ed~) sunt(e_f) in(e) pa(cedd)ce.(dc..) (::)",
+        "mode": "3"
       }
     },
     {

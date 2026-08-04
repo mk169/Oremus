@@ -26,7 +26,9 @@
         "de": "Ps 33:20-21; Ps 33:2"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) MUl(f)tae(efE'C) *() tri(e)bu(f)la(hh)ti(h)ó(hih)nes(hhh) ju(hh)stó(egf)rum,(f.) (;) et(f) de(fi) his(i) óm(ij)ni(ih)bus(h.) (,) li(h)be(h)rá(hih)vit(hhh) e(e)os(ehgh) Dó(f)mi(fgf__)nus:(f.) (:) Dó(fi)mi(i)nus(iji) cu(h)stó(hji)dit(i.) (,) óm(ij)ni(hf)a(f) os(fi)sa(ijh) e(h_f)ó(hfge)rum:(e.) (:) u(fgf)num(f_e) ex(f!gwh) his(hhe.) (,) non(f) con(e)te(dfef)ré(fgf__)tur.(f.) <i>Ps.</i>(::) Be(e)ne(fe)dí(eh)cam(h) Dó(h)mi(h)num(h) in(hg) o(hi)mni(i) tém(hi)po(h)re:(h.) *(:) sem(hf~)per(fh) laus(h) e(h)jus(h') in(i) o(hf)re(h) me(ge)o.(fgf.) (::) Gló(e)ri(fe)a(eh) Pa(h)tri(h) (::) E(h') u(i) o(hf) u(h) a(ge) e(fgf.) (::)",
+        "mode": "2"
       }
     },
     {
@@ -154,7 +156,9 @@
         "de": "Sap 3:1-2; 3:3"
       },
       "chant": {
-        "chantable": true
+        "chantable": true,
+        "gabc": "(c3) JU(e)stó(g)rum(gf~) á(h)ni(g)mae(f.) *(,) in(eh~) ma(h)nu(h_f) De(g)i(f) sunt,(e.) (;) et(f) non(f) tan(g)get(f) il(ef)los(e.) (,) tor(e)mén(ef/hgh)tum(fe) ma(de)lí(e)ti(ef!gvFE'f)ae:(fe..) (:) vi(ei'!jv)si(i) sunt(ihi) ó(i)cu(g)lis(h) in(he~)si(f)pi(h)én(ge~)ti(f)um(h) mo(gihh)ri,(hg..) (;) il(hhg~)li(f_e) au(f)tem(ed~) sunt(e_f) in(e) pa(cedd)ce.(dc..) (::)",
+        "mode": "3"
       }
     },
     {
