@@ -142,8 +142,14 @@ function parseChants(sql) {
 }
 const OFFICE_CODES = new Set(Object.values(OFFICE).flat())
 
+// Gesänge, deren Melodie über alle Varianten gleich ist, deren Incipit im
+// Dump aber abgekürzt geführt wird („Gaudeamus… <Heiliger>", „Speciosus. ℣.…").
+// Für diese ist ein Erst-Wort-Abgleich (in der richtigen Gattung) sicher.
+const FAMILY = { gaudeamus: 'in', afferentur: 'of', speciosus: 'gr' }
+
 /** Besten GregoBase-Treffer finden: Incipit ist Präfix unseres Textes.
- *  Prüft die Gattungen in Vorzugsreihenfolge; die erste mit Treffer gewinnt. */
+ *  Prüft die Gattungen in Vorzugsreihenfolge; die erste mit Treffer gewinnt.
+ *  Zusätzlich ein enger Familien-Fallback (melodie-gleiche Gesänge). */
 function match(index, offices, text) {
   const target = norm(text)
   if (target.length < 6) return null
@@ -159,6 +165,18 @@ function match(index, offices, text) {
       }
     }
     if (best) return { ...best, office }
+  }
+  // Familien-Fallback: gleicher erster Begriff + passende Gattung.
+  const w0 = target.split(' ')[0]
+  const famOffice = FAMILY[w0]
+  if (famOffice && offices.includes(famOffice)) {
+    let best = null
+    for (const c of index.get(famOffice) || []) {
+      if (c.incipit.split(' ')[0] === w0) {
+        if (!best || c.gabc.length > best.gabc.length) best = c
+      }
+    }
+    if (best) return { ...best, office: famOffice }
   }
   return null
 }
