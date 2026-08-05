@@ -23,15 +23,17 @@ const DUMP_URL =
   'https://raw.githubusercontent.com/bacor/gregobasecorpus/v0.4/gregobase_dumps/gregobase_20191024.sql'
 const CACHE = join(tmpdir(), 'oremus-gregobase-dump.sql')
 
-// Abschnitts-ID → GregoBase office-part-Code.
+// Abschnitts-ID → GregoBase office-part-Code(s), in Vorzugsreihenfolge.
+// Traktus dürfen auf die Graduale-Fassung desselben Textes zurückfallen
+// (gleiche Worte; in GregoBase oft nur als Graduale geführt).
 const OFFICE = {
-  introitus: 'in',
-  graduale: 'gr',
-  alleluia: 'al',
-  tractus: 'tr',
-  offertorium: 'of',
-  communio: 'co',
-  sequentia: 'se',
+  introitus: ['in'],
+  graduale: ['gr'],
+  alleluia: ['al'],
+  tractus: ['tr', 'gr'],
+  offertorium: ['of'],
+  communio: ['co'],
+  sequentia: ['se'],
 }
 
 async function loadDump() {
@@ -138,23 +140,27 @@ function parseChants(sql) {
   }
   return byOffice
 }
-const OFFICE_CODES = new Set(Object.values(OFFICE))
+const OFFICE_CODES = new Set(Object.values(OFFICE).flat())
 
-/** Besten GregoBase-Treffer finden: Incipit ist Präfix unseres Textes. */
-function match(index, office, text) {
-  const cands = index.get(office)
-  if (!cands) return null
+/** Besten GregoBase-Treffer finden: Incipit ist Präfix unseres Textes.
+ *  Prüft die Gattungen in Vorzugsreihenfolge; die erste mit Treffer gewinnt. */
+function match(index, offices, text) {
   const target = norm(text)
   if (target.length < 6) return null
-  let best = null
-  for (const c of cands) {
-    if (c.incipit.length < 6) continue
-    // Der Gesang-Incipit muss den Anfang unseres Propriumtextes bilden.
-    if (target.startsWith(c.incipit)) {
-      if (!best || c.incipit.length > best.incipit.length) best = c
+  for (const office of offices) {
+    const cands = index.get(office)
+    if (!cands) continue
+    let best = null
+    for (const c of cands) {
+      if (c.incipit.length < 6) continue
+      // Der Gesang-Incipit muss den Anfang unseres Propriumtextes bilden.
+      if (target.startsWith(c.incipit)) {
+        if (!best || c.incipit.length > best.incipit.length) best = c
+      }
     }
+    if (best) return { ...best, office }
   }
-  return best
+  return null
 }
 
 async function main() {
