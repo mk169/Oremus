@@ -45,8 +45,11 @@ function conclusioFor(proper: MassFormulary): LiturgicalSection[] {
   return proper.requiem ? conclusio.filter((s) => s.id !== 'benedictio') : conclusio
 }
 
-/** Gloria/Credo je nach Formular (Requiem und markierte Formulare ohne). */
-const wantsGloria = (p: MassFormulary) => !p.requiem && !p.omitGloria
+/** Gloria/Credo je nach Formular. Kein Gloria in den Bußzeiten (violett/rosa:
+ *  Advent, Vorfasten-/Fastenzeit, Gaudete/Laetare) sowie bei Requiem/omitGloria. */
+const PENITENTIAL = new Set(['violet', 'rose', 'black'])
+const wantsGloria = (p: MassFormulary) =>
+  !p.requiem && !p.omitGloria && !PENITENTIAL.has(p.day.color ?? '')
 const wantsCredo = (p: MassFormulary) => !p.requiem && !p.omitCredo
 
 /** Ordinariums-Abschnitt (Kyrie/Gloria/Sanctus/Agnus/Credo) aus dem gewählten
