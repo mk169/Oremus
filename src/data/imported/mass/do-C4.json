@@ -10,6 +10,7 @@
     "color": "white",
     "rank": "Votivmesse / Commune"
   },
+  "omitCredo": true,
   "sections": [
     {
       "id": "collecta",

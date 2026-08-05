@@ -27,6 +27,28 @@ const FALLBACK_ID: Record<string, string> = {
   credo: 'credo',
 }
 
+/** Entlassung der Totenmesse statt „Ite, missa est". */
+const REQUIESCANT: LiturgicalSection = {
+  id: 'requiescant-in-pace',
+  kind: 'ordinarium',
+  title: { la: 'Requiéscant in pace', de: 'Entlassung (Totenmesse)' },
+  text: { la: '℣. Requiéscant in pace. ℟. Amen.', de: '℣. Sie mögen ruhen in Frieden. ℟. Amen.' },
+}
+
+/** Entlassung passend zum Formular (Requiem → Requiescant in pace). */
+function dismissal(proper: MassFormulary): LiturgicalSection {
+  return proper.requiem ? REQUIESCANT : ORD['ite-missa-est']
+}
+
+/** Schlussteil; in der Totenmesse entfällt der Segen. */
+function conclusioFor(proper: MassFormulary): LiturgicalSection[] {
+  return proper.requiem ? conclusio.filter((s) => s.id !== 'benedictio') : conclusio
+}
+
+/** Gloria/Credo je nach Formular (Requiem und markierte Formulare ohne). */
+const wantsGloria = (p: MassFormulary) => !p.requiem && !p.omitGloria
+const wantsCredo = (p: MassFormulary) => !p.requiem && !p.omitCredo
+
 /** Ordinariums-Abschnitt (Kyrie/Gloria/Sanctus/Agnus/Credo) aus dem gewählten
  *  Kyriale bauen; ohne Auswahl oder ohne Melodie Rückfall auf das feste Ordinarium. */
 function ordinaryPart(id: 'kyrie' | 'gloria' | 'sanctus' | 'agnus' | 'credo', opts: BuildOptions): LiturgicalSection {
@@ -58,14 +80,14 @@ export function buildFullMass(proper: MassFormulary, opts: BuildOptions = {}): M
     isSunday ? aspersionFor(proper.id) : undefined,
     p.introitus,
     ordinaryPart('kyrie', opts),
-    ordinaryPart('gloria', opts),
+    wantsGloria(proper) ? ordinaryPart('gloria', opts) : undefined,
     p.collecta,
     p.lectio ?? p.epistola,
     p.graduale,
     p.tractus ?? p.alleluia,
     p.sequentia,
     p.evangelium,
-    ordinaryPart('credo', opts),
+    wantsCredo(proper) ? ordinaryPart('credo', opts) : undefined,
     p.offertorium,
     p.secreta,
     ordinaryPart('sanctus', opts),
@@ -73,7 +95,7 @@ export function buildFullMass(proper: MassFormulary, opts: BuildOptions = {}): M
     ordinaryPart('agnus', opts),
     p.communio,
     p.postcommunio,
-    ORD['ite-missa-est'],
+    dismissal(proper),
   ]
   return { ...proper, sections: seq.filter((s): s is LiturgicalSection => Boolean(s)) }
 }
@@ -94,7 +116,7 @@ export function buildOrdo1962(proper: MassFormulary, opts: BuildOptions = {}): M
     ...stufengebet,
     p.introitus,
     ordinaryPart('kyrie', opts),
-    ordinaryPart('gloria', opts),
+    wantsGloria(proper) ? ordinaryPart('gloria', opts) : undefined,
     ...salutatioAnteOrationem,
     p.collecta,
     p.lectio ?? p.epistola,
@@ -104,7 +126,7 @@ export function buildOrdo1962(proper: MassFormulary, opts: BuildOptions = {}): M
     ...mundaCor,
     p.evangelium,
     ...perEvangelica,
-    ordinaryPart('credo', opts),
+    wantsCredo(proper) ? ordinaryPart('credo', opts) : undefined,
     ...salutatioOffertorium,
     p.offertorium,
     ...offertoriumGebete,
@@ -121,8 +143,8 @@ export function buildOrdo1962(proper: MassFormulary, opts: BuildOptions = {}): M
     ...salutatioPostcommunio,
     p.postcommunio,
     ...salutatioAnteIte,
-    ORD['ite-missa-est'],
-    ...conclusio,
+    dismissal(proper),
+    ...conclusioFor(proper),
   ]
   return { ...proper, sections: seq.filter((s): s is LiturgicalSection => Boolean(s)) }
 }

@@ -10,6 +10,7 @@
     "color": "red",
     "rank": "Votivmesse / Commune"
   },
+  "omitCredo": true,
   "sections": [
     {
       "id": "graduale",

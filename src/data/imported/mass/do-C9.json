@@ -10,6 +10,7 @@
     "color": "black",
     "rank": "Votivmesse / Commune"
   },
+  "requiem": true,
   "sections": [
     {
       "id": "introitus",
