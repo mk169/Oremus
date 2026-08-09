@@ -28,17 +28,42 @@ export function NeumeScore({ gabc }: Props) {
   useEffect(() => {
     let cancelled = false
     let observer: ResizeObserver | null = null
+    let frame = 0
     let ctxt: any = null
     let score: any = null
+    // Zuletzt gerenderte (gerundete) Breite – verhindert wiederholtes
+    // Neu-Layouten bei winzigen Änderungen und die Scrollbalken-Oszillation
+    // (Scrollbar erscheint → Breite schrumpft → Re-Layout → Scrollbar weg → …).
+    let lastWidth = 0
 
     const host = hostRef.current
     if (!host) return
 
+    const draw = () => {
+      // exsurge erzeugt ein <svg> nur mit width/height-Attributen ohne viewBox;
+      // damit der Inhalt (nicht nur der Viewport) responsiv mitskaliert und auf
+      // schmalen Screens nicht abgeschnitten wird, ergänzen wir eine viewBox und
+      // lassen die Breite über CSS steuern.
+      host.innerHTML = score.createDrawable(ctxt)
+      const svg = host.querySelector('svg')
+      if (svg) {
+        const w = score.bounds.width
+        const h = score.bounds.height
+        if (w > 0 && h > 0) svg.setAttribute('viewBox', `0 0 ${w} ${h}`)
+        svg.setAttribute('preserveAspectRatio', 'xMinYMin meet')
+        svg.setAttribute('width', '100%')
+        svg.removeAttribute('height')
+      }
+    }
+
     const render = (width: number) => {
       if (cancelled || !ctxt || !score || width <= 0) return
-      score.layoutChantLines(ctxt, width, () => {
+      const rounded = Math.round(width)
+      if (rounded === lastWidth) return
+      lastWidth = rounded
+      score.layoutChantLines(ctxt, rounded, () => {
         if (cancelled) return
-        host.innerHTML = score.createDrawable(ctxt)
+        draw()
       })
     }
 
@@ -53,9 +78,12 @@ export function NeumeScore({ gabc }: Props) {
         score.performLayout(ctxt, () => {
           if (cancelled) return
           render(host.clientWidth || 500)
+          // Resize-Ereignisse in einen animation frame bündeln, damit pro
+          // Layout-Durchgang nur einmal neu gesetzt wird.
           observer = new ResizeObserver((entries) => {
             const w = entries[0]?.contentRect.width ?? host.clientWidth
-            render(w)
+            if (frame) cancelAnimationFrame(frame)
+            frame = requestAnimationFrame(() => render(w))
           })
           observer.observe(host)
         })
@@ -66,6 +94,7 @@ export function NeumeScore({ gabc }: Props) {
 
     return () => {
       cancelled = true
+      if (frame) cancelAnimationFrame(frame)
       observer?.disconnect()
       host.innerHTML = ''
     }
