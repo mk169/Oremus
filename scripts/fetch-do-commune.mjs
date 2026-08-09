@@ -38,20 +38,23 @@ const SECTION_MAP = {
 const ORDER = Object.keys(SECTION_MAP)
 
 // Die zu importierenden Commune-/Votivformulare mit deutschem Titel und Farbe.
+// omitCredo: Commons ohne Credo (Märtyrer, Bekenner ohne Doktortitel, Jungfrauen).
+// Credo bleibt bei Kirchenlehrer (C4a), Kirchweihe (C8) und Marienmessen (C11).
+// C9 (Requiem) ist über requiem:true abgedeckt (kein Gloria/Credo/Segen).
 const KEYS = [
-  { key: 'C2', de: 'Ein Märtyrer-Bischof', color: 'red' },
-  { key: 'C3', de: 'Mehrere Märtyrer-Bischöfe', color: 'red' },
-  { key: 'C3a', de: 'Mehrere Märtyrer', color: 'red' },
-  { key: 'C3b', de: 'Mehrere Päpste (Märtyrer)', color: 'red' },
-  { key: 'C4', de: 'Ein Bekenner-Bischof', color: 'white' },
+  { key: 'C2', de: 'Ein Märtyrer-Bischof', color: 'red', omitCredo: true },
+  { key: 'C3', de: 'Mehrere Märtyrer-Bischöfe', color: 'red', omitCredo: true },
+  { key: 'C3a', de: 'Mehrere Märtyrer', color: 'red', omitCredo: true },
+  { key: 'C3b', de: 'Mehrere Päpste (Märtyrer)', color: 'red', omitCredo: true },
+  { key: 'C4', de: 'Ein Bekenner-Bischof', color: 'white', omitCredo: true },
   { key: 'C4a', de: 'Kirchenlehrer (Bischof)', color: 'white' },
-  { key: 'C4b', de: 'Päpste (Bekenner)', color: 'white' },
-  { key: 'C5', de: 'Ein Bekenner (kein Bischof)', color: 'white' },
-  { key: 'C6', de: 'Eine Jungfrau und Märtyrin', color: 'red' },
-  { key: 'C7', de: 'Eine heilige Frau (Märtyrin)', color: 'red' },
+  { key: 'C4b', de: 'Päpste (Bekenner)', color: 'white', omitCredo: true },
+  { key: 'C5', de: 'Ein Bekenner (kein Bischof)', color: 'white', omitCredo: true },
+  { key: 'C6', de: 'Eine Jungfrau und Märtyrin', color: 'red', omitCredo: true },
+  { key: 'C7', de: 'Eine heilige Frau (Märtyrin)', color: 'red', omitCredo: true },
   { key: 'C8', de: 'Kirchweihe', color: 'white' },
-  { key: 'C9', de: 'Requiem – Messe für die Verstorbenen', color: 'black' },
-  { key: 'C10', de: 'Marienmesse am Samstag (Votivmesse)', color: 'white' },
+  { key: 'C9', de: 'Requiem – Messe für die Verstorbenen', color: 'black', requiem: true },
+  { key: 'C10', de: 'Marienmesse am Samstag (Votivmesse)', color: 'white', omitCredo: true },
   { key: 'C11', de: 'Marienfeste (gemeinsame Messe)', color: 'white' },
 ]
 
@@ -145,6 +148,9 @@ async function importCommune(entry) {
     form: '1962',
     source: 'Divinum Officium (gemeinfrei); Proprium Latein. Deutsche Übersetzung folgt, wo nicht vorhanden.',
     day: { title: { la: nameLa, de: entry.de }, color: entry.color, rank: 'Votivmesse / Commune' },
+    ...(entry.requiem ? { requiem: true } : {}),
+    ...(entry.omitCredo ? { omitCredo: true } : {}),
+    ...(entry.omitGloria ? { omitGloria: true } : {}),
     sections,
   }
 }

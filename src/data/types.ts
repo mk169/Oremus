@@ -68,6 +68,12 @@ export interface MassFormulary {
   day: LiturgicalDayRef
   /** Geordnete Abfolge der Messteile. */
   sections: LiturgicalSection[]
+  /** Kein Gloria (Ferien, Advent/Fastenzeit, Requiem …). */
+  omitGloria?: boolean
+  /** Kein Credo (z.B. Commons ohne Glaubensbekenntnis). */
+  omitCredo?: boolean
+  /** Totenmesse: kein Gloria/Credo/Segen; Entlassung „Requiescant in pace". */
+  requiem?: boolean
   /** Hinweis zur Herkunft/Lizenz der Texte. */
   note?: string
 }
