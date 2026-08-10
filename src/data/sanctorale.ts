@@ -34,6 +34,11 @@ export interface SanctoraleEntry {
   comm?: Commemoration[]
   /** Vigil (violett) – vor einem Hochfest. */
   vigil?: boolean
+  /**
+   * Herrenfest (Novus Ordo): ein Fest des Herrn, das auch einen Sonntag im
+   * Jahreskreis verdrängt (z.B. Darstellung, Verklärung, Kreuzerhöhung).
+   */
+  lord?: boolean
 }
 
 // ---------------------------------------------------------------------------
