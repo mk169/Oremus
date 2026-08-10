@@ -203,9 +203,11 @@ export function CalendarPage() {
       )}
 
       <p className="cal-note">
-        Das Sanktorale folgt dem überlieferten römischen Generalkalender (1962). Der
-        zeitliche Festkreis – Sonntage und Ferien – richtet sich nach der gewählten Form.
-        Höhere Feste verdrängen den Sonntag; niederrangige Feste erscheinen als Gedächtnis.
+        Sanktorale und zeitlicher Festkreis richten sich nach der gewählten Form: in der
+        ordentlichen Form nach dem Römischen Generalkalender (Novus Ordo) mit Hochfesten,
+        Festen und Gedenktagen, in der außerordentlichen nach dem überlieferten Kalender
+        von 1962 mit seinen vier Klassen. Höhere Feste verdrängen den Sonntag;
+        niederrangige erscheinen – wo die Rubriken es vorsehen – als Gedächtnis.
       </p>
     </div>
   )
